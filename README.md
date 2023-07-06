@@ -1,8 +1,15 @@
 # This Dataset
 
-- _Your name, affiliation, and contact_
-- _Brief description_
-- _Anything else you like to say_
+- Adam M Krajewski
+
+   Phases Research Lab (Zi-Kui Liu's group)
+
+   The Pennsylvania State University
+
+   [ak@psu.edu](mailto:ak@psu.edu)
+
+- This repository will contain a couple of papers I extracted myself:
+   - Detor 2022 [https://doi.org/10.1016/j.dib.2022.108582](https://doi.org/10.1016/j.dib.2022.108582)
 
 # ULTERA Database
 This template repository was developed for contributing to the [**ULTERA Database**](https://ultera.org) carried under the 
