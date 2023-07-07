@@ -6,7 +6,7 @@
   
   lorenzo.fenocchio@gmail.com
 
-- Compilation of data from many different sources. It has been collected during work on the [Genoa High-Entropy Alloys (GHEA) Database](https://comatresearchgroup.unige.it/node/252) by [COMAT Group at University of Genoa in Italy]](https://comatresearchgroup.unige.it/).
+- Compilation of data from many different sources. It has been collected during work on the [Genoa High-Entropy Alloys (GHEA) Database](https://comatresearchgroup.unige.it/node/252) by [COMAT Group at University of Genoa in Italy](https://comatresearchgroup.unige.it/).
 
 - Changes:
    - Lines 195-198 updated for previously wrongly inserted Compressive Yield Strenght values.
