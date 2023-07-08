@@ -8,8 +8,10 @@
 
    [ak@psu.edu](mailto:ak@psu.edu)
 
-- This repository will contain a couple of papers I extracted myself:
+- This repository will contain a couple of papers I extracted myself, and a few larger collections:
    - Detor 2022 [https://doi.org/10.1016/j.dib.2022.108582](https://doi.org/10.1016/j.dib.2022.108582)
+   - Wang2023 [https://doi.org/10.1016/j.ijrmhm.2023.106246](https://doi.org/10.1016/j.ijrmhm.2023.106246)
+   - Fan2023 [https://doi.org/10.1038/s41597-022-01911-4](https://doi.org/10.1038/s41597-022-01911-4) / [https://doi.org/10.24435/materialscloud:d6-pf](https://doi.org/10.24435/materialscloud:d6-pf)
 
 # ULTERA Database
 This template repository was developed for contributing to the [**ULTERA Database**](https://ultera.org) carried under the 
