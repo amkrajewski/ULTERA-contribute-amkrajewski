@@ -44,8 +44,8 @@
 43,FeCrNiMnCo,Co20 Cr20 Fe20 Mn20 Ni20,as-printed,LAAM,FCC,   ,   ,701,871,   ,42,143,Charpy,   ,   ,   ,41.5,11/12/18,   10.1117/12.2502272
 44,V10Cr10Fe45Co30Ni5,Co30 Cr10 Fe45 Ni5 V10,A,VIM + H (1373K & 6h) + CR (75% reduction) + A (1223K & 1h) + water-quenched,FCC,20.6 ± 11.0,   ,257±13,645±9,   ,60.2±6,298,Charpy,ASTM E23-07,55*10*5,V,112.6,1/26/19,   10.1016/j.jallcom.2019.01.293
 45,V10Cr10Fe45Co30Ni5,Co30 Cr10 Fe45 Ni5 V10,A,VIM + H (1373K & 6h) + CR (75% reduction) + A (1223K & 1h) + water-quenched,FCC,20.6 ± 11.0,   ,530±7 ,1275±15 ,   ,79.2±1.2 ,77,Charpy,ASTM E23-07,55*10*5,V,108.2,1/26/19,   10.1016/j.jallcom.2019.01.293
-46,CoCrNi,Co33.33 Cr33.33 Ni33.33,A,VLM + H (1473K & 12h) + forged (873-923K & ~83% reduction) + A (1173K & 2h),FCC,30,   ,545,1306,   ,81.8,77,Charpy,ASTM E23,55*10*10,V [0.25±0.025(radius)],382±11,7/19/19,   10.1016/j.scriptamat.2019.07.010
-47,CoCrNi,Co33.33 Cr33.33 Ni33.33,A,VLM + H (1473K & 12h) + forged (873-923K & ~83% reduction) + A (1173K & 2h),FCC,30,   ,626,1389,   ,83.5,4.2,Charpy,ASTM E23,55*10*10,V [0.25±0.025(radius)],340±2,7/19/19,   10.1016/j.scriptamat.2019.07.010
+46,CoCrNi,Co33.33 Cr33.33 Ni33.33,A,VLM + H (1473K & 12h) + HW (873-923K & ~83% reduction) + A (1173K & 2h),FCC,30,   ,545,1306,   ,81.8,77,Charpy,ASTM E23,55*10*10,V [0.25±0.025(radius)],382±11,7/19/19,   10.1016/j.scriptamat.2019.07.010
+47,CoCrNi,Co33.33 Cr33.33 Ni33.33,A,VLM + H (1473K & 12h) + HW (873-923K & ~83% reduction) + A (1173K & 2h),FCC,30,   ,626,1389,   ,83.5,4.2,Charpy,ASTM E23,55*10*10,V [0.25±0.025(radius)],340±2,7/19/19,   10.1016/j.scriptamat.2019.07.010
 48,FeCoCrNi,Co25 Cr25 Fe25 Ni25,as-printed,SLM,FCC,   ,218,581.9,707.9,   ,21.2,298,   ,   ,55*10*5,V [2(depth) & 45°(angle)],18.4,1/8/20,   10.1016/j.addma.2020.101058
 49,FeCoCrNi,Co25 Cr25 Fe25 Ni25,A,SLM + A (773K & 2h) + furnace-cooled,FCC,   ,216,570,720,   ,21.3,298,   ,   ,55*10*5,V [2(depth) & 45°(angle)],17.7,1/8/20,   10.1016/j.addma.2020.101058
 50,FeCoCrNi,Co25 Cr25 Fe25 Ni25,A,SLM + A (873K & 2h) + furnace-cooled,FCC,   ,220,   ,   ,   ,   ,298,   ,   ,55*10*5,V [2(depth) & 45°(angle)],21.7,1/8/20,   10.1016/j.addma.2020.101058
