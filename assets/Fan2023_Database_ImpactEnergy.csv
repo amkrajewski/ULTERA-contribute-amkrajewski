@@ -42,20 +42,20 @@
 41,FeCrNiMnCo,Co20 Cr20 Fe20 Mn20 Ni20,as-printed,LAAM,FCC,   ,   ,576,707,   ,39.5,233,Charpy,   ,   ,   ,45,11/12/18,   10.1117/12.2502272
 42,FeCrNiMnCo,Co20 Cr20 Fe20 Mn20 Ni20,as-printed,LAAM,FCC,   ,   ,643,794,   ,37.5,193,Charpy,   ,   ,   ,43,11/12/18,   10.1117/12.2502272
 43,FeCrNiMnCo,Co20 Cr20 Fe20 Mn20 Ni20,as-printed,LAAM,FCC,   ,   ,701,871,   ,42,143,Charpy,   ,   ,   ,41.5,11/12/18,   10.1117/12.2502272
-44,V10Cr10Fe45Co30Ni5,Co30 Cr10 Fe45 Ni5 V10,A,VIM + H (1373K & 6h) + CR (75% reduction) + A (1223K & 1h) + water-quenched,FCC,20.6 ± 11.0,   ,257±13,645±9,   ,60.2±6,298,Charpy,ASTM E23-07,55*10*5,V,112.6,1/26/19,   10.1016/j.jallcom.2019.01.293
-45,V10Cr10Fe45Co30Ni5,Co30 Cr10 Fe45 Ni5 V10,A,VIM + H (1373K & 6h) + CR (75% reduction) + A (1223K & 1h) + water-quenched,FCC,20.6 ± 11.0,   ,530±7 ,1275±15 ,   ,79.2±1.2 ,77,Charpy,ASTM E23-07,55*10*5,V,108.2,1/26/19,   10.1016/j.jallcom.2019.01.293
+44,V10Cr10Fe45Co30Ni5,Co30 Cr10 Fe45 Ni5 V10,A,VIM + H (1373K & 6h) + CR (75% reduction) + A (1223K & 1h) + WQ,FCC,20.6 ± 11.0,   ,257±13,645±9,   ,60.2±6,298,Charpy,ASTM E23-07,55*10*5,V,112.6,1/26/19,   10.1016/j.jallcom.2019.01.293
+45,V10Cr10Fe45Co30Ni5,Co30 Cr10 Fe45 Ni5 V10,A,VIM + H (1373K & 6h) + CR (75% reduction) + A (1223K & 1h) + WQ,FCC,20.6 ± 11.0,   ,530±7 ,1275±15 ,   ,79.2±1.2 ,77,Charpy,ASTM E23-07,55*10*5,V,108.2,1/26/19,   10.1016/j.jallcom.2019.01.293
 46,CoCrNi,Co33.33 Cr33.33 Ni33.33,A,VLM + H (1473K & 12h) + HW (873-923K & ~83% reduction) + A (1173K & 2h),FCC,30,   ,545,1306,   ,81.8,77,Charpy,ASTM E23,55*10*10,V [0.25±0.025(radius)],382±11,7/19/19,   10.1016/j.scriptamat.2019.07.010
 47,CoCrNi,Co33.33 Cr33.33 Ni33.33,A,VLM + H (1473K & 12h) + HW (873-923K & ~83% reduction) + A (1173K & 2h),FCC,30,   ,626,1389,   ,83.5,4.2,Charpy,ASTM E23,55*10*10,V [0.25±0.025(radius)],340±2,7/19/19,   10.1016/j.scriptamat.2019.07.010
 48,FeCoCrNi,Co25 Cr25 Fe25 Ni25,as-printed,SLM,FCC,   ,218,581.9,707.9,   ,21.2,298,   ,   ,55*10*5,V [2(depth) & 45°(angle)],18.4,1/8/20,   10.1016/j.addma.2020.101058
-49,FeCoCrNi,Co25 Cr25 Fe25 Ni25,A,SLM + A (773K & 2h) + furnace-cooled,FCC,   ,216,570,720,   ,21.3,298,   ,   ,55*10*5,V [2(depth) & 45°(angle)],17.7,1/8/20,   10.1016/j.addma.2020.101058
-50,FeCoCrNi,Co25 Cr25 Fe25 Ni25,A,SLM + A (873K & 2h) + furnace-cooled,FCC,   ,220,   ,   ,   ,   ,298,   ,   ,55*10*5,V [2(depth) & 45°(angle)],21.7,1/8/20,   10.1016/j.addma.2020.101058
-51,FeCoCrNi,Co25 Cr25 Fe25 Ni25,A,SLM + A (973K & 2h) + furnace-cooled,FCC,   ,203,487,710,   ,28.4,298,   ,   ,55*10*5,V [2(depth) & 45°(angle)],28,1/8/20,   10.1016/j.addma.2020.101058
-52,FeCoCrNi,Co25 Cr25 Fe25 Ni25,A,SLM + A (1073K & 2h) + furnace-cooled,FCC,   ,203,   ,   ,   ,   ,298,   ,   ,55*10*5,V [2(depth) & 45°(angle)],33.7,1/8/20,   10.1016/j.addma.2020.101058
-53,FeCoCrNi,Co25 Cr25 Fe25 Ni25,A,SLM + A (1173K & 2h) + furnace-cooled,FCC,   ,201,432,683,   ,30.3,298,   ,   ,55*10*5,V [2(depth) & 45°(angle)],33.6,1/8/20,   10.1016/j.addma.2020.101058
-54,FeCoCrNi,Co25 Cr25 Fe25 Ni25,A,SLM + A (1273K & 2h) + furnace-cooled,FCC,   ,186,   ,   ,   ,   ,298,   ,   ,55*10*5,V [2(depth) & 45°(angle)],36.4,1/8/20,   10.1016/j.addma.2020.101058
-55,FeCoCrNi,Co25 Cr25 Fe25 Ni25,A,SLM + A (1373K & 2h) + furnace-cooled,FCC,   ,164,294,645,   ,36.6,298,   ,   ,55*10*5,V [2(depth) & 45°(angle)],34.4,1/8/20,   10.1016/j.addma.2020.101058
-56,FeCoCrNi,Co25 Cr25 Fe25 Ni25,A,SLM + A (1473K & 2h) + furnace-cooled,FCC,   ,142,   ,   ,   ,   ,298,   ,   ,55*10*5,V [2(depth) & 45°(angle)],35.4,1/8/20,   10.1016/j.addma.2020.101058
-57,FeCoCrNi,Co25 Cr25 Fe25 Ni25,A,SLM + A (1573K & 2h) + furnace-cooled,FCC,   ,138,221,633.2,   ,49,298,   ,   ,55*10*5,V [2(depth) & 45°(angle)],36.1,1/8/20,   10.1016/j.addma.2020.101058
+49,FeCoCrNi,Co25 Cr25 Fe25 Ni25,A,SLM + A (773K & 2h) + FC,FCC,   ,216,570,720,   ,21.3,298,   ,   ,55*10*5,V [2(depth) & 45°(angle)],17.7,1/8/20,   10.1016/j.addma.2020.101058
+50,FeCoCrNi,Co25 Cr25 Fe25 Ni25,A,SLM + A (873K & 2h) + FC,FCC,   ,220,   ,   ,   ,   ,298,   ,   ,55*10*5,V [2(depth) & 45°(angle)],21.7,1/8/20,   10.1016/j.addma.2020.101058
+51,FeCoCrNi,Co25 Cr25 Fe25 Ni25,A,SLM + A (973K & 2h) + FC,FCC,   ,203,487,710,   ,28.4,298,   ,   ,55*10*5,V [2(depth) & 45°(angle)],28,1/8/20,   10.1016/j.addma.2020.101058
+52,FeCoCrNi,Co25 Cr25 Fe25 Ni25,A,SLM + A (1073K & 2h) + FC,FCC,   ,203,   ,   ,   ,   ,298,   ,   ,55*10*5,V [2(depth) & 45°(angle)],33.7,1/8/20,   10.1016/j.addma.2020.101058
+53,FeCoCrNi,Co25 Cr25 Fe25 Ni25,A,SLM + A (1173K & 2h) + FC,FCC,   ,201,432,683,   ,30.3,298,   ,   ,55*10*5,V [2(depth) & 45°(angle)],33.6,1/8/20,   10.1016/j.addma.2020.101058
+54,FeCoCrNi,Co25 Cr25 Fe25 Ni25,A,SLM + A (1273K & 2h) + FC,FCC,   ,186,   ,   ,   ,   ,298,   ,   ,55*10*5,V [2(depth) & 45°(angle)],36.4,1/8/20,   10.1016/j.addma.2020.101058
+55,FeCoCrNi,Co25 Cr25 Fe25 Ni25,A,SLM + A (1373K & 2h) + FC,FCC,   ,164,294,645,   ,36.6,298,   ,   ,55*10*5,V [2(depth) & 45°(angle)],34.4,1/8/20,   10.1016/j.addma.2020.101058
+56,FeCoCrNi,Co25 Cr25 Fe25 Ni25,A,SLM + A (1473K & 2h) + FC,FCC,   ,142,   ,   ,   ,   ,298,   ,   ,55*10*5,V [2(depth) & 45°(angle)],35.4,1/8/20,   10.1016/j.addma.2020.101058
+57,FeCoCrNi,Co25 Cr25 Fe25 Ni25,A,SLM + A (1573K & 2h) + FC,FCC,   ,138,221,633.2,   ,49,298,   ,   ,55*10*5,V [2(depth) & 45°(angle)],36.1,1/8/20,   10.1016/j.addma.2020.101058
 58,AlCoCrFeNi2.1,Al16.39 Co16.39 Cr16.39 Fe16.39 Ni34.43,AC,VIM,FCC+B2,   ,   ,540,1068.8,   ,8.2,298,Charpy,ASTM E-23,55*10*10,V [2(depth) & 45°(angle)],6.33,5/12/20,   10.3389/fmats.2020.00092
 59,AlCoCrFeNi2.1,Al16.39 Co16.39 Cr16.39 Fe16.39 Ni34.43,AC,VIM,FCC+B2,   ,   ,540,1068.8,   ,8.2,200,Charpy,ASTM E-23,55*10*10,V [2(depth) & 45°(angle)],4.8,5/12/20,   10.3389/fmats.2020.00092
 60,AlCoCrFeNi2.1,Al16.39 Co16.39 Cr16.39 Fe16.39 Ni34.43,AC,VIM,FCC+B2,   ,   ,540,1068.8,   ,8.2,77,Charpy,ASTM E-23,55*10*10,V [2(depth) & 45°(angle)],3.76,5/12/20,   10.3389/fmats.2020.00092
