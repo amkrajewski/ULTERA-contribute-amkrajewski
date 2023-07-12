@@ -1,0 +1,90 @@
+Name:,Adam Krajewski
+Email:,ak@psu.edu
+Direct Fetched:,T
+Hand Fetched:,F
+Comment:,None
+
+id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
+1,MoNbTaW ,BCC,VAM,None,hardness,EXP,None,298,5491919999.999999,None,Pa,F8,10.1016/j.nme.2022.101158
+2,MoNbTaTi ,BCC,VAM,None,hardness,EXP,None,298,4315080000.0,None,Pa,F8,10.1016/j.nme.2022.101158
+3,MoNbTaWTi ,BCC,VAM,None,hardness,EXP,None,298,4707360000.0,None,Pa,F8,10.1016/j.nme.2022.101158
+4,MoNbTaW ,BCC,VAM+A,48h at 1200*C,hardness,EXP,None,298,5393850000.0,None,Pa,F8,10.1016/j.nme.2022.101158
+5,MoNbTaW ,BCC,VAM+A,48h at 1500*C,hardness,EXP,None,298,5099640000.0,None,Pa,F8,10.1016/j.nme.2022.101158
+6,MoNbTaTi ,BCC,VAM+A,48h at 1200*C,hardness,EXP,None,298,4020869999.9999995,None,Pa,F8,10.1016/j.nme.2022.101158
+7,MoNbTaWTi ,BCC,VAM+A,48h at 1200*C,hardness,EXP,None,298,4707360000.0,None,Pa,F8,10.1016/j.nme.2022.101158
+1,Ti30 Zr30 Hf16 Nb24,BCC,AC,None,tensile yield strength,EXP,None,298,720000000.0,None,Pa,F6,10.1016/j.actamat.2023.118728
+2,Ti30 Zr30 Hf16 Nb24,BCC+BCC,AC+CR+A,20min at 900*C, nanoprecipitate strenghtening (see paper),tensile yield strength,EXP,None,298,800000000.0,None,Pa,F6,10.1016/j.actamat.2023.118728
+3,Ti30 Zr30 Hf16 Nb24,BCC,AC+CR+A+A,20min at 900*C + 200h at 600*C,tensile yield strength,EXP,None,298,730000000.0,None,Pa,F6,10.1016/j.actamat.2023.118728
+4,Ti30 Zr30 Hf16 Nb24,BCC,AC,None,tensile ductility,EXP,None,298,22.4,None,%,F6,10.1016/j.actamat.2023.118728
+5,Ti30 Zr30 Hf16 Nb24,BCC+BCC,AC+CR+A,20min at 900*C, nanoprecipitate strenghtening (see paper),tensile ductility,EXP,None,298,34.0,None,%,F6,10.1016/j.actamat.2023.118728
+6,Ti30 Zr30 Hf16 Nb24,BCC,AC+CR+A+A,20min at 900*C + 200h at 600*C,tensile ductility,EXP,None,298,25.6,None,%,F6,10.1016/j.actamat.2023.118728
+1,Zr Nb Ta Hf0.2,BCC+HCP,AC,None,compressive yield strength,EXP,None,298,721000000.0,None,Pa,S,10.1016/j.jallcom.2022.166593
+2,Zr Nb Ta Hf0.2 Cr0.3,BCC+HCP+C15,AC,None,compressive yield strength,EXP,None,298,855000000.0,None,Pa,S,10.1016/j.jallcom.2022.166593
+3,Zr Nb Ta Hf0.2 Cr0.5,BCC+HCP+C15,AC,None,compressive yield strength,EXP,None,298,932000000.0,None,Pa,S,10.1016/j.jallcom.2022.166593
+4,Zr Nb Ta Hf0.2 Cr0.75,BCC+HCP+C15,AC,None,compressive yield strength,EXP,None,298,993000000.0,None,Pa,S,10.1016/j.jallcom.2022.166593
+5,Zr Nb Ta Hf0.2 Cr1,BCC+HCP+C15,AC,None,compressive yield strength,EXP,None,298,1389000000.0,None,Pa,S,10.1016/j.jallcom.2022.166593
+6,Zr Nb Ta Hf0.2,BCC+HCP,AC+A,24h at 1400*C,compressive yield strength,EXP,None,298,793000000.0,None,Pa,S,10.1016/j.jallcom.2022.166593
+7,Zr Nb Ta Hf0.2 Cr0.3,BCC+HCP+C15,AC+A,24h at 1400*C,compressive yield strength,EXP,None,298,945000000.0,None,Pa,S,10.1016/j.jallcom.2022.166593
+8,Zr Nb Ta Hf0.2 Cr0.5,BCC+HCP+C15,AC+A,24h at 1400*C,compressive yield strength,EXP,None,298,1021000000.0,None,Pa,S,10.1016/j.jallcom.2022.166593
+9,Zr Nb Ta Hf0.2 Cr0.75,BCC+HCP+C15,AC+A,24h at 1400*C,compressive yield strength,EXP,None,298,1181000000.0,None,Pa,S,10.1016/j.jallcom.2022.166593
+10,Zr Nb Ta Hf0.2 Cr1,BCC+HCP+C15,AC+A,24h at 1400*C,compressive yield strength,EXP,None,298,1502000000.0,None,Pa,S,10.1016/j.jallcom.2022.166593
+11,Zr Nb Ta Hf0.2,BCC+HCP,AC,None,ultimate compressive strength,EXP,None,298,984000000.0,None,Pa,S,10.1016/j.jallcom.2022.166593
+12,Zr Nb Ta Hf0.2 Cr0.3,BCC+HCP+C15,AC,None,ultimate compressive strength,EXP,None,298,985000000.0,None,Pa,S,10.1016/j.jallcom.2022.166593
+13,Zr Nb Ta Hf0.2 Cr0.5,BCC+HCP+C15,AC,None,ultimate compressive strength,EXP,None,298,1025000000.0,None,Pa,S,10.1016/j.jallcom.2022.166593
+14,Zr Nb Ta Hf0.2 Cr0.75,BCC+HCP+C15,AC,None,ultimate compressive strength,EXP,None,298,1177000000.0,None,Pa,S,10.1016/j.jallcom.2022.166593
+15,Zr Nb Ta Hf0.2 Cr1,BCC+HCP+C15,AC,None,ultimate compressive strength,EXP,None,298,1420000000.0,None,Pa,S,10.1016/j.jallcom.2022.166593
+16,Zr Nb Ta Hf0.2,BCC+HCP,AC+A,24h at 1400*C,ultimate compressive strength,EXP,None,298,1085000000.0,None,Pa,S,10.1016/j.jallcom.2022.166593
+17,Zr Nb Ta Hf0.2 Cr0.3,BCC+HCP+C15,AC+A,24h at 1400*C,ultimate compressive strength,EXP,None,298,980000000.0,None,Pa,S,10.1016/j.jallcom.2022.166593
+18,Zr Nb Ta Hf0.2 Cr0.5,BCC+HCP+C15,AC+A,24h at 1400*C,ultimate compressive strength,EXP,None,298,1081000000.0,None,Pa,S,10.1016/j.jallcom.2022.166593
+19,Zr Nb Ta Hf0.2 Cr0.75,BCC+HCP+C15,AC+A,24h at 1400*C,ultimate compressive strength,EXP,None,298,1221000000.0,None,Pa,S,10.1016/j.jallcom.2022.166593
+20,Zr Nb Ta Hf0.2 Cr1,BCC+HCP+C15,AC+A,24h at 1400*C,ultimate compressive strength,EXP,None,298,1548000000.0,None,Pa,S,10.1016/j.jallcom.2022.166593
+21,Zr Nb Ta Hf0.2,BCC+HCP,AC,None,estimated compressive ductility,EXP,None,298,50.0,None,%,S,10.1016/j.jallcom.2022.166593
+22,Zr Nb Ta Hf0.2 Cr0.3,BCC+HCP+C15,AC,None,compressive ductility,EXP,None,298,14.9,None,%,S,10.1016/j.jallcom.2022.166593
+23,Zr Nb Ta Hf0.2 Cr0.5,BCC+HCP+C15,AC,None,compressive ductility,EXP,None,298,14.2,None,%,S,10.1016/j.jallcom.2022.166593
+24,Zr Nb Ta Hf0.2 Cr0.75,BCC+HCP+C15,AC,None,compressive ductility,EXP,None,298,12.1,None,%,S,10.1016/j.jallcom.2022.166593
+25,Zr Nb Ta Hf0.2 Cr1,BCC+HCP+C15,AC,None,compressive ductility,EXP,None,298,9.2,None,%,S,10.1016/j.jallcom.2022.166593
+26,Zr Nb Ta Hf0.2,BCC+HCP,AC+A,24h at 1400*C,estimated compressive ductility,EXP,None,298,3.5,None,%,S,10.1016/j.jallcom.2022.166593
+27,Zr Nb Ta Hf0.2 Cr0.3,BCC+HCP+C15,AC+A,24h at 1400*C,compressive ductility,EXP,None,298,6.2,None,%,S,10.1016/j.jallcom.2022.166593
+28,Zr Nb Ta Hf0.2 Cr0.5,BCC+HCP+C15,AC+A,24h at 1400*C,compressive ductility,EXP,None,298,7.0,None,%,S,10.1016/j.jallcom.2022.166593
+29,Zr Nb Ta Hf0.2 Cr0.75,BCC+HCP+C15,AC+A,24h at 1400*C,compressive ductility,EXP,None,298,8.2,None,%,S,10.1016/j.jallcom.2022.166593
+30,Zr Nb Ta Hf0.2 Cr1,BCC+HCP+C15,AC+A,24h at 1400*C,compressive ductility,EXP,None,298,8.5,None,%,S,10.1016/j.jallcom.2022.166593
+31,Zr Nb Ta Hf0.2,BCC+HCP,AC,None,hardness,EXP,None,298,3470697300.0,None,Pa,S,10.1016/j.jallcom.2022.166593
+32,Zr Nb Ta Hf0.2 Cr0.3,BCC+HCP+C15,AC,None,hardness,EXP,None,298,4304292299.999999,None,Pa,S,10.1016/j.jallcom.2022.166593
+33,Zr Nb Ta Hf0.2 Cr0.5,BCC+HCP+C15,AC,None,hardness,EXP,None,298,4587714600.0,None,Pa,S,10.1016/j.jallcom.2022.166593
+34,Zr Nb Ta Hf0.2 Cr0.75,BCC+HCP+C15,AC,None,hardness,EXP,None,298,4888789500.0,None,Pa,S,10.1016/j.jallcom.2022.166593
+35,Zr Nb Ta Hf0.2 Cr1,BCC+HCP+C15,AC,None,hardness,EXP,None,298,5206536300.0,None,Pa,S,10.1016/j.jallcom.2022.166593
+36,Zr Nb Ta Hf0.2,BCC+HCP,AC+A,24h at 1400*C,hardness,EXP,None,298,3534442800.0,None,Pa,S,10.1016/j.jallcom.2022.166593
+37,Zr Nb Ta Hf0.2 Cr0.3,BCC+HCP+C15,AC+A,24h at 1400*C,hardness,EXP,None,298,4327829100.0,None,Pa,S,10.1016/j.jallcom.2022.166593
+38,Zr Nb Ta Hf0.2 Cr0.5,BCC+HCP+C15,AC+A,24h at 1400*C,hardness,EXP,None,298,4866233400.0,None,Pa,S,10.1016/j.jallcom.2022.166593
+39,Zr Nb Ta Hf0.2 Cr0.75,BCC+HCP+C15,AC+A,24h at 1400*C,hardness,EXP,None,298,5098659300.0,None,Pa,S,10.1016/j.jallcom.2022.166593
+40,Zr Nb Ta Hf0.2 Cr1,BCC+HCP+C15,AC+A,24h at 1400*C,hardness,EXP,None,298,5563511099.999999,None,Pa,S,10.1016/j.jallcom.2022.166593
+41,Zr Nb Ta Hf0.2,BCC+HCP,AC,None,density,EXP,None,293,9.575,None,g/cm^3,S,10.1016/j.jallcom.2022.166593
+42,Zr Nb Ta Hf0.2 Cr0.3,BCC+HCP+C15,AC,None,density,EXP,None,293,10.324,None,g/cm^3,S,10.1016/j.jallcom.2022.166593
+43,Zr Nb Ta Hf0.2 Cr0.5,BCC+HCP+C15,AC,None,density,EXP,None,293,10.32,None,g/cm^3,S,10.1016/j.jallcom.2022.166593
+44,Zr Nb Ta Hf0.2 Cr0.75,BCC+HCP+C15,AC,None,density,EXP,None,293,10.194,None,g/cm^3,S,10.1016/j.jallcom.2022.166593
+45,Zr Nb Ta Hf0.2 Cr1,BCC+HCP+C15,AC,None,density,EXP,None,293,10.056,None,g/cm^3,S,10.1016/j.jallcom.2022.166593
+46,Zr Nb Ta Hf0.2,BCC+HCP,AC+A,24h at 1400*C,density,EXP,None,293,9.58,None,g/cm^3,S,10.1016/j.jallcom.2022.166593
+47,Zr Nb Ta Hf0.2 Cr0.3,BCC+HCP+C15,AC+A,24h at 1400*C,density,EXP,None,293,9.952,None,g/cm^3,S,10.1016/j.jallcom.2022.166593
+48,Zr Nb Ta Hf0.2 Cr0.5,BCC+HCP+C15,AC+A,24h at 1400*C,density,EXP,None,293,9.713,None,g/cm^3,S,10.1016/j.jallcom.2022.166593
+49,Zr Nb Ta Hf0.2 Cr0.75,BCC+HCP+C15,AC+A,24h at 1400*C,density,EXP,None,293,9.653,None,g/cm^3,S,10.1016/j.jallcom.2022.166593
+50,Zr Nb Ta Hf0.2 Cr1,BCC+HCP+C15,AC+A,24h at 1400*C,density,EXP,None,293,9.413,None,g/cm^3,S,10.1016/j.jallcom.2022.166593
+1,Zr35 Ti30 Nb20 Al10 Ta5 ,BCC,VAM+CR+A+WQ,5min at 850*C in argon in quartz tube, B2 nanoprecipitates,tensile yield strength,EXP,None,298,997000000.0,None,Pa,P,10.1016/j.ijrmhm.2023.106263
+2,Zr35 Ti30 Nb20 Al10 Ta5 ,BCC,VAM+CR+A+WQ,5min at 1050*C in argon in quartz tube, B2 nanoprecipitates,tensile yield strength,EXP,None,298,841000000.0,None,Pa,P,10.1016/j.ijrmhm.2023.106263
+3,Zr35 Ti30 Nb20 Al10 Ta5 ,BCC,VAM+CR+A+WQ,5min at 850*C in argon in quartz tube, B2 nanoprecipitates,ultimate tensile strength,EXP,None,298,1043000000.0,None,Pa,P,10.1016/j.ijrmhm.2023.106263
+4,Zr35 Ti30 Nb20 Al10 Ta5 ,BCC,VAM+CR+A+WQ,5min at 1050*C in argon in quartz tube, B2 nanoprecipitates,ultimate tensile strength,EXP,None,298,857000000.0,None,Pa,P,10.1016/j.ijrmhm.2023.106263
+5,Zr35 Ti30 Nb20 Al10 Ta5 ,BCC,VAM+CR+A+WQ,5min at 850*C in argon in quartz tube, B2 nanoprecipitates,tensile ductility,EXP,None,298,20.0,None,%,P,10.1016/j.ijrmhm.2023.106263
+6,Zr35 Ti30 Nb20 Al10 Ta5 ,BCC,VAM+CR+A+WQ,5min at 1050*C in argon in quartz tube, B2 nanoprecipitates,tensile ductility,EXP,None,298,15.0,None,%,P,10.1016/j.ijrmhm.2023.106263
+1,Zr35 Ti30 Nb20 Al10 Ta5 ,BCC,AC,B2 nanoprecipitates ,tensile yield strength,EXP,None,298,850000000.0,None,Pa,P,10.1016/j.intermet.2023.107872 
+2,Zr35 Ti30 Nb20 Al10 Ta5 ,BCC,AC,B2 nanoprecipitates ,tensile yield strength,EXP,None,873,721000000.0,None,Pa,P,10.1016/j.intermet.2023.107872 
+3,Zr35 Ti30 Nb20 Al10 Ta5 ,BCC,AC,B2 nanoprecipitates ,tensile yield strength,EXP,None,1073,668000000.0,None,Pa,P,10.1016/j.intermet.2023.107872
+4,Zr35 Ti30 Nb20 Al10 Ta5 ,BCC,AC,B2 nanoprecipitates ,tensile ductility,EXP,None,298,25.0,None,%,P,10.1016/j.intermet.2023.107872
+5,Zr35 Ti30 Nb20 Al10 Ta5,BCC,AC,B2 nanoprecipitates ,tensile ductility,EXP,None,873,23.0,None,%,P,10.1016/j.intermet.2023.107872
+6,Zr35 Ti30 Nb20 Al10 Ta5,BCC,AC,B2 nanoprecipitates ,tensile ductility,EXP,None,1073,18.0,None,%,P,10.1016/j.intermet.2023.107872
+7,Zr35 Ti30 Nb20 Al10 Ta5 ,BCC,AC,B2 nanoprecipitates ,hardness,EXP,None,298,3049976999.9999995,29421000.0,Pa,P,10.1016/j.intermet.2023.107872
+8,Zr35 Ti30 Nb20 Al10 V5 ,BCC,AC,B2 nanoprecipitates ,tensile yield strength,EXP,None,298,848000000.0,None,Pa,P,10.1016/j.intermet.2023.107872
+9,Zr35 Ti30 Nb20 Al10 V5 ,BCC,AC,B2 nanoprecipitates ,tensile yield strength,EXP,None,873,635000000.0,None,Pa,P,10.1016/j.intermet.2023.107872
+10,Zr35 Ti30 Nb20 Al10 V5 ,BCC,AC,B2 nanoprecipitates ,tensile yield strength,EXP,None,1073,583000000.0,None,Pa,P,10.1016/j.intermet.2023.107872
+11,Zr35 Ti30 Nb20 Al10 V5 ,BCC,AC,B2 nanoprecipitates ,tensile ductility,EXP,None,298,16.0,None,%,P,10.1016/j.intermet.2023.107872
+12,Zr35 Ti30 Nb20 Al10 V5 ,BCC,AC,B2 nanoprecipitates ,tensile ductility,EXP,None,873,16.0,None,%,P,10.1016/j.intermet.2023.107872
+13,Zr35 Ti30 Nb20 Al10 V5 ,BCC,AC,B2 nanoprecipitates ,tensile ductility,EXP,None,1073,14.0,None,%,P,10.1016/j.intermet.2023.107872
+14,Zr35 Ti30 Nb20 Al10 V5 ,BCC,AC,B2 nanoprecipitates ,hardness,EXP,None,298,3079398000.0,49034999.99999999,Pa,P,10.1016/j.intermet.2023.107872

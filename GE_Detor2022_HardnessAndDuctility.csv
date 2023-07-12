@@ -1,0 +1,179 @@
+Name:,Adam Krajewski
+Email:,ak@psu.edu
+Direct Fetched:,T
+Hand Fetched:,F
+Comment:,None
+
+id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
+1,Nb25 Re25 Ru25 W25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582 
+2,Hf20 Nb20 Ta20 Ti20 Zr20 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,20.0,None,%,S,10.1016/j.dib.2022.108582 
+3,Hf20 Nb20 Ta20 Ti20 Zr20 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,20.0,None,%,S,10.1016/j.dib.2022.108582
+4,Hf20 Nb20 Ta20 Ti20 Zr20 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,50.0,None,%,S,10.1016/j.dib.2022.108582
+5,Hf30 Nb15 Ta15 Zr40 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,50.0,None,%,S,10.1016/j.dib.2022.108582
+6,Hf25 Ta25 Zr50 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+7,Hf37.5 Ta25 Zr37.5 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+8,Hf25 Nb25 Re25 W25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+9,Mo25 Nb25 Ru25 W25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.0,None,%,S,10.1016/j.dib.2022.108582
+10,Hf25 Mo25 Nb25 Re25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.0,None,%,S,10.1016/j.dib.2022.108582
+11,Hf45 Mo15 Nb20 Ta20 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,1.0,None,%,S,10.1016/j.dib.2022.108582
+12,Mo25 Nb25 Re25 Ru25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.0,None,%,S,10.1016/j.dib.2022.108582
+13,Hf20 Nb20 Re20 Ru20 W20 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.0,None,%,S,10.1016/j.dib.2022.108582
+14,Mo20 Nb20 Re20 Ru20 W20 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+15,Hf25 Nb25 Re25 Ru25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.0,None,%,S,10.1016/j.dib.2022.108582
+16,Hf30 Mo25 Nb30 Ta15 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,1.0,None,%,S,10.1016/j.dib.2022.108582
+17,Hf25 Mo25 Nb25 W25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+18,Hf25 Mo25 Re25 Ru25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.0,None,%,S,10.1016/j.dib.2022.108582
+19,Hf20 Mo20 Nb20 Re20 W20 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+20,Mo33.33333333 Ru33.33333333 W33.33333333 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+21,Hf25 Nb25 Ru25 Ta25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.0,None,%,S,10.1016/j.dib.2022.108582
+22,Hf20 Mo20 Nb20 Re20 Ru20 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.0,None,%,S,10.1016/j.dib.2022.108582
+23,Hf25 Mo25 Re25 Ta25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.0,None,%,S,10.1016/j.dib.2022.108582
+24,Hf25 Mo25 Nb25 Ru25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+25,Nb25 Ru25 Ta25 W25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+26,Nb25 Re25 Ru25 Ta25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+27,Hf20 Mo20 Re20 Ru20 W20 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.0,None,%,S,10.1016/j.dib.2022.108582
+28,Hf25 Nb25 Re25 Ta25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+29,Hf25 Mo25 Ta25 W25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+30,Hf25 Re25 Ru25 W25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.0,None,%,S,10.1016/j.dib.2022.108582
+31,Hf25 Mo25 Nb25 Ta25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,1.0,None,%,S,10.1016/j.dib.2022.108582
+32,Mo25 Nb25 Ru25 Ta25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.0,None,%,S,10.1016/j.dib.2022.108582
+33,Hf25 Nb25 Ru25 W25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.0,None,%,S,10.1016/j.dib.2022.108582
+34,Hf33.33333333 Re33.33333333 Ru33.33333333 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.0,None,%,S,10.1016/j.dib.2022.108582
+35,Hf20 Mo20 Nb20 Ru20 Ta20 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+36,Hf20 Mo20 Nb20 Re20 Ta20 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+37,Hf20 Nb20 Re20 Ta20 W20 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+38,Hf20 Nb20 Re20 Ru20 Ta20 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.0,None,%,S,10.1016/j.dib.2022.108582
+39,Hf20 Nb20 Ru20 Ta20 W20 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+40,Hf20 Mo20 Nb20 Ru20 W20 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.0,None,%,S,10.1016/j.dib.2022.108582
+41,Hf33.33333333 Mo33.33333333 Ru33.33333333 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+42,Hf25 Re25 Ta25 W25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.0,None,%,S,10.1016/j.dib.2022.108582
+43,Nb20 Re20 Ru20 Ta20 W20 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+44,Hf25 Nb25 Ta25 W25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,1.0,None,%,S,10.1016/j.dib.2022.108582
+45,Hf20 Mo20 Nb20 Ta20 W20 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+46,Hf25 Mo25 Ru25 W25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+47,Hf20 Mo20 Re20 Ta20 W20 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+48,Hf25 Mo25 Ru25 Ta25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+49,Hf20 Mo20 Ru20 Ta20 W20 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+50,Mo20 Nb20 Ru20 Ta20 W20 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+51,Re33.33333333 Ru33.33333333 W33.33333333 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,50.0,None,%,S,10.1016/j.dib.2022.108582
+52,Hf20 Mo20 Re20 Ru20 Ta20 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+53,Hf25 Ru25 Ta25 W25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+54,Hf25 Re25 Ru25 Ta25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.0,None,%,S,10.1016/j.dib.2022.108582
+55,Mo25 Re25 Ru25 W25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+56,Hf33.33333333 Ru33.33333333 W33.33333333 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.0,None,%,S,10.1016/j.dib.2022.108582
+57,Hf20 Re20 Ru20 Ta20 W20 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.0,None,%,S,10.1016/j.dib.2022.108582
+58,Mo20 Nb20 Re20 Ru20 Ta20 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.0,None,%,S,10.1016/j.dib.2022.108582
+59,Hf33.33333333 Mo33.33333333 W33.33333333 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.0,None,%,S,10.1016/j.dib.2022.108582
+60,Mo33.33333333 Re33.33333333 Ru33.33333333 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,20.0,None,%,S,10.1016/j.dib.2022.108582
+61,Hf20 Mo20 Re25 Ta15 W20 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.0,None,%,S,10.1016/j.dib.2022.108582
+62,Hf33.33333333 Mo33.33333333 Re33.33333333 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.0,None,%,S,10.1016/j.dib.2022.108582
+63,Hf25 Mo25 Re25 W25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+64,Mo16.66666666 Nb16.66666666 Re16.66666667 Ru16.66666667 Ta16.66666667 W16.66666667 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+65,Mo25 Ru25 Ta25 W25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+66,Hf33.33333333 Re33.33333333 W33.33333333 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+67,Hf32.08021268 Re41.7709482 W26.14883911 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.0,None,%,S,10.1016/j.dib.2022.108582
+68,Mo45.53384141 Nb14.08136181 Ti40.38479678 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+69,Mo25 Re25 Ru25 Ta25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.0,None,%,S,10.1016/j.dib.2022.108582
+70,Re25 Ru25 Ta25 W25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+71,Mo20 Re20 Ru20 Ta20 W20 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+72,Mo25 Nb25 Re25 W25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+73,Mo25 Nb25 Re25 Ta25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.0,None,%,S,10.1016/j.dib.2022.108582
+74,Mo45 Re27.5 W27.5 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,10.0,None,%,S,10.1016/j.dib.2022.108582
+75,Nb25 Re25 Ta25 W25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+76,Mo33.33333333 Re33.33333333 W33.33333333 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,20.0,None,%,S,10.1016/j.dib.2022.108582
+77,Mo25 Nb25 Ta25 W25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+78,Mo25 Nb25 Ta25 W25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+79,Mo25 Nb25 Ta25 W25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+80,Mo20 Nb20 Re20 Ta20 W20 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+81,Nb41.16274569 Ta43.3730509 W15.46420341 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,20.0,None,%,S,10.1016/j.dib.2022.108582
+82,Mo40.93333649 Re32.95509721 Ta26.11156631 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+83,Mo41.62627096 Re15.36438041 W43.00934863 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,1.0,None,%,S,10.1016/j.dib.2022.108582
+84,Re38.98965675 Ta44.89002835 Zr16.1203149 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+85,Re39.41246849 Ta38.18503434 Zr22.40249718 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+86,Mo25 Re25 Ta25 W25 ,None,AC,1.5cm diameter coupon sample,estimated compressive ductility,EXP,0.001/s strain rate,298,0.1,None,%,S,10.1016/j.dib.2022.108582
+1,Nb25 Re25 Ru25 W25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,12305823600.0,None,Pa,S,10.1016/j.dib.2022.108582
+2,Hf20 Nb20 Ta20 Ti20 Zr20 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,3345167700.0,None,Pa,S,10.1016/j.dib.2022.108582
+3,Hf20 Nb20 Ta20 Ti20 Zr20 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,3321630900.0,None,Pa,S,10.1016/j.dib.2022.108582
+4,Hf20 Nb20 Ta20 Ti20 Zr20 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,3205908300.0,None,Pa,S,10.1016/j.dib.2022.108582
+5,Hf30 Nb15 Ta15 Zr40 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,2538051600.0,None,Pa,S,10.1016/j.dib.2022.108582
+6,Hf25 Ta25 Zr50 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,5744613700.0,None,Pa,S,10.1016/j.dib.2022.108582
+7,Hf37.5 Ta25 Zr37.5 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,6236598200.0,None,Pa,S,10.1016/j.dib.2022.108582
+8,Hf25 Nb25 Re25 W25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,8455922299.999999,None,Pa,S,10.1016/j.dib.2022.108582
+9,Mo25 Nb25 Ru25 W25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,10580772300.0,None,Pa,S,10.1016/j.dib.2022.108582
+10,Hf25 Mo25 Nb25 Re25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,7953477000.0,None,Pa,S,10.1016/j.dib.2022.108582
+11,Hf45 Mo15 Nb20 Ta20 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,4805103100.0,None,Pa,S,10.1016/j.dib.2022.108582
+12,Mo25 Nb25 Re25 Ru25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,10968148800.0,None,Pa,S,10.1016/j.dib.2022.108582
+13,Hf20 Nb20 Re20 Ru20 W20 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,10694533500.0,None,Pa,S,10.1016/j.dib.2022.108582
+14,Mo20 Nb20 Re20 Ru20 W20 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,8710250500.0,None,Pa,S,10.1016/j.dib.2022.108582
+15,Hf25 Nb25 Re25 Ru25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,7962957100.0,None,Pa,S,10.1016/j.dib.2022.108582
+16,Hf30 Mo25 Nb30 Ta15 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,4633807500.0,None,Pa,S,10.1016/j.dib.2022.108582
+17,Hf25 Mo25 Nb25 W25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,5918524500.0,None,Pa,S,10.1016/j.dib.2022.108582
+18,Hf25 Mo25 Re25 Ru25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,10877924400.0,None,Pa,S,10.1016/j.dib.2022.108582
+19,Hf20 Mo20 Nb20 Re20 W20 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,8186556700.000001,None,Pa,S,10.1016/j.dib.2022.108582
+20,Mo33.33333333 Ru33.33333333 W33.33333333 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,10778546800.0,None,Pa,S,10.1016/j.dib.2022.108582
+21,Hf25 Nb25 Ru25 Ta25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,7339558800.0,None,Pa,S,10.1016/j.dib.2022.108582
+22,Hf20 Mo20 Nb20 Re20 Ru20 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,10811890600.0,None,Pa,S,10.1016/j.dib.2022.108582
+23,Hf25 Mo25 Re25 Ta25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,8869123900.0,None,Pa,S,10.1016/j.dib.2022.108582
+24,Hf25 Mo25 Nb25 Ru25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,8419309500.000001,None,Pa,S,10.1016/j.dib.2022.108582
+25,Nb25 Ru25 Ta25 W25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,8162366100.0,None,Pa,S,10.1016/j.dib.2022.108582
+26,Nb25 Re25 Ru25 Ta25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,7967533700.0,None,Pa,S,10.1016/j.dib.2022.108582
+27,Hf20 Mo20 Re20 Ru20 W20 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,10934478100.0,None,Pa,S,10.1016/j.dib.2022.108582
+28,Hf25 Nb25 Re25 Ta25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,6633454800.0,None,Pa,S,10.1016/j.dib.2022.108582
+29,Hf25 Mo25 Ta25 W25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,6514790100.0,None,Pa,S,10.1016/j.dib.2022.108582
+30,Hf25 Re25 Ru25 W25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,11030913600.0,None,Pa,S,10.1016/j.dib.2022.108582
+31,Hf25 Mo25 Nb25 Ta25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,4689707400.0,None,Pa,S,10.1016/j.dib.2022.108582
+32,Mo25 Nb25 Ru25 Ta25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,6107799600.0,None,Pa,S,10.1016/j.dib.2022.108582
+33,Hf25 Nb25 Ru25 W25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,7070847000.0,None,Pa,S,10.1016/j.dib.2022.108582
+34,Hf33.33333333 Re33.33333333 Ru33.33333333 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,10599405600.0,None,Pa,S,10.1016/j.dib.2022.108582
+35,Hf20 Mo20 Nb20 Ru20 Ta20 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,7399381500.0,None,Pa,S,10.1016/j.dib.2022.108582
+36,Hf20 Mo20 Nb20 Re20 Ta20 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,6514790100.0,None,Pa,S,10.1016/j.dib.2022.108582
+37,Hf20 Nb20 Re20 Ta20 W20 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,7196703500.0,None,Pa,S,10.1016/j.dib.2022.108582
+38,Hf20 Nb20 Re20 Ru20 Ta20 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,8214016300.000001,None,Pa,S,10.1016/j.dib.2022.108582
+39,Hf20 Nb20 Ru20 Ta20 W20 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,7512488900.0,None,Pa,S,10.1016/j.dib.2022.108582
+40,Hf20 Mo20 Nb20 Ru20 W20 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,8418655700.0,None,Pa,S,10.1016/j.dib.2022.108582
+41,Hf33.33333333 Mo33.33333333 Ru33.33333333 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,6583439100.0,None,Pa,S,10.1016/j.dib.2022.108582
+42,Hf25 Re25 Ta25 W25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,10254526100.0,None,Pa,S,10.1016/j.dib.2022.108582
+43,Nb20 Re20 Ru20 Ta20 W20 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,9613802100.0,None,Pa,S,10.1016/j.dib.2022.108582
+44,Hf25 Nb25 Ta25 W25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,5321932000.0,None,Pa,S,10.1016/j.dib.2022.108582
+45,Hf20 Mo20 Nb20 Ta20 W20 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,5788418300.0,None,Pa,S,10.1016/j.dib.2022.108582
+46,Hf25 Mo25 Ru25 W25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,8173153800.0,None,Pa,S,10.1016/j.dib.2022.108582
+47,Hf20 Mo20 Re20 Ta20 W20 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,8116600099.999999,None,Pa,S,10.1016/j.dib.2022.108582
+48,Hf25 Mo25 Ru25 Ta25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,7943670000.0,None,Pa,S,10.1016/j.dib.2022.108582
+49,Hf20 Mo20 Ru20 Ta20 W20 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,8326143000.0,None,Pa,S,10.1016/j.dib.2022.108582
+50,Mo20 Nb20 Ru20 Ta20 W20 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,8225457799.999999,None,Pa,S,10.1016/j.dib.2022.108582
+51,Re33.33333333 Ru33.33333333 W33.33333333 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,4544236900.0,None,Pa,S,10.1016/j.dib.2022.108582
+52,Hf20 Mo20 Re20 Ru20 Ta20 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,9731813000.0,None,Pa,S,10.1016/j.dib.2022.108582
+53,Hf25 Ru25 Ta25 W25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,8200613400.0,None,Pa,S,10.1016/j.dib.2022.108582
+54,Hf25 Re25 Ru25 Ta25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,7508893000.0,None,Pa,S,10.1016/j.dib.2022.108582
+55,Mo25 Re25 Ru25 W25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,11964213100.0,None,Pa,S,10.1016/j.dib.2022.108582
+56,Hf33.33333333 Ru33.33333333 W33.33333333 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,7978975200.0,None,Pa,S,10.1016/j.dib.2022.108582
+57,Hf20 Re20 Ru20 Ta20 W20 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,10474202900.0,None,Pa,S,10.1016/j.dib.2022.108582
+58,Mo20 Nb20 Re20 Ru20 Ta20 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,8110389000.0,None,Pa,S,10.1016/j.dib.2022.108582
+59,Hf33.33333333 Mo33.33333333 W33.33333333 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,9059706600.0,None,Pa,S,10.1016/j.dib.2022.108582
+60,Mo33.33333333 Re33.33333333 Ru33.33333333 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,3914627500.0,None,Pa,S,10.1016/j.dib.2022.108582
+61,Hf20 Mo20 Re25 Ta15 W20 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,9351628300.0,None,Pa,S,10.1016/j.dib.2022.108582
+62,Hf33.33333333 Mo33.33333333 Re33.33333333 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,9603014400.0,None,Pa,S,10.1016/j.dib.2022.108582
+63,Hf25 Mo25 Re25 W25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,9278075800.0,None,Pa,S,10.1016/j.dib.2022.108582
+64,Mo16.66666666 Nb16.66666666 Re16.66666667 Ru16.66666667 Ta16.66666667 W16.66666667 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,8405579700.000001,None,Pa,S,10.1016/j.dib.2022.108582
+65,Mo25 Ru25 Ta25 W25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,11080602400.0,None,Pa,S,10.1016/j.dib.2022.108582
+66,Hf33.33333333 Re33.33333333 W33.33333333 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,10212356000.0,None,Pa,S,10.1016/j.dib.2022.108582
+67,Hf32.08021268 Re41.7709482 W26.14883911 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,10273813200.0,None,Pa,S,10.1016/j.dib.2022.108582
+68,Mo45.53384141 Nb14.08136181 Ti40.38479678 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,4409881000.0,None,Pa,S,10.1016/j.dib.2022.108582
+69,Mo25 Re25 Ru25 Ta25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,11196651900.0,None,Pa,S,10.1016/j.dib.2022.108582
+70,Re25 Ru25 Ta25 W25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,12858611500.0,None,Pa,S,10.1016/j.dib.2022.108582
+71,Mo20 Re20 Ru20 Ta20 W20 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,11414694200.0,None,Pa,S,10.1016/j.dib.2022.108582
+72,Mo25 Nb25 Re25 W25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,5128080300.0,None,Pa,S,10.1016/j.dib.2022.108582
+73,Mo25 Nb25 Re25 Ta25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,5770438800.0,None,Pa,S,10.1016/j.dib.2022.108582
+74,Mo45 Re27.5 W27.5 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,4002563600.0,None,Pa,S,10.1016/j.dib.2022.108582
+75,Nb25 Re25 Ta25 W25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,6414104900.0,None,Pa,S,10.1016/j.dib.2022.108582
+76,Mo33.33333333 Re33.33333333 W33.33333333 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,4415111400.0,None,Pa,S,10.1016/j.dib.2022.108582
+77,Mo25 Nb25 Ta25 W25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,4891731600.0,None,Pa,S,10.1016/j.dib.2022.108582
+78,Mo25 Nb25 Ta25 W25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,4190531100.0000005,None,Pa,S,10.1016/j.dib.2022.108582
+79,Mo25 Nb25 Ta25 W25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,4917229800.0,None,Pa,S,10.1016/j.dib.2022.108582
+80,Mo20 Nb20 Re20 Ta20 W20 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,5594566600.0,None,Pa,S,10.1016/j.dib.2022.108582
+81,Nb41.16274569 Ta43.3730509 W15.46420341 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,3178121800.0,None,Pa,S,10.1016/j.dib.2022.108582
+82,Mo40.93333649 Re32.95509721 Ta26.11156631 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,6044707900.0,None,Pa,S,10.1016/j.dib.2022.108582
+83,Mo41.62627096 Re15.36438041 W43.00934863 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,3450756400.0,None,Pa,S,10.1016/j.dib.2022.108582
+84,Re38.98965675 Ta44.89002835 Zr16.1203149 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,9198966000.0,None,Pa,S,10.1016/j.dib.2022.108582
+85,Re39.41246849 Ta38.18503434 Zr22.40249718 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,10634710800.0,None,Pa,S,10.1016/j.dib.2022.108582
+86,Mo25 Re25 Ta25 W25 ,None,AC,1.5cm diameter coupon sample,hardness,EXP,500g microhardness load,298,5900545000.0,None,Pa,S,10.1016/j.dib.2022.108582
