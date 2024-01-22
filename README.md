@@ -102,6 +102,10 @@ and push it to yours:
 
 With that, you should be ready to store all of your data and make it public when you are ready. Then just let us know, so we can add it to [the pushing meta-repository (github.com/PhasesResearchLab/ULTERA-push)](https://github.com/PhasesResearchLab/ULTERA-push)
 
+## Miscellaneous
+
+Last maintenance check: January 22nd, 2024
+
 
 
 
