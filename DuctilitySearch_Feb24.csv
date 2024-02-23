@@ -1,0 +1,23 @@
+Name:,Adam Krajewski
+Email:,ak@psu.edu
+Direct Fetched:,T
+Hand Fetched:,T
+Comment:,None
+
+id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
+1,Al5 Mo5 Nb36 Hf13 Ti41,BCC,AC,None,tensile yield stress,EXP,None,298,680000000.0,None,Pa,T1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo7 Nb36 Hf13 Ti39,BCC,AC,None,tensile yield stress,EXP,None,298,820000000.0,None,Pa,T1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo5 Nb36 Hf13 Ti41,BCC,AC+CR,None,tensile yield stress,EXP,None,298,892000000.0,None,Pa,T1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo7 Nb36 Hf13 Ti39,BCC,AC+CR,None,tensile yield stress,EXP,None,298,900000000.0,None,Pa,T1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo5 Nb36 Hf13 Ti41,BCC,AC+H,Recrystallized at 1173K for 30min,tensile yield stress,EXP,None,298,1128000000.0,None,Pa,T1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo7 Nb36 Hf13 Ti39,BCC,AC+H,Recrystallized at 1173K for 30min,tensile yield stress,EXP,None,298,1128000000.0,None,Pa,T1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo5 Nb36 Hf13 Ti41,BCC,AC,None,tensile ductility,EXP,None,298,20.0,None,%,T1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo7 Nb36 Hf13 Ti39,BCC,AC,None,tensile ductility,EXP,None,298,15.0,None,%,T1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo5 Nb36 Hf13 Ti41,BCC,AC+CR,None,tensile ductility,EXP,None,298,21.0,None,%,T1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo7 Nb36 Hf13 Ti39,BCC,AC+CR,None,tensile ductility,EXP,None,298,12.0,None,%,T1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo5 Nb36 Hf13 Ti41,BCC,AC+H,Recrystallized at 1173K for 30min,tensile ductility,EXP,None,298,7.0,None,%,T1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo7 Nb36 Hf13 Ti39,BCC,AC+H,Recrystallized at 1173K for 30min,tensile ductility,EXP,None,298,4.5,None,%,T1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo5 Nb36 Hf13 Ti41,BCC,AC+H,Recrystallized at 1173K for 30min,None,EXP,None,1173,None,None,None,S3.1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo7 Nb36 Hf13 Ti39,BCC,AC+H,Recrystallized at 1173K for 30min,None,EXP,None,1173,None,None,None,S3.1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo5 Nb36 Hf13 Ti41,BCC,AC,None,density,EXP,None,298,7.53,None,g/cm^3,S3.1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo7 Nb36 Hf13 Ti39,BCC,AC,None,density,EXP,None,298,7.64,None,g/cm^3,S3.1,10.1016/j.jallcom.2023.168821
