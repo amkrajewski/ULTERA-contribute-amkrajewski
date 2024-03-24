@@ -21,3 +21,22 @@ id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Proper
 1,Al5 Mo7 Nb36 Hf13 Ti39,BCC,AC+H,Recrystallized at 1173K for 30min,None,EXP,None,1173,None,None,None,S3.1,10.1016/j.jallcom.2023.168821
 1,Al5 Mo5 Nb36 Hf13 Ti41,BCC,AC,None,density,EXP,None,298,7.53,None,g/cm^3,S3.1,10.1016/j.jallcom.2023.168821
 1,Al5 Mo7 Nb36 Hf13 Ti39,BCC,AC,None,density,EXP,None,298,7.64,None,g/cm^3,S3.1,10.1016/j.jallcom.2023.168821
+2,Ta Mo Nb Cr Ti0.25,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content; Cr2 (Ta, Nb),compressive yield stress,EXP,None,298,3230000000.0,None,Pa,T3,None
+2,Ta Mo Nb Cr Ti0.5,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive yield stress,EXP,None,298,2820000000.0,None,Pa,T3,None
+2,Ta Mo Nb Cr Ti0.75,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive yield stress,EXP,None,298,2700000000.0,None,Pa,T3,None
+2,Ta Mo Nb Cr Ti1,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive yield stress,EXP,None,298,2410000000.0,None,Pa,T3,None
+2,Ta Mo Nb Cr,BCC+Laves,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ultimate strength,EXP,None,298,3350000000.0,None,Pa,T3,None
+2,Ta Mo Nb Cr Ti0.25,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ultimate strength,EXP,None,298,3250000000.0,None,Pa,T3,None
+2,Ta Mo Nb Cr Ti0.5,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ultimate strength,EXP,None,298,3020000000.0,None,Pa,T3,None
+2,Ta Mo Nb Cr Ti0.75,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ultimate strength,EXP,None,298,3100000000.0,None,Pa,T3,None
+2,Ta Mo Nb Cr Ti1,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ultimate strength,EXP,None,298,2690000000.0,None,Pa,T3,None
+2,Ta Mo Nb Cr,BCC+Laves,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ductility,EXP,None,298,10.3,0.1,%,T3,None
+2,Ta Mo Nb Cr Ti0.25,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ductility,EXP,None,298,11.8,0.6,%,T3,None
+2,Ta Mo Nb Cr Ti0.5,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ductility,EXP,None,298,13.3,0.7,%,T3,None
+2,Ta Mo Nb Cr Ti0.75,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ductility,EXP,None,298,16.8,0.6,%,T3,None
+2,Ta Mo Nb Cr Ti1,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ductility,EXP,None,298,11.2,0.1,%,T3,None
+2,Ta Mo Nb Cr,BCC+Laves,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,None
+2,Ta Mo Nb Cr Ti0.25,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,None
+2,Ta Mo Nb Cr Ti0.5,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,None
+2,Ta Mo Nb Cr Ti0.75,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,None
+2,Ta Mo Nb Cr Ti1,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,None
