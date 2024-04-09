@@ -35,8 +35,38 @@ id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Proper
 2,Ta Mo Nb Cr Ti0.5,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ductility,EXP,None,298,13.3,0.7,%,T3,10.1016/j.msea.2024.146394
 2,Ta Mo Nb Cr Ti0.75,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ductility,EXP,None,298,16.8,0.6,%,T3,10.1016/j.msea.2024.146394
 2,Ta Mo Nb Cr Ti1,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ductility,EXP,None,298,11.2,0.1,%,T3,10.1016/j.msea.2024.146394
-2,Ta Mo Nb Cr,BCC+Laves,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,89047560000.00002,None,Pa,T3,10.1016/j.msea.2024.146394
-2,Ta Mo Nb Cr Ti0.25,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,77671440000.0,None,Pa,T3,10.1016/j.msea.2024.146394
-2,Ta Mo Nb Cr Ti0.5,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,71885310000.0,None,Pa,T3,10.1016/j.msea.2024.146394
-2,Ta Mo Nb Cr Ti0.75,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,67962510000.0,None,Pa,T3,10.1016/j.msea.2024.146394
-2,Ta Mo Nb Cr Ti1,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,64922340000.0,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr,BCC+Laves,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti0.25,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti0.5,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti0.75,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti1,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.msea.2024.146394
+3,Ti2 Zr Nb Hf ,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.2,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.4,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.6,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.8,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf ,BCC,AC,None,compressive yield stress,EXP,None,298,613300000.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.2,BCC,AC,None,compressive yield stress,EXP,None,298,709900000.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.4,BCC,AC,None,compressive yield stress,EXP,None,298,826600000.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.6,BCC,AC,None,compressive yield stress,EXP,None,298,859500000.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.8,BCC,AC,None,compressive yield stress,EXP,None,298,946500000.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V,BCC,AC,None,compressive yield stress,EXP,None,298,1007800000.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf ,BCC,AC,None,density,EXP,None,298,7.7,None,g/cm^3,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.2,BCC,AC,None,density,EXP,None,298,7.66,None,g/cm^3,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.4,BCC,AC,None,density,EXP,None,298,7.63,None,g/cm^3,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.6,BCC,AC,None,density,EXP,None,298,7.59,None,g/cm^3,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.8,BCC,AC,None,density,EXP,None,298,7.54,None,g/cm^3,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V,BCC,AC,None,density,EXP,None,298,7.51,None,g/cm^3,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf ,BCC,AC,None,estimated compressive ductility,EXP,None,298,50.0,None,%,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.2,BCC,AC,None,estimated compressive ductility,EXP,None,298,50.0,None,%,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.4,BCC,AC,None,estimated compressive ductility,EXP,None,298,50.0,None,%,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.6,BCC,AC,None,estimated compressive ductility,EXP,None,298,50.0,None,%,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.8,BCC,AC,None,estimated compressive ductility,EXP,None,298,50.0,None,%,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V,BCC,AC,None,estimated compressive ductility,EXP,None,298,50.0,None,%,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf ,BCC,AC,None,tensile ductility,EXP,None,298,7.7,None,%,F8,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.2,BCC,AC,None,tensile ductility,EXP,None,298,9.6,None,%,F8,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.4,BCC,AC,None,tensile ductility,EXP,None,298,9.6,None,%,F8,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.6,BCC,AC,None,tensile ductility,EXP,None,298,11.25,None,%,F8,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.8,BCC,AC,None,tensile ductility,EXP,None,298,10.25,None,%,F8,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V,BCC,AC,None,tensile ductility,EXP,None,298,8.95,None,%,F8,10.1016/j.ijrmhm.2024.106681
