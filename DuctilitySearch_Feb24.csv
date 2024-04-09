@@ -70,15 +70,21 @@ id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Proper
 3.0,Ti2 Zr Nb Hf V0.6,BCC,AC,None,tensile ductility,EXP,None,298,11.25,None,%,F8,10.1016/j.ijrmhm.2024.106681
 3.0,Ti2 Zr Nb Hf V0.8,BCC,AC,None,tensile ductility,EXP,None,298,10.25,None,%,F8,10.1016/j.ijrmhm.2024.106681
 3.0,Ti2 Zr Nb Hf V,BCC,AC,None,tensile ductility,EXP,None,298,8.95,None,%,F8,10.1016/j.ijrmhm.2024.106681
-None,Ti2 Zr Nb Hf ,BCC,AC,None,estimated ultimate compressive strength,EXP,stopped at 50% strain,298,1748000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
-None,Ti2 Zr Nb Hf V0.2,BCC,AC,None,estimated ultimate compressive strength,EXP,stopped at 50% strain,298,1853000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
-None,Ti2 Zr Nb Hf V0.4,BCC,AC,None,estimated ultimate compressive strength,EXP,stopped at 50% strain,298,2027000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
-None,Ti2 Zr Nb Hf V0.6,BCC,AC,None,estimated ultimate compressive strength,EXP,stopped at 50% strain,298,2166000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
-None,Ti2 Zr Nb Hf V0.8,BCC,AC,None,estimated ultimate compressive strength,EXP,stopped at 50% strain,298,2376000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
-None,Ti2 Zr Nb Hf V,BCC,AC,None,estimated ultimate compressive strength,EXP,stopped at 50% strain,298,2434000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
-None,Ti2 Zr Nb Hf ,BCC,AC,None,tensile yield stress,EXP,None,298,354000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
-None,Ti2 Zr Nb Hf V0.2,BCC,AC,None,tensile yield stress,EXP,None,298,536000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
-None,Ti2 Zr Nb Hf V0.4,BCC,AC,None,tensile yield stress,EXP,None,298,629000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
-None,Ti2 Zr Nb Hf V0.6,BCC,AC,None,tensile yield stress,EXP,None,298,691000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
-None,Ti2 Zr Nb Hf V0.8,BCC,AC,None,tensile yield stress,EXP,None,298,836000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
-None,Ti2 Zr Nb Hf V,BCC,AC,None,tensile yield stress,EXP,None,298,935000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
+3.0,Ti2 Zr Nb Hf ,BCC,AC,None,estimated ultimate compressive strength,EXP,stopped at 50% strain,298,1748000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
+3.0,Ti2 Zr Nb Hf V0.2,BCC,AC,None,estimated ultimate compressive strength,EXP,stopped at 50% strain,298,1853000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
+3.0,Ti2 Zr Nb Hf V0.4,BCC,AC,None,estimated ultimate compressive strength,EXP,stopped at 50% strain,298,2027000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
+3.0,Ti2 Zr Nb Hf V0.6,BCC,AC,None,estimated ultimate compressive strength,EXP,stopped at 50% strain,298,2166000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
+3.0,Ti2 Zr Nb Hf V0.8,BCC,AC,None,estimated ultimate compressive strength,EXP,stopped at 50% strain,298,2376000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
+3.0,Ti2 Zr Nb Hf V,BCC,AC,None,estimated ultimate compressive strength,EXP,stopped at 50% strain,298,2434000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
+3.0,Ti2 Zr Nb Hf ,BCC,AC,None,tensile yield stress,EXP,None,298,354000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
+3.0,Ti2 Zr Nb Hf V0.2,BCC,AC,None,tensile yield stress,EXP,None,298,536000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
+3.0,Ti2 Zr Nb Hf V0.4,BCC,AC,None,tensile yield stress,EXP,None,298,629000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
+3.0,Ti2 Zr Nb Hf V0.6,BCC,AC,None,tensile yield stress,EXP,None,298,691000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
+3.0,Ti2 Zr Nb Hf V0.8,BCC,AC,None,tensile yield stress,EXP,None,298,836000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
+3.0,Ti2 Zr Nb Hf V,BCC,AC,None,tensile yield stress,EXP,None,298,935000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
+4.0,Nb Mo Ta W,BCC,AM,FPBF AM,compressive yield strength,EXP,None,298,1196000000.0,None,Pa,F3,None
+None,(Nb Mo Ta W)24.875 C0.5,BCC+NbC,AM,FPBF AM,compressive yield strength,EXP,None,298,1725000000.0,None,Pa,None,None
+None,Nb Mo Ta W,BCC,AM,FPBF AM,ultimate compressive strength,EXP,None,298,1237000000.0,None,Pa,None,None
+None,(Nb Mo Ta W)24.875 C0.5,BCC+NbC,AM,FPBF AM,ultimate compressive strength,EXP,None,298,1782000000.0,None,Pa,None,None
+None,Nb Mo Ta W,BCC,AM,FPBF AM,compressive ductility,EXP,None,298,4.6,None,%,None,None
+None,(Nb Mo Ta W)24.875 C0.5,BCC+NbC,AM,FPBF AM,compressive ductility,EXP,None,298,7.0,None,%,None,None
