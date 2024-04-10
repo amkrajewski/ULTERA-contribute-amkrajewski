@@ -5,89 +5,104 @@ Hand Fetched:,T
 Comment:,None
 
 id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
-1.0,Al5 Mo5 Nb36 Hf13 Ti41,BCC,AC,None,tensile yield stress,EXP,None,298,680000000.0,None,Pa,T1,10.1016/j.jallcom.2023.168821
-1.0,Al5 Mo7 Nb36 Hf13 Ti39,BCC,AC,None,tensile yield stress,EXP,None,298,820000000.0,None,Pa,T1,10.1016/j.jallcom.2023.168821
-1.0,Al5 Mo5 Nb36 Hf13 Ti41,BCC,AC+CR,None,tensile yield stress,EXP,None,298,892000000.0,None,Pa,T1,10.1016/j.jallcom.2023.168821
-1.0,Al5 Mo7 Nb36 Hf13 Ti39,BCC,AC+CR,None,tensile yield stress,EXP,None,298,900000000.0,None,Pa,T1,10.1016/j.jallcom.2023.168821
-1.0,Al5 Mo5 Nb36 Hf13 Ti41,BCC,AC+H,Recrystallized at 1173K for 30min,tensile yield stress,EXP,None,298,1128000000.0,None,Pa,T1,10.1016/j.jallcom.2023.168821
-1.0,Al5 Mo7 Nb36 Hf13 Ti39,BCC,AC+H,Recrystallized at 1173K for 30min,tensile yield stress,EXP,None,298,1128000000.0,None,Pa,T1,10.1016/j.jallcom.2023.168821
-1.0,Al5 Mo5 Nb36 Hf13 Ti41,BCC,AC,None,tensile ductility,EXP,None,298,20.0,None,%,T1,10.1016/j.jallcom.2023.168821
-1.0,Al5 Mo7 Nb36 Hf13 Ti39,BCC,AC,None,tensile ductility,EXP,None,298,15.0,None,%,T1,10.1016/j.jallcom.2023.168821
-1.0,Al5 Mo5 Nb36 Hf13 Ti41,BCC,AC+CR,None,tensile ductility,EXP,None,298,21.0,None,%,T1,10.1016/j.jallcom.2023.168821
-1.0,Al5 Mo7 Nb36 Hf13 Ti39,BCC,AC+CR,None,tensile ductility,EXP,None,298,12.0,None,%,T1,10.1016/j.jallcom.2023.168821
-1.0,Al5 Mo5 Nb36 Hf13 Ti41,BCC,AC+H,Recrystallized at 1173K for 30min,tensile ductility,EXP,None,298,7.0,None,%,T1,10.1016/j.jallcom.2023.168821
-1.0,Al5 Mo7 Nb36 Hf13 Ti39,BCC,AC+H,Recrystallized at 1173K for 30min,tensile ductility,EXP,None,298,4.5,None,%,T1,10.1016/j.jallcom.2023.168821
-1.0,Al5 Mo5 Nb36 Hf13 Ti41,BCC,AC+H,Recrystallized at 1173K for 30min,None,EXP,None,1173,None,None,None,S3.1,10.1016/j.jallcom.2023.168821
-1.0,Al5 Mo7 Nb36 Hf13 Ti39,BCC,AC+H,Recrystallized at 1173K for 30min,None,EXP,None,1173,None,None,None,S3.1,10.1016/j.jallcom.2023.168821
-1.0,Al5 Mo5 Nb36 Hf13 Ti41,BCC,AC,None,density,EXP,None,298,7.53,None,g/cm^3,S3.1,10.1016/j.jallcom.2023.168821
-1.0,Al5 Mo7 Nb36 Hf13 Ti39,BCC,AC,None,density,EXP,None,298,7.64,None,g/cm^3,S3.1,10.1016/j.jallcom.2023.168821
-2.0,Ta Mo Nb Cr Ti0.25,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content; Cr2 (Ta, Nb),compressive yield stress,EXP,None,298,3230000000.0,None,Pa,T3,10.1016/j.msea.2024.146394
-2.0,Ta Mo Nb Cr Ti0.5,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive yield stress,EXP,None,298,2820000000.0,None,Pa,T3,10.1016/j.msea.2024.146394
-2.0,Ta Mo Nb Cr Ti0.75,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive yield stress,EXP,None,298,2700000000.0,None,Pa,T3,10.1016/j.msea.2024.146394
-2.0,Ta Mo Nb Cr Ti1,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive yield stress,EXP,None,298,2410000000.0,None,Pa,T3,10.1016/j.msea.2024.146394
-2.0,Ta Mo Nb Cr,BCC+Laves,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ultimate strength,EXP,None,298,3350000000.0,None,Pa,T3,10.1016/j.msea.2024.146394
-2.0,Ta Mo Nb Cr Ti0.25,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ultimate strength,EXP,None,298,3250000000.0,None,Pa,T3,10.1016/j.msea.2024.146394
-2.0,Ta Mo Nb Cr Ti0.5,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ultimate strength,EXP,None,298,3020000000.0,None,Pa,T3,10.1016/j.msea.2024.146394
-2.0,Ta Mo Nb Cr Ti0.75,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ultimate strength,EXP,None,298,3100000000.0,None,Pa,T3,10.1016/j.msea.2024.146394
-2.0,Ta Mo Nb Cr Ti1,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ultimate strength,EXP,None,298,2690000000.0,None,Pa,T3,10.1016/j.msea.2024.146394
-2.0,Ta Mo Nb Cr,BCC+Laves,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ductility,EXP,None,298,10.3,0.1,%,T3,10.1016/j.msea.2024.146394
-2.0,Ta Mo Nb Cr Ti0.25,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ductility,EXP,None,298,11.8,0.6,%,T3,10.1016/j.msea.2024.146394
-2.0,Ta Mo Nb Cr Ti0.5,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ductility,EXP,None,298,13.3,0.7,%,T3,10.1016/j.msea.2024.146394
-2.0,Ta Mo Nb Cr Ti0.75,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ductility,EXP,None,298,16.8,0.6,%,T3,10.1016/j.msea.2024.146394
-2.0,Ta Mo Nb Cr Ti1,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ductility,EXP,None,298,11.2,0.1,%,T3,10.1016/j.msea.2024.146394
-2.0,Ta Mo Nb Cr,BCC+Laves,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.msea.2024.146394
-2.0,Ta Mo Nb Cr Ti0.25,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.msea.2024.146394
-2.0,Ta Mo Nb Cr Ti0.5,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.msea.2024.146394
-2.0,Ta Mo Nb Cr Ti0.75,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.msea.2024.146394
-2.0,Ta Mo Nb Cr Ti1,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.msea.2024.146394
-3.0,Ti2 Zr Nb Hf ,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V0.2,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V0.4,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V0.6,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V0.8,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf ,BCC,AC,None,compressive yield stress,EXP,None,298,613300000.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V0.2,BCC,AC,None,compressive yield stress,EXP,None,298,709900000.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V0.4,BCC,AC,None,compressive yield stress,EXP,None,298,826600000.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V0.6,BCC,AC,None,compressive yield stress,EXP,None,298,859500000.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V0.8,BCC,AC,None,compressive yield stress,EXP,None,298,946500000.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V,BCC,AC,None,compressive yield stress,EXP,None,298,1007800000.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf ,BCC,AC,None,density,EXP,None,298,7.7,None,g/cm^3,T3,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V0.2,BCC,AC,None,density,EXP,None,298,7.66,None,g/cm^3,T3,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V0.4,BCC,AC,None,density,EXP,None,298,7.63,None,g/cm^3,T3,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V0.6,BCC,AC,None,density,EXP,None,298,7.59,None,g/cm^3,T3,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V0.8,BCC,AC,None,density,EXP,None,298,7.54,None,g/cm^3,T3,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V,BCC,AC,None,density,EXP,None,298,7.51,None,g/cm^3,T3,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf ,BCC,AC,None,estimated compressive ductility,EXP,None,298,50.0,None,%,T3,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V0.2,BCC,AC,None,estimated compressive ductility,EXP,None,298,50.0,None,%,T3,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V0.4,BCC,AC,None,estimated compressive ductility,EXP,None,298,50.0,None,%,T3,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V0.6,BCC,AC,None,estimated compressive ductility,EXP,None,298,50.0,None,%,T3,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V0.8,BCC,AC,None,estimated compressive ductility,EXP,None,298,50.0,None,%,T3,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V,BCC,AC,None,estimated compressive ductility,EXP,None,298,50.0,None,%,T3,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf ,BCC,AC,None,tensile ductility,EXP,None,298,7.7,None,%,F8,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V0.2,BCC,AC,None,tensile ductility,EXP,None,298,9.6,None,%,F8,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V0.4,BCC,AC,None,tensile ductility,EXP,None,298,9.6,None,%,F8,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V0.6,BCC,AC,None,tensile ductility,EXP,None,298,11.25,None,%,F8,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V0.8,BCC,AC,None,tensile ductility,EXP,None,298,10.25,None,%,F8,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V,BCC,AC,None,tensile ductility,EXP,None,298,8.95,None,%,F8,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf ,BCC,AC,None,estimated ultimate compressive strength,EXP,stopped at 50% strain,298,1748000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V0.2,BCC,AC,None,estimated ultimate compressive strength,EXP,stopped at 50% strain,298,1853000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V0.4,BCC,AC,None,estimated ultimate compressive strength,EXP,stopped at 50% strain,298,2027000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V0.6,BCC,AC,None,estimated ultimate compressive strength,EXP,stopped at 50% strain,298,2166000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V0.8,BCC,AC,None,estimated ultimate compressive strength,EXP,stopped at 50% strain,298,2376000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V,BCC,AC,None,estimated ultimate compressive strength,EXP,stopped at 50% strain,298,2434000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf ,BCC,AC,None,tensile yield stress,EXP,None,298,354000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V0.2,BCC,AC,None,tensile yield stress,EXP,None,298,536000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V0.4,BCC,AC,None,tensile yield stress,EXP,None,298,629000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V0.6,BCC,AC,None,tensile yield stress,EXP,None,298,691000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V0.8,BCC,AC,None,tensile yield stress,EXP,None,298,836000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
-3.0,Ti2 Zr Nb Hf V,BCC,AC,None,tensile yield stress,EXP,None,298,935000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
-4.0,Nb Mo Ta W,BCC,AM,FPBF AM,compressive yield strength,EXP,None,298,1196000000.0,None,Pa,F3,10.1016/j.addlet.2022.100079
-4.0,(Nb Mo Ta W)24.875 C0.5,BCC+NbC,AM,FPBF AM,compressive yield strength,EXP,None,298,1725000000.0,None,Pa,F3,10.1016/j.addlet.2022.100079
-4.0,Nb Mo Ta W,BCC,AM,FPBF AM,ultimate compressive strength,EXP,None,298,1237000000.0,None,Pa,F3,10.1016/j.addlet.2022.100079
-4.0,(Nb Mo Ta W)24.875 C0.5,BCC+NbC,AM,FPBF AM,ultimate compressive strength,EXP,None,298,1782000000.0,None,Pa,F3,10.1016/j.addlet.2022.100079
-4.0,Nb Mo Ta W,BCC,AM,FPBF AM,compressive ductility,EXP,None,298,4.6,None,%,F3,10.1016/j.addlet.2022.100079
-4.0,(Nb Mo Ta W)24.875 C0.5,BCC+NbC,AM,FPBF AM,compressive ductility,EXP,None,298,7.0,None,%,F3,10.1016/j.addlet.2022.100079
-5.0,Re0.5 Mo Nb W (TaC)0.8,BCC+carbide,AC,NbTa-rich carbide,compressive yield strength,EXP,None,298,1340000000.0,21000000.0,Pa,F1,None
-None,None,None,None,None,ultimate compressive strength,EXP,None,298,2347000000.0,40000000.0,Pa,None,None
-None,None,None,None,None,compressive ductility,EXP,None,298,8.9,0.15,%,None,None
+1,Al5 Mo5 Nb36 Hf13 Ti41,BCC,AC,None,tensile yield stress,EXP,None,298,680000000.0,None,Pa,T1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo7 Nb36 Hf13 Ti39,BCC,AC,None,tensile yield stress,EXP,None,298,820000000.0,None,Pa,T1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo5 Nb36 Hf13 Ti41,BCC,AC+CR,None,tensile yield stress,EXP,None,298,892000000.0,None,Pa,T1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo7 Nb36 Hf13 Ti39,BCC,AC+CR,None,tensile yield stress,EXP,None,298,900000000.0,None,Pa,T1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo5 Nb36 Hf13 Ti41,BCC,AC+H,Recrystallized at 1173K for 30min,tensile yield stress,EXP,None,298,1128000000.0,None,Pa,T1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo7 Nb36 Hf13 Ti39,BCC,AC+H,Recrystallized at 1173K for 30min,tensile yield stress,EXP,None,298,1128000000.0,None,Pa,T1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo5 Nb36 Hf13 Ti41,BCC,AC,None,tensile ductility,EXP,None,298,20.0,None,%,T1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo7 Nb36 Hf13 Ti39,BCC,AC,None,tensile ductility,EXP,None,298,15.0,None,%,T1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo5 Nb36 Hf13 Ti41,BCC,AC+CR,None,tensile ductility,EXP,None,298,21.0,None,%,T1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo7 Nb36 Hf13 Ti39,BCC,AC+CR,None,tensile ductility,EXP,None,298,12.0,None,%,T1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo5 Nb36 Hf13 Ti41,BCC,AC+H,Recrystallized at 1173K for 30min,tensile ductility,EXP,None,298,7.0,None,%,T1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo7 Nb36 Hf13 Ti39,BCC,AC+H,Recrystallized at 1173K for 30min,tensile ductility,EXP,None,298,4.5,None,%,T1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo5 Nb36 Hf13 Ti41,BCC,AC+H,Recrystallized at 1173K for 30min,None,EXP,None,1173,None,None,None,S3.1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo7 Nb36 Hf13 Ti39,BCC,AC+H,Recrystallized at 1173K for 30min,None,EXP,None,1173,None,None,None,S3.1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo5 Nb36 Hf13 Ti41,BCC,AC,None,density,EXP,None,298,7.53,None,g/cm^3,S3.1,10.1016/j.jallcom.2023.168821
+1,Al5 Mo7 Nb36 Hf13 Ti39,BCC,AC,None,density,EXP,None,298,7.64,None,g/cm^3,S3.1,10.1016/j.jallcom.2023.168821
+2,Ta Mo Nb Cr Ti0.25,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content; Cr2 (Ta, Nb),compressive yield stress,EXP,None,298,3230000000.0,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti0.5,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive yield stress,EXP,None,298,2820000000.0,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti0.75,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive yield stress,EXP,None,298,2700000000.0,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti1,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive yield stress,EXP,None,298,2410000000.0,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr,BCC+Laves,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ultimate strength,EXP,None,298,3350000000.0,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti0.25,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ultimate strength,EXP,None,298,3250000000.0,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti0.5,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ultimate strength,EXP,None,298,3020000000.0,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti0.75,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ultimate strength,EXP,None,298,3100000000.0,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti1,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ultimate strength,EXP,None,298,2690000000.0,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr,BCC+Laves,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ductility,EXP,None,298,10.3,0.1,%,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti0.25,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ductility,EXP,None,298,11.8,0.6,%,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti0.5,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ductility,EXP,None,298,13.3,0.7,%,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti0.75,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ductility,EXP,None,298,16.8,0.6,%,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti1,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ductility,EXP,None,298,11.2,0.1,%,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr,BCC+Laves,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti0.25,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti0.5,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti0.75,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti1,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.msea.2024.146394
+3,Ti2 Zr Nb Hf ,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.2,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.4,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.6,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.8,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf ,BCC,AC,None,compressive yield stress,EXP,None,298,613300000.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.2,BCC,AC,None,compressive yield stress,EXP,None,298,709900000.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.4,BCC,AC,None,compressive yield stress,EXP,None,298,826600000.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.6,BCC,AC,None,compressive yield stress,EXP,None,298,859500000.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.8,BCC,AC,None,compressive yield stress,EXP,None,298,946500000.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V,BCC,AC,None,compressive yield stress,EXP,None,298,1007800000.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf ,BCC,AC,None,density,EXP,None,298,7.7,None,g/cm^3,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.2,BCC,AC,None,density,EXP,None,298,7.66,None,g/cm^3,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.4,BCC,AC,None,density,EXP,None,298,7.63,None,g/cm^3,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.6,BCC,AC,None,density,EXP,None,298,7.59,None,g/cm^3,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.8,BCC,AC,None,density,EXP,None,298,7.54,None,g/cm^3,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V,BCC,AC,None,density,EXP,None,298,7.51,None,g/cm^3,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf ,BCC,AC,None,estimated compressive ductility,EXP,None,298,50.0,None,%,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.2,BCC,AC,None,estimated compressive ductility,EXP,None,298,50.0,None,%,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.4,BCC,AC,None,estimated compressive ductility,EXP,None,298,50.0,None,%,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.6,BCC,AC,None,estimated compressive ductility,EXP,None,298,50.0,None,%,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.8,BCC,AC,None,estimated compressive ductility,EXP,None,298,50.0,None,%,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V,BCC,AC,None,estimated compressive ductility,EXP,None,298,50.0,None,%,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf ,BCC,AC,None,tensile ductility,EXP,None,298,7.7,None,%,F8,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.2,BCC,AC,None,tensile ductility,EXP,None,298,9.6,None,%,F8,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.4,BCC,AC,None,tensile ductility,EXP,None,298,9.6,None,%,F8,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.6,BCC,AC,None,tensile ductility,EXP,None,298,11.25,None,%,F8,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.8,BCC,AC,None,tensile ductility,EXP,None,298,10.25,None,%,F8,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V,BCC,AC,None,tensile ductility,EXP,None,298,8.95,None,%,F8,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf ,BCC,AC,None,estimated ultimate compressive strength,EXP,stopped at 50% strain,298,1748000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.2,BCC,AC,None,estimated ultimate compressive strength,EXP,stopped at 50% strain,298,1853000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.4,BCC,AC,None,estimated ultimate compressive strength,EXP,stopped at 50% strain,298,2027000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.6,BCC,AC,None,estimated ultimate compressive strength,EXP,stopped at 50% strain,298,2166000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.8,BCC,AC,None,estimated ultimate compressive strength,EXP,stopped at 50% strain,298,2376000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V,BCC,AC,None,estimated ultimate compressive strength,EXP,stopped at 50% strain,298,2434000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf ,BCC,AC,None,tensile yield stress,EXP,None,298,354000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.2,BCC,AC,None,tensile yield stress,EXP,None,298,536000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.4,BCC,AC,None,tensile yield stress,EXP,None,298,629000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.6,BCC,AC,None,tensile yield stress,EXP,None,298,691000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.8,BCC,AC,None,tensile yield stress,EXP,None,298,836000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V,BCC,AC,None,tensile yield stress,EXP,None,298,935000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
+4,Nb Mo Ta W,BCC,AM,FPBF AM,compressive yield strength,EXP,None,298,1196000000.0,None,Pa,F3,10.1016/j.addlet.2022.100079
+4,(Nb Mo Ta W)24.875 C0.5,BCC+NbC,AM,FPBF AM,compressive yield strength,EXP,None,298,1725000000.0,None,Pa,F3,10.1016/j.addlet.2022.100079
+4,Nb Mo Ta W,BCC,AM,FPBF AM,ultimate compressive strength,EXP,None,298,1237000000.0,None,Pa,F3,10.1016/j.addlet.2022.100079
+4,(Nb Mo Ta W)24.875 C0.5,BCC+NbC,AM,FPBF AM,ultimate compressive strength,EXP,None,298,1782000000.0,None,Pa,F3,10.1016/j.addlet.2022.100079
+4,Nb Mo Ta W,BCC,AM,FPBF AM,compressive ductility,EXP,None,298,4.6,None,%,F3,10.1016/j.addlet.2022.100079
+4,(Nb Mo Ta W)24.875 C0.5,BCC+NbC,AM,FPBF AM,compressive ductility,EXP,None,298,7.0,None,%,F3,10.1016/j.addlet.2022.100079
+5,Re0.5 Mo Nb W (TaC)0.8,BCC+carbide,AC,NbTa-rich carbide,compressive yield strength,EXP,None,298,1340000000.0,21000000.0,Pa,F1,10.1016/j.scriptamat.2021.113909
+5,Re0.5 Mo Nb W (TaC)0.8,BCC+carbide,AC,NbTa-rich carbide,ultimate compressive strength,EXP,None,298,2347000000.0,40000000.0,Pa,F1,10.1016/j.scriptamat.2021.113909
+5,Re0.5 Mo Nb W (TaC)0.8,BCC+carbide,AC,NbTa-rich carbide,compressive ductility,EXP,None,298,8.9,0.15,%,F1,10.1016/j.scriptamat.2021.113909
+6,Mo Nb Re0.5 W,BCC,AC,None,compressive yield strength,EXP,None,298,896000000.0,13000000.0,Pa,T2,10.1016/j.jallcom.2018.11.111
+6,Mo Nb Re0.5 W (TaC)0.2,BCC+carbide,AC,carbide claimed to be FCC,compressive yield strength,EXP,None,298,1074000000.0,11000000.0,Pa,T2,10.1016/j.jallcom.2018.11.111
+6,Mo Nb Re0.5 W (TaC)0.4,BCC+carbide,AC,carbide claimed to be FCC,compressive yield strength,EXP,None,298,1144000000.0,33000000.0,Pa,T2,10.1016/j.jallcom.2018.11.111
+6,Mo Nb Re0.5 W (TaC)0.5,BCC+carbide,AC,carbide claimed to be FCC,compressive yield strength,EXP,None,298,1202000000.0,15000000.0,Pa,T2,10.1016/j.jallcom.2018.11.111
+6,Mo Nb Re0.5 W (TaC)0.6,BCC+carbide,AC,carbide claimed to be FCC,compressive yield strength,EXP,None,298,1241000000.0,26000000.0,Pa,T2,10.1016/j.jallcom.2018.11.111
+6,Mo Nb Re0.5 W,BCC,AC,None,ultimate compressive strength,EXP,None,298,1232000000.0,25000000.0,Pa,T2,10.1016/j.jallcom.2018.11.111
+6,Mo Nb Re0.5 W (TaC)0.2,BCC+carbide,AC,carbide claimed to be FCC,ultimate compressive strength,EXP,None,298,1700000000.0,13000000.0,Pa,T2,10.1016/j.jallcom.2018.11.111
+6,Mo Nb Re0.5 W (TaC)0.4,BCC+carbide,AC,carbide claimed to be FCC,ultimate compressive strength,EXP,None,298,1833000000.0,34000000.0,Pa,T2,10.1016/j.jallcom.2018.11.111
+6,Mo Nb Re0.5 W (TaC)0.5,BCC+carbide,AC,carbide claimed to be FCC,ultimate compressive strength,EXP,None,298,2067000000.0,46000000.0,Pa,T2,10.1016/j.jallcom.2018.11.111
+6,Mo Nb Re0.5 W (TaC)0.6,BCC+carbide,AC,carbide claimed to be FCC,ultimate compressive strength,EXP,None,298,2351000000.0,33000000.0,Pa,T2,10.1016/j.jallcom.2018.11.111
+6,Mo Nb Re0.5 W,BCC,AC,None,compressive ductility,EXP,None,298,7.08,0.33,%,T2,10.1016/j.jallcom.2018.11.111
+6,Mo Nb Re0.5 W (TaC)0.2,BCC+carbide,AC,carbide claimed to be FCC,compressive ductility,EXP,None,298,8.33,0.52,%,T2,10.1016/j.jallcom.2018.11.111
+6,Mo Nb Re0.5 W (TaC)0.4,BCC+carbide,AC,carbide claimed to be FCC,compressive ductility,EXP,None,298,8.81,0.26,%,T2,10.1016/j.jallcom.2018.11.111
+6,Mo Nb Re0.5 W (TaC)0.5,BCC+carbide,AC,carbide claimed to be FCC,compressive ductility,EXP,None,298,10.25,0.41,%,T2,10.1016/j.jallcom.2018.11.111
+6,Mo Nb Re0.5 W (TaC)0.6,BCC+carbide,AC,carbide claimed to be FCC,compressive ductility,EXP,None,298,9.64,0.5,%,T2,10.1016/j.jallcom.2018.11.111
