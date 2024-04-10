@@ -82,9 +82,12 @@ id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Proper
 3.0,Ti2 Zr Nb Hf V0.6,BCC,AC,None,tensile yield stress,EXP,None,298,691000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
 3.0,Ti2 Zr Nb Hf V0.8,BCC,AC,None,tensile yield stress,EXP,None,298,836000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
 3.0,Ti2 Zr Nb Hf V,BCC,AC,None,tensile yield stress,EXP,None,298,935000000.0,None,Pa,F8,10.1016/j.ijrmhm.2024.106681
-4.0,Nb Mo Ta W,BCC,AM,FPBF AM,compressive yield strength,EXP,None,298,1196000000.0,None,Pa,F3,None
-None,(Nb Mo Ta W)24.875 C0.5,BCC+NbC,AM,FPBF AM,compressive yield strength,EXP,None,298,1725000000.0,None,Pa,None,None
-None,Nb Mo Ta W,BCC,AM,FPBF AM,ultimate compressive strength,EXP,None,298,1237000000.0,None,Pa,None,None
-None,(Nb Mo Ta W)24.875 C0.5,BCC+NbC,AM,FPBF AM,ultimate compressive strength,EXP,None,298,1782000000.0,None,Pa,None,None
-None,Nb Mo Ta W,BCC,AM,FPBF AM,compressive ductility,EXP,None,298,4.6,None,%,None,None
-None,(Nb Mo Ta W)24.875 C0.5,BCC+NbC,AM,FPBF AM,compressive ductility,EXP,None,298,7.0,None,%,None,None
+4.0,Nb Mo Ta W,BCC,AM,FPBF AM,compressive yield strength,EXP,None,298,1196000000.0,None,Pa,F3,10.1016/j.addlet.2022.100079
+4.0,(Nb Mo Ta W)24.875 C0.5,BCC+NbC,AM,FPBF AM,compressive yield strength,EXP,None,298,1725000000.0,None,Pa,F3,10.1016/j.addlet.2022.100079
+4.0,Nb Mo Ta W,BCC,AM,FPBF AM,ultimate compressive strength,EXP,None,298,1237000000.0,None,Pa,F3,10.1016/j.addlet.2022.100079
+4.0,(Nb Mo Ta W)24.875 C0.5,BCC+NbC,AM,FPBF AM,ultimate compressive strength,EXP,None,298,1782000000.0,None,Pa,F3,10.1016/j.addlet.2022.100079
+4.0,Nb Mo Ta W,BCC,AM,FPBF AM,compressive ductility,EXP,None,298,4.6,None,%,F3,10.1016/j.addlet.2022.100079
+4.0,(Nb Mo Ta W)24.875 C0.5,BCC+NbC,AM,FPBF AM,compressive ductility,EXP,None,298,7.0,None,%,F3,10.1016/j.addlet.2022.100079
+5.0,Re0.5 Mo Nb W (TaC)0.8,BCC+carbide,AC,NbTa-rich carbide,compressive yield strength,EXP,None,298,1340000000.0,21000000.0,Pa,F1,None
+None,None,None,None,None,ultimate compressive strength,EXP,None,298,2347000000.0,40000000.0,Pa,None,None
+None,None,None,None,None,compressive ductility,EXP,None,298,8.9,0.15,%,None,None
