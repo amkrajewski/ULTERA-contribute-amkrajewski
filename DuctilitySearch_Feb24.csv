@@ -35,17 +35,17 @@ id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Proper
 2,Ta Mo Nb Cr Ti0.5,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ductility,EXP,None,298,13.3,0.7,%,T3,10.1016/j.msea.2024.146394
 2,Ta Mo Nb Cr Ti0.75,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ductility,EXP,None,298,16.8,0.6,%,T3,10.1016/j.msea.2024.146394
 2,Ta Mo Nb Cr Ti1,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ductility,EXP,None,298,11.2,0.1,%,T3,10.1016/j.msea.2024.146394
-2,Ta Mo Nb Cr,BCC+Laves,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.msea.2024.146394
-2,Ta Mo Nb Cr Ti0.25,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.msea.2024.146394
-2,Ta Mo Nb Cr Ti0.5,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.msea.2024.146394
-2,Ta Mo Nb Cr Ti0.75,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.msea.2024.146394
-2,Ta Mo Nb Cr Ti1,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.msea.2024.146394
-3,Ti2 Zr Nb Hf ,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
-3,Ti2 Zr Nb Hf V0.2,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
-3,Ti2 Zr Nb Hf V0.4,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
-3,Ti2 Zr Nb Hf V0.6,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
-3,Ti2 Zr Nb Hf V0.8,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
-3,Ti2 Zr Nb Hf V,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+2,Ta Mo Nb Cr,BCC+Laves,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,8904756000.0,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti0.25,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,7767144000.0,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti0.5,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,7188531000.0,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti0.75,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,6796251000.0,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti1,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,6492234000.0,None,Pa,T3,10.1016/j.msea.2024.146394
+3,Ti2 Zr Nb Hf ,BCC,AC,None,hardness,EXP,Vickers,298,2257571400.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.2,BCC,AC,None,hardness,EXP,Vickers,298,2468421900.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.4,BCC,AC,None,hardness,EXP,Vickers,298,2573356800.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.6,BCC,AC,None,hardness,EXP,Vickers,298,2786168700.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.8,BCC,AC,None,hardness,EXP,Vickers,298,2908756200.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V,BCC,AC,None,hardness,EXP,Vickers,298,3224541600.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
 3,Ti2 Zr Nb Hf ,BCC,AC,None,compressive yield stress,EXP,None,298,613300000.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
 3,Ti2 Zr Nb Hf V0.2,BCC,AC,None,compressive yield stress,EXP,None,298,709900000.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
 3,Ti2 Zr Nb Hf V0.4,BCC,AC,None,compressive yield stress,EXP,None,298,826600000.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
