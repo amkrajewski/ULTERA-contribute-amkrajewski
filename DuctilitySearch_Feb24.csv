@@ -35,17 +35,17 @@ id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Proper
 2,Ta Mo Nb Cr Ti0.5,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ductility,EXP,None,298,13.3,0.7,%,T3,10.1016/j.msea.2024.146394
 2,Ta Mo Nb Cr Ti0.75,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ductility,EXP,None,298,16.8,0.6,%,T3,10.1016/j.msea.2024.146394
 2,Ta Mo Nb Cr Ti1,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ductility,EXP,None,298,11.2,0.1,%,T3,10.1016/j.msea.2024.146394
-2,Ta Mo Nb Cr,BCC+Laves,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,8904756000.0,None,Pa,T3,10.1016/j.msea.2024.146394
-2,Ta Mo Nb Cr Ti0.25,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,7767144000.0,None,Pa,T3,10.1016/j.msea.2024.146394
-2,Ta Mo Nb Cr Ti0.5,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,7188531000.0,None,Pa,T3,10.1016/j.msea.2024.146394
-2,Ta Mo Nb Cr Ti0.75,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,6796251000.0,None,Pa,T3,10.1016/j.msea.2024.146394
-2,Ta Mo Nb Cr Ti1,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,6492234000.0,None,Pa,T3,10.1016/j.msea.2024.146394
-3,Ti2 Zr Nb Hf ,BCC,AC,None,hardness,EXP,Vickers,298,2257571400.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
-3,Ti2 Zr Nb Hf V0.2,BCC,AC,None,hardness,EXP,Vickers,298,2468421900.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
-3,Ti2 Zr Nb Hf V0.4,BCC,AC,None,hardness,EXP,Vickers,298,2573356800.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
-3,Ti2 Zr Nb Hf V0.6,BCC,AC,None,hardness,EXP,Vickers,298,2786168700.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
-3,Ti2 Zr Nb Hf V0.8,BCC,AC,None,hardness,EXP,Vickers,298,2908756200.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
-3,Ti2 Zr Nb Hf V,BCC,AC,None,hardness,EXP,Vickers,298,3224541600.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+2,Ta Mo Nb Cr,BCC+Laves,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti0.25,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti0.5,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti0.75,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti1,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.msea.2024.146394
+3,Ti2 Zr Nb Hf ,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.2,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.4,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.6,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.8,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V,BCC,AC,None,hardness,EXP,Vickers,298,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
 3,Ti2 Zr Nb Hf ,BCC,AC,None,compressive yield stress,EXP,None,298,613300000.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
 3,Ti2 Zr Nb Hf V0.2,BCC,AC,None,compressive yield stress,EXP,None,298,709900000.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
 3,Ti2 Zr Nb Hf V0.4,BCC,AC,None,compressive yield stress,EXP,None,298,826600000.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
@@ -136,3 +136,23 @@ id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Proper
 7,Re0.1 Hf0.35 Ta1.6 W0.4 (TaC)0.25,BCC+carbide,AC,carbide claimed to be FCC-MC,estimated compressive ductility,EXP,None,1723,45.0,None,%,T2,10.1016/j.ijrmhm.2024.106668
 7,Re0.1 Hf0.05 Ta1.6 W0.4 (TaC)0.35,BCC+carbide,AC,carbide claimed to be HCP-M2C,compressive ductility,EXP,None,1723,22.1,None,%,T2,10.1016/j.ijrmhm.2024.106668
 7,Re0.1 Hf0.35 Ta1.6 W0.4 (TaC)0.35,BCC+carbide,AC,carbide claimed to be FCC-MC,estimated compressive ductility,EXP,None,1723,45.0,None,%,T2,10.1016/j.ijrmhm.2024.106668
+8,Ti Zr Nb Mo Ta1.0,BCC+BCC,VAM+A,annealed at 1000C for 6 h; increase of Ta favors single BCC,density,EXP,None,298,9.29,0.07,g/cm^3,T1,10.1016/j.jallcom.2024.174459
+8,Ti Zr Nb Mo Ta0.9,BCC+BCC,VAM+A,annealed at 1000C for 6 h; increase of Ta favors single BCC,density,EXP,None,298,9.16,0.05,g/cm^3,T1,10.1016/j.jallcom.2024.174459
+8,Ti Zr Nb Mo Ta0.8,BCC+BCC,VAM+A,annealed at 1000C for 6 h; increase of Ta favors single BCC,density,EXP,None,298,9.02,0.04,g/cm^3,T1,10.1016/j.jallcom.2024.174459
+8,Ti Zr Nb Mo Ta0.7,BCC+BCC,VAM+A,annealed at 1000C for 6 h; increase of Ta favors single BCC,density,EXP,None,298,8.87,0.02,g/cm^3,T1,10.1016/j.jallcom.2024.174459
+8,Ti Zr Nb Mo Ta0.6,BCC+BCC,VAM+A,annealed at 1000C for 6 h; increase of Ta favors single BCC,density,EXP,None,298,8.68,0.06,g/cm^3,T1,10.1016/j.jallcom.2024.174459
+8,Ti Zr Nb Mo Ta1.0,BCC+BCC,VAM+A,annealed at 1000C for 6 h; increase of Ta favors single BCC,compressive yield strength,EXP,strain rate 0.5e-3,298,1536000000.0,38000000.0,Pa,T3,10.1016/j.jallcom.2024.174459
+8,Ti Zr Nb Mo Ta0.9,BCC+BCC,VAM+A,annealed at 1000C for 6 h; increase of Ta favors single BCC,compressive yield strength,EXP,strain rate 0.5e-3,298,1402000000.0,25000000.0,Pa,T3,10.1016/j.jallcom.2024.174459
+8,Ti Zr Nb Mo Ta0.8,BCC+BCC,VAM+A,annealed at 1000C for 6 h; increase of Ta favors single BCC,compressive yield strength,EXP,strain rate 0.5e-3,298,1317000000.0,17000000.0,Pa,T3,10.1016/j.jallcom.2024.174459
+8,Ti Zr Nb Mo Ta0.7,BCC+BCC,VAM+A,annealed at 1000C for 6 h; increase of Ta favors single BCC,compressive yield strength,EXP,strain rate 0.5e-3,298,1253000000.0,23000000.0,Pa,T3,10.1016/j.jallcom.2024.174459
+8,Ti Zr Nb Mo Ta0.6,BCC+BCC,VAM+A,annealed at 1000C for 6 h; increase of Ta favors single BCC,compressive yield strength,EXP,strain rate 0.5e-3,298,1168000000.0,16000000.0,Pa,T3,10.1016/j.jallcom.2024.174459
+8,Ti Zr Nb Mo Ta1.0,BCC+BCC,VAM+A,annealed at 1000C for 6 h; increase of Ta favors single BCC,compressive ductility,EXP,strain rate 0.5e-3,298,9.1,1.2,%,T3,10.1016/j.jallcom.2024.174459
+8,Ti Zr Nb Mo Ta0.9,BCC+BCC,VAM+A,annealed at 1000C for 6 h; increase of Ta favors single BCC,compressive ductility,EXP,strain rate 0.5e-3,298,17.3,2.7,%,T3,10.1016/j.jallcom.2024.174459
+8,Ti Zr Nb Mo Ta0.8,BCC+BCC,VAM+A,annealed at 1000C for 6 h; increase of Ta favors single BCC,compressive ductility,EXP,strain rate 0.5e-3,298,26.7,1.5,%,T3,10.1016/j.jallcom.2024.174459
+8,Ti Zr Nb Mo Ta0.7,BCC+BCC,VAM+A,annealed at 1000C for 6 h; increase of Ta favors single BCC,compressive ductility,EXP,strain rate 0.5e-3,298,34.8,4.1,%,T3,10.1016/j.jallcom.2024.174459
+8,Ti Zr Nb Mo Ta0.6,BCC+BCC,VAM+A,annealed at 1000C for 6 h; increase of Ta favors single BCC,compressive ductility,EXP,strain rate 0.5e-3,298,20.5,2.6,%,T3,10.1016/j.jallcom.2024.174459
+8,Ti Zr Nb Mo Ta1.0,BCC+BCC,VAM+A,annealed at 1000C for 6 h; increase of Ta favors single BCC,hardness,EXP,None,298,4920171900.0,70610400.0,Pa,T3,10.1016/j.jallcom.2024.174459
+8,Ti Zr Nb Mo Ta0.9,BCC+BCC,VAM+A,annealed at 1000C for 6 h; increase of Ta favors single BCC,hardness,EXP,None,298,4796603700.0,47073600.0,Pa,T3,10.1016/j.jallcom.2024.174459
+8,Ti Zr Nb Mo Ta0.8,BCC+BCC,VAM+A,annealed at 1000C for 6 h; increase of Ta favors single BCC,hardness,EXP,None,298,4522988400.0,103954200.0,Pa,T3,10.1016/j.jallcom.2024.174459
+8,Ti Zr Nb Mo Ta0.7,BCC+BCC,VAM+A,annealed at 1000C for 6 h; increase of Ta favors single BCC,hardness,EXP,None,298,4451397300.0,80417400.0,Pa,T3,10.1016/j.jallcom.2024.174459
+8,Ti Zr Nb Mo Ta0.6,BCC+BCC,VAM+A,annealed at 1000C for 6 h; increase of Ta favors single BCC,hardness,EXP,None,298,3954182400.0,46092900.0,Pa,T3,10.1016/j.jallcom.2024.174459
