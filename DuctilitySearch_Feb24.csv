@@ -156,7 +156,7 @@ id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Proper
 8,Ti Zr Nb Mo Ta0.8,BCC+BCC,VAM+A,annealed at 1000C for 6 h; increase of Ta favors single BCC,hardness,EXP,None,298.0,4522988400.0,103954200.0,Pa,T3,10.1016/j.jallcom.2024.174459
 8,Ti Zr Nb Mo Ta0.7,BCC+BCC,VAM+A,annealed at 1000C for 6 h; increase of Ta favors single BCC,hardness,EXP,None,298.0,4451397300.0,80417400.0,Pa,T3,10.1016/j.jallcom.2024.174459
 8,Ti Zr Nb Mo Ta0.6,BCC+BCC,VAM+A,annealed at 1000C for 6 h; increase of Ta favors single BCC,hardness,EXP,None,298.0,3954182400.0,46092900.0,Pa,T3,10.1016/j.jallcom.2024.174459
-9,V33 Co34 Ni33,FCC+L12+HCP,VAM+HF+H+CR+RX,Lamellar phases in FCC grains; ultrafine grain 0.43um; hot forged at 1,423 K; homogenization in a vacuum at 1,373 K for 2 h; cold rolling for 90% reduction; recrystallization at 1,173 K for 150s,tensile yield strength,EXP,strain rate 0.5e-3,298.0,2080000000.0,None,Pa,F2,10.1038/s41563-024-01871-7
+9,V33 Co34 Ni33,FCC+L12+HCP,VAM+HF+H+CR+RX,Lamellar phases in FCC grains; ultrafine grain 0.43um; hot forged at 1,423K; homogenization in a vacuum at 1,373K for 2h; cold rolling for 90% reduction; recrystallization at 1,173K for 150s,tensile yield strength,EXP,strain rate 0.5e-3,298.0,2080000000.0,None,Pa,F2,10.1038/s41563-024-01871-7
 9,V33 Co34 Ni33,FCC+L12+HCP,VAM+HF+H+CR+RX,Lamellar phases in FCC grains; ultrafine grain 0.43um; hot forged at 1,423 K; homogenization in a vacuum at 1,373 K for 2 h; cold rolling for 90% reduction; recrystallization at 1,173 K for 150s,tensile yield strength,EXP,strain rate 0.5e-3; liquid nitrogen,77.0,2250000000.0,None,Pa,F2,10.1038/s41563-024-01871-7
 9,V33 Co34 Ni33,FCC+L12+HCP,VAM+HF+H+CR+RX,Lamellar phases in FCC grains; ultrafine grain 0.43um; hot forged at 1,423 K; homogenization in a vacuum at 1,373 K for 2 h; cold rolling for 90% reduction; recrystallization at 1,173 K for 150s,tensile yield strength,EXP,strain rate 0.5e-3; liquid helium,4.0,2300000000.0,None,Pa,F2,10.1038/s41563-024-01871-7
 9,V33 Co34 Ni33,FCC+L12+HCP,VAM+HF+H+CR+RX,Lamellar phases in FCC grains; ultrafine grain 0.43um; hot forged at 1,423 K; homogenization in a vacuum at 1,373 K for 2 h; cold rolling for 90% reduction; recrystallization at 1,173 K for 150s,ultimate tensile strength,EXP,strain rate 0.5e-3,298.0,2040000000.0,None,Pa,F2,10.1038/s41563-024-01871-7
@@ -170,17 +170,14 @@ id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Proper
 10,Hf0.5 Mo0.5 Nb Ti Zr Cr0.3,BCC,AC,mid-button cut,None,None,None,None,None,None,None,S3,10.1016/j.ijrmhm.2020.105405
 10,Hf0.5 Mo0.5 Nb Ti Zr Cr0.4,BCC+laves,AC,CrMoZr phase Fd-3m Cu2Mg-typed Laves phase; mid-button cut,compressive ductility,EXP,None,298.0,17.5,0.5,%,F6,10.1016/j.ijrmhm.2020.105405
 10,Hf0.5 Mo0.5 Nb Ti Zr Cr0.5,BCC+laves,AC,CrMoZr phase Fd-3m Cu2Mg-typed Laves phase; mid-button cut,compressive ductility,EXP,None,298.0,11.0,0.5,%,F6,10.1016/j.ijrmhm.2020.105405
-10,Hf0.5 Mo0.5 Nb Ti Zr Cr0.3,BCC+laves,H,homogenized at 1100C for 10h; homogenization stabilizes the CrMoZr phase Fd-3m Cu2Mg-typed Laves phase
-; mid-button cut,compressive ductility,EXP,None,298.0,19.0,0.5,%,F6,10.1016/j.ijrmhm.2020.105405
+10,Hf0.5 Mo0.5 Nb Ti Zr Cr0.3,BCC+laves,H,homogenized at 1100C for 10h; homogenization stabilizes the CrMoZr phase Fd-3m Cu2Mg-typed Laves phase; mid-button cut,compressive ductility,EXP,None,298.0,19.0,0.5,%,F6,10.1016/j.ijrmhm.2020.105405
 10,Hf0.5 Mo0.5 Nb Ti Zr Cr0.1,BCC,AC,mid-button cut,compressive yield stress,EXP,None,298.0,1275000000.0,75000000.0,Pa,F6,10.1016/j.ijrmhm.2020.105405
 10,Hf0.5 Mo0.5 Nb Ti Zr Cr0.2,BCC,AC,mid-button cut,compressive yield stress,EXP,None,298.0,1350000000.0,75000000.0,Pa,F6,10.1016/j.ijrmhm.2020.105405
 10,Hf0.5 Mo0.5 Nb Ti Zr Cr0.4,BCC+laves,AC,CrMoZr phase Fd-3m Cu2Mg-typed Laves phase; mid-button cut,compressive yield stress,EXP,None,298.0,1300000000.0,75000000.0,Pa,F6,10.1016/j.ijrmhm.2020.105405
 10,Hf0.5 Mo0.5 Nb Ti Zr Cr0.5,BCC+laves,AC,CrMoZr phase Fd-3m Cu2Mg-typed Laves phase; mid-button cut,compressive yield stress,EXP,None,298.0,1475000000.0,75000000.0,Pa,F6,10.1016/j.ijrmhm.2020.105405
-10,Hf0.5 Mo0.5 Nb Ti Zr Cr0.3,BCC+laves,H,homogenized at 1100C for 10h; homogenization stabilizes the CrMoZr phase Fd-3m Cu2Mg-typed Laves phase
-; mid-button cut,compressive yield stress,EXP,None,298.0,1275000000.0,75000000.0,Pa,F6,10.1016/j.ijrmhm.2020.105405
+10,Hf0.5 Mo0.5 Nb Ti Zr Cr0.3,BCC+laves,H,homogenized at 1100C for 10h; homogenization stabilizes the CrMoZr phase Fd-3m Cu2Mg-typed Laves phase; mid-button cut,compressive yield stress,EXP,None,298.0,1275000000.0,75000000.0,Pa,F6,10.1016/j.ijrmhm.2020.105405
 10,Hf0.5 Mo0.5 Nb Ti Zr Cr0.1,BCC,AC,mid-button cut,ultimate compressive strength,EXP,None,298.0,1875000000.0,25000000.0,Pa,F6,10.1016/j.ijrmhm.2020.105405
-10,Hf0.5 Mo0.5 Nb Ti Zr Cr0.2,BCC,AC,mid-button cut,ultimate compressive strength,EXP,None,298.0,1700000000.0,None,Pa,F6,10.1016/j.ijrmhm.2020.105405
-10,Hf0.5 Mo0.5 Nb Ti Zr Cr0.4,BCC+laves,AC,CrMoZr phase Fd-3m Cu2Mg-typed Laves phase; mid-button cut,ultimate compressive strength,EXP,None,298.0,1675000000.0,None,Pa,F6,10.1016/j.ijrmhm.2020.105405
-10,Hf0.5 Mo0.5 Nb Ti Zr Cr0.5,BCC+laves,AC,CrMoZr phase Fd-3m Cu2Mg-typed Laves phase; mid-button cut,ultimate compressive strength,EXP,None,298.0,1700000000.0,None,Pa,F6,10.1016/j.ijrmhm.2020.105405
-10,Hf0.5 Mo0.5 Nb Ti Zr Cr0.3,BCC+laves,H,homogenized at 1100C for 10h; homogenization stabilizes the CrMoZr phase Fd-3m Cu2Mg-typed Laves phase
-; mid-button cut,ultimate compressive strength,EXP,None,298.0,1600000000.0,None,Pa,F6,10.1016/j.ijrmhm.2020.105405
+10,Hf0.5 Mo0.5 Nb Ti Zr Cr0.2,BCC,AC,mid-button cut,ultimate compressive strength,EXP,None,298.0,1700000000.0,25000000.0,Pa,F6,10.1016/j.ijrmhm.2020.105405
+10,Hf0.5 Mo0.5 Nb Ti Zr Cr0.4,BCC+laves,AC,CrMoZr phase Fd-3m Cu2Mg-typed Laves phase; mid-button cut,ultimate compressive strength,EXP,None,298.0,1675000000.0,25000000.0,Pa,F6,10.1016/j.ijrmhm.2020.105405
+10,Hf0.5 Mo0.5 Nb Ti Zr Cr0.5,BCC+laves,AC,CrMoZr phase Fd-3m Cu2Mg-typed Laves phase; mid-button cut,ultimate compressive strength,EXP,None,298.0,1700000000.0,25000000.0,Pa,F6,10.1016/j.ijrmhm.2020.105405
+10,Hf0.5 Mo0.5 Nb Ti Zr Cr0.3,BCC+laves,H,homogenized at 1100C for 10h; homogenization stabilizes the CrMoZr phase Fd-3m Cu2Mg-typed Laves phase; mid-button cut,ultimate compressive strength,EXP,None,298.0,1600000000.0,25000000.0,Pa,F6,10.1016/j.ijrmhm.2020.105405
