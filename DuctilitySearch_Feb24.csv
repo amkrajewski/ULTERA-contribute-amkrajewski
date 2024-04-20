@@ -222,21 +222,21 @@ id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Proper
 12,Nb40 Ti40 V20,BCC,CR+A,final anneal 1200C for 5min in vaccuum,tensile ductility,EXP,None,773.0,35.8,0.6,%,T3,10.1016/j.jallcom.2022.168465
 12,Al15 Nb40 Ti40 V5,BCC+B2,CR+A,final anneal 1050C for 15min in vaccuum; minor B2 at 30nm,tensile ductility,EXP,None,773.0,45.1,0.8,%,T3,10.1016/j.jallcom.2022.168465
 12,Al20 Nb40 Ti40,BCC+B2,CR+A,final anneal 1200C for 1min in vaccuum; strong B2 at up to 700nm,tensile ductility,EXP,None,773.0,21.7,2.6,%,T3,10.1016/j.jallcom.2022.168465
-12,Nb40 Ti40 V20,BCC,CR+A,final anneal 1200C for 5min in vaccuum,tensile yield stress,EXP,None,973.0,245000000.0,15000000.0,Pa,T4,None
-12,Al15 Nb40 Ti40 V5,BCC+B2,CR+A,final anneal 1050C for 15min in vaccuum; minor B2 at 30nm,tensile yield stress,EXP,None,973.0,210000000.0,15000000.0,Pa,T4,None
-12,Al20 Nb40 Ti40,BCC+B2,CR+A,final anneal 1200C for 1min in vaccuum; strong B2 at up to 700nm,tensile yield stress,EXP,None,973.0,510000000.0,20000000.0,Pa,T4,None
-12,Nb40 Ti40 V20,BCC,CR+A,final anneal 1200C for 5min in vaccuum,ultimate tensile strength,EXP,None,973.0,275000000.0,10000000.0,Pa,T4,None
-12,Al15 Nb40 Ti40 V5,BCC+B2,CR+A,final anneal 1050C for 15min in vaccuum; minor B2 at 30nm,ultimate tensile strength,EXP,None,973.0,240000000.0,15000000.0,Pa,T4,None
-12,Al20 Nb40 Ti40,BCC+B2,CR+A,final anneal 1200C for 1min in vaccuum; strong B2 at up to 700nm,ultimate tensile strength,EXP,None,973.0,595000000.0,20000000.0,Pa,T4,None
-12,Nb40 Ti40 V20,BCC,CR+A,final anneal 1200C for 5min in vaccuum,tensile ductility,EXP,None,973.0,30.8,1.6,%,T4,None
-12,Al15 Nb40 Ti40 V5,BCC+B2,CR+A,final anneal 1050C for 15min in vaccuum; minor B2 at 30nm,tensile ductility,EXP,None,973.0,54.6,0.5,%,T4,None
-12,Al20 Nb40 Ti40,BCC+B2,CR+A,final anneal 1200C for 1min in vaccuum; strong B2 at up to 700nm,tensile ductility,EXP,None,973.0,6.3,1.0,%,T4,None
-12,Nb40 Ti40 V20,BCC,CR+A,final anneal 1200C for 5min in vaccuum,tensile yield stress,EXP,None,1173.0,180000000.0,5000000.0,None,None,None
-12,Al15 Nb40 Ti40 V5,BCC+B2,CR+A,final anneal 1050C for 15min in vaccuum; minor B2 at 30nm,tensile yield stress,EXP,None,1173.0,105000000.0,5000000.0,None,None,None
-12,Al20 Nb40 Ti40,BCC+B2,CR+A,final anneal 1200C for 1min in vaccuum; strong B2 at up to 700nm,tensile yield stress,EXP,None,1173.0,150000000.0,10000000.0,None,None,None
-12,Nb40 Ti40 V20,BCC,CR+A,final anneal 1200C for 5min in vaccuum,ultimate tensile strength,EXP,None,1173.0,210000000.0,5000000.0,None,None,None
-12,Al15 Nb40 Ti40 V5,BCC+B2,CR+A,final anneal 1050C for 15min in vaccuum; minor B2 at 30nm,ultimate tensile strength,EXP,None,1173.0,110000000.0,5000000.0,None,None,None
-12,Al20 Nb40 Ti40,BCC+B2,CR+A,final anneal 1200C for 1min in vaccuum; strong B2 at up to 700nm,ultimate tensile strength,EXP,None,1173.0,170000000.0,10000000.0,None,None,None
-12,Nb40 Ti40 V20,BCC,CR+A,final anneal 1200C for 5min in vaccuum,tensile ductility,EXP,None,1173.0,120.5,10.6,None,None,None
-12,Al15 Nb40 Ti40 V5,BCC+B2,CR+A,final anneal 1050C for 15min in vaccuum; minor B2 at 30nm,tensile ductility,EXP,None,1173.0,211.1,3.6,None,None,None
-12,Al20 Nb40 Ti40,BCC+B2,CR+A,final anneal 1200C for 1min in vaccuum; strong B2 at up to 700nm,tensile ductility,EXP,None,1173.0,121.2,2.2,None,None,None
+12,Nb40 Ti40 V20,BCC,CR+A,final anneal 1200C for 5min in vaccuum,tensile yield stress,EXP,None,973.0,245000000.0,15000000.0,Pa,T4,10.1016/j.jallcom.2022.168465
+12,Al15 Nb40 Ti40 V5,BCC+B2,CR+A,final anneal 1050C for 15min in vaccuum; minor B2 at 30nm,tensile yield stress,EXP,None,973.0,210000000.0,15000000.0,Pa,T4,10.1016/j.jallcom.2022.168465
+12,Al20 Nb40 Ti40,BCC+B2,CR+A,final anneal 1200C for 1min in vaccuum; strong B2 at up to 700nm,tensile yield stress,EXP,None,973.0,510000000.0,20000000.0,Pa,T4,10.1016/j.jallcom.2022.168465
+12,Nb40 Ti40 V20,BCC,CR+A,final anneal 1200C for 5min in vaccuum,ultimate tensile strength,EXP,None,973.0,275000000.0,10000000.0,Pa,T4,10.1016/j.jallcom.2022.168465
+12,Al15 Nb40 Ti40 V5,BCC+B2,CR+A,final anneal 1050C for 15min in vaccuum; minor B2 at 30nm,ultimate tensile strength,EXP,None,973.0,240000000.0,15000000.0,Pa,T4,10.1016/j.jallcom.2022.168465
+12,Al20 Nb40 Ti40,BCC+B2,CR+A,final anneal 1200C for 1min in vaccuum; strong B2 at up to 700nm,ultimate tensile strength,EXP,None,973.0,595000000.0,20000000.0,Pa,T4,10.1016/j.jallcom.2022.168465
+12,Nb40 Ti40 V20,BCC,CR+A,final anneal 1200C for 5min in vaccuum,tensile ductility,EXP,None,973.0,30.8,1.6,%,T4,10.1016/j.jallcom.2022.168465
+12,Al15 Nb40 Ti40 V5,BCC+B2,CR+A,final anneal 1050C for 15min in vaccuum; minor B2 at 30nm,tensile ductility,EXP,None,973.0,54.6,0.5,%,T4,10.1016/j.jallcom.2022.168465
+12,Al20 Nb40 Ti40,BCC+B2,CR+A,final anneal 1200C for 1min in vaccuum; strong B2 at up to 700nm,tensile ductility,EXP,None,973.0,6.3,1.0,%,T4,10.1016/j.jallcom.2022.168465
+12,Nb40 Ti40 V20,BCC,CR+A,final anneal 1200C for 5min in vaccuum,tensile yield stress,EXP,None,1173.0,180000000.0,5000000.0,Pa,T4,10.1016/j.jallcom.2022.168465
+12,Al15 Nb40 Ti40 V5,BCC+B2,CR+A,final anneal 1050C for 15min in vaccuum; minor B2 at 30nm,tensile yield stress,EXP,None,1173.0,105000000.0,5000000.0,Pa,T4,10.1016/j.jallcom.2022.168465
+12,Al20 Nb40 Ti40,BCC+B2,CR+A,final anneal 1200C for 1min in vaccuum; strong B2 at up to 700nm,tensile yield stress,EXP,None,1173.0,150000000.0,10000000.0,Pa,T4,10.1016/j.jallcom.2022.168465
+12,Nb40 Ti40 V20,BCC,CR+A,final anneal 1200C for 5min in vaccuum,ultimate tensile strength,EXP,None,1173.0,210000000.0,5000000.0,Pa,T4,10.1016/j.jallcom.2022.168465
+12,Al15 Nb40 Ti40 V5,BCC+B2,CR+A,final anneal 1050C for 15min in vaccuum; minor B2 at 30nm,ultimate tensile strength,EXP,None,1173.0,110000000.0,5000000.0,Pa,T4,10.1016/j.jallcom.2022.168465
+12,Al20 Nb40 Ti40,BCC+B2,CR+A,final anneal 1200C for 1min in vaccuum; strong B2 at up to 700nm,ultimate tensile strength,EXP,None,1173.0,170000000.0,10000000.0,Pa,T4,10.1016/j.jallcom.2022.168465
+12,Nb40 Ti40 V20,BCC,CR+A,final anneal 1200C for 5min in vaccuum,tensile ductility,EXP,None,1173.0,120.5,10.6,%,T4,10.1016/j.jallcom.2022.168465
+12,Al15 Nb40 Ti40 V5,BCC+B2,CR+A,final anneal 1050C for 15min in vaccuum; minor B2 at 30nm,tensile ductility,EXP,None,1173.0,211.1,3.6,%,T4,10.1016/j.jallcom.2022.168465
+12,Al20 Nb40 Ti40,BCC+B2,CR+A,final anneal 1200C for 1min in vaccuum; strong B2 at up to 700nm,tensile ductility,EXP,None,1173.0,121.2,2.2,%,T4,10.1016/j.jallcom.2022.168465
