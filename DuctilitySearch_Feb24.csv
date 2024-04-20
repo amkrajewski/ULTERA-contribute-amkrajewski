@@ -181,3 +181,23 @@ id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Proper
 10,Hf0.5 Mo0.5 Nb Ti Zr Cr0.4,BCC+laves,AC,CrMoZr phase Fd-3m Cu2Mg-typed Laves phase; mid-button cut,ultimate compressive strength,EXP,None,298.0,1675000000.0,25000000.0,Pa,F6,10.1016/j.ijrmhm.2020.105405
 10,Hf0.5 Mo0.5 Nb Ti Zr Cr0.5,BCC+laves,AC,CrMoZr phase Fd-3m Cu2Mg-typed Laves phase; mid-button cut,ultimate compressive strength,EXP,None,298.0,1700000000.0,25000000.0,Pa,F6,10.1016/j.ijrmhm.2020.105405
 10,Hf0.5 Mo0.5 Nb Ti Zr Cr0.3,BCC+laves,H,homogenized at 1100C for 10h; homogenization stabilizes the CrMoZr phase Fd-3m Cu2Mg-typed Laves phase; mid-button cut,ultimate compressive strength,EXP,None,298.0,1600000000.0,25000000.0,Pa,F6,10.1016/j.ijrmhm.2020.105405
+11,(W Mo V)20 (Cr Ta)10 Fe20,BCC+BCC+?,AC,approximate composition due to incorporation of Fe from 48h BM-processing using steel balls; EDS untrustworthy  results,compressive yield stress,EXP,None,298.0,1688000000.0,None,Pa,T6,10.1016/j.ijrmhm.2021.105656
+11,W Mo V Cr Ta,None,AC,ceramic ball milling before VAM,compressive yield stress,EXP,None,298.0,995000000.0,None,Pa,T6,10.1016/j.ijrmhm.2021.105656
+11,(W Mo V)20 (Cr Ta)10 Fe20,BCC+BCC+?,AC,approximate composition due to incorporation of Fe from 48h BM-processing using steel balls; EDS untrustworthy  results,compressive yield stress,EXP,None,1073.0,1041000000.0,None,Pa,T6,10.1016/j.ijrmhm.2021.105656
+11,(W Mo V)20 (Cr Ta)10 Fe20,BCC+BCC+?,AC,approximate composition due to incorporation of Fe from 48h BM-processing using steel balls; EDS untrustworthy  results,compressive yield stress,EXP,None,1273.0,1514000000.0,None,Pa,T6,10.1016/j.ijrmhm.2021.105656
+11,W Mo V Cr Ta,None,AC,None,compressive yield stress,EXP,None,1273.0,785000000.0,None,Pa,T6,10.1016/j.ijrmhm.2021.105656
+11,W Mo V Cr Ta,None,AC,None,compressive yield stress,EXP,None,1473.0,941000000.0,None,Pa,T6,10.1016/j.ijrmhm.2021.105656
+11,(W Mo V)20 (Cr Ta)10 Fe20,BCC+BCC+?,AC,approximate composition due to incorporation of Fe from 48h BM-processing using steel balls; EDS untrustworthy  results,ultimate compressive strength,EXP,None,298.0,1708000000.0,None,Pa,T6,10.1016/j.ijrmhm.2021.105656
+11,W Mo V Cr Ta,None,AC,None,ultimate compressive strength,EXP,None,298.0,995000000.0,None,Pa,T6,10.1016/j.ijrmhm.2021.105656
+11,(W Mo V)20 (Cr Ta)10 Fe20,BCC+BCC+?,AC,approximate composition due to incorporation of Fe from 48h BM-processing using steel balls; EDS untrustworthy  results,ultimate compressive strength,EXP,None,1073.0,1041000000.0,None,Pa,T6,10.1016/j.ijrmhm.2021.105656
+11,(W Mo V)20 (Cr Ta)10 Fe20,BCC+BCC+?,AC,approximate composition due to incorporation of Fe from 48h BM-processing using steel balls; EDS untrustworthy  results,ultimate compressive strength,EXP,None,1273.0,1749000000.0,None,Pa,T6,10.1016/j.ijrmhm.2021.105656
+11,W Mo V Cr Ta,None,AC,None,ultimate compressive strength,EXP,None,1273.0,818000000.0,None,Pa,T6,10.1016/j.ijrmhm.2021.105656
+11,(W Mo V)20 (Cr Ta)10 Fe20,BCC+BCC+?,AC,approximate composition due to incorporation of Fe from 48h BM-processing using steel balls; EDS untrustworthy  results,ultimate compressive strength,EXP,None,1473.0,57000000.0,None,Pa,T6,10.1016/j.ijrmhm.2021.105656
+11,W Mo V Cr Ta,None,AC,None,ultimate compressive strength,EXP,None,1473.0,964000000.0,None,Pa,T6,10.1016/j.ijrmhm.2021.105656
+11,(W Mo V)20 (Cr Ta)10 Fe20,BCC+BCC+?,AC,approximate composition due to incorporation of Fe from 48h BM-processing using steel balls; EDS untrustworthy  results,compressive ductility,EXP,None,298.0,7.3,None,%,T6,10.1016/j.ijrmhm.2021.105656
+11,W Mo V Cr Ta,None,AC,None,compressive ductility,EXP,None,298.0,6.2,None,%,T6,10.1016/j.ijrmhm.2021.105656
+11,(W Mo V)20 (Cr Ta)10 Fe20,BCC+BCC+?,AC,approximate composition due to incorporation of Fe from 48h BM-processing using steel balls; EDS untrustworthy  results,compressive ductility,EXP,None,1073.0,9.1,None,%,T6,10.1016/j.ijrmhm.2021.105656
+11,(W Mo V)20 (Cr Ta)10 Fe20,BCC+BCC+?,AC,approximate composition due to incorporation of Fe from 48h BM-processing using steel balls; EDS untrustworthy  results,compressive ductility,EXP,None,1273.0,10.6,None,%,T6,10.1016/j.ijrmhm.2021.105656
+11,W Mo V Cr Ta,None,AC,None,compressive ductility,EXP,None,1273.0,5.7,None,%,T6,10.1016/j.ijrmhm.2021.105656
+11,(W Mo V)20 (Cr Ta)10 Fe20,BCC+BCC+?,AC,approximate composition due to incorporation of Fe from 48h BM-processing using steel balls; EDS untrustworthy  results,compressive ductility,EXP,None,1473.0,0.8,None,%,T6,10.1016/j.ijrmhm.2021.105656
+11,W Mo V Cr Ta,None,AC,None,compressive ductility,EXP,None,1473.0,8.3,None,%,T6,10.1016/j.ijrmhm.2021.105656
