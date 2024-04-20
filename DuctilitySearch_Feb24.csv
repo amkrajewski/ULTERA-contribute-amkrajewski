@@ -35,17 +35,17 @@ id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Proper
 2,Ta Mo Nb Cr Ti0.5,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ductility,EXP,None,298.0,13.3,0.7,%,T3,10.1016/j.msea.2024.146394
 2,Ta Mo Nb Cr Ti0.75,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ductility,EXP,None,298.0,16.8,0.6,%,T3,10.1016/j.msea.2024.146394
 2,Ta Mo Nb Cr Ti1,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,compressive ductility,EXP,None,298.0,11.2,0.1,%,T3,10.1016/j.msea.2024.146394
-2,Ta Mo Nb Cr,BCC+Laves,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298.0,None,None,Pa,T3,10.1016/j.msea.2024.146394
-2,Ta Mo Nb Cr Ti0.25,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298.0,None,None,Pa,T3,10.1016/j.msea.2024.146394
-2,Ta Mo Nb Cr Ti0.5,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298.0,None,None,Pa,T3,10.1016/j.msea.2024.146394
-2,Ta Mo Nb Cr Ti0.75,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298.0,None,None,Pa,T3,10.1016/j.msea.2024.146394
-2,Ta Mo Nb Cr Ti1,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298.0,None,None,Pa,T3,10.1016/j.msea.2024.146394
-3,Ti2 Zr Nb Hf ,BCC,AC,None,hardness,EXP,Vickers,298.0,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
-3,Ti2 Zr Nb Hf V0.2,BCC,AC,None,hardness,EXP,Vickers,298.0,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
-3,Ti2 Zr Nb Hf V0.4,BCC,AC,None,hardness,EXP,Vickers,298.0,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
-3,Ti2 Zr Nb Hf V0.6,BCC,AC,None,hardness,EXP,Vickers,298.0,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
-3,Ti2 Zr Nb Hf V0.8,BCC,AC,None,hardness,EXP,Vickers,298.0,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
-3,Ti2 Zr Nb Hf V,BCC,AC,None,hardness,EXP,Vickers,298.0,None,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+2,Ta Mo Nb Cr,BCC+Laves,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298.0,8904756000.0,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti0.25,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298.0,7767144000.0,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti0.5,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298.0,7188531000.0,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti0.75,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298.0,6796251000.0,None,Pa,T3,10.1016/j.msea.2024.146394
+2,Ta Mo Nb Cr Ti1,BCC+Laves+TiON,MA+SPS,Ultrafine grain (<1um); O and N introduced during MA; Laves fraction decreases with Ti content,hardness,EXP,Vickers,298.0,6492234000.0,None,Pa,T3,10.1016/j.msea.2024.146394
+3,Ti2 Zr Nb Hf ,BCC,AC,None,hardness,EXP,Vickers,298.0,2257571400.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.2,BCC,AC,None,hardness,EXP,Vickers,298.0,2468421900.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.4,BCC,AC,None,hardness,EXP,Vickers,298.0,2573356800.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.6,BCC,AC,None,hardness,EXP,Vickers,298.0,2786168700.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V0.8,BCC,AC,None,hardness,EXP,Vickers,298.0,2908756200.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
+3,Ti2 Zr Nb Hf V,BCC,AC,None,hardness,EXP,Vickers,298.0,3224541600.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
 3,Ti2 Zr Nb Hf ,BCC,AC,None,compressive yield stress,EXP,None,298.0,613300000.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
 3,Ti2 Zr Nb Hf V0.2,BCC,AC,None,compressive yield stress,EXP,None,298.0,709900000.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
 3,Ti2 Zr Nb Hf V0.4,BCC,AC,None,compressive yield stress,EXP,None,298.0,826600000.0,None,Pa,T3,10.1016/j.ijrmhm.2024.106681
@@ -211,8 +211,8 @@ id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Proper
 12,Al15 Nb40 Ti40 V5,BCC+B2,CR+A,final anneal 1050C for 15min in vaccuum; minor B2 at 30nm,tensile ductility,EXP,None,298.0,45.6,0.3,%,T2,10.1016/j.jallcom.2022.168465
 12,Al20 Nb40 Ti40,BCC+B2,CR+A,final anneal 1200C for 1min in vaccuum; strong B2 at up to 700nm,tensile ductility,EXP,None,298.0,0.3,0.1,%,T2,10.1016/j.jallcom.2022.168465
 12,Nb40 Ti40 V20,BCC,CR+A,final anneal 1200C for 5min in vaccuum,youngs modulus,EXP,None,298.0,105300000000.0,2500000.0,Pa,T2,10.1016/j.jallcom.2022.168465
-12,Al15 Nb40 Ti40 V5,BCC+B2,CR+A,final anneal 1050C for 15min in vaccuum; minor B2 at 30nm,youngs modulus,EXP,None,298.0,108100000.0,1700000.0,Pa,T2,10.1016/j.jallcom.2022.168465
-12,Al20 Nb40 Ti40,BCC+B2,CR+A,final anneal 1200C for 1min in vaccuum; strong B2 at up to 700nm,youngs modulus,EXP,None,298.0,93200000.0,3100000.0,Pa,T2,10.1016/j.jallcom.2022.168465
+12,Al15 Nb40 Ti40 V5,BCC+B2,CR+A,final anneal 1050C for 15min in vaccuum; minor B2 at 30nm,youngs modulus,EXP,None,298.0,108100000000.0,1700000.0,Pa,T2,10.1016/j.jallcom.2022.168465
+12,Al20 Nb40 Ti40,BCC+B2,CR+A,final anneal 1200C for 1min in vaccuum; strong B2 at up to 700nm,youngs modulus,EXP,None,298.0,93200000000.0,3100000.0,Pa,T2,10.1016/j.jallcom.2022.168465
 12,Nb40 Ti40 V20,BCC,CR+A,final anneal 1200C for 5min in vaccuum,tensile yield stress,EXP,None,773.0,405000000.0,25000000.0,Pa,T3,10.1016/j.jallcom.2022.168465
 12,Al15 Nb40 Ti40 V5,BCC+B2,CR+A,final anneal 1050C for 15min in vaccuum; minor B2 at 30nm,tensile yield stress,EXP,None,773.0,470000000.0,15000000.0,Pa,T3,10.1016/j.jallcom.2022.168465
 12,Al20 Nb40 Ti40,BCC+B2,CR+A,final anneal 1200C for 1min in vaccuum; strong B2 at up to 700nm,tensile yield stress,EXP,None,773.0,580000000.0,60000000.0,Pa,T3,10.1016/j.jallcom.2022.168465
