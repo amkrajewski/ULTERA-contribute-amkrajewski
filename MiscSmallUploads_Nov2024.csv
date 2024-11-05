@@ -9,3 +9,7 @@ Eq,Ti16.67 Zr16.67 Hf16.67 Nb16.67 Ta16.67 Mo16.67,BCC+BCC,AC,None,None,None,Non
 1,Ti32.07 Zr27.58 Hf18.49 Nb12.70 Ta0.19 Mo8.97,BCC,AC,None,None,None,None,None,None,None,None,S5,10.1016/j.matdes.2021.109548
 2,Ti32.61 Zr28.58 Hf20.39 Nb12.05 Ta0.80 Mo5.57,BCC,AC,None,None,None,None,None,None,None,None,S5,10.1016/j.matdes.2021.109548
 3,Ti28.33 Zr28.33 Hf28.33 Nb6.74 Ta6.74 Mo1.55,BCC,AC,None,None,None,None,None,None,None,None,S5,10.1016/j.matdes.2021.109548
+None,ReMoTaW,BCC,AC,HCP and beta-Ta nanoprecipitates,density,EXP,None,298.0,16.69,0.01,None,S3,10.1016/j.ijrmhm.2018.05.006
+None,ReMoTaW,BCC,AC,HCP and beta-Ta nanoprecipitates,compressive yield strength,EXP,None,298.0,1451000000.0,None,Pa,S3,10.1016/j.ijrmhm.2018.05.006
+None,ReMoTaW,BCC,AC,HCP and beta-Ta nanoprecipitates,compressive ductility,EXP,None,298.0,5.69,None,%,S3,10.1016/j.ijrmhm.2018.05.006
+None,ReMoTaW,BCC,AC,HCP and beta-Ta nanoprecipitates,hardness,EXP,None,298.0,None,None,Pa,S3,10.1016/j.ijrmhm.2018.05.006
