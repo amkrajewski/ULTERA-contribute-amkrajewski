@@ -9,7 +9,28 @@ Eq,Ti16.67 Zr16.67 Hf16.67 Nb16.67 Ta16.67 Mo16.67,BCC+BCC,AC,None,None,None,Non
 1,Ti32.07 Zr27.58 Hf18.49 Nb12.70 Ta0.19 Mo8.97,BCC,AC,None,None,None,None,None,None,None,None,S5,10.1016/j.matdes.2021.109548
 2,Ti32.61 Zr28.58 Hf20.39 Nb12.05 Ta0.80 Mo5.57,BCC,AC,None,None,None,None,None,None,None,None,S5,10.1016/j.matdes.2021.109548
 3,Ti28.33 Zr28.33 Hf28.33 Nb6.74 Ta6.74 Mo1.55,BCC,AC,None,None,None,None,None,None,None,None,S5,10.1016/j.matdes.2021.109548
-None,ReMoTaW,BCC,AC,HCP and beta-Ta nanoprecipitates,density,EXP,None,298.0,16.69,0.01,None,S3,10.1016/j.ijrmhm.2018.05.006
+None,ReMoTaW,BCC,AC,HCP and beta-Ta nanoprecipitates,density,EXP,None,298.0,16.69,0.01,g/cm^3,S3,10.1016/j.ijrmhm.2018.05.006
 None,ReMoTaW,BCC,AC,HCP and beta-Ta nanoprecipitates,compressive yield strength,EXP,None,298.0,1451000000.0,None,Pa,S3,10.1016/j.ijrmhm.2018.05.006
 None,ReMoTaW,BCC,AC,HCP and beta-Ta nanoprecipitates,compressive ductility,EXP,None,298.0,5.69,None,%,S3,10.1016/j.ijrmhm.2018.05.006
 None,ReMoTaW,BCC,AC,HCP and beta-Ta nanoprecipitates,hardness,EXP,None,298.0,None,None,Pa,S3,10.1016/j.ijrmhm.2018.05.006
+A10,Ti40 Al10 V20 Nb20 Mo10,BCC,AC,None,density,EXP,None,298.0,6.102,None,g/cm^3,T2,None
+A15,Ti35 Al15 V20 Nb20 Mo10,BCC,AC,None,density,EXP,None,298.0,6.027,None,g/cm^3,T2,None
+A20,Ti30 Al20 V20 Nb20 Mo10,BCC,AC,None,density,EXP,None,298.0,5.876,None,g/cm^3,T2,None
+A10,Ti40 Al10 V20 Nb20 Mo10,BCC,AC,None,compressive yield strength,EXP,None,298.0,900000000.0,None,Pa,T2,None
+A15,Ti35 Al15 V20 Nb20 Mo10,BCC,AC,None,compressive yield strength,EXP,None,1073.0,971000000.0,None,Pa,T2,None
+A20,Ti30 Al20 V20 Nb20 Mo10,BCC,AC,None,compressive yield strength,EXP,None,1273.0,1187000000.0,None,Pa,T2,None
+A10,Ti40 Al10 V20 Nb20 Mo10,BCC,AC,None,compressive yield strength,EXP,None,298.0,520000000.0,None,Pa,T2,None
+A15,Ti35 Al15 V20 Nb20 Mo10,BCC,AC,None,compressive yield strength,EXP,None,1073.0,550000000.0,None,Pa,T2,None
+A20,Ti30 Al20 V20 Nb20 Mo10,BCC,AC,None,compressive yield strength,EXP,None,1273.0,624000000.0,None,Pa,T2,None
+A10,Ti40 Al10 V20 Nb20 Mo10,BCC,AC,None,compressive yield strength,EXP,None,298.0,155000000.0,None,Pa,T2,None
+A15,Ti35 Al15 V20 Nb20 Mo10,BCC,AC,None,compressive yield strength,EXP,None,1073.0,160000000.0,None,Pa,T2,None
+A20,Ti30 Al20 V20 Nb20 Mo10,BCC,AC,None,compressive yield strength,EXP,None,1273.0,180000000.0,None,Pa,T2,None
+A10,Ti40 Al10 V20 Nb20 Mo10,BCC,AC,None,estimated compressive ductility,EXP,None,298.0,50.0,None,%,F2,None
+A15,Ti35 Al15 V20 Nb20 Mo10,BCC,AC,None,estimated compressive ductility,EXP,None,298.0,50.0,None,%,None,None
+A20,Ti30 Al20 V20 Nb20 Mo10,BCC,AC,None,compressive ductility,EXP,None,298.0,9.5,None,%,None,None
+A10,Ti40 Al10 V20 Nb20 Mo10,BCC,AC,None,estimated compressive ductility,EXP,None,1073.0,50.0,None,%,None,None
+A15,Ti35 Al15 V20 Nb20 Mo10,BCC,AC,None,estimated compressive ductility,EXP,None,1073.0,50.0,None,%,None,None
+A20,Ti30 Al20 V20 Nb20 Mo10,BCC,AC,None,compressive ductility,EXP,None,1073.0,28.5,None,%,None,None
+A10,Ti40 Al10 V20 Nb20 Mo10,BCC,AC,None,estimated compressive ductility,EXP,None,1273.0,50.0,None,%,None,None
+A15,Ti35 Al15 V20 Nb20 Mo10,BCC,AC,None,estimated compressive ductility,EXP,None,1273.0,50.0,None,%,None,None
+A20,Ti30 Al20 V20 Nb20 Mo10,BCC,AC,None,estimated compressive ductility,EXP,None,1273.0,50.0,None,%,None,None
