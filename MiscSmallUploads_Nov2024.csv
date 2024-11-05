@@ -1,0 +1,11 @@
+Name:,Adam Krajewski
+Email:,ak@psu.edu
+Direct Fetched:,T
+Hand Fetched:,T
+Comment:,None
+
+id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
+Eq,Ti16.67 Zr16.67 Hf16.67 Nb16.67 Ta16.67 Mo16.67,BCC+BCC,AC,None,None,None,None,None,None,None,None,S5,10.1016/j.matdes.2021.109548
+1,Ti32.07 Zr27.58 Hf18.49 Nb12.70 Ta0.19 Mo8.97,BCC,AC,None,None,None,None,None,None,None,None,S5,10.1016/j.matdes.2021.109548
+2,Ti32.61 Zr28.58 Hf20.39 Nb12.05 Ta0.80 Mo5.57,BCC,AC,None,None,None,None,None,None,None,None,S5,10.1016/j.matdes.2021.109548
+3,Ti28.33 Zr28.33 Hf28.33 Nb6.74 Ta6.74 Mo1.55,BCC,AC,None,None,None,None,None,None,None,None,S5,10.1016/j.matdes.2021.109548
