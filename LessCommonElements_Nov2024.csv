@@ -90,7 +90,7 @@ None,Al20 Be20 Fe10 Si15 Ti35,laves+Si3Ti5+Al2Ti1,VAM,majority phase is laves Ti
 None,Al20 Be20 Fe10 Si15 Ti35,laves+Si3Ti5+Al2Ti1,VAM,majority phase is laves Ti(Be,Al.,Si,Fe)2 with disordered occupancy,hardness,EXP,None,298.0,3.91,None,g/cm^3,P188,10.1007/s11431-017-9073-0
 None,Al20 Li20 Mg10 Sc20 Ti30,FCC,BM,nanocrystalline; ball milled in liquid nitrogen,hardness,EXP,None,298.0,5800000000.0,None,Pa,None,10.1080/21663831.2014.985855
 None,Al20 Li20 Mg10 Sc20 Ti30,HCP,BM+A,nanocrystalline; ball milled in liquid nitrogen; annealed at 773K for 1h,hardness,EXP,None,298.0,4900000000.0,None,Pa,None,10.1080/21663831.2014.985855
-None,Al20 Li20 Mg10 Sc20 Ti30,FCC,BM,nanocrystalline; ball milled in liquid nitrogen,density,EXP,None,298.0,None,None,g/cm^3,None,10.1080/21663831.2014.985855
+None,Al20 Li20 Mg10 Sc20 Ti30,FCC,BM,nanocrystalline; ball milled in liquid nitrogen,density,EXP,None,298.0,2.67,None,g/cm^3,None,10.1080/21663831.2014.985855
 None,(Al20 Li20 Mg10 Sc20 Ti30)0.982 N0.4 O1.4,FCC,BM,nanocrystalline; ball milled in liquid nitrogen; oxygen impurity from contaminated Sc,hardness,EXP,None,298.0,6100000000.0,None,Pa,None,10.1080/21663831.2014.985855
 None,(Al20 Li20 Mg10 Sc20 Ti30)0.982 N0.4 O1.4,FCC,BM+A,nanocrystalline; ball milled in liquid nitrogen; annealed at 773K for 1h; oxygen impurity from contaminated Sc,hardness,EXP,None,298.0,5900000000.0,None,Pa,None,10.1080/21663831.2014.985855
 None,(Al20 Li20 Mg10 Sc20 Ti30)0.982 N0.4 O1.4,FCC,BM+A,nanocrystalline; ball milled in liquid nitrogen; annealed at 873K for 1h; oxygen impurity from contaminated Sc,hardness,EXP,None,298.0,5750000000.0,None,Pa,None,10.1080/21663831.2014.985855
