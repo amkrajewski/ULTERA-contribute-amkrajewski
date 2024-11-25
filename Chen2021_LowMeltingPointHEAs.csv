@@ -1,0 +1,74 @@
+Name:,Adam Krajewski
+Email:,ak@psu.edu
+Direct Fetched:,N
+Hand Fetched:,N
+Comment:,Extracted from Chen2021 (10.1002/adem.202100612)
+
+id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
+2,In20.5 Ga67 Zn12.5,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,283.85,None,K,None,10.1016/j.jmst.2016.08.022
+3,Sn16 In21.5 Ga62.5,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,284.15,None,K,None,10.1016/j.scriptamat.2020.04.016
+6,Sn12 Ga82 Zn6,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,291.95,None,K,None,10.1070/RC2000v069n02ABEH000490
+7,Sn13.5 Ga86.5,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,293.7,None,K,None,10.1070/RC2000v069n02ABEH000490
+8,Cd2 Ga93 Zn5,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,297.75,None,K,None,10.1070/RC2000v069n02ABEH000490
+9,Ga96.5 Zn3.5,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,298.15,None,K,None,10.1070/RC2000v069n02ABEH000490
+10,Sn11 Pb22 Bi41.5 Cd8 In17.5,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,313.15,None,K,None,10.3969/j.issn.2095-4239.2013.03.003
+11,Sn12 Pb18 Bi49 In21,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,332.88,None,K,None,10.1016/j.jmst.2016.08.022
+12,Sn19 Pb17 Bi54 Hg10,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,333.15,None,K,None,10.1016/j.jmst.2016.08.022
+13,Sn16.5 Bi32.5 In51,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,333.15,None,K,None,10.1016/j.applthermaleng.2019.114438
+14,Sn12.5 Pb25 Bi50 Cd12.5,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,341.15,None,K,None,10.3969/j.issn.2095-4239.2013.03.003
+15,Sn14.22 Pb27.38 Bi44.39 Cd14.01,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,342.15,None,K,None,10.1016/j.renene.2019.07.115
+16,Sn16 Pb31 Bi37.5 Cd15.5,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,345.15,None,K,None,10.3969/j.issn.2095-4239.2013.03.003
+17,Bi33.7 In66.3,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,345.15,None,K,None,Li_2019_ApplicationFusibleAlloy
+18,Sn13.3 Pb26.7 Bi50 Cd10,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,345.29,None,K,None,10.1016/j.jmst.2016.08.022
+19,Sn10 Pb27.5 Bi28 Cd34.5,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,348.15,None,K,None,10.3969/j.issn.2095-4239.2013.03.003
+20,Sn17.3 Bi57.5 In25.2,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,353.85,None,K,None,10.1016/j.jmst.2016.08.022
+21,Sn16.3 Bi54 In29.7,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,354.15,None,K,None,10.1016/j.scriptamat.2020.04.016
+22,Pb43 Bi50 Cd7,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,355.15,None,K,None,10.3969/j.issn.2095-4239.2013.03.003
+23,Pb42.2 Bi49.7 Cd8.1,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,364.15,None,K,None,10.3969/j.issn.2095-4239.2013.03.003
+24,Sn20 Pb30 Bi50,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,365.15,None,K,None,10.3969/j.issn.2095-4239.2013.03.003
+25,Pb40.2 Bi51.6 Cd8.2,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,366.12,None,K,None,10.1016/j.jmst.2016.08.022
+26,Sn25 Pb25 Bi50,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,366.15,None,K,None,10.3969/j.issn.2095-4239.2013.03.003
+27,Sn15.5 Pb32 Bi52.5,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,369.15,None,K,None,10.3969/j.issn.2095-4239.2013.03.003
+28,Sn17 Pb19 Bi61.5 Hg2.5,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,369.15,None,K,None,10.3969/j.issn.2095-4239.2013.03.003
+29,Sn17.8 Pb32 Bi50.2,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,373.15,None,K,None,10.3969/j.issn.2095-4239.2013.03.003
+30,Sn22 Pb28 Bi50,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,373.15,None,K,None,10.3969/j.issn.2095-4239.2013.03.003
+31,Sn40 Pb20 Bi40,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,373.15,None,K,None,10.3969/j.issn.2095-4239.2013.03.003
+32,Sn14.5 Pb28.5 Bi57,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,378.15,None,K,None,10.3969/j.issn.2095-4239.2013.03.003
+33,Sn48 In52,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,390.15,None,K,None,10.3969/j.issn.2095-4239.2013.03.003
+34,Sn33.5 Pb33.5 Bi33,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,397.15,None,K,None,10.3969/j.issn.2095-4239.2013.03.003
+35,Pb44.5 Bi55.5,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,397.15,None,K,None,10.3969/j.issn.2095-4239.2013.03.003
+36,Pb97.8 Bi2.2,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,398.45,None,K,None,10.1016/j.jmst.2016.08.022
+37,Sn28 Pb43 Bi29,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,405.15,None,K,None,10.1016/j.jmst.2016.08.022
+38,Sn42 Bi58,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,411.15,None,K,None,Li_2019_ApplicationFusibleAlloy
+39,Sn60 Bi40,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,412.15,None,K,None,10.3969/j.issn.2095-4239.2013.03.003
+40,Sn29.5 Pb47 Bi23.5,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,425.15,None,K,None,10.3969/j.issn.2095-4239.2013.03.003
+41,Sn44 Pb41 Bi15,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,437.15,None,K,None,10.1070/RC2000v069n02ABEH000490
+42,Sn67 Bi33,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,439.15,None,K,None,10.1070/RC2000v069n02ABEH000490
+43,Sn63 Pb37,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,456.15,None,K,None,10.3969/j.issn.2095-4239.2013.03.003
+44,Sn91 Zn9,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,471.15,None,K,None,10.3969/j.issn.2095-4239.2013.03.003
+45,Sn22 Cd4 Ga74,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,293.35,None,K,None,10.1070/RC2000v069n02ABEH000490
+46,Sn8.3 Pb22.6 Bi44.7 Cd5.3 In19.1,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,321.45,None,K,None,10.1016/j.jmst.2016.08.022
+47,Sn15.56 Bi33.1 In51.34,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,333.57,None,K,None,10.1016/j.jmst.2016.08.022
+48,Sn13 Pb27 Bi49.5 Cd10.5,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,343.15,None,K,None,10.3969/j.issn.2095-4239.2013.03.003
+49,Sn17 Bi57 In26,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,352.15,None,K,None,10.1016/j.scriptamat.2020.04.016
+50,Sn10 Pb40 Bi50,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,373.15,None,K,None,10.3969/j.issn.2095-4239.2013.03.003
+51,Sn20 Pb40 Bi40,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,385.15,None,K,None,10.3969/j.issn.2095-4239.2013.03.003
+52,Sn40 Bi56 In4,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,403.15,None,K,None,10.3969/j.issn.2095-4239.2013.03.003
+53,Sn51.5 Pb30.5 Cd18,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,415.15,None,K,None,10.3969/j.issn.2095-4239.2013.03.003
+54,Sn71 Pb24 Zn5,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,448.15,None,K,None,10.3969/j.issn.2095-4239.2013.03.003
+55,Sn2.6 Pb97.4,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,454.05,None,K,None,10.1070/RC2000v069n02ABEH000490
+56,Sn80 Bi20,None,None,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,473.15,None,K,None,10.11973/jxgccl201911003
+1,Sn11.1 In15.4 Ga73.5,None,AC,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,283.8,None,K,None,10.1016/S1875-5372(16)30091-1
+2,Sn6.7 In14.9 Ga78.4,None,AC,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,284.1,None,K,None,10.1016/S1875-5372(16)30091-1
+3,In16.5 Ga83.5,None,AC,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,288.2,None,K,None,10.1016/S1875-5372(16)30091-1
+4,Sn8.4 Ga91.6,None,AC,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,293.0,None,K,None,10.1016/S1875-5372(16)30091-1
+5,Sn5 Ga95,None,AC,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,293.1,None,K,None,10.1016/S1875-5372(16)30091-1
+6,Bi35.5 In64.5,None,AC,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,327.3,None,K,None,10.1016/S1875-5372(16)30091-1
+7,Sn16.7 Pb14.4 Bi38.7 In30.2,None,AC,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,331.5,None,K,None,10.1016/S1875-5372(16)30091-1
+8,Sn18.8 Bi23 In58.2,None,AC,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,334.6,None,K,None,10.1016/S1875-5372(16)30091-1
+9,Sn19.4 Pb23.2 Bi41.6 Cd15.8,None,AC,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,344.9,None,K,None,10.1016/S1875-5372(16)30091-1
+10,Bi21.8 In78.2,None,AC,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,346.3,None,K,None,10.1016/S1875-5372(16)30091-1
+11,Sn22.2 Pb25.3 Bi38.5 In14,None,AC,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,348.2,None,K,None,10.1016/S1875-5372(16)30091-1
+12,Sn28.5 Pb16.3 Bi40.5 In14.7,None,AC,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,348.9,None,K,None,10.1016/S1875-5372(16)30091-1
+13,Sn22.3 Bi42.5 In35.2,None,AC,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,352.4,None,K,None,10.1016/S1875-5372(16)30091-1
+14,Sn24.4 Pb28.8 Bi46.8,None,AC,as extracted by Chen2021 from reference,melting temperature,EXP,None,None,368.1,None,K,None,10.1016/S1875-5372(16)30091-1

@@ -110,3 +110,11 @@ None,Al80 Li5 Mg5 Zn5 Cu5 ,FCC+Al2Cu+AlCu3,AC,induction melted in argon,ultimate
 None,AlLiMgZnSn,Li2MgSn+tetragonal+HCP+FCC,AC,induction melted in argon,compressive ductility,EXP,strain rate 5e-4/s,298.0,1.2,None,%,T3,10.1007/s11837-014-1059-z
 None,Al80 Li5 Mg5 Zn5 Sn5 ,FCC+Li2MgSn+Sn,AC,induction melted in argon,compressive ductility,EXP,strain rate 5e-4/s,298.0,17.0,None,%,T3,10.1007/s11837-014-1059-z
 None,Al80 Li5 Mg5 Zn5 Cu5 ,FCC+Al2Cu+AlCu3,AC,induction melted in argon,compressive ductility,EXP,strain rate 5e-4/s,298.0,16.0,None,%,T3,10.1007/s11837-014-1059-z
+None,In31.37 Sn30.34 Bi14.36 Zn18.36 Ag5.57,Bi3In5+In0.2Sn0.8+Ag5Zn8,VIM+PM,micrometer particles with ultrasonic dispersion; example of bad a composition notation,solidus temperature,EXP,None,None,335.95,None,K,P5624,10.1016/j.jmrt.2024.04.257
+None,In31.37 Sn30.34 Bi14.36 Zn18.36 Ag5.57,Bi3In5+In0.2Sn0.8+Ag5Zn8,VIM+PM,micrometer particles with ultrasonic dispersion; example of bad a composition notation,liquidus temperature,EXP,None,None,341.74,None,K,P5624,10.1016/j.jmrt.2024.04.257
+None,In31.37 Sn30.34 Bi14.36 Zn18.36 Ag5.57,Bi3In5+In0.2Sn0.8+Ag5Zn8,VIM,remelting of micrometer particles with ultrasonic dispersion; example of bad a composition notation,None,None,None,None,None,None,None,F7,10.1016/j.jmrt.2024.04.257
+None,SnBiInZn,BCT+InBi+Bi,VIM,None,solidus temperature,EXP,None,None,351.25,None,K,F2,10.1016/j.mtadv.2020.100101
+None,Sn37 Bi22 In36 Zn5,InBi+Zn+BCT,AC,induction melted in argon at 680C for 120min; BCT gamma is Sn-In-Bi; Zn forms needles with some solubility of other elements,melting point,EXP,None,None,354.6,None,K,F1,10.1109/ICEPT63120.2024.10668666
+None,Sn37 Bi22 In36 Zn5,InBi+Zn+BCT,AC,induction melted in argon at 680C for 120min; BCT gamma is Sn-In-Bi; Zn forms needles with some solubility of other elements,UTS,EXP,None,298.0,38230000.0,None,Pa,F3,10.1109/ICEPT63120.2024.10668666
+None,Sn37 Bi22 In36 Zn5,InBi+Zn+BCT,AC,induction melted in argon at 680C for 120min; BCT gamma is Sn-In-Bi; Zn forms needles with some solubility of other elements,tensile ductility,EXP,None,298.0,53.0,None,%,F3,10.1109/ICEPT63120.2024.10668666
+None,SnPbInBiSb,Pb7Bi3+InSb+SnSb+BCT,AC,induction melted at 600C for 120min; BCT is beta Sn,None,None,None,None,None,None,None,P4,10.1016/j.intermet.2024.108551
