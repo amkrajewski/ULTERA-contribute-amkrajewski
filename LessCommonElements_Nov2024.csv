@@ -1,0 +1,112 @@
+Name:,Adam Krajewski
+Email:,ak@psu.edu
+Direct Fetched:,T
+Hand Fetched:,T
+Comment:,None
+
+id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
+None,TiZrHf,HCP,VAM,None,electrical resistivity,EXP,None,298.0,9.6e-07,None,Ohm m^2 / m,T4,10.1007/s00339-019-2484-1
+None,TiZrHfSc,HCP+HCP,VAM,None,electrical resistivity,EXP,None,298.0,1.33e-06,None,Ohm m^2 / m,T4,10.1007/s00339-019-2484-1
+None,TiZrHfY,HCP+alpha,VAM,small fraction of alpha-Y (P63/mmc),electrical resistivity,EXP,None,298.0,8.8e-07,None,Ohm m^2 / m,T4,10.1007/s00339-019-2484-1
+None,TiZrHfScY,HCP+HCP+alpha,VAM,small fraction of alpha-Y (P63/mmc),electrical resistivity,EXP,None,298.0,1.23e-06,None,Ohm m^2 / m,T4,10.1007/s00339-019-2484-1
+None,TiZrHf,HCP,VAM,None,hardness,EXP,None,298.0,2069277000.0,None,Pa,T2,10.1007/s00339-019-2484-1
+None,TiZrHfSc,HCP+HCP,VAM,None,hardness,EXP,None,298.0,2285031000.0,None,Pa,T2,10.1007/s00339-019-2484-1
+None,TiZrHfY,HCP+alpha,VAM,small fraction of alpha-Y (P63/mmc),hardness,EXP,None,298.0,2363487000.0,None,Pa,T2,10.1007/s00339-019-2484-1
+None,TiZrHfScY,HCP+HCP+alpha,VAM,small fraction of alpha-Y (P63/mmc),hardness,EXP,None,298.0,2510592000.0,None,Pa,T2,10.1007/s00339-019-2484-1
+None,TiZrHf,HCP,VAM,None,compressive yield stress,EXP,None,298.0,773000000.0,None,Pa,T2,10.1007/s00339-019-2484-1
+None,TiZrHfSc,HCP+HCP,VAM,None,compressive yield stress,EXP,None,298.0,1001000000.0,None,Pa,T2,10.1007/s00339-019-2484-1
+None,TiZrHfY,HCP+alpha,VAM,small fraction of alpha-Y (P63/mmc),compressive yield stress,EXP,None,298.0,241000000.0,None,Pa,T2,10.1007/s00339-019-2484-1
+None,TiZrHfScY,HCP+HCP+alpha,VAM,small fraction of alpha-Y (P63/mmc),compressive yield stress,EXP,None,298.0,256000000.0,None,Pa,T2,10.1007/s00339-019-2484-1
+None,TiZrHf,HCP,VAM,None,compressive fracture strength,EXP,None,298.0,1184000000.0,None,Pa,T2,10.1007/s00339-019-2484-1
+None,TiZrHfSc,HCP+HCP,VAM,None,compressive fracture strength,EXP,None,298.0,1800000000.0,None,Pa,T2,10.1007/s00339-019-2484-1
+None,TiZrHfY,HCP+alpha,VAM,small fraction of alpha-Y (P63/mmc),compressive fracture strength,EXP,None,298.0,1071000000.0,None,Pa,T2,10.1007/s00339-019-2484-1
+None,TiZrHfScY,HCP+HCP+alpha,VAM,small fraction of alpha-Y (P63/mmc),compressive fracture strength,EXP,None,298.0,1365000000.0,None,Pa,T2,10.1007/s00339-019-2484-1
+None,TiZrHf,HCP,VAM,None,compressive ductility,EXP,None,298.0,17.0,None,%,T2,10.1007/s00339-019-2484-1
+None,TiZrHfSc,HCP+HCP,VAM,None,compressive ductility,EXP,None,298.0,21.9,None,%,T2,10.1007/s00339-019-2484-1
+None,TiZrHfY,HCP+alpha,VAM,small fraction of alpha-Y (P63/mmc),compressive ductility,EXP,None,298.0,17.7,None,%,T2,10.1007/s00339-019-2484-1
+None,TiZrHfScY,HCP+HCP+alpha,VAM,small fraction of alpha-Y (P63/mmc),compressive ductility,EXP,None,298.0,15.7,None,%,T2,10.1007/s00339-019-2484-1
+Sc0,AlCoCrFeNi,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,compressive yield stress,EXP,None,298.0,1293000000.0,None,Pa,P2,10.1016/j.msea.2022.144425
+Sc-0.5,Al19.9 Co19.9 Cr19.9 Fe19.9 Ni19.9 Sc0.5,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,compressive yield stress,EXP,None,298.0,1349000000.0,None,Pa,P2,10.1016/j.msea.2022.144425
+Sc-1,Al19.8 Co19.8 Cr19.8 Fe19.8 Ni19.8 Sc1,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,compressive yield stress,EXP,None,298.0,1402000000.0,None,Pa,F5,10.1016/j.msea.2022.144425
+Sc-2,Al19.6 Co19.6 Cr19.6 Fe19.6 Ni19.6 Sc2,BCC+B2+laves,AAM,Sc-rich laves; (Fe,Cr)-rich BCC; (Ni,Al)-rich B2,compressive yield stress,EXP,None,298.0,1441000000.0,None,Pa,P2,10.1016/j.msea.2022.144425
+Sc0,AlCoCrFeNi,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,compressive ductility,EXP,None,298.0,32.5,None,Pa,P2,10.1016/j.msea.2022.144425
+Sc-0.5,Al19.9 Co19.9 Cr19.9 Fe19.9 Ni19.9 Sc0.5,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,compressive ductility,EXP,None,298.0,26.6,None,Pa,P2,10.1016/j.msea.2022.144425
+Sc-1,Al19.8 Co19.8 Cr19.8 Fe19.8 Ni19.8 Sc1,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,compressive ductility,EXP,None,298.0,25.0,None,Pa,F5,10.1016/j.msea.2022.144425
+Sc-2,Al19.6 Co19.6 Cr19.6 Fe19.6 Ni19.6 Sc2,BCC+B2+laves,AAM,Sc-rich laves; (Fe,Cr)-rich BCC; (Ni,Al)-rich B2,compressive ductility,EXP,None,298.0,23.6,None,Pa,P2,10.1016/j.msea.2022.144425
+Sc0,AlCoCrFeNi,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,ultimate compressive strength,EXP,None,298.0,2352000000.0,None,Pa,P2,10.1016/j.msea.2022.144425
+Sc-0.5,Al19.9 Co19.9 Cr19.9 Fe19.9 Ni19.9 Sc0.5,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,ultimate compressive strength,EXP,None,298.0,2104000000.0,None,Pa,P2,10.1016/j.msea.2022.144425
+Sc-1,Al19.8 Co19.8 Cr19.8 Fe19.8 Ni19.8 Sc1,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,ultimate compressive strength,EXP,None,298.0,2050000000.0,None,Pa,F5,10.1016/j.msea.2022.144425
+Sc-2,Al19.6 Co19.6 Cr19.6 Fe19.6 Ni19.6 Sc2,BCC+B2+laves,AAM,Sc-rich laves; (Fe,Cr)-rich BCC; (Ni,Al)-rich B2,ultimate compressive strength,EXP,None,298.0,2018000000.0,None,Pa,P2,10.1016/j.msea.2022.144425
+Al-5,Mn20 Fe20 Co20 Ni20 Cu15 Al5,FCC,AAM+H+WQ,homogenized at 1273K for 24h,CTE,EXP,None,100.0,8.1e-06,None,K^-1,F3,10.1016/j.actamat.2023.119240
+Al-5,Mn20 Fe20 Co20 Ni20 Cu15 Al5,FCC,AAM+H+WQ,homogenized at 1273K for 24h,CTE,EXP,None,360.0,1.58e-05,None,K^-1,F3,10.1016/j.actamat.2023.119240
+Base,Mn20 Fe20 Co20 Ni20 Cu20,FCC,AAM+H+WQ,homogenized at 1273K for 24h,saturation magnetization,EXP,None,10.0,54.0,None,A m^2 / kg,T3,10.1016/j.actamat.2023.119240
+Al-5,Mn20 Fe20 Co20 Ni20 Cu15 Al5,FCC,AAM+H+WQ,homogenized at 1273K for 24h,saturation magnetization,EXP,None,10.0,43.0,None,A m^2 / kg,T3,10.1016/j.actamat.2023.119240
+Al-10,Mn20 Fe20 Co20 Ni20 Cu10 Al10,FCC+BCC,AAM+H+WQ,homogenized at 1273K for 24h majority FCC phase,saturation magnetization,EXP,None,10.0,45.0,None,A m^2 / kg,T3,10.1016/j.actamat.2023.119240
+Al-15,Mn20 Fe20 Co20 Ni20 Cu5 Al15,FCC+BCC,AAM+H+WQ,homogenized at 1273K for 24h; majority BCC phase,saturation magnetization,EXP,None,10.0,82.0,None,A m^2 / kg,T3,10.1016/j.actamat.2023.119240
+Al-20,Mn20 Fe20 Co20 Ni20 Al20,FCC+B2,AAM+H+WQ,homogenized at 1273K for 24h; majority B2 phase,saturation magnetization,EXP,None,10.0,102.0,None,A m^2 / kg,T3,10.1016/j.actamat.2023.119240
+Base,Mn20 Fe20 Co20 Ni20 Cu20,FCC,AAM+H+WQ,homogenized at 1273K for 24h,hardness,EXP,None,298.0,1977000000.0,None,Pa,F7,10.1016/j.actamat.2023.119240
+Al-5,Mn20 Fe20 Co20 Ni20 Cu15 Al5,FCC,AAM+H+WQ,homogenized at 1273K for 24h,hardness,EXP,None,298.0,2045000000.0,None,Pa,F7,10.1016/j.actamat.2023.119240
+Al-10,Mn20 Fe20 Co20 Ni20 Cu10 Al10,FCC+BCC,AAM+H+WQ,homogenized at 1273K for 24h majority FCC phase,hardness,EXP,None,298.0,2057000000.0,None,Pa,F7,10.1016/j.actamat.2023.119240
+Al-15,Mn20 Fe20 Co20 Ni20 Cu5 Al15,FCC+BCC,AAM+H+WQ,homogenized at 1273K for 24h; majority BCC phase,hardness,EXP,None,298.0,4284000000.0,None,Pa,F7,10.1016/j.actamat.2023.119240
+Al-20,Mn20 Fe20 Co20 Ni20 Al20,FCC+B2,AAM+H+WQ,homogenized at 1273K for 24h; majority B2 phase,hardness,EXP,None,298.0,5045000000.0,None,Pa,F7,10.1016/j.actamat.2023.119240
+Ga-5,Mn20 Fe20 Co20 Ni20 Cu15 Ga5,FCC,AAM+H+WQ,homogenized at 1273K for 24h,saturation magnetization,EXP,None,10.0,46.0,None,A m^2 / kg,T6,10.1016/j.actamat.2023.119240
+Ga-10,Mn20 Fe20 Co20 Ni20 Cu10 Ga10,FCC,AAM+H+WQ,homogenized at 1273K for 24h,saturation magnetization,EXP,None,10.0,21.0,None,A m^2 / kg,T6,10.1016/j.actamat.2023.119240
+Ga-15,Mn20 Fe20 Co20 Ni20 Cu5 Ga15,FCC+BCC,AAM+H+WQ,homogenized at 1273K for 24h majority FCC phase,saturation magnetization,EXP,None,10.0,51.0,None,A m^2 / kg,T6,10.1016/j.actamat.2023.119240
+Ga-20,Mn20 Fe20 Co20 Ni20 Ga20,FCC+BCC,AAM+H+WQ,homogenized at 1273K for 24h; majority BCC phase,saturation magnetization,EXP,None,10.0,98.0,None,A m^2 / kg,T6,10.1016/j.actamat.2023.119240
+Ga-5,Mn20 Fe20 Co20 Ni20 Cu15 Ga5,FCC,AAM+H+WQ,homogenized at 1273K for 24h,hardness,EXP,None,298.0,2084000000.0,None,Pa,F13,10.1016/j.actamat.2023.119240
+Ga-10,Mn20 Fe20 Co20 Ni20 Cu10 Ga10,FCC,AAM+H+WQ,homogenized at 1273K for 24h,hardness,EXP,None,298.0,2199000000.0,None,Pa,F13,10.1016/j.actamat.2023.119240
+Ga-15,Mn20 Fe20 Co20 Ni20 Cu5 Ga15,FCC+BCC,AAM+H+WQ,homogenized at 1273K for 24h majority FCC phase,hardness,EXP,None,298.0,2810000000.0,None,Pa,F13,10.1016/j.actamat.2023.119240
+Ga-20,Mn20 Fe20 Co20 Ni20 Ga20,FCC+BCC,AAM+H+WQ,homogenized at 1273K for 24h; majority BCC phase,hardness,EXP,None,298.0,5288000000.0,None,Pa,F13,10.1016/j.actamat.2023.119240
+Base,CoFeMnNi,FCC,AAM,None,saturation magnetization,EXP,None,298.0,18.14,None,A m^2 / kg,F3,10.1016/j.actamat.2017.03.013
+Al ,CoFeMnNiAl,BCC+B2,AAM,None,saturation magnetization,EXP,None,298.0,147.86,None,A m^2 / kg,F3,10.1016/j.actamat.2017.03.013
+Cr,CoFeMnNiCr,FCC,AAM,None,saturation magnetization,EXP,None,298.0,1.39,None,A m^2 / kg,F3,10.1016/j.actamat.2017.03.013
+Ga,CoFeMnNiGa,FCC+BCC,AAM,None,saturation magnetization,EXP,None,298.0,80.43,None,A m^2 / kg,F3,10.1016/j.actamat.2017.03.013
+Sn,CoFeMnNiSn,L12+?+BCC,AAM,majority L1_2 (Co2MnSn-like) with minor BCC and unidentified phase precipitation ,saturation magnetization,EXP,None,298.0,80.29,None,A m^2 / kg,F3,10.1016/j.actamat.2017.03.013
+Base,CoFeMnNi,FCC,AAM,None,coercivity,EXP,None,298.0,119.0,None,A/m,F3,10.1016/j.actamat.2017.03.013
+Al ,CoFeMnNiAl,BCC+B2,AAM,None,coercivity,EXP,None,298.0,629.0,None,A/m,F3,10.1016/j.actamat.2017.03.013
+Cr,CoFeMnNiCr,FCC,AAM,None,coercivity,EXP,None,298.0,10804.0,None,A/m,F3,10.1016/j.actamat.2017.03.013
+Ga,CoFeMnNiGa,FCC+BCC,AAM,None,coercivity,EXP,None,298.0,915.0,None,A/m,F3,10.1016/j.actamat.2017.03.013
+Sn,CoFeMnNiSn,L12+?+BCC,AAM,majority L1_2 (Co2MnSn-like) with minor BCC and unidentified phase precipitation ,coercivity,EXP,None,298.0,3431.0,None,A/m,F3,10.1016/j.actamat.2017.03.013
+None, Ir26 Mo20 Rh22.5 Ru20 W11.5,HCP,VAM+A,annealing at 2373K for 1h in argon,None,None,None,298.0,None,None,None,P1669,10.2320/matertrans.M2019037
+None,Ir25.5 Mo20 Rh20 Ru25 W9.5,HCP,VAM+A,annealing at 2373K for 1h in argon,None,None,None,298.0,None,None,None,P1669,10.2320/matertrans.M2019037
+None, Ir26 Mo20 Rh22.5 Ru20 W11.5,HCP,VAM,None,None,None,None,298.0,None,None,None,P1669,10.2320/matertrans.M2019037
+None,Ir25.5 Mo20 Rh20 Ru25 W9.5,HCP,VAM,None,None,None,None,298.0,None,None,None,P1669,10.2320/matertrans.M2019037
+None,Ir0.19 Os0.22 Re0.21 Rh0.20 Ru0.19,HCP,SingleSourcePrecoursor,spHEAs were prepared by thermal decomposition of single-source precursors,CTE,EXP,None,300.0,2.07e-05,None,K^-1,T2,10.1016/j.scriptamat.2017.05.022
+None,Ir0.18 Os0.18 Pt0.16 Re0.17 Rh0.16 Ru0.15,HCP+FCC,SingleSourcePrecoursor,equal HCP and FCC fraction; spHEAs were prepared by thermal decomposition of single-source precursors,None,None,None,None,None,None,None,T1,10.1016/j.scriptamat.2017.05.022
+None,Ir0.19 Os0.16 Pt0.22 Rh0.17 Ru0.26,HCP+FCC,SingleSourcePrecoursor,majority FCC; spHEAs were prepared by thermal decomposition of single-source precursors,None,None,None,None,None,None,None,T1,10.1016/j.scriptamat.2017.05.022
+None,Ir0.23 Os0.10 Pt0.25 Rh0.22 Ru0.19,HCP+FCC,SingleSourcePrecoursor,majority FCC; spHEAs were prepared by thermal decomposition of single-source precursors,None,None,None,None,None,None,None,T1,10.1016/j.scriptamat.2017.05.022
+None,Ir0.26 Os0.05 Pt0.31 Rh0.23 Ru0.15,FCC,SingleSourcePrecoursor,spHEAs were prepared by thermal decomposition of single-source precursors,None,None,None,None,None,None,None,T1,10.1016/j.scriptamat.2017.05.022
+None,TiZrHfAgV0.2,BCC+BCC,VAM,V in both BCC,None,None,None,None,None,None,None,F5,10.2320/matertrans.MT-MA2024009
+None,TiZrHfAgV0.2,BCC+BCC,MS,V only in one BCC; fine lamellar structure,None,None,None,None,None,None,None,F5,10.2320/matertrans.MT-MA2024009
+None,AlCoCrFeNi,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,hardness,EXP,None,298.0,4981956000.0,196140000.0,None,F4,10.1007/s12598-023-02412-y
+None,Al19.9 Co19.9 Cr19.9 Fe19.9 Ni19.9 Sc0.5,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,hardness,EXP,None,298.0,5344815000.0,98070000.0,None,F4,10.1007/s12598-023-02412-y
+None,Al19.8 Co19.8 Cr19.8 Fe19.8 Ni19.8 Sc1,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,hardness,EXP,None,298.0,5629218000.0,147105000.0,None,F4,10.1007/s12598-023-02412-y
+None,Al19.6 Co19.6 Cr19.6 Fe19.6 Ni19.6 Sc2,BCC+B2+laves,AAM,Sc-rich laves; (Fe,Cr)-rich BCC; (Ni,Al)-rich B2,hardness,EXP,None,298.0,6198024000.0,245175000.0,None,F4,10.1007/s12598-023-02412-y
+None,AlCoCrFeNi,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,wear rate,EXP,None,298.0,6.8e-05,4e-06,None,F6,10.1007/s12598-023-02412-y
+None,Al19.9 Co19.9 Cr19.9 Fe19.9 Ni19.9 Sc0.5,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,wear rate,EXP,None,298.0,4.85e-05,3e-06,None,F6,10.1007/s12598-023-02412-y
+None,Al19.8 Co19.8 Cr19.8 Fe19.8 Ni19.8 Sc1,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,wear rate,EXP,None,298.0,3.8e-05,4e-06,None,F6,10.1007/s12598-023-02412-y
+None,Al19.6 Co19.6 Cr19.6 Fe19.6 Ni19.6 Sc2,BCC+B2+laves,AAM,Sc-rich laves; (Fe,Cr)-rich BCC; (Ni,Al)-rich B2,wear rate,EXP,None,298.0,3.5e-05,3e-06,None,F6,10.1007/s12598-023-02412-y
+None,Al20 Be20 Fe10 Si15 Ti35,laves+Si3Ti5+Al2Ti1,VAM,majority phase is laves Ti(Be,Al.,Si,Fe)2 with disordered occupancy,hardness,EXP,None,298.0,8934177000.0,None,Pa,P188,10.1007/s11431-017-9073-0
+None,Al20 Be20 Fe10 Si15 Ti35,laves+Si3Ti5+Al2Ti1,VAM,majority phase is laves Ti(Be,Al.,Si,Fe)2 with disordered occupancy,hardness,EXP,None,298.0,3.91,None,g/cm^3,P188,10.1007/s11431-017-9073-0
+None,Al20 Li20 Mg10 Sc20 Ti30,FCC,BM,nanocrystalline; ball milled in liquid nitrogen,hardness,EXP,None,298.0,5800000000.0,None,Pa,None,10.1080/21663831.2014.985855
+None,Al20 Li20 Mg10 Sc20 Ti30,HCP,BM+A,nanocrystalline; ball milled in liquid nitrogen; annealed at 773K for 1h,hardness,EXP,None,298.0,4900000000.0,None,Pa,None,10.1080/21663831.2014.985855
+None,Al20 Li20 Mg10 Sc20 Ti30,FCC,BM,nanocrystalline; ball milled in liquid nitrogen,density,EXP,None,298.0,None,None,g/cm^3,None,10.1080/21663831.2014.985855
+None,(Al20 Li20 Mg10 Sc20 Ti30)0.982 N0.4 O1.4,FCC,BM,nanocrystalline; ball milled in liquid nitrogen; oxygen impurity from contaminated Sc,hardness,EXP,None,298.0,6100000000.0,None,Pa,None,10.1080/21663831.2014.985855
+None,(Al20 Li20 Mg10 Sc20 Ti30)0.982 N0.4 O1.4,FCC,BM+A,nanocrystalline; ball milled in liquid nitrogen; annealed at 773K for 1h; oxygen impurity from contaminated Sc,hardness,EXP,None,298.0,5900000000.0,None,Pa,None,10.1080/21663831.2014.985855
+None,(Al20 Li20 Mg10 Sc20 Ti30)0.982 N0.4 O1.4,FCC,BM+A,nanocrystalline; ball milled in liquid nitrogen; annealed at 873K for 1h; oxygen impurity from contaminated Sc,hardness,EXP,None,298.0,5750000000.0,None,Pa,None,10.1080/21663831.2014.985855
+None,AlLiMgZnSn,Li2MgSn+tetragonal+HCP+FCC,AC,induction melted in argon,density,EXP,None,298.0,4.23,None,g/cm^3,T2,10.1007/s11837-014-1059-z
+None,Al Li0.5 Mg Zn0.5 Sn0.2,FCC+Mg32(AlZn)49+Li2MgSn,AC,induction melted in argon,density,EXP,None,298.0,3.22,None,g/cm^3,T2,10.1007/s11837-014-1059-z
+None,Al Li0.5 Mg Zn0.5 Cu0.2 ,Mg32(AlZn)49+?,AC,induction melted in argon; too brittle to test mechanically,density,EXP,None,298.0,3.73,None,g/cm^3,T2,10.1007/s11837-014-1059-z
+None,Al Li0.5 Mg Cu0.5 Sn0.2 ,AlCuMg+Li2MgSn+Sn,AC,induction melted in argon; too brittle to test mechanically,density,EXP,None,298.0,3.69,None,g/cm^3,T2,10.1007/s11837-014-1059-z
+None,Al80 Li5 Mg5 Zn5 Sn5 ,FCC+Li2MgSn+Sn,AC,induction melted in argon,density,EXP,None,298.0,3.05,None,g/cm^3,T2,10.1007/s11837-014-1059-z
+None,Al80 Li5 Mg5 Zn5 Cu5 ,FCC+Al2Cu+AlCu3,AC,induction melted in argon,density,EXP,None,298.0,3.08,None,g/cm^3,T2,10.1007/s11837-014-1059-z
+None,AlLiMgZnSn,Li2MgSn+tetragonal+HCP+FCC,AC,induction melted in argon,compressive yield stress,EXP,strain rate 5e-4/s,298.0,600000000.0,None,Pa,T3,10.1007/s11837-014-1059-z
+None,Al80 Li5 Mg5 Zn5 Sn5 ,FCC+Li2MgSn+Sn,AC,induction melted in argon,compressive yield stress,EXP,strain rate 5e-4/s,298.0,488000000.0,None,Pa,T3,10.1007/s11837-014-1059-z
+None,Al80 Li5 Mg5 Zn5 Cu5 ,FCC+Al2Cu+AlCu3,AC,induction melted in argon,compressive yield stress,EXP,strain rate 5e-4/s,298.0,415000000.0,None,Pa,T3,10.1007/s11837-014-1059-z
+None,AlLiMgZnSn,Li2MgSn+tetragonal+HCP+FCC,AC,induction melted in argon,ultimate compressive strength,EXP,strain rate 5e-4/s,298.0,615000000.0,None,Pa,T3,10.1007/s11837-014-1059-z
+None,Al Li0.5 Mg Zn0.5 Sn0.2,FCC+Mg32(AlZn)49+Li2MgSn,AC,induction melted in argon,ultimate compressive strength,EXP,strain rate 5e-4/s,298.0,546000000.0,None,Pa,T3,10.1007/s11837-014-1059-z
+None,Al80 Li5 Mg5 Zn5 Sn5 ,FCC+Li2MgSn+Sn,AC,induction melted in argon,ultimate compressive strength,EXP,strain rate 5e-4/s,298.0,879000000.0,None,Pa,T3,10.1007/s11837-014-1059-z
+None,Al80 Li5 Mg5 Zn5 Cu5 ,FCC+Al2Cu+AlCu3,AC,induction melted in argon,ultimate compressive strength,EXP,strain rate 5e-4/s,298.0,836000000.0,None,Pa,T3,10.1007/s11837-014-1059-z
+None,AlLiMgZnSn,Li2MgSn+tetragonal+HCP+FCC,AC,induction melted in argon,compressive ductility,EXP,strain rate 5e-4/s,298.0,1.2,None,%,T3,10.1007/s11837-014-1059-z
+None,Al80 Li5 Mg5 Zn5 Sn5 ,FCC+Li2MgSn+Sn,AC,induction melted in argon,compressive ductility,EXP,strain rate 5e-4/s,298.0,17.0,None,%,T3,10.1007/s11837-014-1059-z
+None,Al80 Li5 Mg5 Zn5 Cu5 ,FCC+Al2Cu+AlCu3,AC,induction melted in argon,compressive ductility,EXP,strain rate 5e-4/s,298.0,16.0,None,%,T3,10.1007/s11837-014-1059-z
