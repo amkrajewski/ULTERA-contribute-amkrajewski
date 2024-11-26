@@ -189,3 +189,23 @@ None,Gd Tb Dy Ho Lu,HCP,VIM,levitation melting in argon,neel temperature,EXP,Non
 None,Gd Tb Dy Ho Lu,HCP,VIM,levitation melting in argon,electrical resistivity,EXP,None,2.0,4.7e-07,None,Ohm m^2 / m,F6,10.1016/j.intermet.2018.10.014
 None,Gd Tb Dy Ho Lu,HCP,VIM,levitation melting in argon,electrical resistivity,EXP,None,300.0,1.19e-06,None,Ohm m^2 / m,F6,10.1016/j.intermet.2018.10.014
 None,Gd Tb Dy Ho Lu,HCP,VIM,levitation melting in argon,saturation magnetization,EXP,None,2.0,0.232,None,A m^2 / kg,T2,10.1016/j.intermet.2018.10.014
+None,NiMnCrMoW0.2,None,VAM,complex multi-phase structure in the reference if needed,UCS,EXP,None,298.0,1524000000.0,None,Pa,T4,10.1016/j.mtcomm.2024.111088
+None,NiMnCrMoW0.4,None,VAM,complex multi-phase structure in the reference if needed,UCS,EXP,None,298.0,1608000000.0,None,Pa,T4,10.1016/j.mtcomm.2024.111088
+None,NiMnCrMoW0.6,None,VAM,complex multi-phase structure in the reference if needed,UCS,EXP,None,298.0,1617000000.0,None,Pa,T4,10.1016/j.mtcomm.2024.111088
+None,NiMnCrMoW0.8,None,VAM,complex multi-phase structure in the reference if needed,UCS,EXP,None,298.0,1240000000.0,None,Pa,T4,10.1016/j.mtcomm.2024.111088
+None,NiMnCrMoW1.0,None,VAM,complex multi-phase structure in the reference if needed,UCS,EXP,None,298.0,1146000000.0,None,Pa,T4,10.1016/j.mtcomm.2024.111088
+None,NiMnCrMoW0.2,None,VAM,complex multi-phase structure in the reference if needed,compressive ductility,EXP,None,298.0,19.21,None,%,T4,10.1016/j.mtcomm.2024.111088
+None,NiMnCrMoW0.4,None,VAM,complex multi-phase structure in the reference if needed,compressive ductility,EXP,None,298.0,17.38,None,%,T4,10.1016/j.mtcomm.2024.111088
+None,NiMnCrMoW0.6,None,VAM,complex multi-phase structure in the reference if needed,compressive ductility,EXP,None,298.0,9.7,None,%,T4,10.1016/j.mtcomm.2024.111088
+None,NiMnCrMoW0.8,None,VAM,complex multi-phase structure in the reference if needed,compressive ductility,EXP,None,298.0,6.64,None,%,T4,10.1016/j.mtcomm.2024.111088
+None,NiMnCrMoW1.0,None,VAM,complex multi-phase structure in the reference if needed,compressive ductility,EXP,None,298.0,6.08,None,%,T4,10.1016/j.mtcomm.2024.111088
+None,NiMnCrMoW0.2,None,VAM,complex multi-phase structure in the reference if needed,hardness,EXP,None,298.0,5972463000.0,None,Pa,F8,10.1016/j.mtcomm.2024.111088
+None,NiMnCrMoW0.4,None,VAM,complex multi-phase structure in the reference if needed,hardness,EXP,None,298.0,6247059000.0,None,Pa,F8,10.1016/j.mtcomm.2024.111088
+None,NiMnCrMoW0.6,None,VAM,complex multi-phase structure in the reference if needed,hardness,EXP,None,298.0,6433392000.0,None,Pa,F8,10.1016/j.mtcomm.2024.111088
+None,NiMnCrMoW0.8,None,VAM,complex multi-phase structure in the reference if needed,hardness,EXP,None,298.0,6217638000.0,None,Pa,F8,10.1016/j.mtcomm.2024.111088
+None,NiMnCrMoW1.0,None,VAM,complex multi-phase structure in the reference if needed,hardness,EXP,None,298.0,5923428000.0,None,Pa,F8,10.1016/j.mtcomm.2024.111088
+None,NiMnCrMoW0.2,None,VAM+A,annealed at 1473K for 2h; complex multi-phase structure in the reference if needed,hardness,EXP,None,298.0,7100268000.0,None,Pa,F8,10.1016/j.mtcomm.2024.111088
+None,NiMnCrMoW0.4,None,VAM+A,annealed at 1473K for 2h; complex multi-phase structure in the reference if needed,hardness,EXP,None,298.0,7247373000.0,None,Pa,F8,10.1016/j.mtcomm.2024.111088
+None,NiMnCrMoW0.6,None,VAM+A,annealed at 1473K for 2h; complex multi-phase structure in the reference if needed,hardness,EXP,None,298.0,7266987000.0,None,Pa,F8,10.1016/j.mtcomm.2024.111088
+None,NiMnCrMoW0.8,None,VAM+A,annealed at 1473K for 2h; complex multi-phase structure in the reference if needed,hardness,EXP,None,298.0,7139496000.0,None,Pa,F8,10.1016/j.mtcomm.2024.111088
+None,NiMnCrMoW1.0,None,VAM+A,annealed at 1473K for 2h; complex multi-phase structure in the reference if needed,hardness,EXP,None,298.0,6698181000.0,None,Pa,F8,10.1016/j.mtcomm.2024.111088
