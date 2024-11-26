@@ -87,7 +87,7 @@ None,Al19.9 Co19.9 Cr19.9 Fe19.9 Ni19.9 Sc0.5,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,A
 None,Al19.8 Co19.8 Cr19.8 Fe19.8 Ni19.8 Sc1,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,wear rate,EXP,None,298.0,3.8e-05,4e-06,None,F6,10.1007/s12598-023-02412-y
 None,Al19.6 Co19.6 Cr19.6 Fe19.6 Ni19.6 Sc2,BCC+B2+laves,AAM,Sc-rich laves; (Fe,Cr)-rich BCC; (Ni,Al)-rich B2,wear rate,EXP,None,298.0,3.5e-05,3e-06,None,F6,10.1007/s12598-023-02412-y
 None,Al20 Be20 Fe10 Si15 Ti35,laves+Si3Ti5+Al2Ti1,VAM,majority phase is laves Ti(Be,Al.,Si,Fe)2 with disordered occupancy,hardness,EXP,None,298.0,8934177000.0,None,Pa,P188,10.1007/s11431-017-9073-0
-None,Al20 Be20 Fe10 Si15 Ti35,laves+Si3Ti5+Al2Ti1,VAM,majority phase is laves Ti(Be,Al.,Si,Fe)2 with disordered occupancy,hardness,EXP,None,298.0,3.91,None,g/cm^3,P188,10.1007/s11431-017-9073-0
+None,Al20 Be20 Fe10 Si15 Ti35,laves+Si3Ti5+Al2Ti1,VAM,majority phase is laves Ti(Be,Al.,Si,Fe)2 with disordered occupancy,density,EXP,None,298.0,3.91,None,g/cm^3,P188,10.1007/s11431-017-9073-0
 None,Al20 Li20 Mg10 Sc20 Ti30,FCC,BM,nanocrystalline; ball milled in liquid nitrogen,hardness,EXP,None,298.0,5800000000.0,None,Pa,None,10.1080/21663831.2014.985855
 None,Al20 Li20 Mg10 Sc20 Ti30,HCP,BM+A,nanocrystalline; ball milled in liquid nitrogen; annealed at 773K for 1h,hardness,EXP,None,298.0,4900000000.0,None,Pa,None,10.1080/21663831.2014.985855
 None,Al20 Li20 Mg10 Sc20 Ti30,FCC,BM,nanocrystalline; ball milled in liquid nitrogen,density,EXP,None,298.0,2.67,None,g/cm^3,None,10.1080/21663831.2014.985855
@@ -118,3 +118,11 @@ None,Sn37 Bi22 In36 Zn5,InBi+Zn+BCT,AC,induction melted in argon at 680C for 120
 None,Sn37 Bi22 In36 Zn5,InBi+Zn+BCT,AC,induction melted in argon at 680C for 120min; BCT gamma is Sn-In-Bi; Zn forms needles with some solubility of other elements,UTS,EXP,None,298.0,38230000.0,None,Pa,F3,10.1109/ICEPT63120.2024.10668666
 None,Sn37 Bi22 In36 Zn5,InBi+Zn+BCT,AC,induction melted in argon at 680C for 120min; BCT gamma is Sn-In-Bi; Zn forms needles with some solubility of other elements,tensile ductility,EXP,None,298.0,53.0,None,%,F3,10.1109/ICEPT63120.2024.10668666
 None,SnPbInBiSb,Pb7Bi3+InSb+SnSb+BCT,AC,induction melted at 600C for 120min; BCT is beta Sn,None,None,None,None,None,None,None,P4,10.1016/j.intermet.2024.108551
+None,Nd20 Pr20 La20 Fe20 Co10 Al10,amorphous+HCP+HCP+delta,VAM+Q,HCP La; HCP Nd(Pr); delta was Nd6Fe13−xAl1+x,nanohardness,EXP,Tribo-indenter with a Berkovich indenter with 2 mN/s up to 10 mN,298.0,3700000000.0,None,Pa,T2,10.1016/j.jallcom.2021.160640
+None,Nd60 Fe20 Co10 Al10,amorphous,VAM+Q,None,nanohardness,EXP,Tribo-indenter with a Berkovich indenter with 2 mN/s up to 10 mN,298.0,3700000000.0,None,Pa,T2,10.1016/j.jallcom.2021.160640
+None,Nd20 Pr20 La20 Fe20 Co10 Al10,amorphous+HCP+HCP+delta,VAM+Q,HCP La; HCP Nd(Pr); delta was Nd6Fe13−xAl1+x,reduced elastic modulus,EXP,Tribo-indenter with a Berkovich indenter with 2 mN/s up to 10 mN,298.0,58700000000.0,None,Pa,T2,10.1016/j.jallcom.2021.160640
+None,Nd60 Fe20 Co10 Al10,amorphous,VAM+Q,None,reduced elastic modulus,EXP,Tribo-indenter with a Berkovich indenter with 2 mN/s up to 10 mN,298.0,56100000000.0,None,Pa,T2,10.1016/j.jallcom.2021.160640
+None,Nd20 Pr20 La20 Fe20 Co10 Al10,amorphous+HCP+HCP+delta,VAM+Q,HCP La; HCP Nd(Pr); delta was Nd6Fe13−xAl1+x,saturation magnetization,EXP,None,298.0,14.0,None,A m^2 / kg,T2,10.1016/j.jallcom.2021.160640
+None,Nd60 Fe20 Co10 Al10,amorphous,VAM+Q,None,saturation magnetization,EXP,None,298.0,14.9,None,A m^2 / kg,T2,10.1016/j.jallcom.2021.160640
+None,Nd20 Pr20 La20 Fe20 Co10 Al10,amorphous+HCP+HCP+delta,VAM+Q,HCP La; HCP Nd(Pr); delta was Nd6Fe13−xAl1+x,coercivity,EXP,None,298.0,280000.0,None,A/m,T2,10.1016/j.jallcom.2021.160640
+None,Nd60 Fe20 Co10 Al10,amorphous,VAM+Q,None,coercivity,EXP,None,298.0,301000.0,None,A/m,T2,10.1016/j.jallcom.2021.160640
