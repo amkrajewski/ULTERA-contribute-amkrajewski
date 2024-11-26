@@ -159,3 +159,29 @@ VEC-17,Zn25.40 Fe14.00 Co11.50 Ni7.90 Mn7.90 Sb33.33,HH,AC+HIP,ground into powde
 VEC-18.72,Zn16.67 Fe9.17 Co7.50 Ni16.67 Mn16.67 Sb33.33,HH,AC+HIP,ground into powder; HIP at 973K for 30min; HH is half-heusler  is C1b; Authors consider the phase to have an XYZ half-Heusler type composition, where Sb occupies the Z site in a NaCl sublattice, which is reasonable since Sb is the most electronegative element in the phase and occupies 1/3 of the sites. The other five elements would then substitute for X and Y in the Heusler composition. ,thermal conductivity,EXP,None,623.0,11.43,None,W/(Km),F6,10.1016/j.intermet.2022.107495
 VEC-18,Zn20.30 Fe11.20 Co9.15 Ni13.00 Mn13.00 Sb33.33,HH,AC+HIP,ground into powder; HIP at 973K for 30min; HH is half-heusler  is C1b; Authors consider the phase to have an XYZ half-Heusler type composition, where Sb occupies the Z site in a NaCl sublattice, which is reasonable since Sb is the most electronegative element in the phase and occupies 1/3 of the sites. The other five elements would then substitute for X and Y in the Heusler composition. ,thermal conductivity,EXP,None,623.0,10.65,None,W/(Km),F6,10.1016/j.intermet.2022.107495
 VEC-17,Zn25.40 Fe14.00 Co11.50 Ni7.90 Mn7.90 Sb33.33,HH,AC+HIP,ground into powder; HIP at 973K for 30min; HH is half-heusler  is C1b; Authors consider the phase to have an XYZ half-Heusler type composition, where Sb occupies the Z site in a NaCl sublattice, which is reasonable since Sb is the most electronegative element in the phase and occupies 1/3 of the sites. The other five elements would then substitute for X and Y in the Heusler composition. ,thermal conductivity,EXP,None,623.0,9.37,None,W/(Km),F6,10.1016/j.intermet.2022.107495
+None,Ti Zr Hf Y La0.2,HCP+HCP,VAM,designed based on the concept of the LPS and segregation for
+enhancing the immiscibility of the constituent elements,hardness,EXP,None,298.0,2628276000.0,None,Pa,P245,10.1016/j.scriptamat.2020.05.033
+None,GdTbHoEr,HCP,AAM,None,neel temperature,EXP,None,None,190.0,None,K,T2,10.1016/j.jallcom.2021.159918
+None,GdTbHoErLa,HCP,AAM,None,curie temperature,EXP,None,None,127.0,None,K,T2,10.1016/j.jallcom.2021.159918
+None,GdTbHoErLaY,HCP,AAM,None,neel temperature,EXP,None,None,120.0,None,K,T2,10.1016/j.jallcom.2021.159918
+None,GdTbHoErPr,HCP,AAM,None,curie temperature,EXP,None,None,135.0,None,K,T2,10.1016/j.jallcom.2021.159918
+None,GdTbHoEr,HCP,AAM,None,peak magnetic entropy change,EXP,None,None,8.64,None,J / (kg K),T2,10.1016/j.jallcom.2021.159918
+None,GdTbHoErLa,HCP,AAM,None,peak magnetic entropy change,EXP,None,None,5.92,None,J / (kg K),T2,10.1016/j.jallcom.2021.159918
+None,GdTbHoErLaY,HCP,AAM,None,peak magnetic entropy change,EXP,None,None,5.85,None,J / (kg K),T2,10.1016/j.jallcom.2021.159918
+None,GdTbHoErPr,HCP,AAM,None,peak magnetic entropy change,EXP,None,None,6.92,None,J / (kg K),T2,10.1016/j.jallcom.2021.159918
+None,GdHoLaTbY,HCP,AC,None,compressive fracture strength,EXP,None,None,880000000.0,None,Pa,T3,10.1016/j.matdes.2016.01.149
+None,GdHoLaTbY,HCP,AC,None,compressive yield stress,EXP,None,None,108000000.0,None,Pa,T3,10.1016/j.matdes.2016.01.149
+None,GdHoLaTbY,HCP,AC,None,compressive ductility,EXP,None,None,21.8,None,%,T3,10.1016/j.matdes.2016.01.149
+None,GdHoLaTbY,HCP,AC,None,hardness,EXP,None,None,941472000.0,None,Pa,T3,10.1016/j.matdes.2016.01.149
+None,ErGdHoLaTbY,HCP,AAM,strong O contamination concentrated in the grain boundaries,compressive yield stress,EXP,None,298.0,245000000.0,None,Pa,T4,10.1063/1.5051514
+None,DyGdHoLaTbY,HCP+FCC,AAM,strong O contamination concentrated in the FCC (around 50% O),compressive yield stress,EXP,None,298.0,205000000.0,None,Pa,T4,10.1063/1.5051514
+None,DyErGdHoLuScTbY,HCP+FCC,AAM,strong O contamination concentrated in the FCC (around 50% O),compressive yield stress,EXP,None,298.0,360000000.0,None,Pa,T4,10.1063/1.5051514
+None,ErGdHoLaTbY,HCP,AAM,strong O contamination concentrated in the grain boundaries,compressive fracture strength,EXP,None,298.0,869000000.0,None,Pa,T4,10.1063/1.5051514
+None,DyGdHoLaTbY,HCP+FCC,AAM,strong O contamination concentrated in the FCC (around 50% O),compressive fracture strength,EXP,None,298.0,863000000.0,None,Pa,T4,10.1063/1.5051514
+None,DyErGdHoLuScTbY,HCP+FCC,AAM,strong O contamination concentrated in the FCC (around 50% O),compressive fracture strength,EXP,None,298.0,850000000.0,None,Pa,T4,10.1063/1.5051514
+None,ErGdHoLaTbY,HCP,AAM,strong O contamination concentrated in the grain boundaries,compressive ductility,EXP,None,298.0,17.0,None,%,T4,10.1063/1.5051514
+None,DyGdHoLaTbY,HCP+FCC,AAM,strong O contamination concentrated in the FCC (around 50% O),compressive ductility,EXP,None,298.0,20.0,None,%,T4,10.1063/1.5051514
+None,DyErGdHoLuScTbY,HCP+FCC,AAM,strong O contamination concentrated in the FCC (around 50% O),compressive ductility,EXP,None,298.0,27.0,None,%,T4,10.1063/1.5051514
+None,Ag0.5CoCrCuFeNi,None,AAM,None,compressive yield stress,EXP,compression at a rate of 4e-4/s,300.0,450000000.0,40000000.0,Pa,F3,10.1063/1.4813688
+None,Ag0.5CoCrCuFeNi,None,AAM,in liquid nitrogen,compressive yield stress,EXP,compression at a rate of 4e-4/s,177.0,530000000.0,20000000.0,Pa,F3,10.1063/1.4813688
+None,Ag0.5CoCrCuFeNi,None,AAM,in helium vapor,compressive yield stress,EXP,compression at a rate of 4e-4/s,7.5,750000000.0,10000000.0,Pa,F3,10.1063/1.4813688
