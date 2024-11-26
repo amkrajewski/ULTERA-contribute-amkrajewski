@@ -185,3 +185,7 @@ None,DyErGdHoLuScTbY,HCP+FCC,AAM,strong O contamination concentrated in the FCC 
 None,Ag0.5CoCrCuFeNi,None,AAM,None,compressive yield stress,EXP,compression at a rate of 4e-4/s,300.0,450000000.0,40000000.0,Pa,F3,10.1063/1.4813688
 None,Ag0.5CoCrCuFeNi,None,AAM,in liquid nitrogen,compressive yield stress,EXP,compression at a rate of 4e-4/s,177.0,530000000.0,20000000.0,Pa,F3,10.1063/1.4813688
 None,Ag0.5CoCrCuFeNi,None,AAM,in helium vapor,compressive yield stress,EXP,compression at a rate of 4e-4/s,7.5,750000000.0,10000000.0,Pa,F3,10.1063/1.4813688
+None,Gd Tb Dy Ho Lu,HCP,VIM,levitation melting in argon,neel temperature,EXP,None,None,174.0,None,K,T2,10.1016/j.intermet.2018.10.014
+None,Gd Tb Dy Ho Lu,HCP,VIM,levitation melting in argon,electrical resistivity,EXP,None,2.0,4.7e-07,None,Ohm m^2 / m,F6,10.1016/j.intermet.2018.10.014
+None,Gd Tb Dy Ho Lu,HCP,VIM,levitation melting in argon,electrical resistivity,EXP,None,300.0,1.19e-06,None,Ohm m^2 / m,F6,10.1016/j.intermet.2018.10.014
+None,Gd Tb Dy Ho Lu,HCP,VIM,levitation melting in argon,saturation magnetization,EXP,None,2.0,0.232,None,A m^2 / kg,T2,10.1016/j.intermet.2018.10.014
