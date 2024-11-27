@@ -209,3 +209,15 @@ None,NiMnCrMoW0.4,None,VAM+A,annealed at 1473K for 2h; complex multi-phase struc
 None,NiMnCrMoW0.6,None,VAM+A,annealed at 1473K for 2h; complex multi-phase structure in the reference if needed,hardness,EXP,None,298.0,7266987000.0,None,Pa,F8,10.1016/j.mtcomm.2024.111088
 None,NiMnCrMoW0.8,None,VAM+A,annealed at 1473K for 2h; complex multi-phase structure in the reference if needed,hardness,EXP,None,298.0,7139496000.0,None,Pa,F8,10.1016/j.mtcomm.2024.111088
 None,NiMnCrMoW1.0,None,VAM+A,annealed at 1473K for 2h; complex multi-phase structure in the reference if needed,hardness,EXP,None,298.0,6698181000.0,None,Pa,F8,10.1016/j.mtcomm.2024.111088
+None,HfMoScTaZr,BCC,VAM+Q,quenched from 800*C ,None,None,None,None,None,None,None,None,10.1016/j.ijrmhm.2021.105568
+None,HfMoScTaZr,BCC,VAM+Q,quenched from 1200*C ,None,None,None,None,None,None,None,None,10.1016/j.ijrmhm.2021.105568
+None,HfMoScTaZr,BCC,VAM,None,density,EXP,None,298.0,9.28,None,g / cm^3,None,10.1016/j.ijrmhm.2021.105568
+None,HfMoScTaZr,BCC,VAM,None,compressive yield stress,EXP,None,298.0,1778000000.0,None,Pa,T3,10.1016/j.ijrmhm.2021.105568
+None,HfMoScTaZr,BCC,VAM,None,compressive yield stress,EXP,None,1073.0,1118000000.0,None,Pa,T3,10.1016/j.ijrmhm.2021.105568
+None,HfMoScTaZr,BCC,VAM,None,compressive yield stress,EXP,None,1273.0,963000000.0,None,Pa,T3,10.1016/j.ijrmhm.2021.105568
+None,HfMoScTaZr,BCC,VAM,None,compressive yield stress,EXP,None,1473.0,498000000.0,None,Pa,T3,10.1016/j.ijrmhm.2021.105568
+None,HfMoScTaZr,BCC,VAM,None,compressive ductility,EXP,None,298.0,27.0,None,%,T3,10.1016/j.ijrmhm.2021.105568
+None,HfMoScTaZr,BCC,VAM,None,compressive ductility,EXP,None,1073.0,35.0,None,%,T3,10.1016/j.ijrmhm.2021.105568
+None,HfMoScTaZr,BCC,VAM,None,minimum compressive ductility,EXP,None,1273.0,42.0,None,%,T3,10.1016/j.ijrmhm.2021.105568
+None,HfMoScTaZr,BCC,VAM,None,minimum compressive ductility,EXP,None,1473.0,42.0,None,%,T3,10.1016/j.ijrmhm.2021.105568
+None,HfMoScTaZr,BCC,VAM,None,hardness,EXP,None,298.0,9400000000.0,None,Pa,T4,10.1016/j.ijrmhm.2021.105568
