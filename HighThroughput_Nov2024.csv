@@ -5,3 +5,107 @@ Hand Fetched:,T
 Comment:,None
 
 id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
+E8,Zr12 Mo23 Ta25 W40,BCC,SD,E8 sample ID; magnetron sputtering deposition with Ar at 0.4Pa; 10nm grain size,nanohardness,EXP,None,298.0,12250000000.0,750000000.0,Pa,F10,10.3390/ma15238546 
+D11,Zr11 Mo11 Ta25 W53,BCC,SD,D11 sample ID; magnetron sputtering deposition with Ar at 0.4Pa; 10nm grain size,nanohardness,EXP,None,298.0,19920000000.0,1000000000.0,Pa,F10,10.3390/ma15238546 
+I5,Zr19 Mo41 Ta20 W20,BCC,SD,I5 sample ID; magnetron sputtering deposition with Ar at 0.4Pa; 10nm grain size,nanohardness,EXP,None,298.0,10360000000.0,750000000.0,Pa,F10,10.3390/ma15238546 
+F6C ,Zr21 Mo25 Ta25 W29,BCC,SD,F6C sample ID; magnetron sputtering deposition with Ar at 0.4Pa; 10nm grain size,nanohardness,EXP,None,298.0,10810000000.0,1000000000.0,Pa,F10,10.3390/ma15238546 
+C5,Zr18 Mo18 Ta36 W28,BCC,SD,C5 sample ID; magnetron sputtering deposition with Ar at 0.4Pa; 10nm grain size,nanohardness,EXP,None,298.0,8280000000.0,500000000.0,Pa,F10,10.3390/ma15238546 
+E4,Zr29 Mo27 Ta26 W18,BCC,SD,E4 sample ID; magnetron sputtering deposition with Ar at 0.4Pa; 10nm grain size,nanohardness,EXP,None,298.0,7560000000.0,750000000.0,Pa,F10,10.3390/ma15238546 
+E8,Zr12 Mo23 Ta25 W40,BCC,SD,E8 sample ID; magnetron sputtering deposition with Ar at 0.4Pa; 10nm grain size,reduced elastic modulus,EXP,None,298.0,267600000000.0,15000000000.0,Pa,F10,10.3390/ma15238546 
+D11,Zr11 Mo11 Ta25 W53,BCC,SD,D11 sample ID; magnetron sputtering deposition with Ar at 0.4Pa; 10nm grain size,reduced elastic modulus,EXP,None,298.0,302700000000.0,25000000000.0,Pa,F10,10.3390/ma15238546 
+I5,Zr19 Mo41 Ta20 W20,BCC,SD,I5 sample ID; magnetron sputtering deposition with Ar at 0.4Pa; 10nm grain size,reduced elastic modulus,EXP,None,298.0,215000000000.0,10000000000.0,Pa,F10,10.3390/ma15238546 
+F6C ,Zr21 Mo25 Ta25 W29,BCC,SD,F6C sample ID; magnetron sputtering deposition with Ar at 0.4Pa; 10nm grain size,reduced elastic modulus,EXP,None,298.0,201200000000.0,5000000000.0,Pa,F10,10.3390/ma15238546 
+C5,Zr18 Mo18 Ta36 W28,BCC,SD,C5 sample ID; magnetron sputtering deposition with Ar at 0.4Pa; 10nm grain size,reduced elastic modulus,EXP,None,298.0,182100000000.0,5000000000.0,Pa,F10,10.3390/ma15238546 
+E4,Zr29 Mo27 Ta26 W18,BCC,SD,E4 sample ID; magnetron sputtering deposition with Ar at 0.4Pa; 10nm grain size,reduced elastic modulus,EXP,None,298.0,140200000000.0,5000000000.0,Pa,F10,10.3390/ma15238546 
+NB000,CoCrCuFeNi,FCC,SD,NB000; deposited by magnetron sputtering coldpressed powder targets; p*d=2.8 Pa cm,None,None,None,None,None,None,None,F3,10.1016/j.jallcom.2015.06.097
+NB005,(CoCrCuFeNi)19 Nb5,FCC,SD,NB005; deposited by magnetron sputtering coldpressed powder targets; p*d=2.8 Pa cm,None,None,None,None,None,None,None,F3,10.1016/j.jallcom.2015.06.097
+NB010,(CoCrCuFeNi)18 Nb10,FCC+amorphous,SD,NB010; deposited by magnetron sputtering coldpressed powder targets; p*d=2.8 Pa cm,None,None,None,None,None,None,None,F3,10.1016/j.jallcom.2015.06.097
+NB015,(CoCrCuFeNi)17 Nb15,amorphous,SD,NB015; deposited by magnetron sputtering coldpressed powder targets; p*d=2.8 Pa cm,None,None,None,None,None,None,None,F3,10.1016/j.jallcom.2015.06.097
+NB023,(CoCrCuFeNi)15.4 Nb23,amorphous,SD,NB023; deposited by magnetron sputtering coldpressed powder targets; p*d=2.8 Pa cm,None,None,None,None,None,None,None,F3,10.1016/j.jallcom.2015.06.097
+Alloy 1,Al20Cr5Fe50Mn20Ti5,BCC+L21,VAM,None,compressive yield stress,None,strain rate of 2e−4/s,298.0,1374000000.0,23000000.0,Pa,ST2,10.1038/s41467-021-24523-9
+Alloy 2,Al25Cr5Fe50Mn15Ti5,BCC+L21,VAM,None,compressive yield stress,None,strain rate of 2e−4/s,298.0,500000000.0,12000000.0,Pa,ST2,10.1038/s41467-021-24523-9
+Alloy 3,Al35Cr5Fe40Mn10Ti10,BCC+L21,VAM,None,compressive yield stress,None,strain rate of 2e−4/s,298.0,800000000.0,11000000.0,Pa,ST2,10.1038/s41467-021-24523-9
+Alloy 4,Al30Cr10Fe35Mn15Ti10,BCC+L21,VAM,None,compressive yield stress,None,strain rate of 2e−4/s,298.0,754000000.0,32000000.0,Pa,ST2,10.1038/s41467-021-24523-9
+Alloy 5,Al30Cr5Fe40Mn15Ti10,BCC+L21,VAM,None,compressive yield stress,None,strain rate of 2e−4/s,298.0,597000000.0,6000000.0,Pa,ST2,10.1038/s41467-021-24523-9
+Alloy 6,Al30Cr5Fe45Mn10Ti10,BCC+L21,VAM,None,compressive yield stress,None,strain rate of 2e−4/s,298.0,503000000.0,8000000.0,Pa,ST2,10.1038/s41467-021-24523-9
+Alloy 7,Al30Cr5Fe50Mn10Ti5,BCC+L21,VAM,None,compressive yield stress,None,strain rate of 2e−4/s,298.0,514000000.0,19000000.0,Pa,ST2,10.1038/s41467-021-24523-9
+Alloy 8,Al15Cr5Fe50Mn25Ti5,BCC+L21,VAM,None,compressive yield stress,None,strain rate of 2e−4/s,298.0,1642000000.0,3000000.0,Pa,ST2,10.1038/s41467-021-24523-9
+Alloy 1,Al20Cr5Fe50Mn20Ti5,BCC+L21,VAM,None,compressive fracture stress,None,strain rate of 2e−4/s,298.0,2666000000.0,86000000.0,Pa,ST2,10.1038/s41467-021-24523-9
+Alloy 2,Al25Cr5Fe50Mn15Ti5,BCC+L21,VAM,None,compressive fracture stress,None,strain rate of 2e−4/s,298.0,2385000000.0,48000000.0,Pa,ST2,10.1038/s41467-021-24523-9
+Alloy 3,Al35Cr5Fe40Mn10Ti10,BCC+L21,VAM,None,compressive fracture stress,None,strain rate of 2e−4/s,298.0,1170000000.0,8000000.0,Pa,ST2,10.1038/s41467-021-24523-9
+Alloy 4,Al30Cr10Fe35Mn15Ti10,BCC+L21,VAM,None,compressive fracture stress,None,strain rate of 2e−4/s,298.0,1194000000.0,153000000.0,Pa,ST2,10.1038/s41467-021-24523-9
+Alloy 5,Al30Cr5Fe40Mn15Ti10,BCC+L21,VAM,None,compressive fracture stress,None,strain rate of 2e−4/s,298.0,1564000000.0,85000000.0,Pa,ST2,10.1038/s41467-021-24523-9
+Alloy 6,Al30Cr5Fe45Mn10Ti10,BCC+L21,VAM,None,compressive fracture stress,None,strain rate of 2e−4/s,298.0,1516000000.0,1000000.0,Pa,ST2,10.1038/s41467-021-24523-9
+Alloy 7,Al30Cr5Fe50Mn10Ti5,BCC+L21,VAM,None,compressive fracture stress,None,strain rate of 2e−4/s,298.0,1718000000.0,149000000.0,Pa,ST2,10.1038/s41467-021-24523-9
+Alloy 8,Al15Cr5Fe50Mn25Ti5,BCC+L21,VAM,None,compressive fracture stress,None,strain rate of 2e−4/s,298.0,2480000000.0,111000000.0,Pa,ST2,10.1038/s41467-021-24523-9
+Alloy 1,Al20Cr5Fe50Mn20Ti5,BCC+L21,VAM,None,compressive ductility,None,strain rate of 2e−4/s,298.0,28.0,2.0,%,ST2,10.1038/s41467-021-24523-9
+Alloy 2,Al25Cr5Fe50Mn15Ti5,BCC+L21,VAM,None,compressive ductility,None,strain rate of 2e−4/s,298.0,27.0,1.0,%,ST2,10.1038/s41467-021-24523-9
+Alloy 3,Al35Cr5Fe40Mn10Ti10,BCC+L21,VAM,None,compressive ductility,None,strain rate of 2e−4/s,298.0,8.0,0.2,%,ST2,10.1038/s41467-021-24523-9
+Alloy 4,Al30Cr10Fe35Mn15Ti10,BCC+L21,VAM,None,compressive ductility,None,strain rate of 2e−4/s,298.0,8.0,1.0,%,ST2,10.1038/s41467-021-24523-9
+Alloy 5,Al30Cr5Fe40Mn15Ti10,BCC+L21,VAM,None,compressive ductility,None,strain rate of 2e−4/s,298.0,13.0,1.0,%,ST2,10.1038/s41467-021-24523-9
+Alloy 6,Al30Cr5Fe45Mn10Ti10,BCC+L21,VAM,None,compressive ductility,None,strain rate of 2e−4/s,298.0,13.0,1.0,%,ST2,10.1038/s41467-021-24523-9
+Alloy 7,Al30Cr5Fe50Mn10Ti5,BCC+L21,VAM,None,compressive ductility,None,strain rate of 2e−4/s,298.0,16.0,1.0,%,ST2,10.1038/s41467-021-24523-9
+Alloy 8,Al15Cr5Fe50Mn25Ti5,BCC+L21,VAM,None,compressive ductility,None,strain rate of 2e−4/s,298.0,29.0,2.0,%,ST2,10.1038/s41467-021-24523-9
+Alloy 1,Al20Cr5Fe50Mn20Ti5,BCC+L21,VAM+H,homogenized at 1473K for 30min,UCS,None,strain rate of 2e−4/s,298.0,1798000000.0,15000000.0,Pa,SF12a,10.1038/s41467-021-24523-9
+Alloy 2,Al25Cr5Fe50Mn15Ti5,BCC+L21,VAM+H,homogenized at 1473K for 30min,UCS,None,strain rate of 2e−4/s,298.0,1424000000.0,15000000.0,Pa,SF12a,10.1038/s41467-021-24523-9
+Alloy 3,Al35Cr5Fe40Mn10Ti10,BCC+L21,VAM+H,homogenized at 1473K for 30min,UCS,None,strain rate of 2e−4/s,298.0,813000000.0,15000000.0,Pa,SF12a,10.1038/s41467-021-24523-9
+Alloy 4,Al30Cr10Fe35Mn15Ti10,BCC+L21,VAM+H,homogenized at 1473K for 30min,UCS,None,strain rate of 2e−4/s,298.0,651000000.0,15000000.0,Pa,SF12a,10.1038/s41467-021-24523-9
+Alloy 5,Al30Cr5Fe40Mn15Ti10,BCC+L21,VAM+H,homogenized at 1473K for 30min,UCS,None,strain rate of 2e−4/s,298.0,885000000.0,15000000.0,Pa,SF12a,10.1038/s41467-021-24523-9
+Alloy 6,Al30Cr5Fe45Mn10Ti10,BCC+L21,VAM+H,homogenized at 1473K for 30min,UCS,None,strain rate of 2e−4/s,298.0,1006000000.0,15000000.0,Pa,SF12a,10.1038/s41467-021-24523-9
+Alloy 7,Al30Cr5Fe50Mn10Ti5,BCC+L21,VAM+H,homogenized at 1473K for 30min,UCS,None,strain rate of 2e−4/s,298.0,1360000000.0,15000000.0,Pa,SF12a,10.1038/s41467-021-24523-9
+Alloy 1,Al20Cr5Fe50Mn20Ti5,BCC+L21,VAM+H,homogenized at 1473K for 30min,compressive fracture stress,None,strain rate of 2e−4/s,298.0,1743000000.0,None,Pa,SF12a,10.1038/s41467-021-24523-9
+Alloy 2,Al25Cr5Fe50Mn15Ti5,BCC+L21,VAM+H,homogenized at 1473K for 30min,compressive fracture stress,None,strain rate of 2e−4/s,298.0,1383000000.0,None,Pa,SF12a,10.1038/s41467-021-24523-9
+Alloy 3,Al35Cr5Fe40Mn10Ti10,BCC+L21,VAM+H,homogenized at 1473K for 30min,compressive fracture stress,None,strain rate of 2e−4/s,298.0,738000000.0,None,Pa,SF12a,10.1038/s41467-021-24523-9
+Alloy 4,Al30Cr10Fe35Mn15Ti10,BCC+L21,VAM+H,homogenized at 1473K for 30min,compressive fracture stress,None,strain rate of 2e−4/s,298.0,527000000.0,None,Pa,SF12a,10.1038/s41467-021-24523-9
+Alloy 5,Al30Cr5Fe40Mn15Ti10,BCC+L21,VAM+H,homogenized at 1473K for 30min,compressive fracture stress,None,strain rate of 2e−4/s,298.0,764000000.0,None,Pa,SF12a,10.1038/s41467-021-24523-9
+Alloy 6,Al30Cr5Fe45Mn10Ti10,BCC+L21,VAM+H,homogenized at 1473K for 30min,compressive fracture stress,None,strain rate of 2e−4/s,298.0,937000000.0,None,Pa,SF12a,10.1038/s41467-021-24523-9
+Alloy 7,Al30Cr5Fe50Mn10Ti5,BCC+L21,VAM+H,homogenized at 1473K for 30min,compressive fracture stress,None,strain rate of 2e−4/s,298.0,1323000000.0,None,Pa,SF12a,10.1038/s41467-021-24523-9
+Alloy 1,Al20Cr5Fe50Mn20Ti5,BCC+L21,VAM+H,homogenized at 1473K for 30min,compressive ductility,None,strain rate of 2e−4/s,298.0,16.2,None,%,SF12a,10.1038/s41467-021-24523-9
+Alloy 2,Al25Cr5Fe50Mn15Ti5,BCC+L21,VAM+H,homogenized at 1473K for 30min,compressive ductility,None,strain rate of 2e−4/s,298.0,15.2,None,%,SF12a,10.1038/s41467-021-24523-9
+Alloy 3,Al35Cr5Fe40Mn10Ti10,BCC+L21,VAM+H,homogenized at 1473K for 30min,compressive ductility,None,strain rate of 2e−4/s,298.0,6.2,None,%,SF12a,10.1038/s41467-021-24523-9
+Alloy 4,Al30Cr10Fe35Mn15Ti10,BCC+L21,VAM+H,homogenized at 1473K for 30min,compressive ductility,None,strain rate of 2e−4/s,298.0,4.3,None,%,SF12a,10.1038/s41467-021-24523-9
+Alloy 5,Al30Cr5Fe40Mn15Ti10,BCC+L21,VAM+H,homogenized at 1473K for 30min,compressive ductility,None,strain rate of 2e−4/s,298.0,7.8,None,%,SF12a,10.1038/s41467-021-24523-9
+Alloy 6,Al30Cr5Fe45Mn10Ti10,BCC+L21,VAM+H,homogenized at 1473K for 30min,compressive ductility,None,strain rate of 2e−4/s,298.0,11.4,None,%,SF12a,10.1038/s41467-021-24523-9
+Alloy 7,Al30Cr5Fe50Mn10Ti5,BCC+L21,VAM+H,homogenized at 1473K for 30min,compressive ductility,None,strain rate of 2e−4/s,298.0,14.8,None,%,SF12a,10.1038/s41467-021-24523-9
+Alloy 1,Al20Cr5Fe50Mn20Ti5,BCC+L21,VAM+H+A,homogenized at 1473K for 30min; annealed at 973K for 20h,UCS,None,strain rate of 2e−4/s,298.0,1465000000.0,None,Pa,SF12b,10.1038/s41467-021-24523-9
+Alloy 2,Al25Cr5Fe50Mn15Ti5,BCC+L21,VAM+H+A,homogenized at 1473K for 30min; annealed at 973K for 20h,UCS,None,strain rate of 2e−4/s,298.0,1321000000.0,None,Pa,SF12b,10.1038/s41467-021-24523-9
+Alloy 7,Al30Cr5Fe50Mn10Ti5,BCC+L21,VAM+H+A,homogenized at 1473K for 30min; annealed at 973K for 20h,UCS,None,strain rate of 2e−4/s,298.0,1330000000.0,None,Pa,SF12b,10.1038/s41467-021-24523-9
+Alloy 1,Al20Cr5Fe50Mn20Ti5,BCC+L21,VAM+H+A,homogenized at 1473K for 30min; annealed at 973K for 20h,compressive fracture stress,None,strain rate of 2e−4/s,298.0,1319000000.0,None,Pa,SF12b,10.1038/s41467-021-24523-9
+Alloy 2,Al25Cr5Fe50Mn15Ti5,BCC+L21,VAM+H+A,homogenized at 1473K for 30min; annealed at 973K for 20h,compressive fracture stress,None,strain rate of 2e−4/s,298.0,1211000000.0,None,Pa,SF12b,10.1038/s41467-021-24523-9
+Alloy 7,Al30Cr5Fe50Mn10Ti5,BCC+L21,VAM+H+A,homogenized at 1473K for 30min; annealed at 973K for 20h,compressive fracture stress,None,strain rate of 2e−4/s,298.0,1212000000.0,None,Pa,SF12b,10.1038/s41467-021-24523-9
+Alloy 1,Al20Cr5Fe50Mn20Ti5,BCC+L21,VAM+H+A,homogenized at 1473K for 30min; annealed at 973K for 20h,compressive ductility,None,strain rate of 2e−4/s,298.0,17.1,None,%,SF12b,10.1038/s41467-021-24523-9
+Alloy 2,Al25Cr5Fe50Mn15Ti5,BCC+L21,VAM+H+A,homogenized at 1473K for 30min; annealed at 973K for 20h,compressive ductility,None,strain rate of 2e−4/s,298.0,16.0,None,%,SF12b,10.1038/s41467-021-24523-9
+Alloy 7,Al30Cr5Fe50Mn10Ti5,BCC+L21,VAM+H+A,homogenized at 1473K for 30min; annealed at 973K for 20h,compressive ductility,None,strain rate of 2e−4/s,298.0,14.9,None,%,SF12b,10.1038/s41467-021-24523-9
+Alloy 1,Al20Cr5Fe50Mn20Ti5,BCC+L21,VAM,None,compressive yield stress,None,strain rate of 2e−4/s,573.0,1162000000.0,10000000.0,Pa,ST3,10.1038/s41467-021-24523-9
+Alloy 8,Al15Cr5Fe50Mn25Ti5,BCC+L21,VAM,None,compressive yield stress,None,strain rate of 2e−4/s,573.0,1517000000.0,22000000.0,Pa,ST3,10.1038/s41467-021-24523-9
+Alloy 1,Al20Cr5Fe50Mn20Ti5,BCC+L21,VAM,None,compressive yield stress,None,strain rate of 2e−4/s,773.0,1154000000.0,13000000.0,Pa,ST3,10.1038/s41467-021-24523-9
+Alloy 8,Al15Cr5Fe50Mn25Ti5,BCC+L21,VAM,None,compressive yield stress,None,strain rate of 2e−4/s,773.0,1461000000.0,30000000.0,Pa,ST3,10.1038/s41467-021-24523-9
+Alloy 1,Al20Cr5Fe50Mn20Ti5,BCC+L21,VAM,None,compressive yield stress,None,strain rate of 2e−4/s,873.0,1072000000.0,25000000.0,Pa,ST3,10.1038/s41467-021-24523-9
+Alloy 8,Al15Cr5Fe50Mn25Ti5,BCC+L21,VAM,None,compressive yield stress,None,strain rate of 2e−4/s,873.0,1032000000.0,10000000.0,Pa,ST3,10.1038/s41467-021-24523-9
+Alloy 1,Al20Cr5Fe50Mn20Ti5,BCC+L21,VAM,None,compressive yield stress,None,strain rate of 2e−4/s,973.0,607000000.0,22000000.0,Pa,ST3,10.1038/s41467-021-24523-9
+Alloy 8,Al15Cr5Fe50Mn25Ti5,BCC+L21,VAM,None,compressive yield stress,None,strain rate of 2e−4/s,973.0,643000000.0,16000000.0,Pa,ST3,10.1038/s41467-021-24523-9
+Alloy 1,Al20Cr5Fe50Mn20Ti5,BCC+L21,VAM,None,compressive yield stress,None,strain rate of 2e−4/s,1173.0,131000000.0,5000000.0,Pa,ST3,10.1038/s41467-021-24523-9
+Alloy 8,Al15Cr5Fe50Mn25Ti5,BCC+L21,VAM,None,compressive yield stress,None,strain rate of 2e−4/s,1173.0,176000000.0,17000000.0,Pa,ST3,10.1038/s41467-021-24523-9
+Alloy 1,Al20Cr5Fe50Mn20Ti5,BCC+L21,VAM,None,UCS,None,strain rate of 2e−4/s,573.0,2126000000.0,None,Pa,SF6,10.1038/s41467-021-24523-9
+Alloy 8,Al15Cr5Fe50Mn25Ti5,BCC+L21,VAM,None,UCS,None,strain rate of 2e−4/s,573.0,1978000000.0,None,Pa,SF6,10.1038/s41467-021-24523-9
+Alloy 1,Al20Cr5Fe50Mn20Ti5,BCC+L21,VAM,None,UCS,None,strain rate of 2e−4/s,773.0,1791000000.0,None,Pa,SF6,10.1038/s41467-021-24523-9
+Alloy 8,Al15Cr5Fe50Mn25Ti5,BCC+L21,VAM,None,UCS,None,strain rate of 2e−4/s,773.0,1729000000.0,None,Pa,SF6,10.1038/s41467-021-24523-9
+Alloy 1,Al20Cr5Fe50Mn20Ti5,BCC+L21,VAM,None,UCS,None,strain rate of 2e−4/s,873.0,1192000000.0,None,Pa,SF6,10.1038/s41467-021-24523-9
+Alloy 8,Al15Cr5Fe50Mn25Ti5,BCC+L21,VAM,None,UCS,None,strain rate of 2e−4/s,873.0,1036000000.0,None,Pa,SF6,10.1038/s41467-021-24523-9
+Alloy 1,Al20Cr5Fe50Mn20Ti5,BCC+L21,VAM,None,UCS,None,strain rate of 2e−4/s,973.0,576000000.0,None,Pa,SF6,10.1038/s41467-021-24523-9
+Alloy 8,Al15Cr5Fe50Mn25Ti5,BCC+L21,VAM,None,UCS,None,strain rate of 2e−4/s,973.0,647000000.0,None,Pa,SF6,10.1038/s41467-021-24523-9
+Alloy 1,Al20Cr5Fe50Mn20Ti5,BCC+L21,VAM,None,UCS,None,strain rate of 2e−4/s,1173.0,117000000.0,None,Pa,SF6,10.1038/s41467-021-24523-9
+Alloy 8,Al15Cr5Fe50Mn25Ti5,BCC+L21,VAM,None,UCS,None,strain rate of 2e−4/s,1173.0,179000000.0,None,Pa,SF6,10.1038/s41467-021-24523-9
+Alloy 1,Al20Cr5Fe50Mn20Ti5,BCC+L21,VAM,None,compressive fracture stress,None,strain rate of 2e−4/s,573.0,2025000000.0,None,Pa,SF6,10.1038/s41467-021-24523-9
+Alloy 8,Al15Cr5Fe50Mn25Ti5,BCC+L21,VAM,None,compressive fracture stress,None,strain rate of 2e−4/s,573.0,1745000000.0,None,Pa,SF6,10.1038/s41467-021-24523-9
+Alloy 1,Al20Cr5Fe50Mn20Ti5,BCC+L21,VAM,None,compressive fracture stress,None,strain rate of 2e−4/s,773.0,1558000000.0,None,Pa,SF6,10.1038/s41467-021-24523-9
+Alloy 1,Al20Cr5Fe50Mn20Ti5,BCC+L21,VAM,None,compressive ductility,None,strain rate of 2e−4/s,573.0,25.3,None,%,SF6,10.1038/s41467-021-24523-9
+Alloy 8,Al15Cr5Fe50Mn25Ti5,BCC+L21,VAM,None,compressive ductility,None,strain rate of 2e−4/s,573.0,25.2,None,%,SF6,10.1038/s41467-021-24523-9
+Alloy 1,Al20Cr5Fe50Mn20Ti5,BCC+L21,VAM,None,compressive ductility,None,strain rate of 2e−4/s,773.0,30.1,None,%,SF6,10.1038/s41467-021-24523-9
+Alloy 8,Al15Cr5Fe50Mn25Ti5,BCC+L21,VAM,None,minimum compressive ductility,None,strain rate of 2e−4/s,773.0,40.0,None,%,SF6,10.1038/s41467-021-24523-9
+Alloy 1,Al20Cr5Fe50Mn20Ti5,BCC+L21,VAM,None,minimum compressive ductility,None,strain rate of 2e−4/s,873.0,40.0,None,%,SF6,10.1038/s41467-021-24523-9
+Alloy 8,Al15Cr5Fe50Mn25Ti5,BCC+L21,VAM,None,minimum compressive ductility,None,strain rate of 2e−4/s,873.0,40.0,None,%,SF6,10.1038/s41467-021-24523-9
+Alloy 1,Al20Cr5Fe50Mn20Ti5,BCC+L21,VAM,None,minimum compressive ductility,None,strain rate of 2e−4/s,973.0,40.0,None,%,SF6,10.1038/s41467-021-24523-9
+Alloy 8,Al15Cr5Fe50Mn25Ti5,BCC+L21,VAM,None,minimum compressive ductility,None,strain rate of 2e−4/s,973.0,40.0,None,%,SF6,10.1038/s41467-021-24523-9
+Alloy 1,Al20Cr5Fe50Mn20Ti5,BCC+L21,VAM,None,minimum compressive ductility,None,strain rate of 2e−4/s,1173.0,40.0,None,%,SF6,10.1038/s41467-021-24523-9
+Alloy 8,Al15Cr5Fe50Mn25Ti5,BCC+L21,VAM,None,minimum compressive ductility,None,strain rate of 2e−4/s,1173.0,40.0,None,%,SF6,10.1038/s41467-021-24523-9

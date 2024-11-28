@@ -221,3 +221,5 @@ None,HfMoScTaZr,BCC,VAM,None,compressive ductility,EXP,None,1073.0,35.0,None,%,T
 None,HfMoScTaZr,BCC,VAM,None,minimum compressive ductility,EXP,None,1273.0,42.0,None,%,T3,10.1016/j.ijrmhm.2021.105568
 None,HfMoScTaZr,BCC,VAM,None,minimum compressive ductility,EXP,None,1473.0,42.0,None,%,T3,10.1016/j.ijrmhm.2021.105568
 None,HfMoScTaZr,BCC,VAM,None,hardness,EXP,None,298.0,9400000000.0,None,Pa,T4,10.1016/j.ijrmhm.2021.105568
+None,Al Zn0.4 Li0.2 Mg0.2 Cu0.2,FCC+C14+C16,VIM+A,remelted at 680*C and slowly cooled,hardness,EXP,None,299.0,2138906700.0,15691200.0,Pa,F7,10.1007/s40843-018-9365-8
+None,Al Zn0.4 Li0.2 Mg0.2 Cu0.2,FCC+C14+C16,VIM+supergravity,remelted at 680*C with resistance heating and high gravity of 500g; centriguged in molten state for 5min; centrifuged during cooling for 5min,hardness,EXP,None,300.0,2788130100.0,None,Pa,F7,10.1007/s40843-018-9365-8
