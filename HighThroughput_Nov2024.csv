@@ -755,3 +755,141 @@ None,Ti27Zr27Nb27Hf9.5Ta9.5,None,SLM,LMD of elemental powder blends on a 3 mm-th
 None,Ti42Zr22Nb22Hf7Ta7 ,None,SLM,LMD of elemental powder blends on a 3 mm-thick Ti substrate in Ar; built vertically into columns; higher purity feedstock,minimum compressive ductility,EXP,strain rate of 1e−3/s,298.0,40.0,None,%,None,10.1088/2631-7990/abcca8
 None,Ti22Zr42Nb22Hf7Ta7,None,SLM,LMD of elemental powder blends on a 3 mm-thick Ti substrate in Ar; built vertically into columns; higher purity feedstock,minimum compressive ductility,EXP,strain rate of 1e−3/s,298.0,40.0,None,%,None,10.1088/2631-7990/abcca8
 None,Ti22Zr22Nb42Hf7Ta7,None,SLM,LMD of elemental powder blends on a 3 mm-thick Ti substrate in Ar; built vertically into columns; higher purity feedstock,minimum compressive ductility,EXP,strain rate of 1e−3/s,298.0,40.0,None,%,None,10.1088/2631-7990/abcca8
+ALA1,Mo85.0 Ta10.0 Ti2.5 Zr2.5,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,257600000000.00003,None,Pa,T1,10.1038/s41524-023-01095-4
+ALA2,Mo83.3 W1.7 Ta10.0 Ti2.5 Zr2.5,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,260000000000.0,None,Pa,T1,10.1038/s41524-023-01095-4
+ALA3,Mo80.8 W4.3 Ta10.0 Ti2.5 Zr2.5,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,256300000000.0,None,Pa,T1,10.1038/s41524-023-01095-4
+ALA4,Mo78.2 W6.8 Ta10.0 Ti2.5 Zr2.5,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,264700000000.0,None,Pa,T1,10.1038/s41524-023-01095-4
+ALA5,Mo76.5 W8.5 Ta10.0 Ti2.5 Zr2.5,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,268899999999.99997,None,Pa,T1,10.1038/s41524-023-01095-4
+ALA6,Mo72.3 W12.8 Ta10.0 Ti2.5 Zr2.5,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,273700000000.0,None,Pa,T1,10.1038/s41524-023-01095-4
+ALA7,Mo80.8 W4.3 Ta5.0 Ti2.5 Zr2.5 Al5.0,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,261200000000.0,None,Pa,T1,10.1038/s41524-023-01095-4
+ALA8,Mo80.8 W4.3 Ta5.0 Ti2.5 Zr2.5 Cr5.0,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,272200000000.0,None,Pa,T1,10.1038/s41524-023-01095-4
+ALB1,Mo80.0 Ta12.5 Ti3.8 Zr3.8,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,243900000000.0,None,Pa,T1,10.1038/s41524-023-01095-4
+ALB2,Mo78.4 W1.6 Ta12.5 Ti3.8 Zr3.8,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,237600000000.0,None,Pa,T1,10.1038/s41524-023-01095-4
+ALB3,Mo76.0 W4.0 Ta12.5 Ti3.8 Zr3.8,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,240000000000.0,None,Pa,T1,10.1038/s41524-023-01095-4
+ALB4,Mo73.6 W6.4 Ta12.5 Ti3.8 Zr3.8,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,250300000000.0,None,Pa,T1,10.1038/s41524-023-01095-4
+ALB5,Mo72.0 W8.0 Ta12.5 Ti3.8 Zr3.8,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,238400000000.0,None,Pa,T1,10.1038/s41524-023-01095-4
+ALB6,Mo68.0 W12.0 Ta12.5 Ti3.8 Zr3.8,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,265800000000.0,None,Pa,T1,10.1038/s41524-023-01095-4
+ALB7,Mo76.0 W4.0 Ta7.5 Ti3.8 Zr3.8 Al5.0,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,241100000000.0,None,Pa,T1,10.1038/s41524-023-01095-4
+ALB8,Mo76.0 W4.0 Ta7.5 Ti3.8 Zr3.8 Cr5.0,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,257399999999.99997,None,Pa,T1,10.1038/s41524-023-01095-4
+ALC1,Mo80.0 Ta10.0 Ti5.0 Zr5.0,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,237100000000.0,None,Pa,T1,10.1038/s41524-023-01095-4
+ALC2,Mo78.4 W1.6 Ta10.0 Ti5.0 Zr5.0,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,246300000000.0,None,Pa,T1,10.1038/s41524-023-01095-4
+ALC3,Mo76.0 W4.0 Ta10.0 Ti5.0 Zr5.0,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,249700000000.0,None,Pa,T1,10.1038/s41524-023-01095-4
+ALC4,Mo73.6 W6.4 Ta10.0 Ti5.0 Zr5.0,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,247300000000.0,None,Pa,T1,10.1038/s41524-023-01095-4
+ALC5,Mo72.0 W8.0 Ta10.0 Ti5.0 Zr5.0,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,240100000000.0,None,Pa,T1,10.1038/s41524-023-01095-4
+ALC6,Mo68.0 W12.0 Ta10.0 Ti5.0 Zr5.0,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,241000000000.0,None,Pa,T1,10.1038/s41524-023-01095-4
+ALC7,Mo76.0 W4.0 Ta5.0 Ti5.0 Zr5.0 Al5.0,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,240400000000.0,None,Pa,T1,10.1038/s41524-023-01095-4
+ALC8,Mo76.0 W4.0 Ta5.0 Ti5.0 Zr5.0 Cr5.0,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,243600000000.0,None,Pa,T1,10.1038/s41524-023-01095-4
+ALD1,Mo80.0 Ta20.0,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,260100000000.00003,None,Pa,T1,10.1038/s41524-023-01095-4
+ALD2,Mo78.4 W1.6 Ta20.0,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,266100000000.00003,None,Pa,T1,10.1038/s41524-023-01095-4
+ALD3,Mo76.0 W4.0 Ta20.0,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,267100000000.00003,None,Pa,T1,10.1038/s41524-023-01095-4
+ALD4,Mo73.6 W6.4 Ta20.0,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,270800000000.0,None,Pa,T1,10.1038/s41524-023-01095-4
+ALD5,Mo72.0 W8.0 Ta20.0,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,255800000000.0,None,Pa,T1,10.1038/s41524-023-01095-4
+ALD6,Mo68.0 W12.0 Ta20.0,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,270399999999.99997,None,Pa,T1,10.1038/s41524-023-01095-4
+ALD7,Mo76.0 W4.0 Ta15.0 Al5.0,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,265300000000.0,None,Pa,T1,10.1038/s41524-023-01095-4
+ALD8,Mo76.0 W4.0 Ta15.0 Cr5.0,BCC,None,KKR-CPA DFT,youngs modulus,DFT,KKR-CPA,0.0,272800000000.0,None,Pa,T1,10.1038/s41524-023-01095-4
+ALA1,Mo85.0 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,32 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,256325088339.22202,None,Pa,F3,10.1038/s41524-023-01095-4
+ALA2,Mo83.3 W1.7 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,33 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,261554770318.021,None,Pa,F3,10.1038/s41524-023-01095-4
+ALA3,Mo80.8 W4.3 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,34 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,258162544169.61102,None,Pa,F3,10.1038/s41524-023-01095-4
+ALA4,Mo78.2 W6.8 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,35 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,260000000000.0,None,Pa,F3,10.1038/s41524-023-01095-4
+ALA5,Mo76.5 W8.5 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,36 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,271166077738.515,None,Pa,F3,10.1038/s41524-023-01095-4
+ALA6,Mo72.3 W12.8 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,37 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,270742049469.964,None,Pa,F3,10.1038/s41524-023-01095-4
+ALA7,Mo80.8 W4.3 Ta5.0 Ti2.5 Zr2.5 Al5.0,BCC,VAM,38 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,262402826855.12302,None,Pa,F3,10.1038/s41524-023-01095-4
+ALA8,Mo80.8 W4.3 Ta5.0 Ti2.5 Zr2.5 Cr5.0,BCC,VAM,39 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,274275618374.558,None,Pa,F3,10.1038/s41524-023-01095-4
+ALB1,Mo80.0 Ta12.5 Ti3.8 Zr3.8,BCC,VAM,40 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,252226148409.89398,None,Pa,F3,10.1038/s41524-023-01095-4
+ALB2,Mo78.4 W1.6 Ta12.5 Ti3.8 Zr3.8,BCC,VAM,41 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,244310954063.60397,None,Pa,F3,10.1038/s41524-023-01095-4
+ALB3,Mo76.0 W4.0 Ta12.5 Ti3.8 Zr3.8,BCC+?,VAM,42 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,251236749116.607,None,Pa,F3,10.1038/s41524-023-01095-4
+ALB4,Mo73.6 W6.4 Ta12.5 Ti3.8 Zr3.8,BCC,VAM,43 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,250671378091.87198,None,Pa,F3,10.1038/s41524-023-01095-4
+ALB5,Mo72.0 W8.0 Ta12.5 Ti3.8 Zr3.8,BCC,VAM,44 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,245865724381.625,None,Pa,F3,10.1038/s41524-023-01095-4
+ALB6,Mo68.0 W12.0 Ta12.5 Ti3.8 Zr3.8,BCC+?,VAM,45 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,272296819787.985,None,Pa,F3,10.1038/s41524-023-01095-4
+ALB7,Mo76.0 W4.0 Ta7.5 Ti3.8 Zr3.8 Al5.0,BCC,VAM,46 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,246855123674.911,None,Pa,F3,10.1038/s41524-023-01095-4
+ALB8,Mo76.0 W4.0 Ta7.5 Ti3.8 Zr3.8 Cr5.0,BCC,VAM,47 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,263674911660.777,None,Pa,F3,10.1038/s41524-023-01095-4
+ALC1,Mo80.0 Ta10.0 Ti5.0 Zr5.0,BCC,VAM,48 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,240494699646.643,None,Pa,F3,10.1038/s41524-023-01095-4
+ALC2,Mo78.4 W1.6 Ta10.0 Ti5.0 Zr5.0,BCC+?,VAM,49 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,246572438162.54398,None,Pa,F3,10.1038/s41524-023-01095-4
+ALC3,Mo76.0 W4.0 Ta10.0 Ti5.0 Zr5.0,BCC+?,VAM,50 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,251660777385.159,None,Pa,F3,10.1038/s41524-023-01095-4
+ALC4,Mo73.6 W6.4 Ta10.0 Ti5.0 Zr5.0,BCC,VAM,51 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,258162544169.61102,None,Pa,F3,10.1038/s41524-023-01095-4
+ALC5,Mo72.0 W8.0 Ta10.0 Ti5.0 Zr5.0,BCC,VAM,52 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,243604240282.685,None,Pa,F3,10.1038/s41524-023-01095-4
+ALC6,Mo68.0 W12.0 Ta10.0 Ti5.0 Zr5.0,BCC,VAM,53 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,241342756183.745,None,Pa,F3,10.1038/s41524-023-01095-4
+ALC7,Mo76.0 W4.0 Ta5.0 Ti5.0 Zr5.0 Al5.0,BCC,VAM,54 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,237667844522.96802,None,Pa,F3,10.1038/s41524-023-01095-4
+ALC8,Mo76.0 W4.0 Ta5.0 Ti5.0 Zr5.0 Cr5.0,BCC,VAM,55 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,246855123674.911,None,Pa,F3,10.1038/s41524-023-01095-4
+ALD1,Mo80.0 Ta20.0,BCC,VAM,56 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,254487632508.833,None,Pa,F3,10.1038/s41524-023-01095-4
+ALD2,Mo78.4 W1.6 Ta20.0,BCC,VAM,57 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,268763250883.392,None,Pa,F3,10.1038/s41524-023-01095-4
+ALD3,Mo76.0 W4.0 Ta20.0,BCC,VAM,58 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,260565371024.735,None,Pa,F3,10.1038/s41524-023-01095-4
+ALD4,Mo73.6 W6.4 Ta20.0,BCC,VAM,59 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,272014134275.618,None,Pa,F3,10.1038/s41524-023-01095-4
+ALD5,Mo72.0 W8.0 Ta20.0,BCC,VAM,60 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,260282685512.36697,None,Pa,F3,10.1038/s41524-023-01095-4
+ALD6,Mo68.0 W12.0 Ta20.0,BCC,VAM,61 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,274416961130.74197,None,Pa,F3,10.1038/s41524-023-01095-4
+ALD7,Mo76.0 W4.0 Ta15.0 Al5.0,BCC,VAM,62 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,264805653710.24698,None,Pa,F3,10.1038/s41524-023-01095-4
+ALD8,Mo76.0 W4.0 Ta15.0 Cr5.0,BCC,VAM,63 sample combinatorial arc melting system,youngs modulus,EXP,None,298.0,275265017667.844,None,Pa,F3,10.1038/s41524-023-01095-4
+ALA1,Mo85.0 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,32 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,238594261285.37,None,Pa,F3,10.1038/s41524-023-01095-4
+ALA2,Mo83.3 W1.7 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,33 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,243729396063.124,None,Pa,F3,10.1038/s41524-023-01095-4
+ALA3,Mo80.8 W4.3 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,34 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,240756423297.056,None,Pa,F3,10.1038/s41524-023-01095-4
+ALA4,Mo78.2 W6.8 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,35 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,242378044805.82,None,Pa,F3,10.1038/s41524-023-01095-4
+ALA5,Mo76.5 W8.5 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,36 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,253999665618.631,None,Pa,F3,10.1038/s41524-023-01095-4
+ALA6,Mo72.3 W12.8 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,37 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,253999665618.631,None,Pa,F3,10.1038/s41524-023-01095-4
+ALA7,Mo80.8 W4.3 Ta5.0 Ti2.5 Zr2.5 Al5.0,BCC,VAM,38 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,228864532232.785,None,Pa,F3,10.1038/s41524-023-01095-4
+ALA8,Mo80.8 W4.3 Ta5.0 Ti2.5 Zr2.5 Cr5.0,BCC,VAM,39 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,255351016875.934,None,Pa,F3,10.1038/s41524-023-01095-4
+ALB1,Mo80.0 Ta12.5 Ti3.8 Zr3.8,BCC,VAM,40 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,235080748016.38098,None,Pa,F3,10.1038/s41524-023-01095-4
+ALB2,Mo78.4 W1.6 Ta12.5 Ti3.8 Zr3.8,BCC,VAM,41 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,227242910724.021,None,Pa,F3,10.1038/s41524-023-01095-4
+ALB3,Mo76.0 W4.0 Ta12.5 Ti3.8 Zr3.8,BCC+?,VAM,42 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,234269937261.999,None,Pa,F3,10.1038/s41524-023-01095-4
+ALB4,Mo73.6 W6.4 Ta12.5 Ti3.8 Zr3.8,BCC,VAM,43 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,233999667010.538,None,Pa,F3,10.1038/s41524-023-01095-4
+ALB5,Mo72.0 W8.0 Ta12.5 Ti3.8 Zr3.8,BCC,VAM,44 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,229405072735.706,None,Pa,F3,10.1038/s41524-023-01095-4
+ALB6,Mo68.0 W12.0 Ta12.5 Ti3.8 Zr3.8,BCC+?,VAM,45 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,255891557378.855,None,Pa,F3,10.1038/s41524-023-01095-4
+ALB7,Mo76.0 W4.0 Ta7.5 Ti3.8 Zr3.8 Al5.0,BCC,VAM,46 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,213999668402.44598,None,Pa,F3,10.1038/s41524-023-01095-4
+ALB8,Mo76.0 W4.0 Ta7.5 Ti3.8 Zr3.8 Cr5.0,BCC,VAM,47 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,245891558074.80902,None,Pa,F3,10.1038/s41524-023-01095-4
+ALC1,Mo80.0 Ta10.0 Ti5.0 Zr5.0,BCC,VAM,48 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,222918586700.649,None,Pa,F3,10.1038/s41524-023-01095-4
+ALC2,Mo78.4 W1.6 Ta10.0 Ti5.0 Zr5.0,BCC+?,VAM,49 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,228864532232.785,None,Pa,F3,10.1038/s41524-023-01095-4
+ALC3,Mo76.0 W4.0 Ta10.0 Ti5.0 Zr5.0,BCC+?,VAM,50 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,234269937261.999,None,Pa,F3,10.1038/s41524-023-01095-4
+ALC4,Mo73.6 W6.4 Ta10.0 Ti5.0 Zr5.0,BCC,VAM,51 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,240756423297.056,None,Pa,F3,10.1038/s41524-023-01095-4
+ALC5,Mo72.0 W8.0 Ta10.0 Ti5.0 Zr5.0,BCC,VAM,52 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,226432099969.638,None,Pa,F3,10.1038/s41524-023-01095-4
+ALC6,Mo68.0 W12.0 Ta10.0 Ti5.0 Zr5.0,BCC,VAM,53 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,224810478460.87402,None,Pa,F3,10.1038/s41524-023-01095-4
+ALC7,Mo76.0 W4.0 Ta5.0 Ti5.0 Zr5.0 Al5.0,BCC,VAM,54 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,203999669098.4,None,Pa,F3,10.1038/s41524-023-01095-4
+ALC8,Mo76.0 W4.0 Ta5.0 Ti5.0 Zr5.0 Cr5.0,BCC,VAM,55 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,228323991729.863,None,Pa,F3,10.1038/s41524-023-01095-4
+ALD1,Mo80.0 Ta20.0,BCC,VAM,56 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,238594261285.37,None,Pa,F3,10.1038/s41524-023-01095-4
+ALD2,Mo78.4 W1.6 Ta20.0,BCC,VAM,57 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,252918584612.78802,None,Pa,F3,10.1038/s41524-023-01095-4
+ALD3,Mo76.0 W4.0 Ta20.0,BCC,VAM,58 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,245351017571.888,None,Pa,F3,10.1038/s41524-023-01095-4
+ALD4,Mo73.6 W6.4 Ta20.0,BCC,VAM,59 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,256432097881.777,None,Pa,F3,10.1038/s41524-023-01095-4
+ALD5,Mo72.0 W8.0 Ta20.0,BCC,VAM,60 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,245351017571.888,None,Pa,F3,10.1038/s41524-023-01095-4
+ALD6,Mo68.0 W12.0 Ta20.0,BCC,VAM,61 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,259675340899.30502,None,Pa,F3,10.1038/s41524-023-01095-4
+ALD7,Mo76.0 W4.0 Ta15.0 Al5.0,BCC,VAM,62 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,234540207513.46,None,Pa,F3,10.1038/s41524-023-01095-4
+ALD8,Mo76.0 W4.0 Ta15.0 Cr5.0,BCC,VAM,63 sample combinatorial arc melting system,youngs modulus,EXP,None,1573.0,258864530144.92297,None,Pa,F3,10.1038/s41524-023-01095-4
+ALA3,Mo80.8 W4.3 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,34 sample combinatorial arc melting system,compressive yield stress,EXP,None,298.0,820000000.0,None,Pa,F3,10.1038/s41524-023-01095-4
+ALA6,Mo72.3 W12.8 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,37 sample combinatorial arc melting system,compressive yield stress,EXP,None,298.0,760000000.0,None,Pa,F3,10.1038/s41524-023-01095-4
+ALA8,Mo80.8 W4.3 Ta5.0 Ti2.5 Zr2.5 Cr5.0,BCC,VAM,39 sample combinatorial arc melting system,compressive yield stress,EXP,None,298.0,750000000.0,None,Pa,F3,10.1038/s41524-023-01095-4
+extra Senkov,MoNbTaW,BCC,VAM,None,compressive yield stress,EXP,None,298.0,1010000000.0,None,Pa,F3,10.1038/s41524-023-01095-4
+ALA3,Mo80.8 W4.3 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,34 sample combinatorial arc melting system,compressive ductility,EXP,None,298.0,10.0,None,%,F3,10.1038/s41524-023-01095-4
+ALA6,Mo72.3 W12.8 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,37 sample combinatorial arc melting system,compressive ductility,EXP,None,298.0,9.2,None,%,F3,10.1038/s41524-023-01095-4
+ALA8,Mo80.8 W4.3 Ta5.0 Ti2.5 Zr2.5 Cr5.0,BCC,VAM,39 sample combinatorial arc melting system,compressive ductility,EXP,None,298.0,7.8,None,%,F3,10.1038/s41524-023-01095-4
+extra Senkov,MoNbTaW,BCC,VAM,None,compressive ductility,EXP,None,298.0,2.8,None,%,F3,10.1038/s41524-023-01095-4
+ALA6,Mo72.3 W12.8 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,37 sample combinatorial arc melting system,compressive yield stress,EXP,None,1573.0,446000000.0,None,Pa,F3,10.1038/s41524-023-01095-4
+extra Senkov,MoNbTaW,BCC,VAM,None,compressive yield stress,EXP,None,1573.0,460000000.0,None,Pa,F3,10.1038/s41524-023-01095-4
+ALA1,Mo85.0 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,32 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.6487935657,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALA2,Mo83.3 W1.7 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,33 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.81769437,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALA3,Mo80.8 W4.3 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,34 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11.3485254692,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALA4,Mo78.2 W6.8 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,35 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.9383378016,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALA5,Mo76.5 W8.5 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,36 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11.2278820375,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALA6,Mo72.3 W12.8 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,37 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11.7989276139,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALA7,Mo80.8 W4.3 Ta5.0 Ti2.5 Zr2.5 Al5.0,BCC,VAM,38 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.2788203753,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALA8,Mo80.8 W4.3 Ta5.0 Ti2.5 Zr2.5 Cr5.0,BCC,VAM,39 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.5361930295,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALB1,Mo80.0 Ta12.5 Ti3.8 Zr3.8,BCC,VAM,40 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.5120643432,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALB2,Mo78.4 W1.6 Ta12.5 Ti3.8 Zr3.8,BCC,VAM,41 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.4075067024,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALB3,Mo76.0 W4.0 Ta12.5 Ti3.8 Zr3.8,BCC+?,VAM,42 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.6166219839,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALB4,Mo73.6 W6.4 Ta12.5 Ti3.8 Zr3.8,BCC,VAM,43 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11.0991957105,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALB5,Mo72.0 W8.0 Ta12.5 Ti3.8 Zr3.8,BCC,VAM,44 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11.1313672922,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALB6,Mo68.0 W12.0 Ta12.5 Ti3.8 Zr3.8,BCC+?,VAM,45 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11.7104557641,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALB7,Mo76.0 W4.0 Ta7.5 Ti3.8 Zr3.8 Al5.0,BCC,VAM,46 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.0857908847,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALB8,Mo76.0 W4.0 Ta7.5 Ti3.8 Zr3.8 Cr5.0,BCC,VAM,47 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.5361930295,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALC1,Mo80.0 Ta10.0 Ti5.0 Zr5.0,BCC,VAM,48 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.3833780161,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALC2,Mo78.4 W1.6 Ta10.0 Ti5.0 Zr5.0,BCC+?,VAM,49 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.4879356568,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALC3,Mo76.0 W4.0 Ta10.0 Ti5.0 Zr5.0,BCC+?,VAM,50 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.5924932976,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALC4,Mo73.6 W6.4 Ta10.0 Ti5.0 Zr5.0,BCC,VAM,51 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11.0831099196,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALC5,Mo72.0 W8.0 Ta10.0 Ti5.0 Zr5.0,BCC,VAM,52 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11.0268096515,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALC6,Mo68.0 W12.0 Ta10.0 Ti5.0 Zr5.0,BCC,VAM,53 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11.5254691689,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALC7,Mo76.0 W4.0 Ta5.0 Ti5.0 Zr5.0 Al5.0,BCC,VAM,54 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.1662198391,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALC8,Mo76.0 W4.0 Ta5.0 Ti5.0 Zr5.0 Cr5.0,BCC,VAM,55 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.3431635389,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALD1,Mo80.0 Ta20.0,BCC,VAM,56 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11.3806970509,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALD2,Mo78.4 W1.6 Ta20.0,BCC,VAM,57 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11.6139410188,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALD3,Mo76.0 W4.0 Ta20.0,BCC,VAM,58 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11.8471849866,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALD4,Mo73.6 W6.4 Ta20.0,BCC,VAM,59 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,12.3538873995,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALD5,Mo72.0 W8.0 Ta20.0,BCC,VAM,60 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,12.1045576408,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALD6,Mo68.0 W12.0 Ta20.0,BCC,VAM,61 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,12.7721179625,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALD7,Mo76.0 W4.0 Ta15.0 Al5.0,BCC,VAM,62 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11.509383378,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALD8,Mo76.0 W4.0 Ta15.0 Cr5.0,BCC,VAM,63 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11.4772117962,None,g/cm^3,F4,10.1038/s41524-023-01095-4
