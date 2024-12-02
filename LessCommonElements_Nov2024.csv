@@ -298,6 +298,58 @@ None,Hf21Nb25Ti15V15Zr24,BCC,VAM+A,annealed at 1073k for 4 days in vacuum,superc
 None,Nb10 Mo35 Ru35 Rh10 Pd10,HCP,AAM,elemental powders pressed into pellet in argon before arc melting in argon; no significant mass loss,superconducting transition temperature,EXP,None,None,5.58,None,K,T2,10.1016/j.scriptamat.2020.03.004
 None,Nb15 Mo32.5 Ru32.5 Rh10 Pd10,HCP,AAM,elemental powders pressed into pellet in argon before arc melting in argon; no significant mass loss,superconducting transition temperature,EXP,None,None,6.19,None,K,T2,10.1016/j.scriptamat.2020.03.004
 None,Nb20 Mo30 Ru30 Rh10 Pd10,HCP,AAM,elemental powders pressed into pellet in argon before arc melting in argon; no significant mass loss,superconducting transition temperature,EXP,None,None,6.1,None,K,T2,10.1016/j.scriptamat.2020.03.004
-None,Nb10 Mo35 Ru35 Rh10 Pd10,HCP,AAM,elemental powders pressed into pellet in argon before arc melting in argon; no significant mass loss,electrical resistivity,EXP,None,298.0,1.57e-08,None,Ohm m^2 / m,F2,10.1016/j.scriptamat.2020.03.004
-None,Nb15 Mo32.5 Ru32.5 Rh10 Pd10,HCP,AAM,elemental powders pressed into pellet in argon before arc melting in argon; no significant mass loss,electrical resistivity,EXP,None,298.0,1.27e-08,None,Ohm m^2 / m,F2,10.1016/j.scriptamat.2020.03.004
-None,Nb20 Mo30 Ru30 Rh10 Pd10,HCP,AAM,elemental powders pressed into pellet in argon before arc melting in argon; no significant mass loss,electrical resistivity,EXP,None,298.0,8.86e-08,None,Ohm m^2 / m,F2,10.1016/j.scriptamat.2020.03.004
+None,Nb10 Mo35 Ru35 Rh10 Pd10,HCP,AAM,elemental powders pressed into pellet in argon before arc melting in argon; no significant mass loss,electrical resistivity,EXP,None,298.0,1.57e-06,None,Ohm m^2 / m,F2,10.1016/j.scriptamat.2020.03.004
+None,Nb15 Mo32.5 Ru32.5 Rh10 Pd10,HCP,AAM,elemental powders pressed into pellet in argon before arc melting in argon; no significant mass loss,electrical resistivity,EXP,None,298.0,1.27e-06,None,Ohm m^2 / m,F2,10.1016/j.scriptamat.2020.03.004
+None,Nb20 Mo30 Ru30 Rh10 Pd10,HCP,AAM,elemental powders pressed into pellet in argon before arc melting in argon; no significant mass loss,electrical resistivity,EXP,None,298.0,8.86e-07,None,Ohm m^2 / m,F2,10.1016/j.scriptamat.2020.03.004
+Al5,Al5 Sc25 Ti35 Zr35,HCP,AAM,None,compressive yield stress,EXP,None,298.0,1615000000.0,21000000.0,Pa,T3,10.1016/j.matchar.2024.113730
+Al10,Al10 Sc20 Ti35 Zr35,HCP+BCC,AAM,None,compressive yield stress,EXP,None,298.0,1268000000.0,3000000.0,Pa,T3,10.1016/j.matchar.2024.113730
+Al15,Al15 Sc15 Ti35 Zr35,BCC,AAM,None,compressive yield stress,EXP,None,298.0,2007000000.0,59000000.0,Pa,T3,10.1016/j.matchar.2024.113730
+Al5,Al5 Sc25 Ti35 Zr35,HCP+HCP,AAM+A+WQ+A,annealed in vacuum at 1173K for 60min in quartz then water quenched and annealed again 773K for 30min and cooled down,compressive yield stress,EXP,None,298.0,1351000000.0,24000000.0,Pa,T3,10.1016/j.matchar.2024.113730
+Al10,Al10 Sc20 Ti35 Zr35,HCP,AAM+A+WQ+A,annealed in vacuum at 1173K for 60min in quartz then water quenched and annealed again 773K for 30min and cooled down,compressive yield stress,EXP,None,298.0,1517000000.0,30000000.0,Pa,T3,10.1016/j.matchar.2024.113730
+Al5,Al5 Sc25 Ti35 Zr35,HCP,AAM,None,UCS,EXP,None,298.0,1861000000.0,46000000.0,Pa,T3,10.1016/j.matchar.2024.113730
+Al10,Al10 Sc20 Ti35 Zr35,HCP+BCC,AAM,None,UCS,EXP,None,298.0,2040000000.0,25000000.0,Pa,T3,10.1016/j.matchar.2024.113730
+Al15,Al15 Sc15 Ti35 Zr35,BCC,AAM,None,UCS,EXP,None,298.0,1798000000.0,146000000.0,Pa,T3,10.1016/j.matchar.2024.113730
+Al5,Al5 Sc25 Ti35 Zr35,HCP+HCP,AAM+A+WQ+A,annealed in vacuum at 1173K for 60min in quartz then water quenched and annealed again 773K for 30min and cooled down,UCS,EXP,None,298.0,1953000000.0,39000000.0,Pa,T3,10.1016/j.matchar.2024.113730
+Al10,Al10 Sc20 Ti35 Zr35,HCP,AAM+A+WQ+A,annealed in vacuum at 1173K for 60min in quartz then water quenched and annealed again 773K for 30min and cooled down,UCS,EXP,None,298.0,2584000000.0,44000000.0,Pa,T3,10.1016/j.matchar.2024.113730
+Al15,Al15 Sc15 Ti35 Zr35,BCC+HCP,AAM+A+WQ+A,annealed in vacuum at 1273K for 60min in quartz then water quenched and annealed again 773K for 30min and cooled down,UCS,EXP,None,298.0,1750000000.0,58000000.0,Pa,T3,10.1016/j.matchar.2024.113730
+Al5,Al5 Sc25 Ti35 Zr35,HCP,AAM,None,compressive ductility,EXP,None,298.0,4.5,0.7,%,T3,10.1016/j.matchar.2024.113730
+Al10,Al10 Sc20 Ti35 Zr35,HCP+BCC,AAM,None,compressive ductility,EXP,None,298.0,14.9,0.7,%,T3,10.1016/j.matchar.2024.113730
+Al15,Al15 Sc15 Ti35 Zr35,BCC,AAM,None,compressive ductility,EXP,None,298.0,17.0,1.6,%,T3,10.1016/j.matchar.2024.113730
+Al5,Al5 Sc25 Ti35 Zr35,HCP+HCP,AAM+A+WQ+A,annealed in vacuum at 1173K for 60min in quartz then water quenched and annealed again 773K for 30min and cooled down,compressive ductility,EXP,None,298.0,7.8,0.6,%,T3,10.1016/j.matchar.2024.113730
+Al10,Al10 Sc20 Ti35 Zr35,HCP,AAM+A+WQ+A,annealed in vacuum at 1173K for 60min in quartz then water quenched and annealed again 773K for 30min and cooled down,compressive ductility,EXP,None,298.0,31.9,0.6,%,T3,10.1016/j.matchar.2024.113730
+Al15,Al15 Sc15 Ti35 Zr35,BCC+HCP,AAM+A+WQ+A,annealed in vacuum at 1273K for 60min in quartz then water quenched and annealed again 773K for 30min and cooled down,compressive ductility,EXP,None,298.0,2.4,0.05,%,T3,10.1016/j.matchar.2024.113730
+Al5,Al5 Sc25 Ti35 Zr35,HCP,AAM,None,density,EXP,None,298.0,4950.0,None,kg/m^3,T4,10.1016/j.matchar.2024.113730
+Al10,Al10 Sc20 Ti35 Zr35,HCP+BCC,AAM,None,density,EXP,None,298.0,4954.0,None,kg/m^3,T4,10.1016/j.matchar.2024.113730
+Al15,Al15 Sc15 Ti35 Zr35,BCC,AAM,None,density,EXP,None,298.0,4957.0,None,kg/m^3,T4,10.1016/j.matchar.2024.113730
+Al15,Al15 Sc15 Ti35 Zr35,BCC,AAM,None,UCS,EXP,None,873.0,804000000.0,None,Pa,P5,10.1016/j.matchar.2024.113730
+Al5,Al5 Sc25 Ti35 Zr35,HCP+HCP,AAM+A+WQ+A,annealed in vacuum at 1173K for 60min in quartz then water quenched and annealed again 773K for 30min and cooled down,UCS,EXP,None,873.0,692000000.0,None,Pa,P5,10.1016/j.matchar.2024.113730
+Al10,Al10 Sc20 Ti35 Zr35,HCP,AAM+A+WQ+A,annealed in vacuum at 1173K for 60min in quartz then water quenched and annealed again 773K for 30min and cooled down,UCS,EXP,None,873.0,605000000.0,None,Pa,P5,10.1016/j.matchar.2024.113730
+Al15,Al15 Sc15 Ti35 Zr35,BCC,AAM,None,compressive fracture strength,EXP,None,873.0,689000000.0,None,Pa,P5,10.1016/j.matchar.2024.113730
+Al5,Al5 Sc25 Ti35 Zr35,HCP+HCP,AAM+A+WQ+A,annealed in vacuum at 1173K for 60min in quartz then water quenched and annealed again 773K for 30min and cooled down,compressive fracture strength,EXP,None,873.0,576000000.0,None,Pa,P5,10.1016/j.matchar.2024.113730
+Al10,Al10 Sc20 Ti35 Zr35,HCP,AAM+A+WQ+A,annealed in vacuum at 1173K for 60min in quartz then water quenched and annealed again 773K for 30min and cooled down,compressive fracture strength,EXP,None,873.0,442000000.0,None,Pa,P5,10.1016/j.matchar.2024.113730
+Al15,Al15 Sc15 Ti35 Zr35,BCC,AAM,None,minimum compressive ductility,EXP,None,873.0,50.0,None,%,P5,10.1016/j.matchar.2024.113730
+Al5,Al5 Sc25 Ti35 Zr35,HCP+HCP,AAM+A+WQ+A,annealed in vacuum at 1173K for 60min in quartz then water quenched and annealed again 773K for 30min and cooled down,compressive ductility,EXP,None,873.0,45.0,None,%,P5,10.1016/j.matchar.2024.113730
+Al10,Al10 Sc20 Ti35 Zr35,HCP,AAM+A+WQ+A,annealed in vacuum at 1173K for 60min in quartz then water quenched and annealed again 773K for 30min and cooled down,minimum compressive ductility,EXP,None,873.0,50.0,None,%,P5,10.1016/j.matchar.2024.113730
+None,Mo35 W10 Re20 Ru30 Pd5,HCP,AAM,elemental powders pressed into pellet in argon before arc melting in argon,superconducting transition temperature,EXP,None,None,8.32,None,K,None,10.1016/j.scriptamat.2024.115986
+None,Mo35 W10 Re35 Ru15 Pd5,sigma,AAM,elemental powders pressed into pellet in argon before arc melting in argon,superconducting transition temperature,EXP,None,None,6.61,None,K,None,10.1016/j.scriptamat.2024.115986
+None,Mo35 W15 Re35 Ru10 Pd5,sigma,AAM,elemental powders pressed into pellet in argon before arc melting in argon,superconducting transition temperature,EXP,None,None,6.17,None,K,None,10.1016/j.scriptamat.2024.115986
+None,Mo35 W35 Re15 Ru10 Pd5,BCC,AAM,elemental powders pressed into pellet in argon before arc melting in argon,superconducting transition temperature,EXP,None,None,3.98,None,K,None,10.1016/j.scriptamat.2024.115986
+None,W3.5RhIrPt2,FCC,AAM+RS,None,superconducting transition temperature,EXP,None,None,1.56,None,K,T1,10.1007/s10853-024-09780-5
+None,W3RhIrPt2,FCC,AAM+RS,None,superconducting transition temperature,EXP,None,None,1.1,None,K,T1,10.1007/s10853-024-09780-5
+None,W2.65Mo0.35RhIrPt2,FCC,AAM+RS,None,superconducting transition temperature,EXP,None,None,1.25,None,K,T1,10.1007/s10853-024-09780-5
+None,W2.3Mo0.7RhIrPt2,FCC+HCP,AAM+RS,None,None,EXP,None,None,None,None,None,None,10.1007/s10853-024-09780-5
+None,W2.5RhIrPt2,FCC,AAM+RS,None,superconducting transition temperature,EXP,None,None,0.9,None,K,T1,10.1007/s10853-024-09780-5
+None,W2.175Mo0.325RhIrPt2,FCC,AAM+RS,None,superconducting transition temperature,EXP,None,None,0.85,None,K,T1,10.1007/s10853-024-09780-5
+None,W1.85Mo0.65RhIrPt2,FCC,AAM+RS,None,superconducting transition temperature,EXP,None,None,0.85,None,K,T1,10.1007/s10853-024-09780-5
+None,W2RhIrPt2,FCC,AAM+RS,None,superconducting transition temperature,EXP,None,None,0.45,None,K,T1,10.1007/s10853-024-09780-5
+None,W1.7Mo0.3RhIrPt2,FCC,AAM+RS,None,superconducting transition temperature,EXP,None,None,0.4,None,K,T1,10.1007/s10853-024-09780-5
+None,W1.4Mo0.6RhIrPt2,FCC,AAM+RS,None,superconducting transition temperature,EXP,None,None,0.3,None,K,T1,10.1007/s10853-024-09780-5
+None,W2.175Ta0.325RhIrPt2,FCC,AAM+RS,None,superconducting transition temperature,EXP,None,None,0.9,None,K,T1,10.1007/s10853-024-09780-5
+None,W1.7Ta0.3RhIrPt2,FCC,AAM+RS,None,superconducting transition temperature,EXP,None,None,0.4,None,K,T1,10.1007/s10853-024-09780-5
+None,W2.175Nb0.325RhIrPt2,FCC,AAM+RS,None,superconducting transition temperature,EXP,None,None,0.8,None,K,T1,10.1007/s10853-024-09780-5
+None,W1.7Nb0.3RhIrPt2,FCC,AAM+RS,None,superconducting transition temperature,EXP,None,None,0.4,None,K,T1,10.1007/s10853-024-09780-5
+None,W2.175Re0.325RhIrPt2,FCC,AAM+RS,None,superconducting transition temperature,EXP,None,None,1.0,None,K,T1,10.1007/s10853-024-09780-5
+None,W1.85Re0.65RhIrPt2,FCC,AAM+RS,None,superconducting transition temperature,EXP,None,None,1.05,None,K,T1,10.1007/s10853-024-09780-5
+None,W1.7Re0.3RhIrPt2,FCC,AAM+RS,None,superconducting transition temperature,EXP,None,None,0.65,None,K,T1,10.1007/s10853-024-09780-5
+None,Ta34 Nb33 Hf8 Zr14 Ti11,BCC,AC,None,superconducting transition temperature,EXP,None,None,7.27,None,K,None,10.1103/PhysRevLett.113.107001
+None,Ta34 Nb33 Hf8 Zr14 Ti11,BCC,AC,None,electrical resistivity,EXP,None,300.0,4.6e-07,1e-08,Ohm m^2 / m,None,10.1103/PhysRevLett.113.107001
