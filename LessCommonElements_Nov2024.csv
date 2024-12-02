@@ -284,3 +284,20 @@ None,CrMnFeCoNi,FCC,VAM+H+RX,homogenized at 1473K for 24h; recrystallized at 115
 None,CrFeCoNiPd,FCC,VAM+H+RX,homogenized at 1473K for 24h; recrystallized at 1150*C for 60min in vacuum; 130micrometer grain size,tensile ductility,EXP,strain rate 1e-3/s,298.0,54.0,None,%,F4a,10.1038/s41586-019-1617-1
 None,CrMnFeCoNi,FCC,VAM+H+RX,homogenized at 1473K for 24h; recrystallized at 1150*C for 60min in vacuum; 130micrometer grain size,tensile ductility,EXP,strain rate 1e-3/s,77.0,107.0,None,%,F4a,10.1038/s41586-019-1617-1
 None,CrFeCoNiPd,FCC,VAM+H+RX,homogenized at 1473K for 24h; recrystallized at 1150*C for 60min in vacuum; 130micrometer grain size,tensile ductility,EXP,strain rate 1e-3/s,77.0,70.0,None,%,F4a,10.1038/s41586-019-1617-1
+None,MoReRu,HCP,VAM+BM,as-cast samples cryomilled into powder,superconducting transition temperature,EXP,None,None,9.1,None,K,None,10.1016/j.physc.2019.1353520
+None,MoReRuRh,HCP,VAM+BM,as-cast samples cryomilled into powder,superconducting transition temperature,EXP,None,None,2.5,None,K,None,10.1016/j.physc.2019.1353520
+None,Ti0.05(MoReRuRh)0.2375,HCP,VAM+BM,as-cast samples cryomilled into powder,superconducting transition temperature,EXP,None,None,3.6,None,K,None,10.1016/j.physc.2019.1353520
+None,Ti0.1(MoReRuRh)0.225,HCP,VAM+BM,as-cast samples cryomilled into powder,superconducting transition temperature,EXP,None,None,4.7,None,K,None,10.1016/j.physc.2019.1353520
+None,Ti0.15(MoReRuRh)0.2125,HCP+B2,VAM+BM,as-cast samples cryomilled into powder,None,None,None,None,None,None,None,None,10.1016/j.physc.2019.1353520
+None,Ti0.15 (MoReRh)0.1 Ru0.55,HCP,VAM+BM,as-cast samples cryomilled into powder,superconducting transition temperature,EXP,None,None,2.1,None,K,None,10.1016/j.physc.2019.1353520
+None,Ti0.15 (MoReRh)0.1 Ru0.5,HCP+B2,VAM+BM,as-cast samples cryomilled into powder,superconducting transition temperature,EXP,None,None,2.2,None,K,None,10.1016/j.physc.2019.1353520
+None,Ti0.15 (MoReRh)0.1 Ru0.4,HCP+B2,VAM+BM,as-cast samples cryomilled into powder,superconducting transition temperature,EXP,None,None,2.5,None,K,None,10.1016/j.physc.2019.1353520
+None,Ti0.15 (MoReRh)0.1 Ru0.15,HCP+B2+sigma,VAM+BM,as-cast samples cryomilled into powder,superconducting transition temperature,EXP,None,None,5.5,None,K,None,10.1016/j.physc.2019.1353520
+None,Nb20Re20Zr20Hf20Ti20,BCC,VAM,None,superconducting transition temperature,EXP,None,None,5.3,None,K,None,10.1016/j.jallcom.2018.08.039
+None,Hf21Nb25Ti15V15Zr24,BCC,VAM+A,annealed at 1073k for 4 days in vacuum,superconducting transition temperature,EXP,None,None,5.3,None,K,None,10.1016/j.rinp.2019.102275
+None,Nb10 Mo35 Ru35 Rh10 Pd10,HCP,AAM,elemental powders pressed into pellet in argon before arc melting in argon; no significant mass loss,superconducting transition temperature,EXP,None,None,5.58,None,K,T2,10.1016/j.scriptamat.2020.03.004
+None,Nb15 Mo32.5 Ru32.5 Rh10 Pd10,HCP,AAM,elemental powders pressed into pellet in argon before arc melting in argon; no significant mass loss,superconducting transition temperature,EXP,None,None,6.19,None,K,T2,10.1016/j.scriptamat.2020.03.004
+None,Nb20 Mo30 Ru30 Rh10 Pd10,HCP,AAM,elemental powders pressed into pellet in argon before arc melting in argon; no significant mass loss,superconducting transition temperature,EXP,None,None,6.1,None,K,T2,10.1016/j.scriptamat.2020.03.004
+None,Nb10 Mo35 Ru35 Rh10 Pd10,HCP,AAM,elemental powders pressed into pellet in argon before arc melting in argon; no significant mass loss,electrical resistivity,EXP,None,298.0,1.57e-08,None,Ohm m^2 / m,F2,10.1016/j.scriptamat.2020.03.004
+None,Nb15 Mo32.5 Ru32.5 Rh10 Pd10,HCP,AAM,elemental powders pressed into pellet in argon before arc melting in argon; no significant mass loss,electrical resistivity,EXP,None,298.0,1.27e-08,None,Ohm m^2 / m,F2,10.1016/j.scriptamat.2020.03.004
+None,Nb20 Mo30 Ru30 Rh10 Pd10,HCP,AAM,elemental powders pressed into pellet in argon before arc melting in argon; no significant mass loss,electrical resistivity,EXP,None,298.0,8.86e-08,None,Ohm m^2 / m,F2,10.1016/j.scriptamat.2020.03.004
