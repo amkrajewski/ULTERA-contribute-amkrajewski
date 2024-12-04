@@ -165,10 +165,10 @@ None,GdTbHoEr,HCP,AAM,None,neel temperature,EXP,None,None,190.0,None,K,T2,10.101
 None,GdTbHoErLa,HCP,AAM,None,curie temperature,EXP,None,None,127.0,None,K,T2,10.1016/j.jallcom.2021.159918
 None,GdTbHoErLaY,HCP,AAM,None,neel temperature,EXP,None,None,120.0,None,K,T2,10.1016/j.jallcom.2021.159918
 None,GdTbHoErPr,HCP,AAM,None,curie temperature,EXP,None,None,135.0,None,K,T2,10.1016/j.jallcom.2021.159918
-None,GdTbHoEr,HCP,AAM,None,peak magnetic entropy change,EXP,None,None,8.64,None,J / (kg K),T2,10.1016/j.jallcom.2021.159918
-None,GdTbHoErLa,HCP,AAM,None,peak magnetic entropy change,EXP,None,None,5.92,None,J / (kg K),T2,10.1016/j.jallcom.2021.159918
-None,GdTbHoErLaY,HCP,AAM,None,peak magnetic entropy change,EXP,None,None,5.85,None,J / (kg K),T2,10.1016/j.jallcom.2021.159918
-None,GdTbHoErPr,HCP,AAM,None,peak magnetic entropy change,EXP,None,None,6.92,None,J / (kg K),T2,10.1016/j.jallcom.2021.159918
+None,GdTbHoEr,HCP,AAM,None,peak magnetic entropy change,EXP,5T,None,8.64,None,J / (kg K),T2,10.1016/j.jallcom.2021.159918
+None,GdTbHoErLa,HCP,AAM,None,peak magnetic entropy change,EXP,5T,None,5.92,None,J / (kg K),T2,10.1016/j.jallcom.2021.159918
+None,GdTbHoErLaY,HCP,AAM,None,peak magnetic entropy change,EXP,5T,None,5.85,None,J / (kg K),T2,10.1016/j.jallcom.2021.159918
+None,GdTbHoErPr,HCP,AAM,None,peak magnetic entropy change,EXP,5T,None,6.92,None,J / (kg K),T2,10.1016/j.jallcom.2021.159918
 None,GdHoLaTbY,HCP,AC,None,compressive fracture strength,EXP,None,None,880000000.0,None,Pa,T3,10.1016/j.matdes.2016.01.149
 None,GdHoLaTbY,HCP,AC,None,compressive yield stress,EXP,None,None,108000000.0,None,Pa,T3,10.1016/j.matdes.2016.01.149
 None,GdHoLaTbY,HCP,AC,None,compressive ductility,EXP,None,None,21.8,None,%,T3,10.1016/j.matdes.2016.01.149
@@ -524,3 +524,98 @@ None,CoCrFeNi,FCC,VAM+H+WQ,homogenized at 1273K for 24h and water quenched,tensi
 None,CoCrFeNiGe0.1,FCC,VAM+H+WQ,homogenized at 1273K for 24h and water quenched,tensile ductility,EXP,strain rate 1e-3/s,298.0,60.2,2.5,%,T2,10.1016/j.intermet.2021.107167
 None,CoCrFeNiGe0.2,FCC,VAM+H+WQ,homogenized at 1273K for 24h and water quenched,tensile ductility,EXP,strain rate 1e-3/s,298.0,62.8,2.1,%,T2,10.1016/j.intermet.2021.107167
 None,CoCrFeNiGe0.3,FCC,VAM+H+WQ,homogenized at 1273K for 24h and water quenched,tensile ductility,EXP,strain rate 1e-3/s,298.0,63.2,4.5,%,T2,10.1016/j.intermet.2021.107167
+None,SnBiIn,BCT+BiIn+Bi,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi,melting temperature,EXP,DTA heating rate of 10K/min,None,361.65,None,K,F6b,10.1007/s42243-024-01338-8
+None,SnBiInSb0.1,BCT+BiIn+Bi+SbIn,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi; SbIn is stoichiometric Sb1In1,melting temperature,EXP,DTA heating rate of 10K/min,None,365.45,None,K,F6b,10.1007/s42243-024-01338-8
+None,SnBiInSb0.2,BCT+BiIn+Bi+SbIn,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi; SbIn is stoichiometric Sb1In2,melting temperature,EXP,DTA heating rate of 10K/min,None,366.75,None,K,F6b,10.1007/s42243-024-01338-8
+None,SnBiInSb0.3,BCT+BiIn+Bi+SbIn,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi; SbIn is stoichiometric Sb1In3,melting temperature,EXP,DTA heating rate of 10K/min,None,370.95,None,K,F6b,10.1007/s42243-024-01338-8
+None,SnBiInSb0.4,BCT+BiIn+Bi+SbIn,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi; SbIn is stoichiometric Sb1In4,melting temperature,EXP,DTA heating rate of 10K/min,None,374.35,None,K,F6b,10.1007/s42243-024-01338-8
+None,SnBiInSb0.5,BCT+BiIn+Bi+SbIn,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi; SbIn is stoichiometric Sb1In5,melting temperature,EXP,DTA heating rate of 10K/min,None,380.45,None,K,F6b,10.1007/s42243-024-01338-8
+None,SnBiIn,BCT+BiIn+Bi,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi,compressive yield stress,EXP,None,298.0,38800000.0,None,Pa,F8b,10.1007/s42243-024-01338-8
+None,SnBiInSb0.1,BCT+BiIn+Bi+SbIn,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi; SbIn is stoichiometric Sb1In1,compressive yield stress,EXP,None,298.0,48600000.0,None,Pa,F8b,10.1007/s42243-024-01338-8
+None,SnBiInSb0.2,BCT+BiIn+Bi+SbIn,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi; SbIn is stoichiometric Sb1In2,compressive yield stress,EXP,None,298.0,51600000.0,None,Pa,F8b,10.1007/s42243-024-01338-8
+None,SnBiInSb0.3,BCT+BiIn+Bi+SbIn,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi; SbIn is stoichiometric Sb1In3,compressive yield stress,EXP,None,298.0,67500000.0,None,Pa,F8b,10.1007/s42243-024-01338-8
+None,SnBiInSb0.4,BCT+BiIn+Bi+SbIn,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi; SbIn is stoichiometric Sb1In4,compressive yield stress,EXP,None,298.0,63100000.0,None,Pa,F8b,10.1007/s42243-024-01338-8
+None,SnBiInSb0.5,BCT+BiIn+Bi+SbIn,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi; SbIn is stoichiometric Sb1In5,compressive yield stress,EXP,None,298.0,55200000.0,None,Pa,F8b,10.1007/s42243-024-01338-8
+None,SnBiIn,BCT+BiIn+Bi,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi,hardness,EXP,None,298.0,59528490.0,1961400.0,Pa,F8c,10.1007/s42243-024-01338-8
+None,SnBiInSb0.1,BCT+BiIn+Bi+SbIn,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi; SbIn is stoichiometric Sb1In1,hardness,EXP,None,298.0,66001110.00000001,1961400.0,Pa,F8c,10.1007/s42243-024-01338-8
+None,SnBiInSb0.2,BCT+BiIn+Bi+SbIn,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi; SbIn is stoichiometric Sb1In2,hardness,EXP,None,298.0,67668300.0,2451750.0,Pa,F8c,10.1007/s42243-024-01338-8
+None,SnBiInSb0.3,BCT+BiIn+Bi+SbIn,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi; SbIn is stoichiometric Sb1In3,hardness,EXP,None,298.0,75513900.0,1961400.0,Pa,F8c,10.1007/s42243-024-01338-8
+None,SnBiInSb0.4,BCT+BiIn+Bi+SbIn,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi; SbIn is stoichiometric Sb1In4,hardness,EXP,None,298.0,77867580.0,1471050.0,Pa,F8c,10.1007/s42243-024-01338-8
+None,SnBiInSb0.5,BCT+BiIn+Bi+SbIn,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi; SbIn is stoichiometric Sb1In5,hardness,EXP,None,298.0,85320900.0,2451750.0,Pa,F8c,10.1007/s42243-024-01338-8
+None,SnBiIn,BCT+BiIn+Bi,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi,minimum compressive ductility,EXP,None,298.0,50.0,None,%,F8a,10.1007/s42243-024-01338-8
+None,SnBiInSb0.1,BCT+BiIn+Bi+SbIn,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi; SbIn is stoichiometric Sb1In1,minimum compressive ductility,EXP,None,298.0,50.0,None,%,F8a,10.1007/s42243-024-01338-8
+None,SnBiInSb0.2,BCT+BiIn+Bi+SbIn,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi; SbIn is stoichiometric Sb1In2,minimum compressive ductility,EXP,None,298.0,50.0,None,%,F8a,10.1007/s42243-024-01338-8
+None,SnBiInSb0.3,BCT+BiIn+Bi+SbIn,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi; SbIn is stoichiometric Sb1In3,minimum compressive ductility,EXP,None,298.0,50.0,None,%,F8a,10.1007/s42243-024-01338-8
+None,SnBiInSb0.4,BCT+BiIn+Bi+SbIn,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi; SbIn is stoichiometric Sb1In4,minimum compressive ductility,EXP,None,298.0,50.0,None,%,F8a,10.1007/s42243-024-01338-8
+None,SnBiInSb0.5,BCT+BiIn+Bi+SbIn,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi; SbIn is stoichiometric Sb1In5,minimum compressive ductility,EXP,None,298.0,50.0,None,%,F8a,10.1007/s42243-024-01338-8
+None,SnBiIn,BCT+BiIn+Bi,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi,contact angle on copper,EXP,None,298.0,38.8,0.6,degree,F7a,10.1007/s42243-024-01338-8
+None,SnBiInSb0.1,BCT+BiIn+Bi+SbIn,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi; SbIn is stoichiometric Sb1In1,contact angle on copper,EXP,None,298.0,40.9,0.5,degree,F7a,10.1007/s42243-024-01338-8
+None,SnBiInSb0.2,BCT+BiIn+Bi+SbIn,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi; SbIn is stoichiometric Sb1In2,contact angle on copper,EXP,None,298.0,42.6,0.3,degree,F7a,10.1007/s42243-024-01338-8
+None,SnBiInSb0.3,BCT+BiIn+Bi+SbIn,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi; SbIn is stoichiometric Sb1In3,contact angle on copper,EXP,None,298.0,48.3,0.4,degree,F7a,10.1007/s42243-024-01338-8
+None,SnBiInSb0.4,BCT+BiIn+Bi+SbIn,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi; SbIn is stoichiometric Sb1In4,contact angle on copper,EXP,None,298.0,57.0,0.5,degree,F7a,10.1007/s42243-024-01338-8
+None,SnBiInSb0.5,BCT+BiIn+Bi+SbIn,AC,induction melt in atmospheric conditions; Sn-rich BCT; BiIn is solid solution with Sn; Bi is pure Bi; SbIn is stoichiometric Sb1In5,contact angle on copper,EXP,None,298.0,61.5,0.5,degree,F7a,10.1007/s42243-024-01338-8
+None,Mn27 Cr7 Ni33 Ge25 Si8,orthorhombic,AAM,single unidentified orthorhombic phase (Pnma),peak magnetic entropy change,EXP,1.5T,None,1.99,None,J / (kg K),None,10.1109/LMAG.2019.2955667
+None,Mn27 Cr7 Ni33 Ge25 Si8,orthorhombic,AAM,single unidentified orthorhombic phase (Pnma),curie temperature,EXP,None,None,413.0,None,K,None,10.1109/LMAG.2019.2955667
+None,Fe26.7 Ni26.7 Ga15.6 Mn20 Si11,BCC,AAM,annealed at 973K for 1h in Ar and slowly cooled,peak magnetic entropy change,EXP,1.5T,None,0.504,None,J / (kg K),None,10.1016/j.cap.2019.09.019
+None,Fe26.7 Ni26.7 Ga15.6 Mn20 Si11,BCC,AAM+A,annealed at 973K for 1h in Ar and slowly cooled,peak magnetic entropy change,EXP,1.5T,None,1.26,None,J / (kg K),None,10.1016/j.cap.2019.09.019
+None,Fe26.7 Ni26.7 Ga15.6 Mn20 Si11,BCC,AAM,annealed at 973K for 1h in Ar and slowly cooled,curie temperature,EXP,None,None,322.0,None,K,None,10.1016/j.cap.2019.09.019
+None,Fe26.7 Ni26.7 Ga15.6 Mn20 Si11,BCC,AAM+A,annealed at 973K for 1h in Ar and slowly cooled,curie temperature,EXP,None,None,334.0,None,K,None,10.1016/j.cap.2019.09.019
+Zn1,GaInSnZn,monoclinic+HCP+In3Sn,AC,induction metling in Ar in quartz tube; Ga-based monoclinic SS (C2/c), Zn-based HCP, γ phase InSn4 (P6/mmm), and β phase In3Sn (P4/mmm),electrical resistivity,EXP,None,298.0,2.138e-07,None,Ohm m^2 / m,None,10.1002/adem.202201831
+Zn1.5,GaInSnZn1.5,monoclinic+HCP+amorphous+InSn4+In3Sn,AC,induction metling in Ar in quartz tube; Ga-based monoclinic SS (C2/c), Zn-based HCP, γ phase InSn4 (P6/mmm), and β phase In3Sn (P4/mmm),electrical resistivity,EXP,None,298.0,2.079e-07,None,Ohm m^2 / m,None,10.1002/adem.202201831
+Zn2,GaInSnZn2,monoclinic+HCP,AC,induction metling in Ar in quartz tube; Ga-based monoclinic SS (C2/c), Zn-based HCP, γ phase InSn4 (P6/mmm), and β phase In3Sn (P4/mmm),electrical resistivity,EXP,None,298.0,1.782e-07,None,Ohm m^2 / m,None,10.1002/adem.202201831
+Zn2.5,GaInSnZn2.5,monoclinic+HCP+InSn4,AC,induction metling in Ar in quartz tube; Ga-based monoclinic SS (C2/c), Zn-based HCP, γ phase InSn4 (P6/mmm), and β phase In3Sn (P4/mmm),electrical resistivity,EXP,None,298.0,1.701e-07,None,Ohm m^2 / m,None,10.1002/adem.202201831
+Zn3,GaInSnZn3,monoclinic+HCP+amorphous+InSn4+In`,AC,induction metling in Ar in quartz tube; Ga-based monoclinic SS (C2/c), Zn-based HCP, γ phase InSn4 (P6/mmm), and β phase In3Sn (P4/mmm),electrical resistivity,EXP,None,298.0,1.584e-07,None,Ohm m^2 / m,None,10.1002/adem.202201831
+None,Sn37 In22 Bi36 Zn5,InBi+Zn+BCT,AC,smolten in Ar at 680*C for 120min and stirred,melting temperature,EXP,None,None,354.65,None,K,F1,10.1109/ICEPT63120.2024.10668666
+None,Sn37 In22 Bi36 Zn5,InBi+Zn+BCT,AC,smolten in Ar at 680*C for 120min and stirred,UTS,EXP,None,298.0,38400000.0,None,Pa,F3,10.1109/ICEPT63120.2024.10668666
+None,Sn37 In22 Bi36 Zn5,InBi+Zn+BCT,AC,smolten in Ar at 680*C for 120min and stirred,tensile ductility,EXP,None,298.0,65.0,5.0,%,F3,10.1109/ICEPT63120.2024.10668666
+None,Sn37 In22 Bi36 Zn5,InBi+Zn+BCT,AC,smolten in Ar at 680*C for 120min and stirred,contact angle on copper,EXP,None,298.0,40.0,1.0,degree,None,10.1109/ICEPT63120.2024.10668666
+MEAF,Co0.96 Cr0.97 Ni1.07,FCC,SD,RF sputtering deposition from B, Nd, and equiatomic CoCrNi targets,nanohardness,EXP,None,298.0,9110000000.0,400000000.0,Pa,T2,10.1016/j.surfcoat.2024.130707
+Nd0,(Co0.96 Cr0.97 Ni1.07)33.02 B0.94,FCC,SD,RF sputtering deposition from B, Nd, and equiatomic CoCrNi targets,nanohardness,EXP,None,298.0,13280000000.0,230000000.0,Pa,T2,10.1016/j.surfcoat.2024.130707
+Nd25,(Co0.96 Cr0.97 Ni1.07)32.38 B1.5 Nd1.37,FCC+amorphous,SD,RF sputtering deposition from B, Nd, and equiatomic CoCrNi targets,nanohardness,EXP,None,298.0,9810000000.0,30000000.0,Pa,T2,10.1016/j.surfcoat.2024.130707
+Nd50,(Co0.96 Cr0.97 Ni1.07)31.39 B1.59 Nd4.25,amorphous,SD,RF sputtering deposition from B, Nd, and equiatomic CoCrNi targets,nanohardness,EXP,None,298.0,9660000000.0,170000000.0,Pa,T2,10.1016/j.surfcoat.2024.130707
+Nd75,(Co0.96 Cr0.97 Ni1.07)30.6 B1.05 Nd7.15,amorphous,SD,RF sputtering deposition from B, Nd, and equiatomic CoCrNi targets,nanohardness,EXP,None,298.0,9600000000.0,60000000.0,Pa,T2,10.1016/j.surfcoat.2024.130707
+Nd100,(Co0.96 Cr0.97 Ni1.07)29.84 B0.77 Nd9.7,amorphous,SD,RF sputtering deposition from B, Nd, and equiatomic CoCrNi targets,nanohardness,EXP,None,298.0,9630000000.0,160000000.0,Pa,T2,10.1016/j.surfcoat.2024.130707
+MEAF,Co0.96 Cr0.97 Ni1.07,FCC,SD,RF sputtering deposition from B, Nd, and equiatomic CoCrNi targets,reduced elastic modulus,EXP,None,298.0,199300000000.0,3400000000.0,Pa,T2,10.1016/j.surfcoat.2024.130707
+Nd0,(Co0.96 Cr0.97 Ni1.07)33.02 B0.94,FCC,SD,RF sputtering deposition from B, Nd, and equiatomic CoCrNi targets,reduced elastic modulus,EXP,None,298.0,212300000000.0,900000000.0,Pa,T2,10.1016/j.surfcoat.2024.130707
+Nd25,(Co0.96 Cr0.97 Ni1.07)32.38 B1.5 Nd1.37,FCC+amorphous,SD,RF sputtering deposition from B, Nd, and equiatomic CoCrNi targets,reduced elastic modulus,EXP,None,298.0,173700000000.0,3000000000.0,Pa,T2,10.1016/j.surfcoat.2024.130707
+Nd50,(Co0.96 Cr0.97 Ni1.07)31.39 B1.59 Nd4.25,amorphous,SD,RF sputtering deposition from B, Nd, and equiatomic CoCrNi targets,reduced elastic modulus,EXP,None,298.0,166400000000.0,2500000000.0,Pa,T2,10.1016/j.surfcoat.2024.130707
+Nd75,(Co0.96 Cr0.97 Ni1.07)30.6 B1.05 Nd7.15,amorphous,SD,RF sputtering deposition from B, Nd, and equiatomic CoCrNi targets,reduced elastic modulus,EXP,None,298.0,158900000000.0,1300000000.0,Pa,T2,10.1016/j.surfcoat.2024.130707
+Nd100,(Co0.96 Cr0.97 Ni1.07)29.84 B0.77 Nd9.7,amorphous,SD,RF sputtering deposition from B, Nd, and equiatomic CoCrNi targets,reduced elastic modulus,EXP,None,298.0,152100000000.0,2200000000.0,Pa,T2,10.1016/j.surfcoat.2024.130707
+None,MoReRuRhPt,HCP,VAM,arc melted in Ar from powders with small excesses compensating for mass loss,superconducting transition temperature,EXP,None,None,0.82,None,K,F6,10.1016/j.jssc.2023.123881
+None,MoReRuIrPt,HCP,VAM,arc melted in Ar from powders with small excesses compensating for mass loss,superconducting transition temperature,EXP,None,None,1.06,None,K,F6,10.1016/j.jssc.2023.123881
+None,MoReRuRhPd,HCP+FCC,VAM,arc melted in Ar from powders with small excesses compensating for mass loss; Pd-rich FCC,superconducting transition temperature,EXP,None,None,1.38,None,K,F6,10.1016/j.jssc.2023.123881
+None,MoReRuIrPd,HCP+FCC,VAM,arc melted in Ar from powders with small excesses compensating for mass loss,superconducting transition temperature,EXP,None,None,1.61,None,K,F6,10.1016/j.jssc.2023.123881
+None,NbMoRuPtAu,C11b+sigma+FCC,VAM,arc melted in Ar from powders with small excesses compensating for mass loss; C11b is MoPt2-type and FCC is Au-rich,None,None,None,None,None,None,None,None,10.1016/j.jssc.2023.123881
+None,NbMoReRuRhPt,HCP+FCC,VAM,arc melted in Ar from powders with small excesses compensating for mass loss,superconducting transition temperature,EXP,None,None,2.96,None,K,F6,10.1016/j.jssc.2023.123881
+None,NbMoReRuIrPt,HCP+FCC,VAM,arc melted in Ar from powders with small excesses compensating for mass loss,superconducting transition temperature,EXP,None,None,2.84,None,K,F6,10.1016/j.jssc.2023.123881
+None,NbMoReRuRh,HCP+sigma,VAM,arc melted in Ar from powders with small excesses compensating for mass loss,superconducting transition temperature,EXP,None,None,6.13,None,K,F6,10.1016/j.jssc.2023.123881
+None,NbMoReRuIr,HCP+sigma,VAM,arc melted in Ar from powders with small excesses compensating for mass loss,superconducting transition temperature,EXP,None,None,5.51,None,K,F6,10.1016/j.jssc.2023.123881
+None,ZrNbMoReRu,BCC+B2+C14,VAM,arc melted in Ar from powders with small excesses compensating for mass loss,None,None,None,None,None,None,None,None,10.1016/j.jssc.2023.123881
+None,YZrNbMoRe,BCC+BCC+C15+HCP+sigma,VAM,arc melted in Ar from powders with small excesses compensating for mass loss; BCC2 is Mo-rich and HCP is Y-rich,None,None,None,None,None,None,None,None,10.1016/j.jssc.2023.123881
+None,NbScTiZr,BCC+HCP,AAM,None,superconducting transition temperature,EXP,None,None,8.11,None,K,T2,10.1016/j.mtcomm.2024.109690
+None,NbScTiZr,BCC+HCP,AAM+A,annealed at 673K for 4 days in Ar,superconducting transition temperature,EXP,None,None,8.71,None,K,T2,10.1016/j.mtcomm.2024.109690
+None,NbScTiZr,BCC+HCP,AAM+A,annealed at 873K for 4 days in Ar,superconducting transition temperature,EXP,None,None,9.36,None,K,T2,10.1016/j.mtcomm.2024.109690
+None,NbScTiZr,BCC+HCP,AAM+A,annealed at 1073K for 4 days in Ar,superconducting transition temperature,EXP,None,None,9.13,None,K,T2,10.1016/j.mtcomm.2024.109690
+None,NbScTiZr,BCC+HCP,AAM+A,annealed at 1273K for 4 days in Ar,superconducting transition temperature,EXP,None,None,9.03,None,K,T2,10.1016/j.mtcomm.2024.109690
+None,NbScTiZr,BCC+HCP,AAM,None,hardness,EXP,None,298.0,3295152000.0,9807000.0,Pa,T2,10.1016/j.mtcomm.2024.109690
+None,NbScTiZr,BCC+HCP,AAM+A,annealed at 673K for 4 days in Ar,hardness,EXP,None,298.0,3383415000.0,39228000.0,Pa,T2,10.1016/j.mtcomm.2024.109690
+None,NbScTiZr,BCC+HCP,AAM+A,annealed at 873K for 4 days in Ar,hardness,EXP,None,298.0,2589048000.0,58842000.0,Pa,T2,10.1016/j.mtcomm.2024.109690
+None,NbScTiZr,BCC+HCP,AAM+A,annealed at 1073K for 4 days in Ar,hardness,EXP,None,298.0,2343873000.0,19614000.0,Pa,T2,10.1016/j.mtcomm.2024.109690
+None,NbScTiZr,BCC+HCP,AAM+A,annealed at 1273K for 4 days in Ar,hardness,EXP,None,298.0,2255610000.0,19614000.0,Pa,T2,10.1016/j.mtcomm.2024.109690
+None,Mo35Ni15Rh15Ru35,HCP+?,VAM+A+WQ,annealed at 1700K for 1h in Ar then water quenched,None,None,None,None,None,None,None,F2,10.2320/matertrans.MT-M2022213
+None,Fe14Mo35Ni15Rh15Ru21,HCP,VAM+A+WQ,annealed at 1700K for 1h in Ar then water quenched,None,None,None,None,None,None,None,F2,10.2320/matertrans.MT-M2022213
+None,Mo25Ni25Rh25Ru25,HCP,VAM+A+WQ,annealed at 1700K for 1h in Ar then water quenched,None,None,None,None,None,None,None,F2,10.2320/matertrans.MT-M2022213
+None,Fe20Mo20Ni20Rh20Ru20,HCP,VAM+A+WQ,annealed at 1700K for 1h in Ar then water quenched,None,None,None,None,None,None,None,F2,10.2320/matertrans.MT-M2022213
+None,Os24Ru14W25Mo23Re14,HCP,SD,magnetron sputtering onto Si; 8 more datapoints available with XRD lacking interpretation,None,None,None,None,None,None,None,None,10.1557/adv.2019.114
+None,Os24Ru14W25Mo23Re14,HCP+orthorhombic,AC,None,None,None,None,None,None,None,None,None,10.1557/adv.2019.114
+None,CoCrFeMnNi,FCC,AC,None,None,None,None,None,None,None,None,None,10.15330/pcss.25.3.506-512
+None,CoCrFeMnNi,FCC,RS,None,None,None,None,None,None,None,None,None,10.15330/pcss.25.3.506-512
+None,CoCrFeMnNiBe,FCC+BCC+B2,AC,B2 was BeNi(Co),None,None,None,None,None,None,None,None,10.15330/pcss.25.3.506-512
+None,CoCrFeMnNiBe,FCC+BCC+B2,RS,B2 was BeNi(Co),None,None,None,None,None,None,None,None,10.15330/pcss.25.3.506-512
+V5,Nb25Ti35V5Zr35,BCC,AAM,None,compressive yield stress,EXP,strain rate 1e-3/s,298.0,855000000.0,None,Pa,T6,10.1016/j.matdes.2024.113260
+V25,NbTiVZr,BCC,AAM,None,compressive yield stress,EXP,strain rate 1e-3/s,298.0,944000000.0,None,Pa,T6,10.1016/j.matdes.2024.113260
+V32,Nb28Ti20V32Zr20,BCC+C14+C15,AAM,None,compressive yield stress,EXP,strain rate 1e-3/s,298.0,1402000000.0,None,Pa,T6,10.1016/j.matdes.2024.113260
+V5,Nb25Ti35V5Zr35,BCC,AAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,298.0,50.0,None,%,T6,10.1016/j.matdes.2024.113260
+V25,NbTiVZr,BCC,AAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,298.0,50.0,None,%,T6,10.1016/j.matdes.2024.113260
+V32,Nb28Ti20V32Zr20,BCC+C14+C15,AAM,None,compressive ductility,EXP,strain rate 1e-3/s,298.0,29.3,None,%,T6,10.1016/j.matdes.2024.113260
+V32,Nb28Ti20V32Zr20,BCC+C14+C15,AAM,None,UCS,EXP,strain rate 1e-3/s,298.0,2483000000.0,None,Pa,F14a,10.1016/j.matdes.2024.113260
