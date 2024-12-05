@@ -74,3 +74,104 @@ None,Fe72.4 Co13.9 Cr10.4 Mn2.7 B0.34,BCC,SD,magnetron sputtering deposition; mi
 None,Fe72.4 Co13.9 Cr10.4 Mn2.7 B0.34,BCC,SD,magnetron sputtering deposition; micropilars were tested,UCS,EXP,None,298.0,3370000000.0,0.36,Pa,None,10.1016/j.jmst.2021.10.019
 None,Fe72.4 Co13.9 Cr10.4 Mn2.7 B0.34,BCC,SD,magnetron sputtering deposition,nanohardness,EXP,None,298.0,9300000000.0,400000000.0,Pa,None,10.1016/j.jmst.2021.10.019
 None,Fe72.4 Co13.9 Cr10.4 Mn2.7 B0.34,BCC,SD,magnetron sputtering deposition,reduced elastic modulus,EXP,None,298.0,293000000000.0,12000000000.0,Pa,None,10.1016/j.jmst.2021.10.019
+None,W0.4MoTaTiNb1.1,BCC,VAM,None,compressive yield strength,EXP,strain rate 1e-3/s,293.0,1412000000.0,None,Pa,None,10.1016/j.matlet.2021.129753
+None,W0.4MoTaTiNb1.1,BCC,VAM,None,compressive yield strength,EXP,strain rate 1e-3/s,1073.0,1027000000.0,None,Pa,None,10.1016/j.matlet.2021.129753
+None,W0.4MoTaTiNb1.1,BCC,VAM,None,compressive yield strength,EXP,strain rate 1e-3/s,1273.0,664000000.0,None,Pa,None,10.1016/j.matlet.2021.129753
+None,W0.4MoTaTiNb1.1,BCC,VAM,None,compressive yield strength,EXP,strain rate 1e-3/s,1373.0,585000000.0,None,Pa,None,10.1016/j.matlet.2021.129753
+None,W0.4MoTaTiNb1.3,BCC,VAM,None,compressive yield strength,EXP,strain rate 1e-3/s,293.0,1334000000.0,None,Pa,None,10.1016/j.matlet.2021.129753
+None,W0.4MoTaTiNb1.3,BCC,VAM,None,compressive yield strength,EXP,strain rate 1e-3/s,1073.0,1125000000.0,None,Pa,None,10.1016/j.matlet.2021.129753
+None,W0.4MoTaTiNb1.3,BCC,VAM,None,compressive yield strength,EXP,strain rate 1e-3/s,1273.0,905000000.0,None,Pa,None,10.1016/j.matlet.2021.129753
+None,W0.4MoTaTiNb1.3,BCC,VAM,None,compressive yield strength,EXP,strain rate 1e-3/s,1373.0,425000000.0,None,Pa,None,10.1016/j.matlet.2021.129753
+None,W0.4MoTaTiNb1.5,BCC,VAM,None,compressive yield strength,EXP,strain rate 1e-3/s,293.0,1312000000.0,None,Pa,None,10.1016/j.matlet.2021.129753
+None,W0.4MoTaTiNb1.5,BCC,VAM,None,compressive yield strength,EXP,strain rate 1e-3/s,1073.0,986000000.0,None,Pa,None,10.1016/j.matlet.2021.129753
+None,W0.4MoTaTiNb1.5,BCC,VAM,None,compressive yield strength,EXP,strain rate 1e-3/s,1273.0,764000000.0,None,Pa,None,10.1016/j.matlet.2021.129753
+None,W0.4MoTaTiNb1.5,BCC,VAM,None,compressive yield strength,EXP,strain rate 1e-3/s,1373.0,503000000.0,None,Pa,None,10.1016/j.matlet.2021.129753
+None,W0.4MoTaTiNb1.1,BCC,VAM,None,compressive ductility,EXP,strain rate 1e-3/s,293.0,32.1,None,%,None,10.1016/j.matlet.2021.129753
+None,W0.4MoTaTiNb1.1,BCC,VAM,None,compressive ductility,EXP,strain rate 1e-3/s,1073.0,21.7,None,%,None,10.1016/j.matlet.2021.129753
+None,W0.4MoTaTiNb1.1,BCC,VAM,None,compressive ductility,EXP,strain rate 1e-3/s,1273.0,34.4,None,%,None,10.1016/j.matlet.2021.129753
+None,W0.4MoTaTiNb1.1,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,1373.0,50.0,None,%,None,10.1016/j.matlet.2021.129753
+None,W0.4MoTaTiNb1.3,BCC,VAM,None,compressive ductility,EXP,strain rate 1e-3/s,293.0,38.9,None,%,None,10.1016/j.matlet.2021.129753
+None,W0.4MoTaTiNb1.3,BCC,VAM,None,compressive ductility,EXP,strain rate 1e-3/s,1073.0,44.7,None,%,None,10.1016/j.matlet.2021.129753
+None,W0.4MoTaTiNb1.3,BCC,VAM,None,compressive ductility,EXP,strain rate 1e-3/s,1273.0,37.2,None,%,None,10.1016/j.matlet.2021.129753
+None,W0.4MoTaTiNb1.3,BCC,VAM,None,compressive ductility,EXP,strain rate 1e-3/s,1373.0,48.3,None,%,None,10.1016/j.matlet.2021.129753
+None,W0.4MoTaTiNb1.5,BCC,VAM,None,compressive ductility,EXP,strain rate 1e-3/s,293.0,37.0,None,%,None,10.1016/j.matlet.2021.129753
+None,W0.4MoTaTiNb1.5,BCC,VAM,None,compressive ductility,EXP,strain rate 1e-3/s,1073.0,21.3,None,%,None,10.1016/j.matlet.2021.129753
+None,W0.4MoTaTiNb1.5,BCC,VAM,None,compressive ductility,EXP,strain rate 1e-3/s,1273.0,20.6,None,%,None,10.1016/j.matlet.2021.129753
+None,W0.4MoTaTiNb1.5,BCC,VAM,None,compressive ductility,EXP,strain rate 1e-3/s,1373.0,40.9,None,%,None,10.1016/j.matlet.2021.129753
+None,W0.4MoTaTiNb1.1,BCC,VAM,None,density,EXP,None,298.0,10700.0,None,kg/m^3,None,10.1016/j.matlet.2021.129753
+None,W0.4MoTaTiNb1.3,BCC,VAM,None,density,EXP,None,298.0,10600.0,None,kg/m^3,None,10.1016/j.matlet.2021.129753
+None,W0.4MoTaTiNb1.5,BCC,VAM,None,density,EXP,None,298.0,10500.0,None,kg/m^3,None,10.1016/j.matlet.2021.129753
+None,NbMoTaV0.25,BCC,AAM,None,None,None,None,None,None,None,None,None,10.1016/j.scriptamat.2020.09.027
+None,NbMoTaV0.5,BCC,AAM,None,None,None,None,None,None,None,None,None,10.1016/j.scriptamat.2020.09.027
+None,NbMoTaV0.75,BCC,AAM,None,None,None,None,None,None,None,None,None,10.1016/j.scriptamat.2020.09.027
+None,NbMoTaV,BCC,AAM,single BCC also stable after heat treatments at 350*C and 1250*C,compressive yield stress,EXP,strain rate 1e-3/s,298.0,1256000000.0,None,Pa,None,10.1016/j.scriptamat.2020.09.027
+None,NbMoTaV,BCC,AAM,single BCC also stable after heat treatments at 350*C and 1250*C,compressive yield stress,EXP,strain rate 1e-3/s,1273.0,811000000.0,None,Pa,None,10.1016/j.scriptamat.2020.09.027
+None,NbMoTaV,BCC,AAM,single BCC also stable after heat treatments at 350*C and 1250*C,minimum compressive ductility,EXP,strain rate 1e-3/s,298.0,25.0,None,%,None,10.1016/j.scriptamat.2020.09.027
+None,NbMoTaV,BCC,AAM,single BCC also stable after heat treatments at 350*C and 1250*C,minimum compressive ductility,EXP,strain rate 1e-3/s,1273.0,40.0,None,%,None,10.1016/j.scriptamat.2020.09.027
+None,NbMoTaV,BCC,AAM,single BCC also stable after heat treatments at 350*C and 1250*C,UCS,EXP,strain rate 1e-3/s,1273.0,1408000000.0,None,Pa,None,10.1016/j.scriptamat.2020.09.027
+None,Nb40Ti25Al15V10Ta5Hf3W2,BCC+B2,AAM,B2 nanoprecipitates,density,EXP,None,298.0,7340.0,None,kg/m^3,None,10.1016/j.msea.2021.142290
+None,Nb40Ti25Al15V10Ta5Hf3W2,BCC+B2,AAM,B2 nanoprecipitates,compressive yield stress,EXP,strain rate 1e-3/s,298.0,1024000000.0,7000000.0,Pa,None,10.1016/j.msea.2021.142290
+None,Nb40Ti25Al15V10Ta5Hf3W2,BCC+B2,AAM,B2 nanoprecipitates,compressive yield stress,EXP,strain rate 1e-3/s,1073.0,611000000.0,24000000.0,Pa,None,10.1016/j.msea.2021.142290
+None,Nb40Ti25Al15V10Ta5Hf3W2,BCC+B2,AAM,B2 nanoprecipitates,compressive yield stress,EXP,strain rate 1e-3/s,1173.0,437000000.0,8000000.0,Pa,None,10.1016/j.msea.2021.142290
+None,Nb40Ti25Al15V10Ta5Hf3W2,BCC+B2,AAM,B2 nanoprecipitates,compressive yield stress,EXP,strain rate 1e-3/s,1273.0,237000000.0,8000000.0,Pa,None,10.1016/j.msea.2021.142290
+None,Nb40Ti25Al15V10Ta5Hf3W2,BCC+B2,AAM,B2 nanoprecipitates,UCS,EXP,strain rate 1e-3/s,1073.0,746000000.0,None,Pa,None,10.1016/j.msea.2021.142290
+None,Nb40Ti25Al15V10Ta5Hf3W2,BCC+B2,AAM,B2 nanoprecipitates,UCS,EXP,strain rate 1e-3/s,1173.0,443000000.0,None,Pa,None,10.1016/j.msea.2021.142290
+None,Nb40Ti25Al15V10Ta5Hf3W2,BCC+B2,AAM,B2 nanoprecipitates,UCS,EXP,strain rate 1e-3/s,1273.0,244000000.0,None,Pa,None,10.1016/j.msea.2021.142290
+None,Nb40Ti25Al15V10Ta5Hf3W2,BCC+B2,AAM,B2 nanoprecipitates,minimum compressive ductility,EXP,strain rate 1e-3/s,298.0,70.0,None,%,None,10.1016/j.msea.2021.142290
+None,Nb40Ti25Al15V10Ta5Hf3W2,BCC+B2,AAM,B2 nanoprecipitates,minimum compressive ductility,EXP,strain rate 1e-3/s,1273.0,70.0,None,%,None,10.1016/j.msea.2021.142290
+None,(NbTa)3 (MoHfW)1,BCC,VAM,None,electrical resistivity,EXP,None,5.0,9.7e-07,None,Ohm m / m^2,None,10.1103/PhysRevB.106.184512
+None,(NbTa)3 (MoHfW)1,BCC,VAM,None,electrical resistivity,EXP,None,298.0,1.32e-06,None,Ohm m / m^2,None,10.1103/PhysRevB.106.184512
+None,(NbTa)3 (MoHfW)1,BCC,VAM,None,superconducting transition temperature,EXP,None,None,4.3,None,K,None,10.1103/PhysRevB.106.184512
+None,Nb0.4 (MoTaW)0.2,BCC,VAM+A,annealed at 1673K for 24h in vacuum,density,EXP,None,298.0,12700.0,None,kg/m^3,T1,10.1016/j.intermet.2024.108379
+None,Nb0.55 (MoTaW)0.15,BCC,VAM+A,annealed at 1673K for 24h in vacuum,density,EXP,None,298.0,11600.0,None,kg/m^3,T1,10.1016/j.intermet.2024.108379
+None,Nb0.7 (MoTaW)0.1,BCC,VAM+A,annealed at 1673K for 24h in vacuum,density,EXP,None,298.0,10600.0,None,kg/m^3,T1,10.1016/j.intermet.2024.108379
+None,Nb0.4 (MoTaW)0.2,BCC,VAM+A,annealed at 1673K for 24h in vacuum,compressive yield stress,EXP,strain rate 1e-3/s,300.0,1251000000.0,27000000.0,Pa,T3,10.1016/j.intermet.2024.108379
+None,Nb0.55 (MoTaW)0.15,BCC,VAM+A,annealed at 1673K for 24h in vacuum,compressive yield stress,EXP,strain rate 1e-3/s,300.0,1055000000.0,3500000.0,Pa,T3,10.1016/j.intermet.2024.108379
+None,Nb0.7 (MoTaW)0.1,BCC,VAM+A,annealed at 1673K for 24h in vacuum,compressive yield stress,EXP,strain rate 1e-3/s,300.0,945000000.0,11000000.0,Pa,T3,10.1016/j.intermet.2024.108379
+None,Nb0.4 (MoTaW)0.2,BCC,VAM+A,annealed at 1673K for 24h in vacuum,compressive ductility,EXP,strain rate 1e-3/s,300.0,10.0,0.6,%,T3,10.1016/j.intermet.2024.108379
+None,Nb0.55 (MoTaW)0.15,BCC,VAM+A,annealed at 1673K for 24h in vacuum,compressive ductility,EXP,strain rate 1e-3/s,300.0,22.0,1.5,%,T3,10.1016/j.intermet.2024.108379
+None,Nb0.7 (MoTaW)0.1,BCC,VAM+A,annealed at 1673K for 24h in vacuum,compressive ductility,EXP,strain rate 1e-3/s,300.0,33.0,1.0,%,T3,10.1016/j.intermet.2024.108379
+None,Nb0.4 (MoTaW)0.2,BCC,VAM+A,annealed at 1673K for 24h in vacuum,hardness,EXP,None,300.0,4246431000.0,39228000.0,Pa,F4,10.1016/j.intermet.2024.108379
+None,Nb0.55 (MoTaW)0.15,BCC,VAM+A,annealed at 1673K for 24h in vacuum,hardness,EXP,None,300.0,3746274000.0,49035000.0,Pa,F4,10.1016/j.intermet.2024.108379
+None,Nb0.7 (MoTaW)0.1,BCC,VAM+A,annealed at 1673K for 24h in vacuum,hardness,EXP,None,300.0,3236310000.0,78456000.0,Pa,F4,10.1016/j.intermet.2024.108379
+None,Nb0.4 (MoTaW)0.2,BCC,VAM+A,annealed at 1673K for 24h in vacuum,UCS,EXP,strain rate 1e-3/s,300.0,1413000000.0,42000000.0,Pa,T3,10.1016/j.intermet.2024.108379
+None,Nb0.55 (MoTaW)0.15,BCC,VAM+A,annealed at 1673K for 24h in vacuum,UCS,EXP,strain rate 1e-3/s,300.0,1505000000.0,83000000.0,Pa,T3,10.1016/j.intermet.2024.108379
+None,Nb0.7 (MoTaW)0.1,BCC,VAM+A,annealed at 1673K for 24h in vacuum,UCS,EXP,strain rate 1e-3/s,300.0,1793000000.0,6000000.0,Pa,T3,10.1016/j.intermet.2024.108379
+None,Nb0.4 (MoTaW)0.2,BCC,VAM+A,annealed at 1673K for 24h in vacuum,compressive yield stress,EXP,strain rate 1e-3/s,873.0,514000000.0,29000000.0,Pa,T3,10.1016/j.intermet.2024.108379
+None,Nb0.4 (MoTaW)0.2,BCC,VAM+A,annealed at 1673K for 24h in vacuum,compressive yield stress,EXP,strain rate 1e-3/s,1073.0,478000000.0,28000000.0,Pa,T3,10.1016/j.intermet.2024.108379
+None,Nb0.4 (MoTaW)0.2,BCC,VAM+A,annealed at 1673K for 24h in vacuum,compressive yield stress,EXP,strain rate 1e-3/s,1273.0,456000000.0,17000000.0,Pa,T3,10.1016/j.intermet.2024.108379
+None,Nb0.55 (MoTaW)0.15,BCC,VAM+A,annealed at 1673K for 24h in vacuum,compressive yield stress,EXP,strain rate 1e-3/s,873.0,488000000.0,13500000.0,Pa,T3,10.1016/j.intermet.2024.108379
+None,Nb0.55 (MoTaW)0.15,BCC,VAM+A,annealed at 1673K for 24h in vacuum,compressive yield stress,EXP,strain rate 1e-3/s,1073.0,437000000.0,27000000.0,Pa,T3,10.1016/j.intermet.2024.108379
+None,Nb0.55 (MoTaW)0.15,BCC,VAM+A,annealed at 1673K for 24h in vacuum,compressive yield stress,EXP,strain rate 1e-3/s,1273.0,414000000.0,22000000.0,Pa,T3,10.1016/j.intermet.2024.108379
+None,Nb0.7 (MoTaW)0.1,BCC,VAM+A,annealed at 1673K for 24h in vacuum,compressive yield stress,EXP,strain rate 1e-3/s,873.0,465000000.0,19000000.0,Pa,T3,10.1016/j.intermet.2024.108379
+None,Nb0.7 (MoTaW)0.1,BCC,VAM+A,annealed at 1673K for 24h in vacuum,compressive yield stress,EXP,strain rate 1e-3/s,1073.0,447000000.0,13000000.0,Pa,T3,10.1016/j.intermet.2024.108379
+None,Nb0.7 (MoTaW)0.1,BCC,VAM+A,annealed at 1673K for 24h in vacuum,compressive yield stress,EXP,strain rate 1e-3/s,1273.0,383000000.0,6500000.0,Pa,T3,10.1016/j.intermet.2024.108379
+None,Nb0.4 (MoTaW)0.2,BCC,VAM+A,annealed at 1673K for 24h in vacuum,UCS,EXP,strain rate 1e-3/s,873.0,1102000000.0,55000000.0,Pa,T3,10.1016/j.intermet.2024.108379
+None,Nb0.4 (MoTaW)0.2,BCC,VAM+A,annealed at 1673K for 24h in vacuum,UCS,EXP,strain rate 1e-3/s,1073.0,1096000000.0,11000000.0,Pa,T3,10.1016/j.intermet.2024.108379
+None,Nb0.4 (MoTaW)0.2,BCC,VAM+A,annealed at 1673K for 24h in vacuum,UCS,EXP,strain rate 1e-3/s,1273.0,887000000.0,26000000.0,Pa,T3,10.1016/j.intermet.2024.108379
+None,Nb0.55 (MoTaW)0.15,BCC,VAM+A,annealed at 1673K for 24h in vacuum,UCS,EXP,strain rate 1e-3/s,873.0,1325000000.0,21000000.0,Pa,T3,10.1016/j.intermet.2024.108379
+None,Nb0.55 (MoTaW)0.15,BCC,VAM+A,annealed at 1673K for 24h in vacuum,UCS,EXP,strain rate 1e-3/s,1073.0,1237000000.0,86000000.0,Pa,T3,10.1016/j.intermet.2024.108379
+None,Nb0.55 (MoTaW)0.15,BCC,VAM+A,annealed at 1673K for 24h in vacuum,UCS,EXP,strain rate 1e-3/s,1273.0,706000000.0,16000000.0,Pa,T3,10.1016/j.intermet.2024.108379
+None,Nb0.7 (MoTaW)0.1,BCC,VAM+A,annealed at 1673K for 24h in vacuum,UCS,EXP,strain rate 1e-3/s,873.0,1385000000.0,3500000.0,Pa,T3,10.1016/j.intermet.2024.108379
+None,Nb0.7 (MoTaW)0.1,BCC,VAM+A,annealed at 1673K for 24h in vacuum,UCS,EXP,strain rate 1e-3/s,1073.0,1048000000.0,49000000.0,Pa,T3,10.1016/j.intermet.2024.108379
+None,Nb0.7 (MoTaW)0.1,BCC,VAM+A,annealed at 1673K for 24h in vacuum,UCS,EXP,strain rate 1e-3/s,1273.0,645000000.0,5000000.0,Pa,T3,10.1016/j.intermet.2024.108379
+None,Nb0.4 (MoTaW)0.2,BCC,VAM+A,annealed at 1673K for 24h in vacuum,compressive ductility,EXP,strain rate 1e-3/s,873.0,21.0,1.0,%,T3,10.1016/j.intermet.2024.108379
+None,Nb0.4 (MoTaW)0.2,BCC,VAM+A,annealed at 1673K for 24h in vacuum,compressive ductility,EXP,strain rate 1e-3/s,1073.0,20.0,0.3,%,T3,10.1016/j.intermet.2024.108379
+None,Nb0.4 (MoTaW)0.2,BCC,VAM+A,annealed at 1673K for 24h in vacuum,compressive ductility,EXP,strain rate 1e-3/s,1273.0,21.0,0.5,%,T3,10.1016/j.intermet.2024.108379
+None,Nb0.55 (MoTaW)0.15,BCC,VAM+A,annealed at 1673K for 24h in vacuum,compressive ductility,EXP,strain rate 1e-3/s,873.0,35.0,0.3,%,T3,10.1016/j.intermet.2024.108379
+None,Nb0.55 (MoTaW)0.15,BCC,VAM+A,annealed at 1673K for 24h in vacuum,compressive ductility,EXP,strain rate 1e-3/s,1073.0,35.0,1.0,%,T3,10.1016/j.intermet.2024.108379
+None,Nb0.55 (MoTaW)0.15,BCC,VAM+A,annealed at 1673K for 24h in vacuum,compressive ductility,EXP,strain rate 1e-3/s,1273.0,21.0,1.5,%,T3,10.1016/j.intermet.2024.108379
+None,Nb0.7 (MoTaW)0.1,BCC,VAM+A,annealed at 1673K for 24h in vacuum,compressive ductility,EXP,strain rate 1e-3/s,873.0,38.0,1.5,%,T3,10.1016/j.intermet.2024.108379
+None,Nb0.7 (MoTaW)0.1,BCC,VAM+A,annealed at 1673K for 24h in vacuum,compressive ductility,EXP,strain rate 1e-3/s,1073.0,28.0,1.0,%,T3,10.1016/j.intermet.2024.108379
+None,Nb0.7 (MoTaW)0.1,BCC,VAM+A,annealed at 1673K for 24h in vacuum,compressive ductility,EXP,strain rate 1e-3/s,1273.0,31.0,2.0,%,T3,10.1016/j.intermet.2024.108379
+None,(TiNbZr)29.67 (AlTa)5.5,BCC+B2+Zr5Al3,VAM+H+H,homogenized at 750*C for 3 h and at 1050*C for 4 h,density,EXP,strain rate 1e-3/s,298.0,6000.0,None,kg/m^3,T1,10.1016/j.matchar.2023.113301
+None,(TiNbZr)29.67 (AlTa)5.5,BCC+B2+Zr5Al3,VAM+H+H,homogenized at 750*C for 3 h and at 1050*C for 4 h,UCS,EXP,strain rate 1e-3/s,298.0,1025000000.0,None,Pa,None,10.1016/j.matchar.2023.113301
+None,(TiNbZr)29.67 (AlTa)5.5,BCC+B2+Zr5Al3,VAM+H+H,homogenized at 750*C for 3 h and at 1050*C for 4 h,UCS,EXP,strain rate 1e-3/s,873.0,670000000.0,None,Pa,None,10.1016/j.matchar.2023.113301
+None,(TiNbZr)29.67 (AlTa)5.5,BCC+B2+Zr5Al3,VAM+H+H,homogenized at 750*C for 3 h and at 1050*C for 4 h,compressive yield stress,EXP,strain rate 1e-3/s,298.0,890000000.0,8000000.0,Pa,T1,10.1016/j.matchar.2023.113301
+None,(TiNbZr)29.67 (AlTa)5.5,BCC+B2+Zr5Al3,VAM+H+H,homogenized at 750*C for 3 h and at 1050*C for 4 h,compressive yield stress,EXP,strain rate 1e-3/s,873.0,625000000.0,5000000.0,Pa,T1,10.1016/j.matchar.2023.113301
+None,(TiNbZr)29.67 (AlTa)5.5,BCC+B2+Zr5Al3,VAM+H+H,homogenized at 750*C for 3 h and at 1050*C for 4 h,compressive yield stress,EXP,strain rate 1e-3/s,1073.0,210000000.0,8000000.0,Pa,T1,10.1016/j.matchar.2023.113301
+None,(TiNbZr)29.67 (AlTa)5.5,BCC+B2+Zr5Al3,VAM+H+H,homogenized at 750*C for 3 h and at 1050*C for 4 h,compressive yield stress,EXP,strain rate 1e-3/s,1273.0,60000000.0,10000000.0,Pa,T1,10.1016/j.matchar.2023.113301
+None,(TiNbZr)29.67 (AlTa)5.5,BCC+B2+Zr5Al3,VAM+H+H,homogenized at 750*C for 3 h and at 1050*C for 4 h,minimum compressive ductility,EXP,strain rate 1e-3/s,298.0,70.0,None,%,None,10.1016/j.matchar.2023.113301
+None,(TiNbZr)29.67 (AlTa)5.5,BCC+B2+Zr5Al3,VAM+H+H,homogenized at 750*C for 3 h and at 1050*C for 4 h,minimum compressive ductility,EXP,strain rate 1e-3/s,873.0,70.0,None,%,None,10.1016/j.matchar.2023.113301
+None,(TiNbZr)29.67 (AlTa)5.5,BCC+B2+Zr5Al3,VAM+H+H,homogenized at 750*C for 3 h and at 1050*C for 4 h,minimum compressive ductility,EXP,strain rate 1e-3/s,1073.0,70.0,None,%,None,10.1016/j.matchar.2023.113301
+None,(TiNbZr)29.67 (AlTa)5.5,BCC+B2+Zr5Al3,VAM+H+H,homogenized at 750*C for 3 h and at 1050*C for 4 h,minimum compressive ductility,EXP,strain rate 1e-3/s,1273.0,70.0,None,%,None,10.1016/j.matchar.2023.113301
