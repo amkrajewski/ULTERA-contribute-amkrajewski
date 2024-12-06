@@ -207,7 +207,7 @@ None,Fe26.7 Co26.7 Ni26.6 Si9 B11,FCC+amorphous,MS+SR, 0.02 mm thick as spun rib
 None,Al2.7 Cr15.8 Fe25.1 Co26.3 Ni30.2,FCC,SHS+IC,thermite reaction of high purity CoCrFeNi oxides with Al which separated as Al2O3 oxide based on density; thermite mixture placed above the IC mold,None,None,None,None,None,None,None,None,10.1007/s11663-018-1477-3
 None,NiCrCoFeMn Al0.2,FCC,SHS,SHS thermite reaction of CoCrFeNiMn oxides with Al into a graphite mold,density,EXP,None,298.0,7700.0,None,kg/m^3,F2a,10.1134/S001250161610002X
 None,NiCrCoFeMn Al0.6,FCC+BCC+B2,SHS,B2 is NiAl; SHS thermite reaction of CoCrFeNiMn oxides with Al into a graphite mold,density,EXP,None,298.0,7110.0,None,kg/m^3,F2a,10.1134/S001250161610002X
-None,NiCrCoFeMn Al1.0,FCC+BCC+B2,SHS,B2 is NiAl; SHS thermite reaction of CoCrFeNiMn oxides with Al into a graphite mold,density,EXP,None,298.0,None,None,None,None,10.1134/S001250161610002X
+None,NiCrCoFeMn Al1.0,FCC+BCC+B2,SHS,B2 is NiAl; SHS thermite reaction of CoCrFeNiMn oxides with Al into a graphite mold,None,None,None,None,None,None,None,None,10.1134/S001250161610002X
 None,NiCrCoFeMn Al1.2,FCC+BCC+B2,SHS,B2 is NiAl; SHS thermite reaction of CoCrFeNiMn oxides with Al into a graphite mold,density,EXP,None,298.0,6740.0,None,kg/m^3,F2a,10.1134/S001250161610002X
 None,NiCrCoFeMn Al1.6,BCC+FCC+B2,SHS,B2 is NiAl; SHS thermite reaction of CoCrFeNiMn oxides with Al into a graphite mold,density,EXP,None,298.0,6610.0,None,kg/m^3,F2a,10.1134/S001250161610002X
 None,NiCrCoFeMn Al2.0,BCC+B2,SHS,B2 is NiAl; SHS thermite reaction of CoCrFeNiMn oxides with Al into a graphite mold,density,EXP,None,298.0,6300.0,None,kg/m^3,F2a,10.1134/S001250161610002X
