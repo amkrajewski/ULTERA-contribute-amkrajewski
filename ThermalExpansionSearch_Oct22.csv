@@ -145,7 +145,7 @@ id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Proper
 138,Al1.25 CoCrFeNi,BCC,AC+A,homogenized at 1100*C for 24h,CTE,EXP,None,1073,2.03e-05,None,K^-1,F5+F6,10.1016/j.mseb.2009.05.024
 139,Al1.5 CoCrFeNi,BCC,AC+A,homogenized at 1100*C for 24h,CTE,EXP,None,1073,2.726e-05,None,K^-1,F5+F6,10.1016/j.mseb.2009.05.024
 140,Al2 CoCrFeNi,BCC,AC+A,homogenized at 1100*C for 24h,CTE,EXP,None,1073,2.53e-05,None,K^-1,F5+F6,10.1016/j.mseb.2009.05.024
-141,FeCrCoNiGa,BCC+FCC,AC,interplay between FM and PM states of BCC and FCC, structure not confirmed with XRD,density,EXP,None,298,8.2,None,g/cm^3,BODY,10.1063/1.4985724
+141,FeCrCoNiGa,BCC+FCC,AC,interplay between FM and PM states of BCC and FCC, structure not confirmed with XRD,density,EXP,None,298,8200.0,None,kg/m^3,BODY,10.1063/1.4985724
 142,FeCrCoNiGa,BCC+FCC,AC,interplay between FM and PM states of BCC and FCC, structure not confirmed with XRD,youngs modulus,EXP,None,298,168000000000.0,None,Pa,T1,10.1063/1.4985724
 143,FeCrCoNiGa,BCC+FCC,AC,interplay between FM and PM states of BCC and FCC, structure not confirmed with XRD,CTE,EXP,None,300,1.249e-05,None,K^-1,F3,10.1063/1.4985724
 144,FeCrCoNiGa,BCC+FCC,AC,interplay between FM and PM states of BCC and FCC, structure not confirmed with XRD,CTE,EXP,None,500,1.519e-05,None,K^-1,F3,10.1063/1.4985724

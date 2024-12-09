@@ -861,35 +861,35 @@ ALA8,Mo80.8 W4.3 Ta5.0 Ti2.5 Zr2.5 Cr5.0,BCC,VAM,39 sample combinatorial arc mel
 extra Senkov,MoNbTaW,BCC,VAM,None,compressive ductility,EXP,None,298.0,2.8,None,%,F3,10.1038/s41524-023-01095-4
 ALA6,Mo72.3 W12.8 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,37 sample combinatorial arc melting system,compressive yield stress,EXP,None,1573.0,446000000.0,None,Pa,F3,10.1038/s41524-023-01095-4
 extra Senkov,MoNbTaW,BCC,VAM,None,compressive yield stress,EXP,None,1573.0,460000000.0,None,Pa,F3,10.1038/s41524-023-01095-4
-ALA1,Mo85.0 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,32 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.6487935657,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALA2,Mo83.3 W1.7 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,33 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.81769437,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALA3,Mo80.8 W4.3 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,34 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11.3485254692,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALA4,Mo78.2 W6.8 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,35 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.9383378016,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALA5,Mo76.5 W8.5 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,36 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11.2278820375,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALA6,Mo72.3 W12.8 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,37 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11.7989276139,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALA7,Mo80.8 W4.3 Ta5.0 Ti2.5 Zr2.5 Al5.0,BCC,VAM,38 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.2788203753,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALA8,Mo80.8 W4.3 Ta5.0 Ti2.5 Zr2.5 Cr5.0,BCC,VAM,39 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.5361930295,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALB1,Mo80.0 Ta12.5 Ti3.8 Zr3.8,BCC,VAM,40 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.5120643432,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALB2,Mo78.4 W1.6 Ta12.5 Ti3.8 Zr3.8,BCC,VAM,41 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.4075067024,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALB3,Mo76.0 W4.0 Ta12.5 Ti3.8 Zr3.8,BCC+?,VAM,42 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.6166219839,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALB4,Mo73.6 W6.4 Ta12.5 Ti3.8 Zr3.8,BCC,VAM,43 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11.0991957105,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALB5,Mo72.0 W8.0 Ta12.5 Ti3.8 Zr3.8,BCC,VAM,44 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11.1313672922,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALB6,Mo68.0 W12.0 Ta12.5 Ti3.8 Zr3.8,BCC+?,VAM,45 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11.7104557641,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALB7,Mo76.0 W4.0 Ta7.5 Ti3.8 Zr3.8 Al5.0,BCC,VAM,46 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.0857908847,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALB8,Mo76.0 W4.0 Ta7.5 Ti3.8 Zr3.8 Cr5.0,BCC,VAM,47 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.5361930295,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALC1,Mo80.0 Ta10.0 Ti5.0 Zr5.0,BCC,VAM,48 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.3833780161,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALC2,Mo78.4 W1.6 Ta10.0 Ti5.0 Zr5.0,BCC+?,VAM,49 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.4879356568,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALC3,Mo76.0 W4.0 Ta10.0 Ti5.0 Zr5.0,BCC+?,VAM,50 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.5924932976,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALC4,Mo73.6 W6.4 Ta10.0 Ti5.0 Zr5.0,BCC,VAM,51 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11.0831099196,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALC5,Mo72.0 W8.0 Ta10.0 Ti5.0 Zr5.0,BCC,VAM,52 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11.0268096515,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALC6,Mo68.0 W12.0 Ta10.0 Ti5.0 Zr5.0,BCC,VAM,53 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11.5254691689,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALC7,Mo76.0 W4.0 Ta5.0 Ti5.0 Zr5.0 Al5.0,BCC,VAM,54 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.1662198391,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALC8,Mo76.0 W4.0 Ta5.0 Ti5.0 Zr5.0 Cr5.0,BCC,VAM,55 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10.3431635389,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALD1,Mo80.0 Ta20.0,BCC,VAM,56 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11.3806970509,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALD2,Mo78.4 W1.6 Ta20.0,BCC,VAM,57 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11.6139410188,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALD3,Mo76.0 W4.0 Ta20.0,BCC,VAM,58 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11.8471849866,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALD4,Mo73.6 W6.4 Ta20.0,BCC,VAM,59 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,12.3538873995,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALD5,Mo72.0 W8.0 Ta20.0,BCC,VAM,60 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,12.1045576408,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALD6,Mo68.0 W12.0 Ta20.0,BCC,VAM,61 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,12.7721179625,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALD7,Mo76.0 W4.0 Ta15.0 Al5.0,BCC,VAM,62 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11.509383378,None,g/cm^3,F4,10.1038/s41524-023-01095-4
-ALD8,Mo76.0 W4.0 Ta15.0 Cr5.0,BCC,VAM,63 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11.4772117962,None,g/cm^3,F4,10.1038/s41524-023-01095-4
+ALA1,Mo85.0 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,32 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10648.7935656836,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALA2,Mo83.3 W1.7 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,33 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10817.6943699731,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALA3,Mo80.8 W4.3 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,34 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11348.5254691689,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALA4,Mo78.2 W6.8 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,35 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10938.3378016085,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALA5,Mo76.5 W8.5 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,36 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11227.8820375335,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALA6,Mo72.3 W12.8 Ta10.0 Ti2.5 Zr2.5,BCC,VAM,37 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11798.927613941,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALA7,Mo80.8 W4.3 Ta5.0 Ti2.5 Zr2.5 Al5.0,BCC,VAM,38 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10278.8203753351,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALA8,Mo80.8 W4.3 Ta5.0 Ti2.5 Zr2.5 Cr5.0,BCC,VAM,39 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10536.1930294906,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALB1,Mo80.0 Ta12.5 Ti3.8 Zr3.8,BCC,VAM,40 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10512.0643431635,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALB2,Mo78.4 W1.6 Ta12.5 Ti3.8 Zr3.8,BCC,VAM,41 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10407.5067024128,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALB3,Mo76.0 W4.0 Ta12.5 Ti3.8 Zr3.8,BCC+?,VAM,42 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10616.6219839142,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALB4,Mo73.6 W6.4 Ta12.5 Ti3.8 Zr3.8,BCC,VAM,43 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11099.1957104557,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALB5,Mo72.0 W8.0 Ta12.5 Ti3.8 Zr3.8,BCC,VAM,44 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11131.3672922252,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALB6,Mo68.0 W12.0 Ta12.5 Ti3.8 Zr3.8,BCC+?,VAM,45 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11710.455764075,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALB7,Mo76.0 W4.0 Ta7.5 Ti3.8 Zr3.8 Al5.0,BCC,VAM,46 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10085.7908847184,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALB8,Mo76.0 W4.0 Ta7.5 Ti3.8 Zr3.8 Cr5.0,BCC,VAM,47 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10536.1930294906,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALC1,Mo80.0 Ta10.0 Ti5.0 Zr5.0,BCC,VAM,48 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10383.3780160857,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALC2,Mo78.4 W1.6 Ta10.0 Ti5.0 Zr5.0,BCC+?,VAM,49 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10487.9356568364,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALC3,Mo76.0 W4.0 Ta10.0 Ti5.0 Zr5.0,BCC+?,VAM,50 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10592.4932975871,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALC4,Mo73.6 W6.4 Ta10.0 Ti5.0 Zr5.0,BCC,VAM,51 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11083.109919571,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALC5,Mo72.0 W8.0 Ta10.0 Ti5.0 Zr5.0,BCC,VAM,52 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11026.8096514745,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALC6,Mo68.0 W12.0 Ta10.0 Ti5.0 Zr5.0,BCC,VAM,53 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11525.4691689008,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALC7,Mo76.0 W4.0 Ta5.0 Ti5.0 Zr5.0 Al5.0,BCC,VAM,54 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10166.219839142,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALC8,Mo76.0 W4.0 Ta5.0 Ti5.0 Zr5.0 Cr5.0,BCC,VAM,55 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,10343.1635388739,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALD1,Mo80.0 Ta20.0,BCC,VAM,56 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11380.6970509383,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALD2,Mo78.4 W1.6 Ta20.0,BCC,VAM,57 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11613.9410187667,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALD3,Mo76.0 W4.0 Ta20.0,BCC,VAM,58 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11847.1849865951,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALD4,Mo73.6 W6.4 Ta20.0,BCC,VAM,59 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,12353.8873994638,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALD5,Mo72.0 W8.0 Ta20.0,BCC,VAM,60 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,12104.5576407506,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALD6,Mo68.0 W12.0 Ta20.0,BCC,VAM,61 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,12772.1179624664,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALD7,Mo76.0 W4.0 Ta15.0 Al5.0,BCC,VAM,62 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11509.383378016,None,kg/m^3,F4,10.1038/s41524-023-01095-4
+ALD8,Mo76.0 W4.0 Ta15.0 Cr5.0,BCC,VAM,63 sample combinatorial arc melting system,density,EXP,archimedes method,298.0,11477.2117962466,None,kg/m^3,F4,10.1038/s41524-023-01095-4

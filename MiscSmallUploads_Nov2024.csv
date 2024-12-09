@@ -9,13 +9,13 @@ Eq,Ti16.67 Zr16.67 Hf16.67 Nb16.67 Ta16.67 Mo16.67,BCC+BCC,AC,None,None,None,Non
 1,Ti32.07 Zr27.58 Hf18.49 Nb12.70 Ta0.19 Mo8.97,BCC,AC,None,None,None,None,None,None,None,None,S5,10.1016/j.matdes.2021.109548
 2,Ti32.61 Zr28.58 Hf20.39 Nb12.05 Ta0.80 Mo5.57,BCC,AC,None,None,None,None,None,None,None,None,S5,10.1016/j.matdes.2021.109548
 3,Ti28.33 Zr28.33 Hf28.33 Nb6.74 Ta6.74 Mo1.55,BCC,AC,None,None,None,None,None,None,None,None,S5,10.1016/j.matdes.2021.109548
-None,ReMoTaW,BCC,AC,HCP and beta-Ta nanoprecipitates,density,EXP,None,298.0,16.69,0.01,g/cm^3,S3,10.1016/j.ijrmhm.2018.05.006
+None,ReMoTaW,BCC,AC,HCP and beta-Ta nanoprecipitates,density,EXP,None,298.0,16690.0,0.01,kg/m^3,S3,10.1016/j.ijrmhm.2018.05.006
 None,ReMoTaW,BCC,AC,HCP and beta-Ta nanoprecipitates,compressive yield strength,EXP,None,298.0,1451000000.0,None,Pa,S3,10.1016/j.ijrmhm.2018.05.006
 None,ReMoTaW,BCC,AC,HCP and beta-Ta nanoprecipitates,compressive ductility,EXP,None,298.0,5.69,None,%,S3,10.1016/j.ijrmhm.2018.05.006
 None,ReMoTaW,BCC,AC,HCP and beta-Ta nanoprecipitates,hardness,EXP,None,298.0,6276480000.0,225561000.0,Pa,S3,10.1016/j.ijrmhm.2018.05.006
-A10,Ti40 Al10 V20 Nb20 Mo10,BCC,AC,None,density,EXP,None,298.0,6.102,None,g/cm^3,T2,10.1016/j.msea.2019.03.054
-A15,Ti35 Al15 V20 Nb20 Mo10,BCC,AC,None,density,EXP,None,298.0,6.027,None,g/cm^3,T2,10.1016/j.msea.2019.03.054
-A20,Ti30 Al20 V20 Nb20 Mo10,BCC,AC,None,density,EXP,None,298.0,5.876,None,g/cm^3,T2,10.1016/j.msea.2019.03.054
+A10,Ti40 Al10 V20 Nb20 Mo10,BCC,AC,None,density,EXP,None,298.0,6102.0,None,kg/m^3,T2,10.1016/j.msea.2019.03.054
+A15,Ti35 Al15 V20 Nb20 Mo10,BCC,AC,None,density,EXP,None,298.0,6027.0,None,kg/m^3,T2,10.1016/j.msea.2019.03.054
+A20,Ti30 Al20 V20 Nb20 Mo10,BCC,AC,None,density,EXP,None,298.0,5876.0,None,kg/m^3,T2,10.1016/j.msea.2019.03.054
 A10,Ti40 Al10 V20 Nb20 Mo10,BCC,AC,None,compressive yield strength,EXP,None,298.0,900000000.0,None,Pa,T2,10.1016/j.msea.2019.03.054
 A15,Ti35 Al15 V20 Nb20 Mo10,BCC,AC,None,compressive yield strength,EXP,None,1073.0,971000000.0,None,Pa,T2,10.1016/j.msea.2019.03.054
 A20,Ti30 Al20 V20 Nb20 Mo10,BCC,AC,None,compressive yield strength,EXP,None,1273.0,1187000000.0,None,Pa,T2,10.1016/j.msea.2019.03.054
@@ -232,3 +232,141 @@ None,FeCoNiCr0.5Al0.6,FCC+BCC,SHS,SHS thermite reaction of Co Cr Fe Ni oxides wi
 None,FeCoNiCr0.5Al0.8,FCC+BCC,SHS,SHS thermite reaction of Co Cr Fe Ni oxides with Al.,compressive ductility,EXP,None,298.0,37.0,None,%,P3461,10.1007/s11837-019-03678-3
 None,FeCoNiCr0.5Al1.0,FCC+BCC+B2,SHS,SHS thermite reaction of Co Cr Fe Ni oxides with Al.,compressive ductility,EXP,None,298.0,31.0,None,%,P3461,10.1007/s11837-019-03678-3
 None,FeCoNiCr0.5Al1.2,BCC+B2,SHS,SHS thermite reaction of Co Cr Fe Ni oxides with Al.,compressive ductility,EXP,None,298.0,16.0,None,%,P3461,10.1007/s11837-019-03678-3
+None,Al0.5CoCrCu0.5FeNi2,FCC,VIM+H+WQ,homogenized at 1250*C for 12h in Ar and water quenched; assumed to work because it was shown to work in a similar alloy system,hardness,EXP,None,298.0,1363173000.0,19614000.0,Pa,T1,10.1002/smsc.202300225
+None,CoCrCu0.5FeNi2,FCC,VIM+H+WQ,homogenized at 1250*C for 12h in Ar and water quenched; assumed to work because it was shown to work in a similar alloy system,hardness,EXP,None,298.0,1167033000.0,29421000.0,Pa,T1,10.1002/smsc.202300225
+None,Al0.5CoCu0.5FeNi2,FCC,VIM+H+WQ,homogenized at 1250*C for 12h in Ar and water quenched; assumed to work because it was shown to work in a similar alloy system,hardness,EXP,None,298.0,1363173000.0,49035000.0,Pa,T1,10.1002/smsc.202300225
+None,Al0.5CoCrCu0.5Ni2,FCC,VIM+H+WQ,homogenized at 1250*C for 12h in Ar and water quenched; assumed to work because it was shown to work in a similar alloy system,hardness,EXP,None,298.0,1941786000.0,88263000.0,Pa,T1,10.1002/smsc.202300225
+None,Al0.5CrCu0.5FeNi2,FCC,VIM+H+WQ,homogenized at 1250*C for 12h in Ar and water quenched; assumed to work because it was shown to work in a similar alloy system,hardness,EXP,None,298.0,1657383000.0,88263000.0,Pa,T1,10.1002/smsc.202300225
+None,Al0.5CoCrFeNi2,FCC,VIM+H+WQ,homogenized at 1250*C for 12h in Ar and water quenched; assumed to work because it was shown to work in a similar alloy system,hardness,EXP,None,298.0,1353366000.0,39228000.0,Pa,T1,10.1002/smsc.202300225
+None,Fe27Ni35Cr18.25Al13.75Co2Ti2Mo2,FCC+BCC+B2,AAM,engineered lamellar structure,tensile yield stress,EXP,None,298.0,1056000000.0,13000000.0,Pa,T3,10.1016/j.jmst.2023.08.054
+None,Fe27Ni35Cr18.25Al13.75Co2Ti2Mo2,FCC+BCC+B2,AAM,engineered lamellar structure,UTS,EXP,None,298.0,1526000000.0,9000000.0,Pa,T3,10.1016/j.jmst.2023.08.054
+None,Fe27Ni35Cr18.25Al13.75Co2Ti2Mo2,FCC+BCC+B2,AAM,engineered lamellar structure,tensile ductility,EXP,None,298.0,15.6,600000.0,%,T3,10.1016/j.jmst.2023.08.054
+None,Al12Nb25.5Ta8.5Ti27.5Zr26.5,BCC+B2,AAM,processing called VAC incorrectly,density,EXP,None,299.0,6900.0,None,Pa,None,10.1016/j.matchar.2024.114602
+None,Al12Nb25.5Ta8.5Ti27.5Zr26.5,BCC+B2,AAM,processing called VAC incorrectly,compressive yield stress,EXP,strain rate 1e-3/s,293.0,1301000000.0,None,Pa,None,10.1016/j.matchar.2024.114602
+None,Al12Nb25.5Ta8.5Ti27.5Zr26.5,BCC+B2,AAM,processing called VAC incorrectly,compressive yield stress,EXP,strain rate 1e-3/s,873.0,782000000.0,None,Pa,None,10.1016/j.matchar.2024.114602
+None,Al12Nb25.5Ta8.5Ti27.5Zr26.5,BCC+B2,AAM,processing called VAC incorrectly,compressive yield stress,EXP,strain rate 1e-3/s,1073.0,358000000.0,None,Pa,None,10.1016/j.matchar.2024.114602
+None,Al12Nb25.5Ta8.5Ti27.5Zr26.5,BCC+B2,AAM,processing called VAC incorrectly,compressive yield stress,EXP,strain rate 1e-3/s,1273.0,66000000.0,None,Pa,None,10.1016/j.matchar.2024.114602
+None,Al12Nb25.5Ta8.5Ti27.5Zr26.5,BCC+B2,AAM,processing called VAC incorrectly,UCS,EXP,strain rate 1e-3/s,293.0,1590000000.0,None,Pa,None,10.1016/j.matchar.2024.114602
+None,Al12Nb25.5Ta8.5Ti27.5Zr26.5,BCC+B2,AAM,processing called VAC incorrectly,UCS,EXP,strain rate 1e-3/s,873.0,1024000000.0,None,Pa,None,10.1016/j.matchar.2024.114602
+None,Al12Nb25.5Ta8.5Ti27.5Zr26.5,BCC+B2,AAM,processing called VAC incorrectly,UCS,EXP,strain rate 1e-3/s,1073.0,377000000.0,None,Pa,None,10.1016/j.matchar.2024.114602
+None,Al12Nb25.5Ta8.5Ti27.5Zr26.5,BCC+B2,AAM,processing called VAC incorrectly,UCS,EXP,strain rate 1e-3/s,1273.0,78000000.0,None,Pa,None,10.1016/j.matchar.2024.114602
+None,Al12Nb25.5Ta8.5Ti27.5Zr26.5,BCC+B2,AAM,processing called VAC incorrectly,minimum compressive ductility,EXP,strain rate 1e-3/s,293.0,69.0,None,%,None,10.1016/j.matchar.2024.114602
+None,Al12Nb25.5Ta8.5Ti27.5Zr26.5,BCC+B2,AAM,processing called VAC incorrectly,minimum compressive ductility,EXP,strain rate 1e-3/s,873.0,69.0,None,%,None,10.1016/j.matchar.2024.114602
+None,Al12Nb25.5Ta8.5Ti27.5Zr26.5,BCC+B2,AAM,processing called VAC incorrectly,minimum compressive ductility,EXP,strain rate 1e-3/s,1073.0,69.0,None,%,None,10.1016/j.matchar.2024.114602
+None,Al12Nb25.5Ta8.5Ti27.5Zr26.5,BCC+B2,AAM,processing called VAC incorrectly,minimum compressive ductility,EXP,strain rate 1e-3/s,1273.0,69.0,None,%,None,10.1016/j.matchar.2024.114602
+None,Al25Hf25Nb25Ti25,B2,AC,None,compressive yield stress,EXP,strain rate 1e-3/s,298.0,1700000000.0,50000000.0,Pa,None,10.1126/sciadv.adq0083
+None,Al20Hf24Nb29Ti27,B2,AC,None,compressive yield stress,EXP,strain rate 1e-3/s,298.0,1600000000.0,50000000.0,Pa,None,10.1126/sciadv.adq0083
+None,Al15Hf25Nb32Ti28,B2,AC,None,compressive yield stress,EXP,strain rate 1e-3/s,298.0,1500000000.0,50000000.0,Pa,None,10.1126/sciadv.adq0083
+None,Al10Hf20Nb22Ti33V15,B2,AC,None,compressive yield stress,EXP,strain rate 1e-3/s,298.0,1200000000.0,50000000.0,Pa,None,10.1126/sciadv.adq0083
+None,Al25Hf25Nb25Ti25,B2,AC,None,compressive ductility,EXP,strain rate 1e-3/s,298.0,2.6,None,%,F4A,10.1126/sciadv.adq0083
+None,Al20Hf24Nb29Ti27,B2,AC,None,compressive ductility,EXP,strain rate 1e-3/s,298.0,35.0,None,%,F4A,10.1126/sciadv.adq0083
+None,Al15Hf25Nb32Ti28,B2,AC,None,minimum compressive ductility,EXP,strain rate 1e-3/s,298.0,50.0,None,%,F4A,10.1126/sciadv.adq0083
+None,Al10Hf20Nb22Ti33V15,B2,AC,None,minimum compressive ductility,EXP,strain rate 1e-3/s,298.0,50.0,None,%,F4A,10.1126/sciadv.adq0083
+None,Al25Hf25Nb25Ti25,B2,AC,None,UCS,EXP,strain rate 1e-3/s,298.0,1778000000.0,10000000.0,Pa,F4A,10.1126/sciadv.adq0083
+None,Al20Hf24Nb29Ti27,B2,AC,None,UCS,EXP,strain rate 1e-3/s,298.0,2421000000.0,10000000.0,Pa,F4A,10.1126/sciadv.adq0083
+None,Al10Hf20Nb22Ti33V15,B2,AC,None,compressive yield stress,EXP,strain rate 1e-3/s,473.0,1236000000.0,None,Pa,F4G,10.1126/sciadv.adq0083
+None,Al10Hf20Nb22Ti33V15,B2,AC,None,compressive yield stress,EXP,strain rate 1e-3/s,673.0,992000000.0,None,Pa,F4G,10.1126/sciadv.adq0083
+None,Al10Hf20Nb22Ti33V15,B2,AC,None,compressive yield stress,EXP,strain rate 1e-3/s,873.0,882000000.0,None,Pa,F4G,10.1126/sciadv.adq0083
+None,Al10Hf20Nb22Ti33V15,B2,AC,None,compressive yield stress,EXP,strain rate 1e-3/s,973.0,897000000.0,None,Pa,F4G,10.1126/sciadv.adq0083
+None,Al10Hf20Nb22Ti33V15,B2,AC,None,compressive yield stress,EXP,strain rate 1e-3/s,1073.0,474000000.0,None,Pa,F4G,10.1126/sciadv.adq0083
+None,Al10Hf20Nb22Ti33V15,B2,AC,None,tensile yield stress,EXP,strain rate 2e-4/s,298.0,960000000.0,None,Pa,F4B,10.1126/sciadv.adq0083
+None,Al10Hf20Nb22Ti33V15,B2,AC,None,UTS,EXP,strain rate 2e-4/s,298.0,975000000.0,None,Pa,F4B,10.1126/sciadv.adq0083
+None,Al10Hf20Nb22Ti33V15,B2,AC,None,tensile ductility,EXP,strain rate 2e-4/s,298.0,8.6,None,%,F4B,10.1126/sciadv.adq0083
+V0,Ti3Zr1.5Nb,BCC,VAM,None,tensile yield stress,EXP,None,298.0,505400000.0,None,Pa,T2,10.1016/j.jmrt.2023.09.283
+V1,Ti3Zr1.5NbV1,BCC,VAM,None,tensile yield stress,EXP,None,298.0,707600000.0,None,Pa,T2,10.1016/j.jmrt.2023.09.283
+V2,Ti3Zr1.5NbV2,BCC,VAM,None,tensile yield stress,EXP,None,298.0,974000000.0,None,Pa,T2,10.1016/j.jmrt.2023.09.283
+V0,Ti3Zr1.5Nb,BCC,VAM,None,UTS,EXP,None,298.0,507900000.0,None,Pa,T2,10.1016/j.jmrt.2023.09.283
+V1,Ti3Zr1.5NbV1,BCC,VAM,None,UTS,EXP,None,298.0,712100000.0,None,Pa,T2,10.1016/j.jmrt.2023.09.283
+V2,Ti3Zr1.5NbV2,BCC,VAM,None,UTS,EXP,None,298.0,984200000.0,None,Pa,T2,10.1016/j.jmrt.2023.09.283
+V0,Ti3Zr1.5Nb,BCC,VAM,None,tensile ductility,EXP,None,298.0,16.0,None,%,T2,10.1016/j.jmrt.2023.09.283
+V1,Ti3Zr1.5NbV1,BCC,VAM,None,tensile ductility,EXP,None,298.0,9.8,None,%,T2,10.1016/j.jmrt.2023.09.283
+V2,Ti3Zr1.5NbV2,BCC,VAM,None,tensile ductility,EXP,None,298.0,6.3,None,%,T2,10.1016/j.jmrt.2023.09.283
+V0,Ti3Zr1.5Nb,BCC,VAM,None,hardness,EXP,None,298.0,1958457900.0,None,Pa,F5,10.1016/j.jmrt.2023.09.283
+V1,Ti3Zr1.5NbV1,BCC,VAM,None,hardness,EXP,None,298.0,2478228900.0,None,Pa,F5,10.1016/j.jmrt.2023.09.283
+V2,Ti3Zr1.5NbV2,BCC,VAM,None,hardness,EXP,None,298.0,2917582500.0,None,Pa,F5,10.1016/j.jmrt.2023.09.283
+V2,Ti3Zr1.5NbV2,BCC,VAM,None,compressive yield stress,EXP,None,873.0,770000000.0,None,Pa,F8,10.1016/j.jmrt.2023.09.283
+V2,Ti3Zr1.5NbV2,BCC,VAM,None,compressive yield stress,EXP,None,1073.0,243000000.0,None,Pa,F8,10.1016/j.jmrt.2023.09.283
+V2,Ti3Zr1.5NbV2,BCC,VAM,None,UCS,EXP,None,873.0,820000000.0,None,Pa,F8,10.1016/j.jmrt.2023.09.283
+V2,Ti3Zr1.5NbV2,BCC,VAM,None,UCS,EXP,None,1073.0,245000000.0,None,Pa,F8,10.1016/j.jmrt.2023.09.283
+V2,Ti3Zr1.5NbV2,BCC,VAM,None,minimum compressive ductility,EXP,None,873.0,40.0,None,%,F8,10.1016/j.jmrt.2023.09.283
+V2,Ti3Zr1.5NbV2,BCC,VAM,None,minimum compressive ductility,EXP,None,1073.0,40.0,None,%,F8,10.1016/j.jmrt.2023.09.283
+None,FeCrMnV,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,tensile yield stress,EXP,None,298.0,187000000.0,None,Pa,T2,10.1016/j.matdes.2022.111565
+None,FeCrMnVSi0.5,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,tensile yield stress,EXP,None,298.0,211000000.0,None,Pa,T2,10.1016/j.matdes.2022.111565
+None,FeCrMnVSi1.0,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,tensile yield stress,EXP,None,298.0,199000000.0,None,Pa,T2,10.1016/j.matdes.2022.111565
+None,FeCrMnVSi1.5,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,tensile yield stress,EXP,None,298.0,262000000.0,None,Pa,T2,10.1016/j.matdes.2022.111565
+None,FeCrMnVSi2.0,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,tensile yield stress,EXP,None,298.0,216000000.0,None,Pa,T2,10.1016/j.matdes.2022.111565
+None,FeCrMnV,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,UTS,EXP,None,298.0,660000000.0,None,Pa,T2,10.1016/j.matdes.2022.111565
+None,FeCrMnVSi0.5,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,UTS,EXP,None,298.0,762000000.0,None,Pa,T2,10.1016/j.matdes.2022.111565
+None,FeCrMnVSi1.0,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,UTS,EXP,None,298.0,767000000.0,None,Pa,T2,10.1016/j.matdes.2022.111565
+None,FeCrMnVSi1.5,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,UTS,EXP,None,298.0,834000000.0,None,Pa,T2,10.1016/j.matdes.2022.111565
+None,FeCrMnVSi2.0,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,UTS,EXP,None,298.0,1071000000.0,None,Pa,T2,10.1016/j.matdes.2022.111565
+None,FeCrMnV,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,tensile ductility,EXP,None,298.0,20.0,None,%,T2,10.1016/j.matdes.2022.111565
+None,FeCrMnVSi0.5,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,tensile ductility,EXP,None,298.0,18.0,None,%,T2,10.1016/j.matdes.2022.111565
+None,FeCrMnVSi1.0,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,tensile ductility,EXP,None,298.0,16.0,None,%,T2,10.1016/j.matdes.2022.111565
+None,FeCrMnVSi1.5,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,tensile ductility,EXP,None,298.0,17.0,None,%,T2,10.1016/j.matdes.2022.111565
+None,FeCrMnVSi2.0,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,tensile ductility,EXP,None,298.0,19.0,None,%,T2,10.1016/j.matdes.2022.111565
+None,FeCrMnV,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,nanohardness,EXP,None,298.0,4160000000.0,600000000.0,Pa,F3a,10.1016/j.matdes.2022.111565
+None,FeCrMnVSi0.5,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,nanohardness,EXP,None,298.0,4910000000.0,300000000.0,Pa,F3a,10.1016/j.matdes.2022.111565
+None,FeCrMnVSi1.0,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,nanohardness,EXP,None,298.0,5550000000.0,500000000.0,Pa,F3a,10.1016/j.matdes.2022.111565
+None,FeCrMnVSi1.5,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,nanohardness,EXP,None,298.0,6220000000.0,700000000.0,Pa,F3a,10.1016/j.matdes.2022.111565
+None,FeCrMnVSi2.0,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,nanohardness,EXP,None,298.0,7750000000.0,600000000.0,Pa,F3a,10.1016/j.matdes.2022.111565
+None,FeCrMnV,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,reduced elastic modulus,EXP,None,298.0,224000000000.0,7.0,Pa,F3b,10.1016/j.matdes.2022.111565
+None,FeCrMnVSi0.5,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,reduced elastic modulus,EXP,None,298.0,230000000000.0,8.0,Pa,F3b,10.1016/j.matdes.2022.111565
+None,FeCrMnVSi1.0,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,reduced elastic modulus,EXP,None,298.0,240000000000.0,10.0,Pa,F3b,10.1016/j.matdes.2022.111565
+None,FeCrMnVSi1.5,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,reduced elastic modulus,EXP,None,298.0,257000000000.0,18.0,Pa,F3b,10.1016/j.matdes.2022.111565
+None,FeCrMnVSi2.0,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,reduced elastic modulus,EXP,None,298.0,297000000000.0,15000000000.0,Pa,F3b,10.1016/j.matdes.2022.111565
+None,FeCrMnV,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,hardness,EXP,None,298.0,2314452000.0,49035000.0,Pa,F3c,10.1016/j.matdes.2022.111565
+None,FeCrMnVSi0.5,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,hardness,EXP,None,298.0,3216696000.0,58842000.0,Pa,F3c,10.1016/j.matdes.2022.111565
+None,FeCrMnVSi1.0,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,hardness,EXP,None,298.0,3824730000.0,39228000.0,Pa,F3c,10.1016/j.matdes.2022.111565
+None,FeCrMnVSi1.5,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,hardness,EXP,None,298.0,4805430000.0,9807000.0,Pa,F3c,10.1016/j.matdes.2022.111565
+None,FeCrMnVSi2.0,BCC,DED,deposited on steel substrate with laser scanning speed of 7 mm/s at 1200 W with 50% overlap and the spot diameter of 3 mm,hardness,EXP,None,298.0,6364743000.0,39228000.0,Pa,F3c,10.1016/j.matdes.2022.111565
+O-0,Ti41V27Hf16Nb16,BCC,AAM,None,tensile yield stress,EXP,None,298.0,953000000.0,23000000.0,Pa,P15,10.1016/j.jmst.2023.01.038
+O-2,Ti41V27Hf15Nb15O2,BCC+BCC,AAM,oxygen added as high-purity TiO2 powder; spinodal decomposition of BCC into two BCC phases,tensile yield stress,EXP,None,298.0,1517000000.0,20000000.0,Pa,P15,10.1016/j.jmst.2023.01.038
+O-0,Ti41V27Hf16Nb16,BCC,AAM,None,UTS,EXP,None,298.0,1005000000.0,25000000.0,Pa,P15,10.1016/j.jmst.2023.01.038
+O-2,Ti41V27Hf15Nb15O2,BCC+BCC,AAM,oxygen added as high-purity TiO2 powder; spinodal decomposition of BCC into two BCC phases,UTS,EXP,None,298.0,1536000000.0,25000000.0,Pa,P15,10.1016/j.jmst.2023.01.038
+O-0,Ti41V27Hf16Nb16,BCC,AAM,None,tensile ductility,EXP,None,298.0,12.0,None,%,P15,10.1016/j.jmst.2023.01.038
+O-2,Ti41V27Hf15Nb15O2,BCC+BCC,AAM,oxygen added as high-purity TiO2 powder; spinodal decomposition of BCC into two BCC phases,tensile ductility,EXP,None,298.0,25.2,None,%,P15,10.1016/j.jmst.2023.01.038
+O-0,Ti41V27Hf16Nb16,BCC,AAM,None,density,EXP,None,298.0,7320.0,None,kg/m^3,T2,10.1016/j.jmst.2023.01.038
+O-2,Ti41V27Hf15Nb15O2,BCC+BCC,AAM,oxygen added as high-purity TiO2 powder; spinodal decomposition of BCC into two BCC phases,density,EXP,None,298.0,7290.0,None,kg/m^3,T2,10.1016/j.jmst.2023.01.038
+None,Ti37V15Nb22Hf23W3,BCC,AAM,two step arc melting of W-Nb-Hf and Ti-V,density,EXP,None,298.0,8400.0,20.0,kg/m^3,T2,10.1016/j.intermet.2022.107735
+None,Ti37V15Nb22Hf23W3,BCC,AAM,two step arc melting of W-Nb-Hf and Ti-V,hardness,EXP,None,298.0,3415000000.0,44000000.0,Pa,T2,10.1016/j.intermet.2022.107735
+None,Ti37V15Nb22Hf23W3,BCC,AAM,two step arc melting of W-Nb-Hf and Ti-V,tensile yield stress,EXP,strain rate 1e-3/s,298.0,980000000.0,18000000.0,Pa,T2,10.1016/j.intermet.2022.107735
+None,Ti37V15Nb22Hf23W3,BCC,AAM,two step arc melting of W-Nb-Hf and Ti-V,UTS,EXP,strain rate 1e-3/s,298.0,1001000000.0,17000000.0,Pa,F4a,10.1016/j.intermet.2022.107735
+None,Ti37V15Nb22Hf23W3,BCC,AAM,two step arc melting of W-Nb-Hf and Ti-V,tensile ductility,EXP,strain rate 1e-3/s,298.0,19.8,0.5,%,F4a,10.1016/j.intermet.2022.107735
+AC60g,V0.5Nb0.5ZrTi,BCC,VAM,button sample of 60g,None,None,None,None,None,None,None,None,10.1016/j.msea.2020.139774
+AC500g,V0.5Nb0.5ZrTi,BCC,VAM,cylinder sample of 500g,tensile yield stress,EXP,strain rate 1e-3/s,298.0,832000000.0,None,Pa,P2,10.1016/j.msea.2020.139774
+H60g,V0.5Nb0.5ZrTi,BCC,VAM+H,button sample of 60g; homogenized at 1150*C for 24h in Ar,None,None,None,None,None,None,None,None,10.1016/j.msea.2020.139774
+H500g,V0.5Nb0.5ZrTi,BCC,VAM+H,cylinder sample of 500g; homogenized at 1150*C for 24h in Ar,tensile yield stress,EXP,strain rate 1e-3/s,298.0,787000000.0,None,Pa,P2,10.1016/j.msea.2020.139774
+AC500g,V0.5Nb0.5ZrTi,BCC,VAM,cylinder sample of 500g,tensile ductility,EXP,strain rate 1e-3/s,298.0,19.5,None,%,F4,10.1016/j.msea.2020.139774
+H500g,V0.5Nb0.5ZrTi,BCC,VAM+H,cylinder sample of 500g; homogenized at 1150*C for 24h in Ar,tensile ductility,EXP,strain rate 1e-3/s,298.0,23.5,None,%,F4,10.1016/j.msea.2020.139774
+AC500g,V0.5Nb0.5ZrTi,BCC,VAM,cylinder sample of 500g,UTS,EXP,strain rate 1e-3/s,298.0,913000000.0,None,Pa,F4,10.1016/j.msea.2020.139774
+H500g,V0.5Nb0.5ZrTi,BCC,VAM+H,cylinder sample of 500g; homogenized at 1150*C for 24h in Ar,UTS,EXP,strain rate 1e-3/s,298.0,829000000.0,None,Pa,F4,10.1016/j.msea.2020.139774
+None,Zr45Ti15Nb20Ta20,BCC,AAM,None,tensile yield stress,EXP,strain rate 1e-3/s,298.0,1087000000.0,None,Pa,P2,10.1016/j.matlet.2022.132779
+None,Zr45Ti15Nb20Ta20,BCC,AAM,None,UTS,EXP,strain rate 1e-3/s,298.0,1150000000.0,None,Pa,P2,10.1016/j.matlet.2022.132779
+None,Zr45Ti15Nb20Ta20,BCC,AAM,None,tensile ductility,EXP,strain rate 1e-3/s,298.0,11.8,None,%,P2,10.1016/j.matlet.2022.132779
+None,Zr45Ti15Nb20Ta20,BCC,AAM,None,density,EXP,None,298.0,8470.0,None,kg/m^3,P3,10.1016/j.matlet.2022.132779
+AC,Al5Nb24Ti40V5Zr26,BCC,AAM,None,density,EXP,None,299.0,6050.0,30.0,kg/m^3,None,10.1016/j.intermet.2019.106652
+AC,Al5Nb24Ti40V5Zr26,BCC,AAM,None,hardness,EXP,None,298.0,2961714000.0,49035000.0,Pa,F4a,10.1016/j.intermet.2019.106652
+CR,Al5Nb24Ti40V5Zr26,BCC,AAM+CR,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing,hardness,EXP,None,298.0,3412836000.0,98070000.0,Pa,F4a,10.1016/j.intermet.2019.106652
+CRA600,Al5Nb24Ti40V5Zr26,BCC,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 600*C,hardness,EXP,None,299.0,3089205000.0,68649000.0,Pa,F4a,10.1016/j.intermet.2019.106652
+CRA700,Al5Nb24Ti40V5Zr26,BCC+C14,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 700*C,hardness,EXP,None,298.0,2902872000.0,58842000.0,Pa,F4a,10.1016/j.intermet.2019.106652
+CRA800,Al5Nb24Ti40V5Zr26,BCC+C14,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 800*C,hardness,EXP,None,298.0,2932293000.0,49035000.0,Pa,F4a,10.1016/j.intermet.2019.106652
+CRA900,Al5Nb24Ti40V5Zr26,BCC+C14,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 900*C,hardness,EXP,None,299.0,2981328000.0,39228000.0,Pa,F4a,10.1016/j.intermet.2019.106652
+CRA1000,Al5Nb24Ti40V5Zr26,BCC,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 1000*C,hardness,EXP,None,298.0,3099012000.0,107877000.0,Pa,F4a,10.1016/j.intermet.2019.106652
+CRA1100,Al5Nb24Ti40V5Zr26,BCC,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 1100*C; partial B2 ordering,hardness,EXP,None,298.0,3452064000.0,107877000.0,Pa,F4a,10.1016/j.intermet.2019.106652
+CRA1200,Al5Nb24Ti40V5Zr26,BCC,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 1200*C; partial B2 ordering,hardness,EXP,None,299.0,2961714000.0,49035000.0,Pa,F4a,10.1016/j.intermet.2019.106652
+CR,Al5Nb24Ti40V5Zr26,BCC,AAM+CR,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing,tensile yield stress,EXP,strain rate 1e-4/s,298.5,1200000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
+CRA800,Al5Nb24Ti40V5Zr26,BCC+C14,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 800*C,tensile yield stress,EXP,strain rate 1e-4/s,298.5,835000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
+CRA900,Al5Nb24Ti40V5Zr26,BCC+C14,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 900*C,tensile yield stress,EXP,strain rate 1e-4/s,298.5,850000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
+CRA1000,Al5Nb24Ti40V5Zr26,BCC,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 1000*C; partial B2 ordering,tensile yield stress,EXP,strain rate 1e-4/s,298.5,865000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
+CRA1100,Al5Nb24Ti40V5Zr26,BCC,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 1100*C; partial B2 ordering,tensile yield stress,EXP,strain rate 1e-4/s,298.5,875000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
+CR,Al5Nb24Ti40V5Zr26,BCC,AAM+CR,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing,UTS,EXP,strain rate 1e-4/s,298.5,1335000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
+CRA800,Al5Nb24Ti40V5Zr26,BCC+C14,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 800*C,UTS,EXP,strain rate 1e-4/s,298.5,880000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
+CRA900,Al5Nb24Ti40V5Zr26,BCC+C14,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 900*C,UTS,EXP,strain rate 1e-4/s,298.5,885000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
+CRA1000,Al5Nb24Ti40V5Zr26,BCC,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 1000*C; partial B2 ordering,UTS,EXP,strain rate 1e-4/s,298.5,895000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
+CRA1100,Al5Nb24Ti40V5Zr26,BCC,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 1100*C; partial B2 ordering,UTS,EXP,strain rate 1e-4/s,298.5,890000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
+CR,Al5Nb24Ti40V5Zr26,BCC,AAM+CR,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing,tensile ductility,EXP,strain rate 1e-4/s,298.5,13.9,None,%,T1,10.1016/j.intermet.2019.106652
+CRA800,Al5Nb24Ti40V5Zr26,BCC+C14,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 800*C,tensile ductility,EXP,strain rate 1e-4/s,298.5,26.7,None,%,T1,10.1016/j.intermet.2019.106652
+CRA900,Al5Nb24Ti40V5Zr26,BCC+C14,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 900*C,tensile ductility,EXP,strain rate 1e-4/s,298.5,27.0,None,%,T1,10.1016/j.intermet.2019.106652
+CRA1000,Al5Nb24Ti40V5Zr26,BCC,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 1000*C; partial B2 ordering,tensile ductility,EXP,strain rate 1e-4/s,298.5,32.0,None,%,T1,10.1016/j.intermet.2019.106652
+CRA1100,Al5Nb24Ti40V5Zr26,BCC,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 1100*C; partial B2 ordering,tensile ductility,EXP,strain rate 1e-4/s,298.5,25.7,None,%,T1,10.1016/j.intermet.2019.106652

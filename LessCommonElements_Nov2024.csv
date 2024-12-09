@@ -87,19 +87,19 @@ None,Al19.9 Co19.9 Cr19.9 Fe19.9 Ni19.9 Sc0.5,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,A
 None,Al19.8 Co19.8 Cr19.8 Fe19.8 Ni19.8 Sc1,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,wear rate,EXP,None,298.0,3.8e-05,4e-06,None,F6,10.1007/s12598-023-02412-y
 None,Al19.6 Co19.6 Cr19.6 Fe19.6 Ni19.6 Sc2,BCC+B2+laves,AAM,Sc-rich laves; (Fe,Cr)-rich BCC; (Ni,Al)-rich B2,wear rate,EXP,None,298.0,3.5e-05,3e-06,None,F6,10.1007/s12598-023-02412-y
 None,Al20 Be20 Fe10 Si15 Ti35,laves+Si3Ti5+Al2Ti1,VAM,majority phase is laves Ti(Be,Al.,Si,Fe)2 with disordered occupancy,hardness,EXP,None,298.0,8934177000.0,None,Pa,P188,10.1007/s11431-017-9073-0
-None,Al20 Be20 Fe10 Si15 Ti35,laves+Si3Ti5+Al2Ti1,VAM,majority phase is laves Ti(Be,Al.,Si,Fe)2 with disordered occupancy,density,EXP,None,298.0,3.91,None,g/cm^3,P188,10.1007/s11431-017-9073-0
+None,Al20 Be20 Fe10 Si15 Ti35,laves+Si3Ti5+Al2Ti1,VAM,majority phase is laves Ti(Be,Al.,Si,Fe)2 with disordered occupancy,density,EXP,None,298.0,3910.0,None,kg/m^3,P188,10.1007/s11431-017-9073-0
 None,Al20 Li20 Mg10 Sc20 Ti30,FCC,BM,nanocrystalline; ball milled in liquid nitrogen,hardness,EXP,None,298.0,5800000000.0,None,Pa,None,10.1080/21663831.2014.985855
 None,Al20 Li20 Mg10 Sc20 Ti30,HCP,BM+A,nanocrystalline; ball milled in liquid nitrogen; annealed at 773K for 1h,hardness,EXP,None,298.0,4900000000.0,None,Pa,None,10.1080/21663831.2014.985855
-None,Al20 Li20 Mg10 Sc20 Ti30,FCC,BM,nanocrystalline; ball milled in liquid nitrogen,density,EXP,None,298.0,2.67,None,g/cm^3,None,10.1080/21663831.2014.985855
+None,Al20 Li20 Mg10 Sc20 Ti30,FCC,BM,nanocrystalline; ball milled in liquid nitrogen,density,EXP,None,298.0,2670.0,None,kg/m^3,None,10.1080/21663831.2014.985855
 None,(Al20 Li20 Mg10 Sc20 Ti30)0.982 N0.4 O1.4,FCC,BM,nanocrystalline; ball milled in liquid nitrogen; oxygen impurity from contaminated Sc,hardness,EXP,None,298.0,6100000000.0,None,Pa,None,10.1080/21663831.2014.985855
 None,(Al20 Li20 Mg10 Sc20 Ti30)0.982 N0.4 O1.4,FCC,BM+A,nanocrystalline; ball milled in liquid nitrogen; annealed at 773K for 1h; oxygen impurity from contaminated Sc,hardness,EXP,None,298.0,5900000000.0,None,Pa,None,10.1080/21663831.2014.985855
 None,(Al20 Li20 Mg10 Sc20 Ti30)0.982 N0.4 O1.4,FCC,BM+A,nanocrystalline; ball milled in liquid nitrogen; annealed at 873K for 1h; oxygen impurity from contaminated Sc,hardness,EXP,None,298.0,5750000000.0,None,Pa,None,10.1080/21663831.2014.985855
-None,AlLiMgZnSn,Li2MgSn+tetragonal+HCP+FCC,AC,induction melted in argon,density,EXP,None,298.0,4.23,None,g/cm^3,T2,10.1007/s11837-014-1059-z
-None,Al Li0.5 Mg Zn0.5 Sn0.2,FCC+Mg32(AlZn)49+Li2MgSn,AC,induction melted in argon,density,EXP,None,298.0,3.22,None,g/cm^3,T2,10.1007/s11837-014-1059-z
-None,Al Li0.5 Mg Zn0.5 Cu0.2 ,Mg32(AlZn)49+?,AC,induction melted in argon; too brittle to test mechanically,density,EXP,None,298.0,3.73,None,g/cm^3,T2,10.1007/s11837-014-1059-z
-None,Al Li0.5 Mg Cu0.5 Sn0.2 ,AlCuMg+Li2MgSn+Sn,AC,induction melted in argon; too brittle to test mechanically,density,EXP,None,298.0,3.69,None,g/cm^3,T2,10.1007/s11837-014-1059-z
-None,Al80 Li5 Mg5 Zn5 Sn5 ,FCC+Li2MgSn+Sn,AC,induction melted in argon,density,EXP,None,298.0,3.05,None,g/cm^3,T2,10.1007/s11837-014-1059-z
-None,Al80 Li5 Mg5 Zn5 Cu5 ,FCC+Al2Cu+AlCu3,AC,induction melted in argon,density,EXP,None,298.0,3.08,None,g/cm^3,T2,10.1007/s11837-014-1059-z
+None,AlLiMgZnSn,Li2MgSn+tetragonal+HCP+FCC,AC,induction melted in argon,density,EXP,None,298.0,4230.0,None,kg/m^3,T2,10.1007/s11837-014-1059-z
+None,Al Li0.5 Mg Zn0.5 Sn0.2,FCC+Mg32(AlZn)49+Li2MgSn,AC,induction melted in argon,density,EXP,None,298.0,3220.0,None,kg/m^3,T2,10.1007/s11837-014-1059-z
+None,Al Li0.5 Mg Zn0.5 Cu0.2 ,Mg32(AlZn)49+?,AC,induction melted in argon; too brittle to test mechanically,density,EXP,None,298.0,3730.0,None,kg/m^3,T2,10.1007/s11837-014-1059-z
+None,Al Li0.5 Mg Cu0.5 Sn0.2 ,AlCuMg+Li2MgSn+Sn,AC,induction melted in argon; too brittle to test mechanically,density,EXP,None,298.0,3690.0,None,kg/m^3,T2,10.1007/s11837-014-1059-z
+None,Al80 Li5 Mg5 Zn5 Sn5 ,FCC+Li2MgSn+Sn,AC,induction melted in argon,density,EXP,None,298.0,3050.0,None,kg/m^3,T2,10.1007/s11837-014-1059-z
+None,Al80 Li5 Mg5 Zn5 Cu5 ,FCC+Al2Cu+AlCu3,AC,induction melted in argon,density,EXP,None,298.0,3080.0,None,kg/m^3,T2,10.1007/s11837-014-1059-z
 None,AlLiMgZnSn,Li2MgSn+tetragonal+HCP+FCC,AC,induction melted in argon,compressive yield stress,EXP,strain rate 5e-4/s,298.0,600000000.0,None,Pa,T3,10.1007/s11837-014-1059-z
 None,Al80 Li5 Mg5 Zn5 Sn5 ,FCC+Li2MgSn+Sn,AC,induction melted in argon,compressive yield stress,EXP,strain rate 5e-4/s,298.0,488000000.0,None,Pa,T3,10.1007/s11837-014-1059-z
 None,Al80 Li5 Mg5 Zn5 Cu5 ,FCC+Al2Cu+AlCu3,AC,induction melted in argon,compressive yield stress,EXP,strain rate 5e-4/s,298.0,415000000.0,None,Pa,T3,10.1007/s11837-014-1059-z
@@ -211,7 +211,7 @@ None,NiMnCrMoW0.8,None,VAM+A,annealed at 1473K for 2h; complex multi-phase struc
 None,NiMnCrMoW1.0,None,VAM+A,annealed at 1473K for 2h; complex multi-phase structure in the reference if needed,hardness,EXP,None,298.0,6698181000.0,None,Pa,F8,10.1016/j.mtcomm.2024.111088
 None,HfMoScTaZr,BCC,VAM+Q,quenched from 800*C ,None,None,None,None,None,None,None,None,10.1016/j.ijrmhm.2021.105568
 None,HfMoScTaZr,BCC,VAM+Q,quenched from 1200*C ,None,None,None,None,None,None,None,None,10.1016/j.ijrmhm.2021.105568
-None,HfMoScTaZr,BCC,VAM,None,density,EXP,None,298.0,9.28,None,g / cm^3,None,10.1016/j.ijrmhm.2021.105568
+None,HfMoScTaZr,BCC,VAM,None,density,EXP,None,298.0,9280.0,None,kg/m^3,None,10.1016/j.ijrmhm.2021.105568
 None,HfMoScTaZr,BCC,VAM,None,compressive yield stress,EXP,None,298.0,1778000000.0,None,Pa,T3,10.1016/j.ijrmhm.2021.105568
 None,HfMoScTaZr,BCC,VAM,None,compressive yield stress,EXP,None,1073.0,1118000000.0,None,Pa,T3,10.1016/j.ijrmhm.2021.105568
 None,HfMoScTaZr,BCC,VAM,None,compressive yield stress,EXP,None,1273.0,963000000.0,None,Pa,T3,10.1016/j.ijrmhm.2021.105568

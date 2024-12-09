@@ -58,16 +58,16 @@ id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Proper
 38,Zr Nb Ta Hf0.2 Cr0.5,BCC+HCP+C15,AC+A,24h at 1400*C,hardness,EXP,None,298,4866233400.0,None,Pa,S,10.1016/j.jallcom.2022.166593
 39,Zr Nb Ta Hf0.2 Cr0.75,BCC+HCP+C15,AC+A,24h at 1400*C,hardness,EXP,None,298,5098659300.0,None,Pa,S,10.1016/j.jallcom.2022.166593
 40,Zr Nb Ta Hf0.2 Cr1,BCC+HCP+C15,AC+A,24h at 1400*C,hardness,EXP,None,298,5563511099.999999,None,Pa,S,10.1016/j.jallcom.2022.166593
-41,Zr Nb Ta Hf0.2,BCC+HCP,AC,None,density,EXP,None,293,9.575,None,g/cm^3,S,10.1016/j.jallcom.2022.166593
-42,Zr Nb Ta Hf0.2 Cr0.3,BCC+HCP+C15,AC,None,density,EXP,None,293,10.324,None,g/cm^3,S,10.1016/j.jallcom.2022.166593
-43,Zr Nb Ta Hf0.2 Cr0.5,BCC+HCP+C15,AC,None,density,EXP,None,293,10.32,None,g/cm^3,S,10.1016/j.jallcom.2022.166593
-44,Zr Nb Ta Hf0.2 Cr0.75,BCC+HCP+C15,AC,None,density,EXP,None,293,10.194,None,g/cm^3,S,10.1016/j.jallcom.2022.166593
-45,Zr Nb Ta Hf0.2 Cr1,BCC+HCP+C15,AC,None,density,EXP,None,293,10.056,None,g/cm^3,S,10.1016/j.jallcom.2022.166593
-46,Zr Nb Ta Hf0.2,BCC+HCP,AC+A,24h at 1400*C,density,EXP,None,293,9.58,None,g/cm^3,S,10.1016/j.jallcom.2022.166593
-47,Zr Nb Ta Hf0.2 Cr0.3,BCC+HCP+C15,AC+A,24h at 1400*C,density,EXP,None,293,9.952,None,g/cm^3,S,10.1016/j.jallcom.2022.166593
-48,Zr Nb Ta Hf0.2 Cr0.5,BCC+HCP+C15,AC+A,24h at 1400*C,density,EXP,None,293,9.713,None,g/cm^3,S,10.1016/j.jallcom.2022.166593
-49,Zr Nb Ta Hf0.2 Cr0.75,BCC+HCP+C15,AC+A,24h at 1400*C,density,EXP,None,293,9.653,None,g/cm^3,S,10.1016/j.jallcom.2022.166593
-50,Zr Nb Ta Hf0.2 Cr1,BCC+HCP+C15,AC+A,24h at 1400*C,density,EXP,None,293,9.413,None,g/cm^3,S,10.1016/j.jallcom.2022.166593
+41,Zr Nb Ta Hf0.2,BCC+HCP,AC,None,density,EXP,None,293,9575.0,None,kg/m3,S,10.1016/j.jallcom.2022.166593
+42,Zr Nb Ta Hf0.2 Cr0.3,BCC+HCP+C15,AC,None,density,EXP,None,293,10324.0,None,kg/m3,S,10.1016/j.jallcom.2022.166593
+43,Zr Nb Ta Hf0.2 Cr0.5,BCC+HCP+C15,AC,None,density,EXP,None,293,10320.0,None,kg/m3,S,10.1016/j.jallcom.2022.166593
+44,Zr Nb Ta Hf0.2 Cr0.75,BCC+HCP+C15,AC,None,density,EXP,None,293,10194.0,None,kg/m3,S,10.1016/j.jallcom.2022.166593
+45,Zr Nb Ta Hf0.2 Cr1,BCC+HCP+C15,AC,None,density,EXP,None,293,10056.0,None,kg/m3,S,10.1016/j.jallcom.2022.166593
+46,Zr Nb Ta Hf0.2,BCC+HCP,AC+A,24h at 1400*C,density,EXP,None,293,9580.0,None,kg/m3,S,10.1016/j.jallcom.2022.166593
+47,Zr Nb Ta Hf0.2 Cr0.3,BCC+HCP+C15,AC+A,24h at 1400*C,density,EXP,None,293,9952.0,None,kg/m3,S,10.1016/j.jallcom.2022.166593
+48,Zr Nb Ta Hf0.2 Cr0.5,BCC+HCP+C15,AC+A,24h at 1400*C,density,EXP,None,293,9713.0,None,kg/m3,S,10.1016/j.jallcom.2022.166593
+49,Zr Nb Ta Hf0.2 Cr0.75,BCC+HCP+C15,AC+A,24h at 1400*C,density,EXP,None,293,9653.0,None,kg/m3,S,10.1016/j.jallcom.2022.166593
+50,Zr Nb Ta Hf0.2 Cr1,BCC+HCP+C15,AC+A,24h at 1400*C,density,EXP,None,293,9413.0,None,kg/m3,S,10.1016/j.jallcom.2022.166593
 1,Zr35 Ti30 Nb20 Al10 Ta5 ,BCC,VAM+CR+A+WQ,5min at 850*C in argon in quartz tube, B2 nanoprecipitates,tensile yield strength,EXP,None,298,997000000.0,None,Pa,P,10.1016/j.ijrmhm.2023.106263
 2,Zr35 Ti30 Nb20 Al10 Ta5 ,BCC,VAM+CR+A+WQ,5min at 1050*C in argon in quartz tube, B2 nanoprecipitates,tensile yield strength,EXP,None,298,841000000.0,None,Pa,P,10.1016/j.ijrmhm.2023.106263
 3,Zr35 Ti30 Nb20 Al10 Ta5 ,BCC,VAM+CR+A+WQ,5min at 850*C in argon in quartz tube, B2 nanoprecipitates,ultimate tensile strength,EXP,None,298,1043000000.0,None,Pa,P,10.1016/j.ijrmhm.2023.106263
