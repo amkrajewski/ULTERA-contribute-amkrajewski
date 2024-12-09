@@ -223,7 +223,7 @@ None,AlFe7Co2Ni2Cu0.4,BCC,SHS,SHS thermite reaction of Mn Co Ni Fe oxides with A
 None,FeCoNiCr0.5Al0.6,FCC+BCC,SHS,SHS thermite reaction of Co Cr Fe Ni oxides with Al.,compressive yield stress,EXP,None,298.0,412000000.0,None,Pa,P3461,10.1007/s11837-019-03678-3
 None,FeCoNiCr0.5Al0.8,FCC+BCC,SHS,SHS thermite reaction of Co Cr Fe Ni oxides with Al.,compressive yield stress,EXP,None,298.0,1214000000.0,None,Pa,P3461,10.1007/s11837-019-03678-3
 None,FeCoNiCr0.5Al1.0,FCC+BCC+B2,SHS,SHS thermite reaction of Co Cr Fe Ni oxides with Al.,compressive yield stress,EXP,None,298.0,1140000000.0,None,Pa,P3461,10.1007/s11837-019-03678-3
-None,FeCoNiCr0.5Al1.2,BCC+B2,SHS,SHS thermite reaction of Co Cr Fe Ni oxides with Al.,compressive yield stress,EXP,None,298.0,1000.0,100.0,Pa,F2,10.1007/s11837-019-03678-3
+None,FeCoNiCr0.5Al1.2,BCC+B2,SHS,SHS thermite reaction of Co Cr Fe Ni oxides with Al.,compressive yield stress,EXP,None,298.0,1000000000.0,100000000.0,Pa,F2,10.1007/s11837-019-03678-3
 None,FeCoNiCr0.5Al0.6,FCC+BCC,SHS,SHS thermite reaction of Co Cr Fe Ni oxides with Al.,compressive fracture stress,EXP,None,298.0,2112000000.0,None,Pa,P3461,10.1007/s11837-019-03678-3
 None,FeCoNiCr0.5Al0.8,FCC+BCC,SHS,SHS thermite reaction of Co Cr Fe Ni oxides with Al.,compressive fracture stress,EXP,None,298.0,2923000000.0,None,Pa,P3461,10.1007/s11837-019-03678-3
 None,FeCoNiCr0.5Al1.0,FCC+BCC+B2,SHS,SHS thermite reaction of Co Cr Fe Ni oxides with Al.,compressive fracture stress,EXP,None,298.0,2873000000.0,None,Pa,P3461,10.1007/s11837-019-03678-3
@@ -345,28 +345,128 @@ None,Zr45Ti15Nb20Ta20,BCC,AAM,None,tensile yield stress,EXP,strain rate 1e-3/s,2
 None,Zr45Ti15Nb20Ta20,BCC,AAM,None,UTS,EXP,strain rate 1e-3/s,298.0,1150000000.0,None,Pa,P2,10.1016/j.matlet.2022.132779
 None,Zr45Ti15Nb20Ta20,BCC,AAM,None,tensile ductility,EXP,strain rate 1e-3/s,298.0,11.8,None,%,P2,10.1016/j.matlet.2022.132779
 None,Zr45Ti15Nb20Ta20,BCC,AAM,None,density,EXP,None,298.0,8470.0,None,kg/m^3,P3,10.1016/j.matlet.2022.132779
-AC,Al5Nb24Ti40V5Zr26,BCC,AAM,None,density,EXP,None,299.0,6050.0,30.0,kg/m^3,None,10.1016/j.intermet.2019.106652
+AC,Al5Nb24Ti40V5Zr26,BCC,AAM,None,density,EXP,None,298.0,6050.0,30.0,kg/m^3,None,10.1016/j.intermet.2019.106652
 AC,Al5Nb24Ti40V5Zr26,BCC,AAM,None,hardness,EXP,None,298.0,2961714000.0,49035000.0,Pa,F4a,10.1016/j.intermet.2019.106652
 CR,Al5Nb24Ti40V5Zr26,BCC,AAM+CR,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing,hardness,EXP,None,298.0,3412836000.0,98070000.0,Pa,F4a,10.1016/j.intermet.2019.106652
-CRA600,Al5Nb24Ti40V5Zr26,BCC,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 600*C,hardness,EXP,None,299.0,3089205000.0,68649000.0,Pa,F4a,10.1016/j.intermet.2019.106652
+CRA600,Al5Nb24Ti40V5Zr26,BCC,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 600*C,hardness,EXP,None,298.0,3089205000.0,68649000.0,Pa,F4a,10.1016/j.intermet.2019.106652
 CRA700,Al5Nb24Ti40V5Zr26,BCC+C14,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 700*C,hardness,EXP,None,298.0,2902872000.0,58842000.0,Pa,F4a,10.1016/j.intermet.2019.106652
 CRA800,Al5Nb24Ti40V5Zr26,BCC+C14,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 800*C,hardness,EXP,None,298.0,2932293000.0,49035000.0,Pa,F4a,10.1016/j.intermet.2019.106652
-CRA900,Al5Nb24Ti40V5Zr26,BCC+C14,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 900*C,hardness,EXP,None,299.0,2981328000.0,39228000.0,Pa,F4a,10.1016/j.intermet.2019.106652
+CRA900,Al5Nb24Ti40V5Zr26,BCC+C14,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 900*C,hardness,EXP,None,298.0,2981328000.0,39228000.0,Pa,F4a,10.1016/j.intermet.2019.106652
 CRA1000,Al5Nb24Ti40V5Zr26,BCC,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 1000*C,hardness,EXP,None,298.0,3099012000.0,107877000.0,Pa,F4a,10.1016/j.intermet.2019.106652
 CRA1100,Al5Nb24Ti40V5Zr26,BCC,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 1100*C; partial B2 ordering,hardness,EXP,None,298.0,3452064000.0,107877000.0,Pa,F4a,10.1016/j.intermet.2019.106652
-CRA1200,Al5Nb24Ti40V5Zr26,BCC,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 1200*C; partial B2 ordering,hardness,EXP,None,299.0,2961714000.0,49035000.0,Pa,F4a,10.1016/j.intermet.2019.106652
-CR,Al5Nb24Ti40V5Zr26,BCC,AAM+CR,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing,tensile yield stress,EXP,strain rate 1e-4/s,298.5,1200000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
-CRA800,Al5Nb24Ti40V5Zr26,BCC+C14,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 800*C,tensile yield stress,EXP,strain rate 1e-4/s,298.5,835000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
-CRA900,Al5Nb24Ti40V5Zr26,BCC+C14,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 900*C,tensile yield stress,EXP,strain rate 1e-4/s,298.5,850000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
-CRA1000,Al5Nb24Ti40V5Zr26,BCC,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 1000*C; partial B2 ordering,tensile yield stress,EXP,strain rate 1e-4/s,298.5,865000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
-CRA1100,Al5Nb24Ti40V5Zr26,BCC,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 1100*C; partial B2 ordering,tensile yield stress,EXP,strain rate 1e-4/s,298.5,875000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
-CR,Al5Nb24Ti40V5Zr26,BCC,AAM+CR,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing,UTS,EXP,strain rate 1e-4/s,298.5,1335000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
-CRA800,Al5Nb24Ti40V5Zr26,BCC+C14,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 800*C,UTS,EXP,strain rate 1e-4/s,298.5,880000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
-CRA900,Al5Nb24Ti40V5Zr26,BCC+C14,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 900*C,UTS,EXP,strain rate 1e-4/s,298.5,885000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
-CRA1000,Al5Nb24Ti40V5Zr26,BCC,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 1000*C; partial B2 ordering,UTS,EXP,strain rate 1e-4/s,298.5,895000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
-CRA1100,Al5Nb24Ti40V5Zr26,BCC,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 1100*C; partial B2 ordering,UTS,EXP,strain rate 1e-4/s,298.5,890000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
-CR,Al5Nb24Ti40V5Zr26,BCC,AAM+CR,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing,tensile ductility,EXP,strain rate 1e-4/s,298.5,13.9,None,%,T1,10.1016/j.intermet.2019.106652
-CRA800,Al5Nb24Ti40V5Zr26,BCC+C14,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 800*C,tensile ductility,EXP,strain rate 1e-4/s,298.5,26.7,None,%,T1,10.1016/j.intermet.2019.106652
-CRA900,Al5Nb24Ti40V5Zr26,BCC+C14,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 900*C,tensile ductility,EXP,strain rate 1e-4/s,298.5,27.0,None,%,T1,10.1016/j.intermet.2019.106652
-CRA1000,Al5Nb24Ti40V5Zr26,BCC,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 1000*C; partial B2 ordering,tensile ductility,EXP,strain rate 1e-4/s,298.5,32.0,None,%,T1,10.1016/j.intermet.2019.106652
-CRA1100,Al5Nb24Ti40V5Zr26,BCC,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 1100*C; partial B2 ordering,tensile ductility,EXP,strain rate 1e-4/s,298.5,25.7,None,%,T1,10.1016/j.intermet.2019.106652
+CRA1200,Al5Nb24Ti40V5Zr26,BCC,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 1200*C; partial B2 ordering,hardness,EXP,None,298.0,2961714000.0,49035000.0,Pa,F4a,10.1016/j.intermet.2019.106652
+CR,Al5Nb24Ti40V5Zr26,BCC,AAM+CR,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing,tensile yield stress,EXP,strain rate 1e-4/s,298.0,1200000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
+CRA800,Al5Nb24Ti40V5Zr26,BCC+C14,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 800*C,tensile yield stress,EXP,strain rate 1e-4/s,298.0,835000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
+CRA900,Al5Nb24Ti40V5Zr26,BCC+C14,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 900*C,tensile yield stress,EXP,strain rate 1e-4/s,298.0,850000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
+CRA1000,Al5Nb24Ti40V5Zr26,BCC,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 1000*C; partial B2 ordering,tensile yield stress,EXP,strain rate 1e-4/s,298.0,865000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
+CRA1100,Al5Nb24Ti40V5Zr26,BCC,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 1100*C; partial B2 ordering,tensile yield stress,EXP,strain rate 1e-4/s,298.0,875000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
+CR,Al5Nb24Ti40V5Zr26,BCC,AAM+CR,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing,UTS,EXP,strain rate 1e-4/s,298.0,1335000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
+CRA800,Al5Nb24Ti40V5Zr26,BCC+C14,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 800*C,UTS,EXP,strain rate 1e-4/s,298.0,880000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
+CRA900,Al5Nb24Ti40V5Zr26,BCC+C14,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 900*C,UTS,EXP,strain rate 1e-4/s,298.0,885000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
+CRA1000,Al5Nb24Ti40V5Zr26,BCC,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 1000*C; partial B2 ordering,UTS,EXP,strain rate 1e-4/s,298.0,895000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
+CRA1100,Al5Nb24Ti40V5Zr26,BCC,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 1100*C; partial B2 ordering,UTS,EXP,strain rate 1e-4/s,298.0,890000000.0,None,Pa,T1,10.1016/j.intermet.2019.106652
+CR,Al5Nb24Ti40V5Zr26,BCC,AAM+CR,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing,tensile ductility,EXP,strain rate 1e-4/s,298.0,13.9,None,%,T1,10.1016/j.intermet.2019.106652
+CRA800,Al5Nb24Ti40V5Zr26,BCC+C14,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 800*C,tensile ductility,EXP,strain rate 1e-4/s,298.0,26.7,None,%,T1,10.1016/j.intermet.2019.106652
+CRA900,Al5Nb24Ti40V5Zr26,BCC+C14,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 900*C,tensile ductility,EXP,strain rate 1e-4/s,298.0,27.0,None,%,T1,10.1016/j.intermet.2019.106652
+CRA1000,Al5Nb24Ti40V5Zr26,BCC,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 1000*C; partial B2 ordering,tensile ductility,EXP,strain rate 1e-4/s,298.0,32.0,None,%,T1,10.1016/j.intermet.2019.106652
+CRA1100,Al5Nb24Ti40V5Zr26,BCC,AAM+CR+A+WQ,cold rolling to 80% thickness strain in many passes; longitudinal axis of the specimens was aligned with the rolling direction for testing; annealed in vacuum for 1h at 1100*C; partial B2 ordering,tensile ductility,EXP,strain rate 1e-4/s,298.0,25.7,None,%,T1,10.1016/j.intermet.2019.106652
+C-3009,Nb71.7 W5.9 Hf22.4,BCC,AC,commercial C-3009 alloy,density,EXP,high precision helium pycnometer,298.0,10300.0,None,kg/m^3,None,10.1016/j.jallcom.2019.151685
+W1,Nb73.5 Ti18.1 W8.4,BCC,VAM,None,density,EXP,high precision helium pycnometer,298.0,8600.0,None,kg/m^3,None,10.1016/j.jallcom.2019.151685
+M1,Nb73 Mo9.2 Ti17.8,BCC,VAM,None,density,EXP,high precision helium pycnometer,298.0,7960.0,None,kg/m^3,None,10.1016/j.jallcom.2019.151685
+M2,Nb70 Mo11.9 Ti18.1,BCC,VAM,None,density,EXP,high precision helium pycnometer,298.0,7990.0,None,kg/m^3,None,10.1016/j.jallcom.2019.151685
+M3,Nb67.8 Mo14.1 Ti18.1,BCC,VAM,None,density,EXP,high precision helium pycnometer,298.0,8030.0,None,kg/m^3,None,10.1016/j.jallcom.2019.151685
+M4,Nb34.7 Mo32.8 Ti32.5,BCC,VAM,None,density,EXP,high precision helium pycnometer,298.0,7830.0,None,kg/m^3,None,10.1016/j.jallcom.2019.151685
+MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,density,EXP,high precision helium pycnometer,298.0,9110.0,None,kg/m^3,None,10.1016/j.jallcom.2019.151685
+C-3009,Nb71.7 W5.9 Hf22.4,BCC,AC,commercial C-3009 alloy,hardness,EXP,strain rate 1e-3/s,298.0,2690000000.0,80000000.0,Pa,T5,10.1016/j.jallcom.2019.151685
+W1,Nb73.5 Ti18.1 W8.4,BCC,VAM,None,hardness,EXP,strain rate 1e-3/s,298.0,3070000000.0,80000000.0,Pa,T5,10.1016/j.jallcom.2019.151685
+M1,Nb73 Mo9.2 Ti17.8,BCC,VAM,None,hardness,EXP,strain rate 1e-3/s,298.0,2170000000.0,50000000.0,Pa,T5,10.1016/j.jallcom.2019.151685
+M2,Nb70 Mo11.9 Ti18.1,BCC,VAM,None,hardness,EXP,strain rate 1e-3/s,298.0,2760000000.0,60000000.0,Pa,T5,10.1016/j.jallcom.2019.151685
+M3,Nb67.8 Mo14.1 Ti18.1,BCC,VAM,None,hardness,EXP,strain rate 1e-3/s,298.0,2810000000.0,50000000.0,Pa,T5,10.1016/j.jallcom.2019.151685
+M4,Nb34.7 Mo32.8 Ti32.5,BCC,VAM,None,hardness,EXP,strain rate 1e-3/s,298.0,3810000000.0,60000000.0,Pa,T5,10.1016/j.jallcom.2019.151685
+MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,hardness,EXP,strain rate 1e-3/s,298.0,4940000000.0,60000000.0,Pa,T5,10.1016/j.jallcom.2019.151685
+C-3009,Nb71.7 W5.9 Hf22.4,BCC,AC,commercial C-3009 alloy,compressive yield stress,EXP,strain rate 1e-3/s,298.0,663000000.0,7000000.0,Pa,T5,10.1016/j.jallcom.2019.151685
+W1,Nb73.5 Ti18.1 W8.4,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,298.0,849000000.0,8000000.0,Pa,T5,10.1016/j.jallcom.2019.151685
+M1,Nb73 Mo9.2 Ti17.8,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,298.0,521000000.0,5000000.0,Pa,T5,10.1016/j.jallcom.2019.151685
+M2,Nb70 Mo11.9 Ti18.1,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,298.0,719000000.0,7000000.0,Pa,T5,10.1016/j.jallcom.2019.151685
+M3,Nb67.8 Mo14.1 Ti18.1,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,298.0,780000000.0,8000000.0,Pa,T5,10.1016/j.jallcom.2019.151685
+M4,Nb34.7 Mo32.8 Ti32.5,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,298.0,1100000000.0,11000000.0,Pa,T5,10.1016/j.jallcom.2019.151685
+MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,298.0,1440000000.0,14000000.0,Pa,T5,10.1016/j.jallcom.2019.151685
+C-3009,Nb71.7 W5.9 Hf22.4,BCC,AC,commercial C-3009 alloy,youngs modulus,EXP,strain rate 1e-3/s,298.0,110000000000.0,20000000000.0,Pa,T5,10.1016/j.jallcom.2019.151685
+W1,Nb73.5 Ti18.1 W8.4,BCC,VAM,None,youngs modulus,EXP,strain rate 1e-3/s,298.0,133000000000.0,20000000000.0,Pa,T5,10.1016/j.jallcom.2019.151685
+M1,Nb73 Mo9.2 Ti17.8,BCC,VAM,None,youngs modulus,EXP,strain rate 1e-3/s,298.0,125000000000.0,20000000000.0,Pa,T5,10.1016/j.jallcom.2019.151685
+M2,Nb70 Mo11.9 Ti18.1,BCC,VAM,None,youngs modulus,EXP,strain rate 1e-3/s,298.0,129000000000.0,20000000000.0,Pa,T5,10.1016/j.jallcom.2019.151685
+M3,Nb67.8 Mo14.1 Ti18.1,BCC,VAM,None,youngs modulus,EXP,strain rate 1e-3/s,298.0,138000000000.0,30000000000.0,Pa,T5,10.1016/j.jallcom.2019.151685
+M4,Nb34.7 Mo32.8 Ti32.5,BCC,VAM,None,youngs modulus,EXP,strain rate 1e-3/s,298.0,183000000000.0,30000000000.0,Pa,T5,10.1016/j.jallcom.2019.151685
+MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,youngs modulus,EXP,strain rate 1e-3/s,298.0,193000000000.0,30000000000.0,Pa,T5,10.1016/j.jallcom.2019.151685
+C-3009,Nb71.7 W5.9 Hf22.4,BCC,AC,commercial C-3009 alloy,minimum compressive ductility,EXP,strain rate 1e-3/s,298.0,60.0,None,%,F3,10.1016/j.jallcom.2019.151685
+W1,Nb73.5 Ti18.1 W8.4,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,298.0,65.0,None,%,F3,10.1016/j.jallcom.2019.151685
+M1,Nb73 Mo9.2 Ti17.8,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,298.0,60.0,None,%,F3,10.1016/j.jallcom.2019.151685
+M2,Nb70 Mo11.9 Ti18.1,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,298.0,55.0,None,%,F3,10.1016/j.jallcom.2019.151685
+M3,Nb67.8 Mo14.1 Ti18.1,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,298.0,55.0,None,%,F3,10.1016/j.jallcom.2019.151685
+M4,Nb34.7 Mo32.8 Ti32.5,BCC,VAM,None,compressive ductility,EXP,strain rate 1e-3/s,298.0,25.0,None,%,F3,10.1016/j.jallcom.2019.151685
+MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,compressive ductility,EXP,strain rate 1e-3/s,298.0,11.0,None,%,F3,10.1016/j.jallcom.2019.151685
+M4,Nb34.7 Mo32.8 Ti32.5,BCC,VAM,None,UCS,EXP,strain rate 1e-3/s,298.0,1757000000.0,None,Pa,F3,10.1016/j.jallcom.2019.151685
+MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,UCS,EXP,strain rate 1e-3/s,298.0,1900000000.0,None,Pa,F3,10.1016/j.jallcom.2019.151685
+C-3009,Nb71.7 W5.9 Hf22.4,BCC,AC,None,compressive yield stress,EXP,strain rate 1e-3/s,873.0,663000000.0,None,Pa,T6,10.1016/j.jallcom.2019.151685
+W1,Nb73.5 Ti18.1 W8.4,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,873.0,849000000.0,None,Pa,T6,10.1016/j.jallcom.2019.151685
+M1,Nb73 Mo9.2 Ti17.8,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,873.0,521000000.0,None,Pa,T6,10.1016/j.jallcom.2019.151685
+M2,Nb70 Mo11.9 Ti18.1,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,873.0,719000000.0,None,Pa,T6,10.1016/j.jallcom.2019.151685
+M3,Nb67.8 Mo14.1 Ti18.1,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,873.0,780000000.0,None,Pa,T6,10.1016/j.jallcom.2019.151685
+M4,Nb34.7 Mo32.8 Ti32.5,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,873.0,1100000000.0,None,Pa,T6,10.1016/j.jallcom.2019.151685
+MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,873.0,1440000000.0,None,Pa,T6,10.1016/j.jallcom.2019.151685
+C-3009,Nb71.7 W5.9 Hf22.4,BCC,AC,None,compressive yield stress,EXP,strain rate 1e-3/s,1073.0,424000000.0,None,Pa,T6,10.1016/j.jallcom.2019.151685
+W1,Nb73.5 Ti18.1 W8.4,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,1073.0,389000000.0,None,Pa,T6,10.1016/j.jallcom.2019.151685
+M1,Nb73 Mo9.2 Ti17.8,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,1073.0,207000000.0,None,Pa,T6,10.1016/j.jallcom.2019.151685
+M2,Nb70 Mo11.9 Ti18.1,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,1073.0,311000000.0,None,Pa,T6,10.1016/j.jallcom.2019.151685
+M3,Nb67.8 Mo14.1 Ti18.1,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,1073.0,329000000.0,None,Pa,T6,10.1016/j.jallcom.2019.151685
+M4,Nb34.7 Mo32.8 Ti32.5,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,1073.0,536000000.0,None,Pa,T6,10.1016/j.jallcom.2019.151685
+MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,1073.0,747000000.0,None,Pa,T6,10.1016/j.jallcom.2019.151685
+C-3009,Nb71.7 W5.9 Hf22.4,BCC,AC,None,compressive yield stress,EXP,strain rate 1e-3/s,1273.0,397000000.0,None,Pa,T6,10.1016/j.jallcom.2019.151685
+W1,Nb73.5 Ti18.1 W8.4,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,1273.0,348000000.0,None,Pa,T6,10.1016/j.jallcom.2019.151685
+M1,Nb73 Mo9.2 Ti17.8,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,1273.0,170000000.0,None,Pa,T6,10.1016/j.jallcom.2019.151685
+M2,Nb70 Mo11.9 Ti18.1,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,1273.0,250000000.0,None,Pa,T6,10.1016/j.jallcom.2019.151685
+M3,Nb67.8 Mo14.1 Ti18.1,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,1273.0,270000000.0,None,Pa,T6,10.1016/j.jallcom.2019.151685
+M4,Nb34.7 Mo32.8 Ti32.5,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,1273.0,504000000.0,None,Pa,T6,10.1016/j.jallcom.2019.151685
+MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,1273.0,635000000.0,None,Pa,T6,10.1016/j.jallcom.2019.151685
+C-3009,Nb71.7 W5.9 Hf22.4,BCC,AC,None,compressive yield stress,EXP,strain rate 1e-3/s,1473.0,388000000.0,None,Pa,T6,10.1016/j.jallcom.2019.151685
+W1,Nb73.5 Ti18.1 W8.4,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,1473.0,194000000.0,None,Pa,T6,10.1016/j.jallcom.2019.151685
+M1,Nb73 Mo9.2 Ti17.8,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,1473.0,97000000.0,None,Pa,T6,10.1016/j.jallcom.2019.151685
+M2,Nb70 Mo11.9 Ti18.1,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,1473.0,161000000.0,None,Pa,T6,10.1016/j.jallcom.2019.151685
+M3,Nb67.8 Mo14.1 Ti18.1,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,1473.0,183000000.0,None,Pa,T6,10.1016/j.jallcom.2019.151685
+M4,Nb34.7 Mo32.8 Ti32.5,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,1473.0,324000000.0,None,Pa,T6,10.1016/j.jallcom.2019.151685
+MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,compressive yield stress,EXP,strain rate 1e-3/s,1473.0,461000000.0,None,Pa,T6,10.1016/j.jallcom.2019.151685
+C-3009,Nb71.7 W5.9 Hf22.4,BCC,AC,None,minimum compressive ductility,EXP,strain rate 1e-3/s,873.0,65.0,None,%,F4,10.1016/j.jallcom.2019.151685
+W1,Nb73.5 Ti18.1 W8.4,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,873.0,70.0,None,%,F4,10.1016/j.jallcom.2019.151685
+M1,Nb73 Mo9.2 Ti17.8,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,873.0,70.0,None,%,F4,10.1016/j.jallcom.2019.151685
+M2,Nb70 Mo11.9 Ti18.1,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,873.0,70.0,None,%,F4,10.1016/j.jallcom.2019.151685
+M3,Nb67.8 Mo14.1 Ti18.1,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,873.0,70.0,None,%,F4,10.1016/j.jallcom.2019.151685
+M4,Nb34.7 Mo32.8 Ti32.5,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,873.0,65.0,None,%,F4,10.1016/j.jallcom.2019.151685
+MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,compressive ductility,EXP,strain rate 1e-3/s,873.0,30.0,None,%,F4,10.1016/j.jallcom.2019.151685
+C-3009,Nb71.7 W5.9 Hf22.4,BCC,AC,None,minimum compressive ductility,EXP,strain rate 1e-3/s,1073.0,65.0,None,%,F4,10.1016/j.jallcom.2019.151685
+W1,Nb73.5 Ti18.1 W8.4,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,1073.0,70.0,None,%,F4,10.1016/j.jallcom.2019.151685
+M1,Nb73 Mo9.2 Ti17.8,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,1073.0,70.0,None,%,F4,10.1016/j.jallcom.2019.151685
+M2,Nb70 Mo11.9 Ti18.1,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,1073.0,70.0,None,%,F4,10.1016/j.jallcom.2019.151685
+M3,Nb67.8 Mo14.1 Ti18.1,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,1073.0,70.0,None,%,F4,10.1016/j.jallcom.2019.151685
+M4,Nb34.7 Mo32.8 Ti32.5,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,1073.0,65.0,None,%,F4,10.1016/j.jallcom.2019.151685
+MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,compressive ductility,EXP,strain rate 1e-3/s,1073.0,36.0,None,%,F4,10.1016/j.jallcom.2019.151685
+C-3009,Nb71.7 W5.9 Hf22.4,BCC,AC,None,minimum compressive ductility,EXP,strain rate 1e-3/s,1273.0,65.0,None,%,F4,10.1016/j.jallcom.2019.151685
+W1,Nb73.5 Ti18.1 W8.4,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,1273.0,70.0,None,%,F4,10.1016/j.jallcom.2019.151685
+M1,Nb73 Mo9.2 Ti17.8,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,1273.0,65.0,None,%,F4,10.1016/j.jallcom.2019.151685
+M2,Nb70 Mo11.9 Ti18.1,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,1273.0,65.0,None,%,F4,10.1016/j.jallcom.2019.151685
+M3,Nb67.8 Mo14.1 Ti18.1,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,1273.0,70.0,None,%,F4,10.1016/j.jallcom.2019.151685
+M4,Nb34.7 Mo32.8 Ti32.5,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,1273.0,70.0,None,%,F4,10.1016/j.jallcom.2019.151685
+MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,compressive ductility,EXP,strain rate 1e-3/s,1273.0,21.9,None,%,F4,10.1016/j.jallcom.2019.151685
+C-3009,Nb71.7 W5.9 Hf22.4,BCC,AC,None,compressive ductility,EXP,strain rate 1e-3/s,1473.0,30.3,None,%,F4,10.1016/j.jallcom.2019.151685
+W1,Nb73.5 Ti18.1 W8.4,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,1473.0,70.0,None,%,F4,10.1016/j.jallcom.2019.151685
+M1,Nb73 Mo9.2 Ti17.8,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,1473.0,65.0,None,%,F4,10.1016/j.jallcom.2019.151685
+M2,Nb70 Mo11.9 Ti18.1,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,1473.0,65.0,None,%,F4,10.1016/j.jallcom.2019.151685
+M3,Nb67.8 Mo14.1 Ti18.1,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,1473.0,70.0,None,%,F4,10.1016/j.jallcom.2019.151685
+M4,Nb34.7 Mo32.8 Ti32.5,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,1473.0,70.0,None,%,F4,10.1016/j.jallcom.2019.151685
+MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,1473.0,70.0,None,%,F4,10.1016/j.jallcom.2019.151685
+MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,UCS,EXP,strain rate 1e-3/s,873.0,1227000000.0,None,%,F4,10.1016/j.jallcom.2019.151685
+MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,UCS,EXP,strain rate 1e-3/s,1073.0,1115000000.0,None,%,F4,10.1016/j.jallcom.2019.151685
+M4,Nb34.7 Mo32.8 Ti32.5,BCC,VAM,None,UCS,EXP,strain rate 1e-3/s,1273.0,657000000.0,None,%,F4,10.1016/j.jallcom.2019.151685
+MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,UCS,EXP,strain rate 1e-3/s,1273.0,846000000.0,None,%,F4,10.1016/j.jallcom.2019.151685
+C-3009,Nb71.7 W5.9 Hf22.4,BCC,AC,None,UCS,EXP,strain rate 1e-3/s,1473.0,433000000.0,None,%,F4,10.1016/j.jallcom.2019.151685
+M4,Nb34.7 Mo32.8 Ti32.5,BCC,VAM,None,UCS,EXP,strain rate 1e-3/s,1473.0,323000000.0,None,%,F4,10.1016/j.jallcom.2019.151685
+MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,UCS,EXP,strain rate 1e-3/s,1473.0,498000000.0,None,%,F4,10.1016/j.jallcom.2019.151685
