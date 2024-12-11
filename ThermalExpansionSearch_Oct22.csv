@@ -5,106 +5,106 @@ Hand Fetched:,T
 Comment:,HEA CTE search effort
 
 id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
-1,Fe19.4 Co19.6 Cr19.7 Ni20.0 Mn20.4 C0.83 ,FCC,AC+H+CR,homogenized at 1220*C,hardness,EXP,None,298,4275851999.9999995,None,Pa,BODY+F1,10.1007-s10854-020-04470-9
-2,Fe19.5 Co19.5 Cr20.2 Ni20.1 Mn19.6 C1.09,FCC,AC+H+CR,homogenized at 1220*C,hardness,EXP,None,298,4707360000.0,None,Pa,BODY+F1,10.1007-s10854-020-04470-9
-3,Fe19.4 Co20.1 Cr20.1 Ni19.8 Mn19.3 C1.36,FCC,AC+H+CR,homogenized at 1220*C,hardness,EXP,None,298,4903500000.0,None,Pa,BODY+F1,10.1007-s10854-020-04470-9
-4,Fe19.4 Co19.6 Cr19.7 Ni20.0 Mn20.4 C0.83 ,B2+L10+Sigma+M23C6,AC+H+CR+A,64 day anneal at 500*C, after being homogenized at 1220*C,hardness,EXP,None,298,7178724000.0,None,Pa,BODY+F1,10.1007-s10854-020-04470-9
-5,Fe19.5 Co19.5 Cr20.2 Ni20.1 Mn19.6 C1.09,B2+L10+Sigma+M23C6,AC+H+CR+A,65 day anneal at 500*C, after being homogenized at 1220*C,hardness,EXP,None,298,7257180000.0,None,Pa,BODY+F1,10.1007-s10854-020-04470-9
-6,Fe19.4 Co20.1 Cr20.1 Ni19.8 Mn19.3 C1.36,B2+L10+Sigma+M23C6,AC+H+CR+A,66 day anneal at 500*C, after being homogenized at 1220*C,hardness,EXP,None,298,7306215000.0,None,Pa,BODY+F1,10.1007-s10854-020-04470-9
-7,Fe19.4 Co19.6 Cr19.7 Ni20.0 Mn20.4 C0.83 ,FCC,AC+H+CR,homogenized at 1220*C,CTE,EXP,None,400,1.73e-05,None,K^-1,BODY+F1,10.1007-s10854-020-04470-9
-8,Fe19.5 Co19.5 Cr20.2 Ni20.1 Mn19.6 C1.09,FCC,AC+H+CR,homogenized at 1220*C,CTE,EXP,None,400,1.68e-05,None,K^-1,BODY+F1,10.1007-s10854-020-04470-9
-9,Fe19.4 Co20.1 Cr20.1 Ni19.8 Mn19.3 C1.36,FCC,AC+H+CR,homogenized at 1220*C,CTE,EXP,None,400,1.67e-05,None,K^-1,BODY+F1,10.1007-s10854-020-04470-9
-10,Fe19.4 Co19.6 Cr19.7 Ni20.0 Mn20.4 C0.83 ,B2+L10+Sigma+M23C6,AC+H+CR+A,64 day anneal at 500*C, after being homogenized at 1220*C,CTE,EXP,None,400,1.22e-05,None,K^-1,BODY+F1,10.1007-s10854-020-04470-9
-11,Fe19.5 Co19.5 Cr20.2 Ni20.1 Mn19.6 C1.09,B2+L10+Sigma+M23C6,AC+H+CR+A,65 day anneal at 500*C, after being homogenized at 1220*C,CTE,EXP,None,400,1.18e-05,None,K^-1,BODY+F1,10.1007-s10854-020-04470-9
-12,Fe19.4 Co20.1 Cr20.1 Ni19.8 Mn19.3 C1.36,B2+L10+Sigma+M23C6,AC+H+CR+A,66 day anneal at 500*C, after being homogenized at 1220*C,CTE,EXP,None,400,1.13e-05,None,K^-1,BODY+F1,10.1007-s10854-020-04470-9
-13,HfNbZr,BCC,None,SQS-like 300 sudo-randomly positioned atoms,CTE,DFT,None,300,2.08e-05,None,K^-1,T1,10.1016-j.jallcom.2016.04.320
-14,HfNbTiZr,BCC,None,SQS-like 300 sudo-randomly positioned atoms,CTE,DFT,None,300,2.23e-05,None,K^-1,T1,10.1016-j.jallcom.2016.04.320
-15,HfNbTaTiZr,BCC,None,SQS-like 300 sudo-randomly positioned atoms,CTE,DFT,None,300,2.11e-05,None,K^-1,T1,10.1016-j.jallcom.2016.04.320
-16,HfNbZr,BCC,None,SQS-like 300 sudo-randomly positioned atoms,CTE,DFT,None,1500,2.54e-05,None,K^-1,T1,10.1016-j.jallcom.2016.04.320
-17,HfNbTiZr,BCC,None,SQS-like 300 sudo-randomly positioned atoms,CTE,DFT,None,1500,2.62e-05,None,K^-1,T1,10.1016-j.jallcom.2016.04.320
-18,HfNbTaTiZr,BCC,None,SQS-like, 300 sudo-randomly positioned atoms,CTE,DFT,None,1500,2.67e-05,None,K^-1,T1,10.1016-j.jallcom.2016.04.320
-19,FeCoCrNi2Al,BCC+FCC,BM+HP+A,FCC majority, hot pressing and annealing at 1100*C,CTE,EXP,None,500,1.3e-05,None,K^-1,F6,10.1016-j.apt.2020.12.019
-20,FeCoCrNi2Al,BCC+FCC,BM+HP+A,FCC majority, hot pressing and annealing at 1100*C,CTE,EXP,None,900,1.48e-05,None,K^-1,F6,10.1016-j.apt.2020.12.019
-21,FeCoCrNi2Al,BCC+FCC,BM+HP+A,FCC majority, hot pressing and annealing at 1100*C,CTE,EXP,None,500,1.63e-05,None,K^-1,F6,10.1016-j.apt.2020.12.019
-22,Al1 FeCoNiCuCr,BCC+FCC,AC,None,CTE,EXP,None,200,1.14e-05,None,K^-1,T3,10.15407-mfint.37.07.0987
-23,Al1.5 FeCoNiCuCr,BCC+FCC+FCC,AC,None,CTE,EXP,None,200,1.18e-05,None,K^-1,T3,10.15407-mfint.37.07.0987
-24,Al1.8 FeCoNiCuCr,BCC+FCC+FCC,AC,None,CTE,EXP,None,200,1.15e-05,None,K^-1,T3,10.15407-mfint.37.07.0987
-25,Al1 FeCoNiCuCr,BCC+FCC,AC,None,CTE,EXP,None,500,1.48e-05,None,K^-1,T3,10.15407-mfint.37.07.0987
-26,Al1.5 FeCoNiCuCr,BCC+FCC+FCC,AC,None,CTE,EXP,None,500,1.45e-05,None,K^-1,T3,10.15407-mfint.37.07.0987
-27,Al1.8 FeCoNiCuCr,BCC+FCC+FCC,AC,None,CTE,EXP,None,500,1.45e-05,None,K^-1,T3,10.15407-mfint.37.07.0987
-28,NbTaTi,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,9.64e-06,None,K^-1,F9,10.1088-2515-7655-ac6f7e
-29,NbTi,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,9.35e-06,None,K^-1,F9,10.1088-2515-7655-ac6f7e
-30,MoNbTi,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,8.25e-06,None,K^-1,F9,10.1088-2515-7655-ac6f7e
-31,MoTaTi,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,7.51e-06,None,K^-1,F9,10.1088-2515-7655-ac6f7e
-32,NbTiW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,7.44e-06,None,K^-1,F9,10.1088-2515-7655-ac6f7e
-33,NbTaTiW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,7.16e-06,None,K^-1,F9,10.1088-2515-7655-ac6f7e
-34,MoNbTaTi,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,7.12e-06,None,K^-1,F9,10.1088-2515-7655-ac6f7e
-35,TaTiW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,7.04e-06,None,K^-1,F9,10.1088-2515-7655-ac6f7e
-36,NbTa,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,6.98e-06,None,K^-1,F9,10.1088-2515-7655-ac6f7e
-37,MoNbTiW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,6.91e-06,None,K^-1,F9,10.1088-2515-7655-ac6f7e
-38,MoNbTaTiW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,6.79e-06,None,K^-1,F9,10.1088-2515-7655-ac6f7e
-39,MoTaTiW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,6.67e-06,None,K^-1,F9,10.1088-2515-7655-ac6f7e
-40,MoTi,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,6.55e-06,None,K^-1,F9,10.1088-2515-7655-ac6f7e
-41,TaTi,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,6.5e-06,None,K^-1,F9,10.1088-2515-7655-ac6f7e
-42,NbTaW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,6.38e-06,None,K^-1,F9,10.1088-2515-7655-ac6f7e
-43,MoTiW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,6.38e-06,None,K^-1,F9,10.1088-2515-7655-ac6f7e
-44,MoNbTa,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,6.38e-06,None,K^-1,F9,10.1088-2515-7655-ac6f7e
-45,TiW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,6.32e-06,None,K^-1,F9,10.1088-2515-7655-ac6f7e
-46,MoNb,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,6.16e-06,None,K^-1,F9,10.1088-2515-7655-ac6f7e
-47,MoNbTaW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,6.09e-06,None,K^-1,F9,10.1088-2515-7655-ac6f7e
-48,MoTa,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,5.94e-06,None,K^-1,F9,10.1088-2515-7655-ac6f7e
-49,NbW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,5.83e-06,None,K^-1,F9,10.1088-2515-7655-ac6f7e
-50,TaW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,5.46e-06,None,K^-1,F9,10.1088-2515-7655-ac6f7e
-51,MoNbW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,5.39e-06,None,K^-1,F9,10.1088-2515-7655-ac6f7e
-52,MoW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,5.31e-06,None,K^-1,F9,10.1088-2515-7655-ac6f7e
-53,MoTaW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,5.25e-06,None,K^-1,F9,10.1088-2515-7655-ac6f7e
-54,FeCoNi,FCC,AC+A,homogenized at 1000*C for 20h, plus homogenized at 900*C for 30min, strong magnetic contribution,CTE,EXP,None,445,1.108e-05,None,K^-1,T2,10.1016-j.matchemphys.2021.124907
-55,Fe30 Co30 Ni30 Cr10,FCC,AC+A,homogenized at 1000*C for 20h, plus homogenized at 900*C for 30min, strong magnetic contribution,CTE,EXP,None,445,9.59e-06,None,K^-1,T2,10.1016-j.matchemphys.2021.124907
-56,Fe30 Co30 Ni30 Mn10,FCC,AC+A,homogenized at 1000*C for 20h, plus homogenized at 900*C for 30min, strong magnetic contribution,CTE,EXP,None,445,1.186e-05,None,K^-1,T2,10.1016-j.matchemphys.2021.124907
-57,Fe30 Co30 Ni30 Cr5 Mn5,FCC,AC+A,homogenized at 1000*C for 20h, plus homogenized at 900*C for 30min, strong magnetic contribution,CTE,EXP,None,445,1.131e-05,None,K^-1,T2,10.1016-j.matchemphys.2021.124907
-58,FeCoNi,FCC,AC+A,homogenized at 1000*C for 20h, plus homogenized at 900*C for 30min, strong magnetic contribution,CTE,EXP,None,695,1.1e-05,None,K^-1,T2,10.1016-j.matchemphys.2021.124907
-59,Fe30 Co30 Ni30 Cr10,FCC,AC+A,homogenized at 1000*C for 20h, plus homogenized at 900*C for 30min, strong magnetic contribution,CTE,EXP,None,695,1.443e-05,None,K^-1,T2,10.1016-j.matchemphys.2021.124907
-60,Fe30 Co30 Ni30 Mn10,FCC,AC+A,homogenized at 1000*C for 20h, plus homogenized at 900*C for 30min, strong magnetic contribution,CTE,EXP,None,695,1.312e-05,None,K^-1,T2,10.1016-j.matchemphys.2021.124907
-61,Fe30 Co30 Ni30 Cr5 Mn5,FCC,AC+A,homogenized at 1000*C for 20h, plus homogenized at 900*C for 30min, strong magnetic contribution,CTE,EXP,None,695,1.317e-05,None,K^-1,T2,10.1016-j.matchemphys.2021.124907
-62,FeCoNi,FCC,AC+A,homogenized at 1000*C for 20h, plus homogenized at 900*C for 30min, strong magnetic contribution,CTE,EXP,None,1125,1.708e-05,None,K^-1,T2,10.1016-j.matchemphys.2021.124907
-63,Fe30 Co30 Ni30 Cr10,FCC,AC+A,homogenized at 1000*C for 20h, plus homogenized at 900*C for 30min, strong magnetic contribution,CTE,EXP,None,1125,1.934e-05,None,K^-1,T2,10.1016-j.matchemphys.2021.124907
-64,Fe30 Co30 Ni30 Mn10,FCC,AC+A,homogenized at 1000*C for 20h, plus homogenized at 900*C for 30min, strong magnetic contribution,CTE,EXP,None,1125,2.024e-05,None,K^-1,T2,10.1016-j.matchemphys.2021.124907
-65,Fe30 Co30 Ni30 Cr5 Mn5,FCC,AC+A,homogenized at 1000*C for 20h, plus homogenized at 900*C for 30min, strong magnetic contribution,CTE,EXP,None,1125,2.034e-05,None,K^-1,T2,10.1016-j.matchemphys.2021.124907
-66,CrFeCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,300,1.468e-05,None,K^-1,F6,10.1016-j.jallcom.2018.02.251
-67,CrCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,300,1.312e-05,None,K^-1,F6,10.1016-j.jallcom.2018.02.251
-68,CrFeNi,FCC+BCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,300,1.445e-05,None,K^-1,F6,10.1016-j.jallcom.2018.02.251
-69,FeCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,300,1.195e-05,None,K^-1,F6,10.1016-j.jallcom.2018.02.251
-70,CoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,300,1.289e-05,None,K^-1,F6,10.1016-j.jallcom.2018.02.251
-71,MnCoNi,FCC,IM+AC+A,homogenized at 1100*C for 48h, large induction melting ingot,CTE,EXP,None,300,1.746e-05,None,K^-1,F6,10.1016-j.jallcom.2018.02.251
-72,MnFeNi,FCC,IM+AC+A,homogenized at 1100*C for 48h, large induction melting ingot,CTE,EXP,None,300,1.871e-05,None,K^-1,F6,10.1016-j.jallcom.2018.02.251
-73,CrFeCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,500,1.653e-05,None,K^-1,F6,10.1016-j.jallcom.2018.02.251
-74,CrCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,500,1.522e-05,None,K^-1,F6,10.1016-j.jallcom.2018.02.251
-75,CrFeNi,FCC+BCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,500,1.595e-05,None,K^-1,F6,10.1016-j.jallcom.2018.02.251
-76,FeCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,500,1.55e-05,None,K^-1,F6,10.1016-j.jallcom.2018.02.251
-77,CoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,500,1.426e-05,None,K^-1,F6,10.1016-j.jallcom.2018.02.251
-78,MnCoNi,FCC,IM+AC+A,homogenized at 1100*C for 48h, large induction melting ingot,CTE,EXP,None,500,2.035e-05,None,K^-1,F6,10.1016-j.jallcom.2018.02.251
-79,MnFeNi,FCC,IM+AC+A,homogenized at 1100*C for 48h, large induction melting ingot,CTE,EXP,None,500,2.185e-05,None,K^-1,F6,10.1016-j.jallcom.2018.02.251
-80,CrFeCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,670,1.703e-05,None,K^-1,F6,10.1016-j.jallcom.2018.02.251
-81,CrCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,670,1.593e-05,None,K^-1,F6,10.1016-j.jallcom.2018.02.251
-82,CrFeNi,FCC+BCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,670,1.685e-05,None,K^-1,F6,10.1016-j.jallcom.2018.02.251
-83,FeCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,670,1.263e-05,None,K^-1,F6,10.1016-j.jallcom.2018.02.251
-84,CoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,670,1.532e-05,None,K^-1,F6,10.1016-j.jallcom.2018.02.251
-85,MnCoNi,FCC,IM+AC+A,homogenized at 1100*C for 48h, large induction melting ingot,CTE,EXP,None,670,2.137e-05,None,K^-1,F6,10.1016-j.jallcom.2018.02.251
-86,MnFeNi,FCC,IM+AC+A,homogenized at 1100*C for 48h, large induction melting ingot,CTE,EXP,None,670,2.285e-05,None,K^-1,F6,10.1016-j.jallcom.2018.02.251
-87,CrFeCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,youngs modulus,EXP,None,298,214000000000.0,None,Pa,T3,10.1016-j.jallcom.2018.02.251
-88,CrCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,youngs modulus,EXP,None,298,235000000000.0,None,Pa,T3,10.1016-j.jallcom.2018.02.251
-89,CrFeNi,FCC+BCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,youngs modulus,EXP,None,298,190000000000.0,None,Pa,T3,10.1016-j.jallcom.2018.02.251
-90,FeCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,youngs modulus,EXP,None,298,175000000000.0,None,Pa,T3,10.1016-j.jallcom.2018.02.251
-91,CoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,youngs modulus,EXP,None,298,216000000000.0,None,Pa,T3,10.1016-j.jallcom.2018.02.251
-92,MnCoNi,FCC,IM+AC+A,homogenized at 1100*C for 48h, large induction melting ingot,youngs modulus,EXP,None,298,191000000000.0,None,Pa,T3,10.1016-j.jallcom.2018.02.251
-93,MnFeNi,FCC,IM+AC+A,homogenized at 1100*C for 48h, large induction melting ingot,youngs modulus,EXP,None,298,177000000000.0,None,Pa,T3,10.1016-j.jallcom.2018.02.251
-94,CrFeCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,B/G ratio,EXP,None,298,1.65,None,None,T3,10.1016-j.jallcom.2018.02.251
-95,CrCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,B/G ratio,EXP,None,298,2.31,None,None,T3,10.1016-j.jallcom.2018.02.251
-96,CrFeNi,FCC+BCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,B/G ratio,EXP,None,298,1.32,None,None,T3,10.1016-j.jallcom.2018.02.251
-97,FeCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,B/G ratio,EXP,None,298,2.0,None,None,T3,10.1016-j.jallcom.2018.02.251
-98,CoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,B/G ratio,EXP,None,298,7.03,None,None,T3,10.1016-j.jallcom.2018.02.251
-99,MnCoNi,FCC,IM+AC+A,homogenized at 1100*C for 48h, large induction melting ingot,B/G ratio,EXP,None,298,1.37,None,None,T3,10.1016-j.jallcom.2018.02.251
-100,MnFeNi,FCC,IM+AC+A,homogenized at 1100*C for 48h, large induction melting ingot,B/G ratio,EXP,None,298,1.1,None,None,T3,10.1016-j.jallcom.2018.02.251
+1,Fe19.4 Co19.6 Cr19.7 Ni20.0 Mn20.4 C0.83 ,FCC,AC+H+CR,homogenized at 1220*C,hardness,EXP,None,298,4275851999.9999995,None,Pa,BODY+F1,10.1007/s10854-020-04470-9
+2,Fe19.5 Co19.5 Cr20.2 Ni20.1 Mn19.6 C1.09,FCC,AC+H+CR,homogenized at 1220*C,hardness,EXP,None,298,4707360000.0,None,Pa,BODY+F1,10.1007/s10854-020-04470-9
+3,Fe19.4 Co20.1 Cr20.1 Ni19.8 Mn19.3 C1.36,FCC,AC+H+CR,homogenized at 1220*C,hardness,EXP,None,298,4903500000.0,None,Pa,BODY+F1,10.1007/s10854-020-04470-9
+4,Fe19.4 Co19.6 Cr19.7 Ni20.0 Mn20.4 C0.83 ,B2+L10+Sigma+M23C6,AC+H+CR+A,64 day anneal at 500*C, after being homogenized at 1220*C,hardness,EXP,None,298,7178724000.0,None,Pa,BODY+F1,10.1007/s10854-020-04470-9
+5,Fe19.5 Co19.5 Cr20.2 Ni20.1 Mn19.6 C1.09,B2+L10+Sigma+M23C6,AC+H+CR+A,65 day anneal at 500*C, after being homogenized at 1220*C,hardness,EXP,None,298,7257180000.0,None,Pa,BODY+F1,10.1007/s10854-020-04470-9
+6,Fe19.4 Co20.1 Cr20.1 Ni19.8 Mn19.3 C1.36,B2+L10+Sigma+M23C6,AC+H+CR+A,66 day anneal at 500*C, after being homogenized at 1220*C,hardness,EXP,None,298,7306215000.0,None,Pa,BODY+F1,10.1007/s10854-020-04470-9
+7,Fe19.4 Co19.6 Cr19.7 Ni20.0 Mn20.4 C0.83 ,FCC,AC+H+CR,homogenized at 1220*C,CTE,EXP,None,400,1.73e-05,None,K^-1,BODY+F1,10.1007/s10854-020-04470-9
+8,Fe19.5 Co19.5 Cr20.2 Ni20.1 Mn19.6 C1.09,FCC,AC+H+CR,homogenized at 1220*C,CTE,EXP,None,400,1.68e-05,None,K^-1,BODY+F1,10.1007/s10854-020-04470-9
+9,Fe19.4 Co20.1 Cr20.1 Ni19.8 Mn19.3 C1.36,FCC,AC+H+CR,homogenized at 1220*C,CTE,EXP,None,400,1.67e-05,None,K^-1,BODY+F1,10.1007/s10854-020-04470-9
+10,Fe19.4 Co19.6 Cr19.7 Ni20.0 Mn20.4 C0.83 ,B2+L10+Sigma+M23C6,AC+H+CR+A,64 day anneal at 500*C, after being homogenized at 1220*C,CTE,EXP,None,400,1.22e-05,None,K^-1,BODY+F1,10.1007/s10854-020-04470-9
+11,Fe19.5 Co19.5 Cr20.2 Ni20.1 Mn19.6 C1.09,B2+L10+Sigma+M23C6,AC+H+CR+A,65 day anneal at 500*C, after being homogenized at 1220*C,CTE,EXP,None,400,1.18e-05,None,K^-1,BODY+F1,10.1007/s10854-020-04470-9
+12,Fe19.4 Co20.1 Cr20.1 Ni19.8 Mn19.3 C1.36,B2+L10+Sigma+M23C6,AC+H+CR+A,66 day anneal at 500*C, after being homogenized at 1220*C,CTE,EXP,None,400,1.13e-05,None,K^-1,BODY+F1,10.1007/s10854-020-04470-9
+13,HfNbZr,BCC,None,SQS-like 300 sudo-randomly positioned atoms,CTE,DFT,None,300,2.08e-05,None,K^-1,T1,10.1016/j.jallcom.2016.04.320
+14,HfNbTiZr,BCC,None,SQS-like 300 sudo-randomly positioned atoms,CTE,DFT,None,300,2.23e-05,None,K^-1,T1,10.1016/j.jallcom.2016.04.320
+15,HfNbTaTiZr,BCC,None,SQS-like 300 sudo-randomly positioned atoms,CTE,DFT,None,300,2.11e-05,None,K^-1,T1,10.1016/j.jallcom.2016.04.320
+16,HfNbZr,BCC,None,SQS-like 300 sudo-randomly positioned atoms,CTE,DFT,None,1500,2.54e-05,None,K^-1,T1,10.1016/j.jallcom.2016.04.320
+17,HfNbTiZr,BCC,None,SQS-like 300 sudo-randomly positioned atoms,CTE,DFT,None,1500,2.62e-05,None,K^-1,T1,10.1016/j.jallcom.2016.04.320
+18,HfNbTaTiZr,BCC,None,SQS-like, 300 sudo-randomly positioned atoms,CTE,DFT,None,1500,2.67e-05,None,K^-1,T1,10.1016/j.jallcom.2016.04.320
+19,FeCoCrNi2Al,BCC+FCC,BM+HP+A,FCC majority, hot pressing and annealing at 1100*C,CTE,EXP,None,500,1.3e-05,None,K^-1,F6,10.1016/j.apt.2020.12.019
+20,FeCoCrNi2Al,BCC+FCC,BM+HP+A,FCC majority, hot pressing and annealing at 1100*C,CTE,EXP,None,900,1.48e-05,None,K^-1,F6,10.1016/j.apt.2020.12.019
+21,FeCoCrNi2Al,BCC+FCC,BM+HP+A,FCC majority, hot pressing and annealing at 1100*C,CTE,EXP,None,500,1.63e-05,None,K^-1,F6,10.1016/j.apt.2020.12.019
+22,Al1 FeCoNiCuCr,BCC+FCC,AC,None,CTE,EXP,None,200,1.14e-05,None,K^-1,T3,10.15407/mfint.37.07.0987
+23,Al1.5 FeCoNiCuCr,BCC+FCC+FCC,AC,None,CTE,EXP,None,200,1.18e-05,None,K^-1,T3,10.15407/mfint.37.07.0987
+24,Al1.8 FeCoNiCuCr,BCC+FCC+FCC,AC,None,CTE,EXP,None,200,1.15e-05,None,K^-1,T3,10.15407/mfint.37.07.0987
+25,Al1 FeCoNiCuCr,BCC+FCC,AC,None,CTE,EXP,None,500,1.48e-05,None,K^-1,T3,10.15407/mfint.37.07.0987
+26,Al1.5 FeCoNiCuCr,BCC+FCC+FCC,AC,None,CTE,EXP,None,500,1.45e-05,None,K^-1,T3,10.15407/mfint.37.07.0987
+27,Al1.8 FeCoNiCuCr,BCC+FCC+FCC,AC,None,CTE,EXP,None,500,1.45e-05,None,K^-1,T3,10.15407/mfint.37.07.0987
+28,NbTaTi,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,9.64e-06,None,K^-1,F9,10.1088/2515-7655-ac6f7e
+29,NbTi,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,9.35e-06,None,K^-1,F9,10.1088/2515-7655-ac6f7e
+30,MoNbTi,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,8.25e-06,None,K^-1,F9,10.1088/2515-7655-ac6f7e
+31,MoTaTi,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,7.51e-06,None,K^-1,F9,10.1088/2515-7655-ac6f7e
+32,NbTiW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,7.44e-06,None,K^-1,F9,10.1088/2515-7655-ac6f7e
+33,NbTaTiW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,7.16e-06,None,K^-1,F9,10.1088/2515-7655-ac6f7e
+34,MoNbTaTi,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,7.12e-06,None,K^-1,F9,10.1088/2515-7655-ac6f7e
+35,TaTiW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,7.04e-06,None,K^-1,F9,10.1088/2515-7655-ac6f7e
+36,NbTa,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,6.98e-06,None,K^-1,F9,10.1088/2515-7655-ac6f7e
+37,MoNbTiW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,6.91e-06,None,K^-1,F9,10.1088/2515-7655-ac6f7e
+38,MoNbTaTiW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,6.79e-06,None,K^-1,F9,10.1088/2515-7655-ac6f7e
+39,MoTaTiW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,6.67e-06,None,K^-1,F9,10.1088/2515-7655-ac6f7e
+40,MoTi,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,6.55e-06,None,K^-1,F9,10.1088/2515-7655-ac6f7e
+41,TaTi,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,6.5e-06,None,K^-1,F9,10.1088/2515-7655-ac6f7e
+42,NbTaW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,6.38e-06,None,K^-1,F9,10.1088/2515-7655-ac6f7e
+43,MoTiW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,6.38e-06,None,K^-1,F9,10.1088/2515-7655-ac6f7e
+44,MoNbTa,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,6.38e-06,None,K^-1,F9,10.1088/2515-7655-ac6f7e
+45,TiW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,6.32e-06,None,K^-1,F9,10.1088/2515-7655-ac6f7e
+46,MoNb,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,6.16e-06,None,K^-1,F9,10.1088/2515-7655-ac6f7e
+47,MoNbTaW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,6.09e-06,None,K^-1,F9,10.1088/2515-7655-ac6f7e
+48,MoTa,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,5.94e-06,None,K^-1,F9,10.1088/2515-7655-ac6f7e
+49,NbW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,5.83e-06,None,K^-1,F9,10.1088/2515-7655-ac6f7e
+50,TaW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,5.46e-06,None,K^-1,F9,10.1088/2515-7655-ac6f7e
+51,MoNbW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,5.39e-06,None,K^-1,F9,10.1088/2515-7655-ac6f7e
+52,MoW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,5.31e-06,None,K^-1,F9,10.1088/2515-7655-ac6f7e
+53,MoTaW,BCC,None,54-atom MCSQS, SQS-like,CTE,DFT,None,300,5.25e-06,None,K^-1,F9,10.1088/2515-7655-ac6f7e
+54,FeCoNi,FCC,AC+A,homogenized at 1000*C for 20h, plus homogenized at 900*C for 30min, strong magnetic contribution,CTE,EXP,None,445,1.108e-05,None,K^-1,T2,10.1016/j.matchemphys.2021.124907
+55,Fe30 Co30 Ni30 Cr10,FCC,AC+A,homogenized at 1000*C for 20h, plus homogenized at 900*C for 30min, strong magnetic contribution,CTE,EXP,None,445,9.59e-06,None,K^-1,T2,10.1016/j.matchemphys.2021.124907
+56,Fe30 Co30 Ni30 Mn10,FCC,AC+A,homogenized at 1000*C for 20h, plus homogenized at 900*C for 30min, strong magnetic contribution,CTE,EXP,None,445,1.186e-05,None,K^-1,T2,10.1016/j.matchemphys.2021.124907
+57,Fe30 Co30 Ni30 Cr5 Mn5,FCC,AC+A,homogenized at 1000*C for 20h, plus homogenized at 900*C for 30min, strong magnetic contribution,CTE,EXP,None,445,1.131e-05,None,K^-1,T2,10.1016/j.matchemphys.2021.124907
+58,FeCoNi,FCC,AC+A,homogenized at 1000*C for 20h, plus homogenized at 900*C for 30min, strong magnetic contribution,CTE,EXP,None,695,1.1e-05,None,K^-1,T2,10.1016/j.matchemphys.2021.124907
+59,Fe30 Co30 Ni30 Cr10,FCC,AC+A,homogenized at 1000*C for 20h, plus homogenized at 900*C for 30min, strong magnetic contribution,CTE,EXP,None,695,1.443e-05,None,K^-1,T2,10.1016/j.matchemphys.2021.124907
+60,Fe30 Co30 Ni30 Mn10,FCC,AC+A,homogenized at 1000*C for 20h, plus homogenized at 900*C for 30min, strong magnetic contribution,CTE,EXP,None,695,1.312e-05,None,K^-1,T2,10.1016/j.matchemphys.2021.124907
+61,Fe30 Co30 Ni30 Cr5 Mn5,FCC,AC+A,homogenized at 1000*C for 20h, plus homogenized at 900*C for 30min, strong magnetic contribution,CTE,EXP,None,695,1.317e-05,None,K^-1,T2,10.1016/j.matchemphys.2021.124907
+62,FeCoNi,FCC,AC+A,homogenized at 1000*C for 20h, plus homogenized at 900*C for 30min, strong magnetic contribution,CTE,EXP,None,1125,1.708e-05,None,K^-1,T2,10.1016/j.matchemphys.2021.124907
+63,Fe30 Co30 Ni30 Cr10,FCC,AC+A,homogenized at 1000*C for 20h, plus homogenized at 900*C for 30min, strong magnetic contribution,CTE,EXP,None,1125,1.934e-05,None,K^-1,T2,10.1016/j.matchemphys.2021.124907
+64,Fe30 Co30 Ni30 Mn10,FCC,AC+A,homogenized at 1000*C for 20h, plus homogenized at 900*C for 30min, strong magnetic contribution,CTE,EXP,None,1125,2.024e-05,None,K^-1,T2,10.1016/j.matchemphys.2021.124907
+65,Fe30 Co30 Ni30 Cr5 Mn5,FCC,AC+A,homogenized at 1000*C for 20h, plus homogenized at 900*C for 30min, strong magnetic contribution,CTE,EXP,None,1125,2.034e-05,None,K^-1,T2,10.1016/j.matchemphys.2021.124907
+66,CrFeCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,300,1.468e-05,None,K^-1,F6,10.1016/j.jallcom.2018.02.251
+67,CrCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,300,1.312e-05,None,K^-1,F6,10.1016/j.jallcom.2018.02.251
+68,CrFeNi,FCC+BCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,300,1.445e-05,None,K^-1,F6,10.1016/j.jallcom.2018.02.251
+69,FeCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,300,1.195e-05,None,K^-1,F6,10.1016/j.jallcom.2018.02.251
+70,CoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,300,1.289e-05,None,K^-1,F6,10.1016/j.jallcom.2018.02.251
+71,MnCoNi,FCC,IM+AC+A,homogenized at 1100*C for 48h, large induction melting ingot,CTE,EXP,None,300,1.746e-05,None,K^-1,F6,10.1016/j.jallcom.2018.02.251
+72,MnFeNi,FCC,IM+AC+A,homogenized at 1100*C for 48h, large induction melting ingot,CTE,EXP,None,300,1.871e-05,None,K^-1,F6,10.1016/j.jallcom.2018.02.251
+73,CrFeCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,500,1.653e-05,None,K^-1,F6,10.1016/j.jallcom.2018.02.251
+74,CrCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,500,1.522e-05,None,K^-1,F6,10.1016/j.jallcom.2018.02.251
+75,CrFeNi,FCC+BCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,500,1.595e-05,None,K^-1,F6,10.1016/j.jallcom.2018.02.251
+76,FeCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,500,1.55e-05,None,K^-1,F6,10.1016/j.jallcom.2018.02.251
+77,CoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,500,1.426e-05,None,K^-1,F6,10.1016/j.jallcom.2018.02.251
+78,MnCoNi,FCC,IM+AC+A,homogenized at 1100*C for 48h, large induction melting ingot,CTE,EXP,None,500,2.035e-05,None,K^-1,F6,10.1016/j.jallcom.2018.02.251
+79,MnFeNi,FCC,IM+AC+A,homogenized at 1100*C for 48h, large induction melting ingot,CTE,EXP,None,500,2.185e-05,None,K^-1,F6,10.1016/j.jallcom.2018.02.251
+80,CrFeCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,670,1.703e-05,None,K^-1,F6,10.1016/j.jallcom.2018.02.251
+81,CrCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,670,1.593e-05,None,K^-1,F6,10.1016/j.jallcom.2018.02.251
+82,CrFeNi,FCC+BCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,670,1.685e-05,None,K^-1,F6,10.1016/j.jallcom.2018.02.251
+83,FeCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,670,1.263e-05,None,K^-1,F6,10.1016/j.jallcom.2018.02.251
+84,CoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,CTE,EXP,None,670,1.532e-05,None,K^-1,F6,10.1016/j.jallcom.2018.02.251
+85,MnCoNi,FCC,IM+AC+A,homogenized at 1100*C for 48h, large induction melting ingot,CTE,EXP,None,670,2.137e-05,None,K^-1,F6,10.1016/j.jallcom.2018.02.251
+86,MnFeNi,FCC,IM+AC+A,homogenized at 1100*C for 48h, large induction melting ingot,CTE,EXP,None,670,2.285e-05,None,K^-1,F6,10.1016/j.jallcom.2018.02.251
+87,CrFeCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,youngs modulus,EXP,None,298,214000000000.0,None,Pa,T3,10.1016/j.jallcom.2018.02.251
+88,CrCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,youngs modulus,EXP,None,298,235000000000.0,None,Pa,T3,10.1016/j.jallcom.2018.02.251
+89,CrFeNi,FCC+BCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,youngs modulus,EXP,None,298,190000000000.0,None,Pa,T3,10.1016/j.jallcom.2018.02.251
+90,FeCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,youngs modulus,EXP,None,298,175000000000.0,None,Pa,T3,10.1016/j.jallcom.2018.02.251
+91,CoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,youngs modulus,EXP,None,298,216000000000.0,None,Pa,T3,10.1016/j.jallcom.2018.02.251
+92,MnCoNi,FCC,IM+AC+A,homogenized at 1100*C for 48h, large induction melting ingot,youngs modulus,EXP,None,298,191000000000.0,None,Pa,T3,10.1016/j.jallcom.2018.02.251
+93,MnFeNi,FCC,IM+AC+A,homogenized at 1100*C for 48h, large induction melting ingot,youngs modulus,EXP,None,298,177000000000.0,None,Pa,T3,10.1016/j.jallcom.2018.02.251
+94,CrFeCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,B/G ratio,EXP,None,298,1.65,None,None,T3,10.1016/j.jallcom.2018.02.251
+95,CrCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,B/G ratio,EXP,None,298,2.31,None,None,T3,10.1016/j.jallcom.2018.02.251
+96,CrFeNi,FCC+BCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,B/G ratio,EXP,None,298,1.32,None,None,T3,10.1016/j.jallcom.2018.02.251
+97,FeCoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,B/G ratio,EXP,None,298,2.0,None,None,T3,10.1016/j.jallcom.2018.02.251
+98,CoNi,FCC,IM+AC+A,homogenized at 1200*C for 48h, large induction melting ingot,B/G ratio,EXP,None,298,7.03,None,None,T3,10.1016/j.jallcom.2018.02.251
+99,MnCoNi,FCC,IM+AC+A,homogenized at 1100*C for 48h, large induction melting ingot,B/G ratio,EXP,None,298,1.37,None,None,T3,10.1016/j.jallcom.2018.02.251
+100,MnFeNi,FCC,IM+AC+A,homogenized at 1100*C for 48h, large induction melting ingot,B/G ratio,EXP,None,298,1.1,None,None,T3,10.1016/j.jallcom.2018.02.251
 101,CoCrFeNi,FCC,AC+A,homogenized at 1100*C for 24h,CTE,EXP,None,298,1.125e-05,None,K^-1,T1+T4,10.1016/j.mseb.2009.05.024
 102,Al0.25 CoCrFeNi,FCC,AC+A,homogenized at 1100*C for 24h,CTE,EXP,None,298,9.74e-06,None,K^-1,T1+T4,10.1016/j.mseb.2009.05.024
 103,Al0.375 CoCrFeNi,FCC,AC+A,homogenized at 1100*C for 24h,CTE,EXP,None,298,9.01e-06,None,K^-1,T1+T4,10.1016/j.mseb.2009.05.024

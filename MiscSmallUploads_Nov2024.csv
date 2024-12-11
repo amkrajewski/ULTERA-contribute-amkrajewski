@@ -64,8 +64,8 @@ Al29,Al29.6 Ni32.5 Co26.3 Cr10.4 Si1.2,FCC+BCC,AM,twin-wire and arc additive man
 Al0,Ni48.1 Co37.0 Cr13.6 Si1.4,FCC,AM,twin-wire and arc additive manufacturing (T-WAAM) system with Cold metal transfer (CMT),tensile ductility,EXP,strain rate 1e-3/s,298.0,36.0,2.3,%,T4,10.1007/s10853-024-09968-9
 Al19,Al19.2 Ni36.9 Co30.2 Cr12.3 Si1.5,FCC+BCC,AM,twin-wire and arc additive manufacturing (T-WAAM) system with Cold metal transfer (CMT); majority FCC,tensile ductility,EXP,strain rate 1e-3/s,298.0,18.3,1.6,%,T4,10.1007/s10853-024-09968-9
 Al29,Al29.6 Ni32.5 Co26.3 Cr10.4 Si1.2,FCC+BCC,AM,twin-wire and arc additive manufacturing (T-WAAM) system with Cold metal transfer (CMT); majority FCC,tensile ductility,EXP,strain rate 1e-3/s,298.0,6.3,0.7,%,T4,10.1007/s10853-024-09968-9
-None,Fe40Mn14Ni10Cr10Al15C1,BCC,BM,ball milling for 40h until no elemental peaks were detected; 8nm crystalltie size with significant lattice strain,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2020.155013
-None,Fe40Mn14Ni10Cr10Al15C1,FCC+B2+carbide+silicide,BM+SPS,ball milling for 40h until no elemental peaks were detected; SPS at 1273K under 50MPa,hardness,EXP,None,298.0,5844972000.0,None,Pa,None,10.1016/j.jallcom.2020.155013
+None,Fe40Mn14Ni10Cr10Al15Si10C1,BCC,BM,ball milling for 40h until no elemental peaks were detected; 8nm crystalltie size with significant lattice strain,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2020.155013
+None,Fe40Mn14Ni10Cr10Al15Si10C1,FCC+B2+carbide+silicide,BM+SPS,ball milling for 40h until no elemental peaks were detected; SPS at 1273K under 50MPa,hardness,EXP,None,298.0,5844972000.0,None,Pa,None,10.1016/j.jallcom.2020.155013
 None,Fe2 Cr Ni Si0.3 Al0.28,BCC+FCC,AAM,BCC majority,tensile yield stress,EXP,None,298.0,633000000.0,49000000.0,Pa,None,10.1016/j.matlet.2023.134447
 None,Fe2 Cr Ni Si0.3 Al0.28,BCC+FCC,AAM,BCC majority,UTS,EXP,None,298.0,1259000000.0,42000000.0,Pa,None,10.1016/j.matlet.2023.134447
 None,Fe2 Cr Ni Si0.3 Al0.28,BCC+FCC,AAM,BCC majority,tensile ductility,EXP,None,298.0,9.32,0.18,%,None,10.1016/j.matlet.2023.134447
@@ -470,3 +470,323 @@ MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,UCS,EXP,strain rate 1e-3/s,1273.0,84
 C-3009,Nb71.7 W5.9 Hf22.4,BCC,AC,None,UCS,EXP,strain rate 1e-3/s,1473.0,433000000.0,None,%,F4,10.1016/j.jallcom.2019.151685
 M4,Nb34.7 Mo32.8 Ti32.5,BCC,VAM,None,UCS,EXP,strain rate 1e-3/s,1473.0,323000000.0,None,%,F4,10.1016/j.jallcom.2019.151685
 MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,UCS,EXP,strain rate 1e-3/s,1473.0,498000000.0,None,%,F4,10.1016/j.jallcom.2019.151685
+Ti35/Base,Ti35Zr30V10Nb25,BCC,AAM,None,hardness,EXP,None,298.0,2500785000.0,9807000.0,Pa,S,10.1016/j.scriptamat.2024.116488
+O1,(Ti35Zr30V10Nb25)0.99 O1,BCC,AAM,oxygen introduced through TiO2,hardness,EXP,None,298.0,3148047000.0,39228000.0,Pa,S,10.1016/j.scriptamat.2024.116488
+O2,(Ti35Zr30V10Nb25)0.98 O2,BCC,AAM,oxygen introduced through TiO2,hardness,EXP,None,298.0,3687432000.0,58842000.0,Pa,S,10.1016/j.scriptamat.2024.116488
+O3,(Ti35Zr30V10Nb25)0.97 O3,BCC,AAM,oxygen introduced through TiO2,hardness,EXP,None,298.0,4158168000.0,29421000.0,Pa,S,10.1016/j.scriptamat.2024.116488
+N1,(Ti35Zr30V10Nb25)0.99 N1,BCC,AAM,nitrogen introduced through TiN,hardness,EXP,None,298.0,3667818000.0,88263000.0,Pa,S,10.1016/j.scriptamat.2024.116488
+N2,(Ti35Zr30V10Nb25)0.98 N2,BCC,AAM,nitrogen introduced through TiN,hardness,EXP,None,298.0,4118940000.0,39228000.0,Pa,S,10.1016/j.scriptamat.2024.116488
+N3,(Ti35Zr30V10Nb25)0.97 N3,BCC,AAM,nitrogen introduced through TiN,hardness,EXP,None,298.0,4452378000.0,49035000.0,Pa,S,10.1016/j.scriptamat.2024.116488
+Ti35/Base,Ti35Zr30V10Nb25,BCC,AAM,None,tensile yield stress,EXP,strain rate 1e-3/s,298.0,805000000.0,None,Pa,F1,10.1016/j.scriptamat.2024.116488
+O1,(Ti35Zr30V10Nb25)0.99 O1,BCC,AAM,oxygen introduced through TiO2,tensile yield stress,EXP,strain rate 1e-3/s,298.0,963000000.0,None,Pa,F1,10.1016/j.scriptamat.2024.116488
+O1.5,(Ti35Zr30V10Nb25)0.985 O1.5,BCC,AAM,oxygen introduced through TiO2,tensile yield stress,EXP,strain rate 1e-3/s,298.0,1065000000.0,None,Pa,F1,10.1016/j.scriptamat.2024.116488
+O2,(Ti35Zr30V10Nb25)0.98 O2,BCC,AAM,oxygen introduced through TiO2,tensile yield stress,EXP,strain rate 1e-3/s,298.0,1190000000.0,None,Pa,F1,10.1016/j.scriptamat.2024.116488
+O3,(Ti35Zr30V10Nb25)0.97 O3,BCC,AAM,oxygen introduced through TiO2,tensile yield stress,EXP,strain rate 1e-3/s,298.0,953000000.0,None,Pa,F1,10.1016/j.scriptamat.2024.116488
+N1,(Ti35Zr30V10Nb25)0.99 N1,BCC,AAM,nitrogen introduced through TiN,tensile yield stress,EXP,strain rate 1e-3/s,298.0,970000000.0,None,Pa,F1,10.1016/j.scriptamat.2024.116488
+N1.5,(Ti35Zr30V10Nb25)0.985 N1.5,BCC,AAM,nitrogen introduced through TiN,tensile yield stress,EXP,strain rate 1e-3/s,298.0,1120000000.0,None,Pa,F1,10.1016/j.scriptamat.2024.116488
+N2,(Ti35Zr30V10Nb25)0.98 N2,BCC,AAM,nitrogen introduced through TiN,tensile yield stress,EXP,strain rate 1e-3/s,298.0,796000000.0,None,Pa,F1,10.1016/j.scriptamat.2024.116488
+Ti35/Base,Ti35Zr30V10Nb25,BCC,AAM,None,UTS,EXP,strain rate 1e-3/s,298.0,853000000.0,None,Pa,F1,10.1016/j.scriptamat.2024.116488
+O1,(Ti35Zr30V10Nb25)0.99 O1,BCC,AAM,oxygen introduced through TiO2,UTS,EXP,strain rate 1e-3/s,298.0,982000000.0,None,Pa,F1,10.1016/j.scriptamat.2024.116488
+O1.5,(Ti35Zr30V10Nb25)0.985 O1.5,BCC,AAM,oxygen introduced through TiO2,UTS,EXP,strain rate 1e-3/s,298.0,1076000000.0,None,Pa,F1,10.1016/j.scriptamat.2024.116488
+O2,(Ti35Zr30V10Nb25)0.98 O2,BCC,AAM,oxygen introduced through TiO2,UTS,EXP,strain rate 1e-3/s,298.0,1199000000.0,None,Pa,F1,10.1016/j.scriptamat.2024.116488
+O3,(Ti35Zr30V10Nb25)0.97 O3,BCC,AAM,oxygen introduced through TiO2,UTS,EXP,strain rate 1e-3/s,298.0,953000000.0,None,Pa,F1,10.1016/j.scriptamat.2024.116488
+N1,(Ti35Zr30V10Nb25)0.99 N1,BCC,AAM,nitrogen introduced through TiN,UTS,EXP,strain rate 1e-3/s,298.0,1112000000.0,None,Pa,F1,10.1016/j.scriptamat.2024.116488
+N1.5,(Ti35Zr30V10Nb25)0.985 N1.5,BCC,AAM,nitrogen introduced through TiN,UTS,EXP,strain rate 1e-3/s,298.0,1179000000.0,None,Pa,F1,10.1016/j.scriptamat.2024.116488
+Ti35/Base,Ti35Zr30V10Nb25,BCC,AAM,None,tensile ductility,EXP,strain rate 1e-3/s,298.0,25.1,None,%,F1,10.1016/j.scriptamat.2024.116488
+O1,(Ti35Zr30V10Nb25)0.99 O1,BCC,AAM,oxygen introduced through TiO2,tensile ductility,EXP,strain rate 1e-3/s,298.0,28.2,None,%,F1,10.1016/j.scriptamat.2024.116488
+O1.5,(Ti35Zr30V10Nb25)0.985 O1.5,BCC,AAM,oxygen introduced through TiO2,tensile ductility,EXP,strain rate 1e-3/s,298.0,20.9,None,%,F1,10.1016/j.scriptamat.2024.116488
+O2,(Ti35Zr30V10Nb25)0.98 O2,BCC,AAM,oxygen introduced through TiO2,tensile ductility,EXP,strain rate 1e-3/s,298.0,17.6,None,%,F1,10.1016/j.scriptamat.2024.116488
+O3,(Ti35Zr30V10Nb25)0.97 O3,BCC,AAM,oxygen introduced through TiO2,tensile ductility,EXP,strain rate 1e-3/s,298.0,0.76,None,%,F1,10.1016/j.scriptamat.2024.116488
+N1,(Ti35Zr30V10Nb25)0.99 N1,BCC,AAM,nitrogen introduced through TiN,tensile ductility,EXP,strain rate 1e-3/s,298.0,17.0,None,%,F1,10.1016/j.scriptamat.2024.116488
+N1.5,(Ti35Zr30V10Nb25)0.985 N1.5,BCC,AAM,nitrogen introduced through TiN,tensile ductility,EXP,strain rate 1e-3/s,298.0,15.8,None,%,F1,10.1016/j.scriptamat.2024.116488
+N2,(Ti35Zr30V10Nb25)0.98 N2,BCC,AAM,nitrogen introduced through TiN,tensile ductility,EXP,strain rate 1e-3/s,298.0,0.42,None,%,F1,10.1016/j.scriptamat.2024.116488
+N3,(Ti35Zr30V10Nb25)0.97 N3,BCC,AAM,nitrogen introduced through TiN,tensile ductility,EXP,strain rate 1e-3/s,298.0,0.0,None,%,F1,10.1016/j.scriptamat.2024.116488
+CR,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC,CR,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%,electrical resistivity,EXP,None,294.6,2.052e-07,3.2e-09,Ohm m^2 / m,T4,10.1007/s11661-008-9771-3
+A,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC,CR+A,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum,electrical resistivity,EXP,None,294.6,2.003e-07,4.6e-09,Ohm m^2 / m,T4,10.1007/s11661-008-9771-3
+A+AT1098,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC+Zr(CON),CR+A+AT,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum; aged for 1100h at 1098K; 4nm nanoprecipitates of FCC Zr compound with O-C-N,electrical resistivity,EXP,None,294.6,1.998e-07,1.2e-09,Ohm m^2 / m,T4,10.1007/s11661-008-9771-3
+A+AT1248,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC+Zr(CON),CR+A+AT,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum; aged for 1100h at 1248K; 40nm nanoprecipitates of FCC Zr compound with O-C-N on grain boundaries,electrical resistivity,EXP,None,294.6,1.995e-07,4.5e-09,Ohm m^2 / m,T4,10.1007/s11661-008-9771-3
+A+AT1398,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC+Zr(CON),CR+A+AT,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum; aged for 1100h at 1398K; 140nm precipitates of FCC Zr compound with O-C-N on grain boundaries,electrical resistivity,EXP,None,294.6,1.963e-07,1.9e-09,Ohm m^2 / m,T4,10.1007/s11661-008-9771-3
+None,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC,CR,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%,hardness,EXP,None,298.0,2873451000.0,9807000.0,Pa,T5,10.1007/s11661-008-9771-3
+None,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC,CR+A,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum,hardness,EXP,None,298.0,1863330000.0,19614000.0,Pa,T5,10.1007/s11661-008-9771-3
+None,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC+Zr(CON),CR+A+AT,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum; aged for 1100h at 1098K; 4nm nanoprecipitates of FCC Zr compound with O-C-N,hardness,EXP,None,298.0,2039856000.0,19614000.0,Pa,T5,10.1007/s11661-008-9771-3
+None,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC+Zr(CON),CR+A+AT,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum; aged for 1100h at 1248K; 40nm nanoprecipitates of FCC Zr compound with O-C-N on grain boundaries,hardness,EXP,None,298.0,1804488000.0,9807000.0,Pa,T5,10.1007/s11661-008-9771-3
+None,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC+Zr(CON),CR+A+AT,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum; aged for 1100h at 1398K; 140nm precipitates of FCC Zr compound with O-C-N on grain boundaries,hardness,EXP,None,298.0,1833909000.0,9807000.0,Pa,T5,10.1007/s11661-008-9771-3
+A,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC,CR+A,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum,tensile yield stress,EXP,strain rate 1e-3/s,298.0,519000000.0,None,Pa,T6,10.1007/s11661-008-9771-3
+A,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC,CR+A,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum,tensile yield stress,EXP,strain rate 1e-3/s,298.0,489000000.0,None,Pa,T6,10.1007/s11661-008-9771-3
+A,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC,CR+A,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum,tensile yield stress,EXP,strain rate 1e-3/s,1073.0,254000000.0,None,Pa,T6,10.1007/s11661-008-9771-3
+A,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC,CR+A,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum,tensile yield stress,EXP,strain rate 1e-3/s,1073.0,319000000.0,None,Pa,T6,10.1007/s11661-008-9771-3
+A+AT1098,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC+Zr(CON),CR+A+AT,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum; aged for 1100h at 1098K; 4nm nanoprecipitates of FCC Zr compound with O-C-N,tensile yield stress,EXP,strain rate 1e-3/s,1073.0,287000000.0,None,Pa,T6,10.1007/s11661-008-9771-3
+A+AT1098,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC+Zr(CON),CR+A+AT,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum; aged for 1100h at 1098K; 4nm nanoprecipitates of FCC Zr compound with O-C-N,tensile yield stress,EXP,strain rate 1e-3/s,1073.0,347000000.0,None,Pa,T6,10.1007/s11661-008-9771-3
+A,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC,CR+A,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum,tensile yield stress,EXP,strain rate 1e-3/s,1223.0,223000000.0,None,Pa,T6,10.1007/s11661-008-9771-3
+A,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC,CR+A,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum,tensile yield stress,EXP,strain rate 1e-3/s,1223.0,254000000.0,None,Pa,T6,10.1007/s11661-008-9771-3
+A+AT1248,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC+Zr(CON),CR+A+AT,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum; aged for 1100h at 1248K; 40nm nanoprecipitates of FCC Zr compound with O-C-N on grain boundaries,tensile yield stress,EXP,strain rate 1e-3/s,1223.0,161000000.0,None,Pa,T6,10.1007/s11661-008-9771-3
+A,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC,CR+A,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum,tensile yield stress,EXP,strain rate 1e-3/s,1373.0,211000000.0,None,Pa,T6,10.1007/s11661-008-9771-3
+A,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC,CR+A,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum,tensile yield stress,EXP,strain rate 1e-3/s,1373.0,231000000.0,None,Pa,T6,10.1007/s11661-008-9771-3
+A+AT1398,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC+Zr(CON),CR+A+AT,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum; aged for 1100h at 1398K; 140nm precipitates of FCC Zr compound with O-C-N on grain boundaries,tensile yield stress,EXP,strain rate 1e-3/s,1373.0,158000000.0,None,Pa,T6,10.1007/s11661-008-9771-3
+A+AT1398,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC+Zr(CON),CR+A+AT,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum; aged for 1100h at 1398K; 140nm precipitates of FCC Zr compound with O-C-N on grain boundaries,tensile yield stress,EXP,strain rate 1e-3/s,1373.0,244000000.0,None,Pa,T6,10.1007/s11661-008-9771-3
+A,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC,CR+A,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum,UTS,EXP,strain rate 1e-3/s,298.0,611000000.0,None,Pa,T6,10.1007/s11661-008-9771-3
+A,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC,CR+A,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum,UTS,EXP,strain rate 1e-3/s,298.0,578000000.0,None,Pa,T6,10.1007/s11661-008-9771-3
+A,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC,CR+A,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum,UTS,EXP,strain rate 1e-3/s,1073.0,392000000.0,None,Pa,T6,10.1007/s11661-008-9771-3
+A,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC,CR+A,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum,UTS,EXP,strain rate 1e-3/s,1073.0,456000000.0,None,Pa,T6,10.1007/s11661-008-9771-3
+A+AT1098,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC+Zr(CON),CR+A+AT,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum; aged for 1100h at 1098K; 4nm nanoprecipitates of FCC Zr compound with O-C-N,UTS,EXP,strain rate 1e-3/s,1073.0,365000000.0,None,Pa,T6,10.1007/s11661-008-9771-3
+A+AT1098,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC+Zr(CON),CR+A+AT,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum; aged for 1100h at 1098K; 4nm nanoprecipitates of FCC Zr compound with O-C-N,UTS,EXP,strain rate 1e-3/s,1073.0,393000000.0,None,Pa,T6,10.1007/s11661-008-9771-3
+A,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC,CR+A,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum,UTS,EXP,strain rate 1e-3/s,1223.0,354000000.0,None,Pa,T6,10.1007/s11661-008-9771-3
+A,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC,CR+A,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum,UTS,EXP,strain rate 1e-3/s,1223.0,381000000.0,None,Pa,T6,10.1007/s11661-008-9771-3
+A+AT1248,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC+Zr(CON),CR+A+AT,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum; aged for 1100h at 1248K; 40nm nanoprecipitates of FCC Zr compound with O-C-N on grain boundaries,UTS,EXP,strain rate 1e-3/s,1223.0,207000000.0,None,Pa,T6,10.1007/s11661-008-9771-3
+A,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC,CR+A,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum,UTS,EXP,strain rate 1e-3/s,1373.0,310000000.0,None,Pa,T6,10.1007/s11661-008-9771-3
+A,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC,CR+A,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum,UTS,EXP,strain rate 1e-3/s,1373.0,333000000.0,None,Pa,T6,10.1007/s11661-008-9771-3
+A+AT1398,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC+Zr(CON),CR+A+AT,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum; aged for 1100h at 1398K; 140nm precipitates of FCC Zr compound with O-C-N on grain boundaries,UTS,EXP,strain rate 1e-3/s,1373.0,289000000.0,None,Pa,T6,10.1007/s11661-008-9771-3
+A+AT1398,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC+Zr(CON),CR+A+AT,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum; aged for 1100h at 1398K; 140nm precipitates of FCC Zr compound with O-C-N on grain boundaries,UTS,EXP,strain rate 1e-3/s,1373.0,308000000.0,None,Pa,T6,10.1007/s11661-008-9771-3
+A,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC,CR+A,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum,tensile ductility,EXP,strain rate 1e-3/s,298.0,33.1,None,%,T6,10.1007/s11661-008-9771-3
+A,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC,CR+A,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum,tensile ductility,EXP,strain rate 1e-3/s,298.0,30.7,None,%,T6,10.1007/s11661-008-9771-3
+A,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC,CR+A,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum,tensile ductility,EXP,strain rate 1e-3/s,1073.0,25.6,None,%,T6,10.1007/s11661-008-9771-3
+A,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC,CR+A,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum,tensile ductility,EXP,strain rate 1e-3/s,1073.0,20.8,None,%,T6,10.1007/s11661-008-9771-3
+A+AT1098,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC+Zr(CON),CR+A+AT,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum; aged for 1100h at 1098K; 4nm nanoprecipitates of FCC Zr compound with O-C-N,tensile ductility,EXP,strain rate 1e-3/s,1073.0,19.2,None,%,T6,10.1007/s11661-008-9771-3
+A+AT1098,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC+Zr(CON),CR+A+AT,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum; aged for 1100h at 1098K; 4nm nanoprecipitates of FCC Zr compound with O-C-N,tensile ductility,EXP,strain rate 1e-3/s,1073.0,13.0,None,%,T6,10.1007/s11661-008-9771-3
+A,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC,CR+A,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum,tensile ductility,EXP,strain rate 1e-3/s,1223.0,23.0,None,%,T6,10.1007/s11661-008-9771-3
+A,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC,CR+A,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum,tensile ductility,EXP,strain rate 1e-3/s,1223.0,22.0,None,%,T6,10.1007/s11661-008-9771-3
+A+AT1248,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC+Zr(CON),CR+A+AT,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum; aged for 1100h at 1248K; 40nm nanoprecipitates of FCC Zr compound with O-C-N on grain boundaries,tensile ductility,EXP,strain rate 1e-3/s,1223.0,3.0,None,%,T6,10.1007/s11661-008-9771-3
+A,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC,CR+A,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum,tensile ductility,EXP,strain rate 1e-3/s,1373.0,29.2,None,%,T6,10.1007/s11661-008-9771-3
+A,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC,CR+A,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum,tensile ductility,EXP,strain rate 1e-3/s,1373.0,22.7,None,%,T6,10.1007/s11661-008-9771-3
+A+AT1398,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC+Zr(CON),CR+A+AT,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum; aged for 1100h at 1398K; 140nm precipitates of FCC Zr compound with O-C-N on grain boundaries,tensile ductility,EXP,strain rate 1e-3/s,1373.0,22.6,None,%,T6,10.1007/s11661-008-9771-3
+A+AT1398,Nb0.7567 Ta0.1650 W0.0673 Zr0.0110,BCC+Zr(CON),CR+A+AT,commercial sheet of FS-85 from Pittsburgh Materials Technology (PMTI) cold-rolled to 30%; annealed for 1h at 1643K in vacuum; aged for 1100h at 1398K; 140nm precipitates of FCC Zr compound with O-C-N on grain boundaries,tensile ductility,EXP,strain rate 1e-3/s,1373.0,15.2,None,%,T6,10.1007/s11661-008-9771-3
+None,Pt21.3 Ru20.6 Rh19.0 Pd21.9 Ir17.2,FCC,TD,composition from EDX measurement; made from five metal precursors RuCl3 RhCl3 K2[PdCl4] IrCl₄ and K2[PtCl4],None,None,None,None,None,None,None,None,10.1016/j.cplett.2024.141178
+AS,Fe6 NiCoCrAlTiSi,BCC,LaserCladding(DED),laser cladding from Fe Ni Co Cr Al Ti and ferrosilicon powders,hardness,EXP,None,298.0,7758021209.302321,99314564.09045094,Pa,F7,10.1007/s11666-011-9626-0
+A500,Fe6 NiCoCrAlTiSi,BCC,LaserCladding(DED)+A,laser cladding from Fe Ni Co Cr Al Ti and ferrosilicon powders; annealed in flowing Ar for 5h at 500*C,hardness,EXP,None,298.0,7687471627.906976,115220714.7367653,Pa,F7,10.1007/s11666-011-9626-0
+A750,Fe6 NiCoCrAlTiSi,BCC+B2,LaserCladding(DED)+A,laser cladding from Fe Ni Co Cr Al Ti and ferrosilicon powders; annealed in flowing Ar for 5h at 750*C,hardness,EXP,None,298.0,7632726743.982846,86883308.23186842,Pa,F7,10.1007/s11666-011-9626-0
+A1000,Fe6 NiCoCrAlTiSi,B2+D03+TiSi,LaserCladding(DED)+A,laser cladding from Fe Ni Co Cr Al Ti and ferrosilicon powders; annealed in flowing Ar for 5h at 1000*C,hardness,EXP,None,298.0,6948525581.395342,116162423.32435107,Pa,F7,10.1007/s11666-011-9626-0
+A1150,Fe6 NiCoCrAlTiSi,BCC+TiSi+TiSi2+?,LaserCladding(DED)+A,laser cladding from Fe Ni Co Cr Al Ti and ferrosilicon powders; annealed in flowing Ar for 5h at 1150*C,hardness,EXP,None,298.0,6290164186.046509,65921986.321201235,Pa,F7,10.1007/s11666-011-9626-0
+AS,Fe6 NiCoCrAlTiSi,BCC,LaserCladding(DED),laser cladding from Fe Ni Co Cr Al Ti and ferrosilicon powders,electrical resistivity,EXP,None,298.0,2.926e-07,None,Ohm m,F8,10.1007/s11666-011-9626-0
+A500,Fe6 NiCoCrAlTiSi,BCC,LaserCladding(DED)+A,laser cladding from Fe Ni Co Cr Al Ti and ferrosilicon powders; annealed in flowing Ar for 5h at 500*C,electrical resistivity,EXP,None,298.0,2.753e-07,None,Ohm m,F8,10.1007/s11666-011-9626-0
+A750,Fe6 NiCoCrAlTiSi,BCC+B2,LaserCladding(DED)+A,laser cladding from Fe Ni Co Cr Al Ti and ferrosilicon powders; annealed in flowing Ar for 5h at 750*C,electrical resistivity,EXP,None,298.0,2.568e-07,None,Ohm m,F8,10.1007/s11666-011-9626-0
+A1000,Fe6 NiCoCrAlTiSi,B2+D03+TiSi,LaserCladding(DED)+A,laser cladding from Fe Ni Co Cr Al Ti and ferrosilicon powders; annealed in flowing Ar for 5h at 1000*C,electrical resistivity,EXP,None,298.0,2.201e-07,None,Ohm m,F8,10.1007/s11666-011-9626-0
+A1150,Fe6 NiCoCrAlTiSi,BCC+TiSi+TiSi2+?,LaserCladding(DED)+A,laser cladding from Fe Ni Co Cr Al Ti and ferrosilicon powders; annealed in flowing Ar for 5h at 1150*C,electrical resistivity,EXP,None,298.0,1.751e-07,None,Ohm m,F8,10.1007/s11666-011-9626-0
+A1,AlMo0.5NbTa0.5TiZr,BCC+BCC,VAM,None,density,EXP,None,298.0,7300.0,100.0,kg/m^3,T2,10.1007/s11837-014-1066-0
+A2,AlNb1.5Ta0.5Ti1.5Zr0.5,BCC,VAM,None,density,EXP,None,298.0,6800.0,100.0,kg/m^3,T2,10.1007/s11837-014-1066-0
+A3,Al0.4Hf0.6NbTaTiZr,BCC,VAM,None,density,EXP,None,298.0,9000.0,100.0,kg/m^3,T2,10.1007/s11837-014-1066-0
+A4,Al0.3NbTaTi1.4Zr1.3,BCC+BCC,VAM,None,density,EXP,None,298.0,8100.0,100.0,kg/m^3,T2,10.1007/s11837-014-1066-0
+A5,Al0.3NbTa0.8Ti1.4V0.2Zr1.3,BCC,VAM,None,density,EXP,None,298.0,7600.0,100.0,kg/m^3,T2,10.1007/s11837-014-1066-0
+A6,Al0.5NbTa0.8Ti1.5V0.2Zr,BCC+BCC,VAM,None,density,EXP,None,298.0,7300.0,100.0,kg/m^3,T2,10.1007/s11837-014-1066-0
+A1,AlMo0.5NbTa0.5TiZr,BCC+BCC,VAM+HIP+A,HIP for 2h at 1400*C and 207MPa then annealed at 1400*C for 24h in Ar,compressive yield stress,EXP,None,298.0,2000000000.0,25000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A2,AlNb1.5Ta0.5Ti1.5Zr0.5,BCC,VAM+HIP+A,HIP for 2h at 1400*C and 207MPa then annealed at 1400*C for 24h in Ar,compressive yield stress,EXP,None,298.0,1280000000.0,25000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A3,Al0.4Hf0.6NbTaTiZr,BCC,VAM+HIP+A,HIP for 2h at 1400*C and 207MPa then annealed at 1400*C for 24h in Ar,compressive yield stress,EXP,None,298.0,1841000000.0,25000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A4,Al0.3NbTaTi1.4Zr1.3,BCC+BCC,VAM+HIP+A,HIP for 2h at 1200*C and 207MPa then annealed at 1200*C for 24h in Ar,compressive yield stress,EXP,None,298.0,1965000000.0,25000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A5,Al0.3NbTa0.8Ti1.4V0.2Zr1.3,BCC,VAM+HIP+A,HIP for 2h at 1200*C and 207MPa then annealed at 1200*C for 24h in Ar,compressive yield stress,EXP,None,298.0,1965000000.0,25000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A6,Al0.5NbTa0.8Ti1.5V0.2Zr,BCC+BCC,VAM+HIP+A,HIP for 2h at 1200*C and 207MPa then annealed at 1200*C for 24h in Ar,compressive yield stress,EXP,None,298.0,2035000000.0,25000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A1,AlMo0.5NbTa0.5TiZr,BCC+BCC,VAM+HIP+A,HIP for 2h at 1400*C and 207MPa then annealed at 1400*C for 24h in Ar,UCS,EXP,None,298.0,2368000000.0,25000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A2,AlNb1.5Ta0.5Ti1.5Zr0.5,BCC,VAM+HIP+A,HIP for 2h at 1400*C and 207MPa then annealed at 1400*C for 24h in Ar,UCS,EXP,None,298.0,1367000000.0,25000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A3,Al0.4Hf0.6NbTaTiZr,BCC,VAM+HIP+A,HIP for 2h at 1400*C and 207MPa then annealed at 1400*C for 24h in Ar,UCS,EXP,None,298.0,2269000000.0,25000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A4,Al0.3NbTaTi1.4Zr1.3,BCC+BCC,VAM+HIP+A,HIP for 2h at 1200*C and 207MPa then annealed at 1200*C for 24h in Ar,UCS,EXP,None,298.0,2054000000.0,25000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A5,Al0.3NbTa0.8Ti1.4V0.2Zr1.3,BCC,VAM+HIP+A,HIP for 2h at 1200*C and 207MPa then annealed at 1200*C for 24h in Ar,UCS,EXP,None,298.0,2061000000.0,25000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A6,Al0.5NbTa0.8Ti1.5V0.2Zr,BCC+BCC,VAM+HIP+A,HIP for 2h at 1200*C and 207MPa then annealed at 1200*C for 24h in Ar,UCS,EXP,None,298.0,2105000000.0,25000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A1,AlMo0.5NbTa0.5TiZr,BCC+BCC,VAM+HIP+A,HIP for 2h at 1400*C and 207MPa then annealed at 1400*C for 24h in Ar,compressive ductility,EXP,None,298.0,10.0,0.5,%,T5,10.1007/s11837-014-1066-0
+A2,AlNb1.5Ta0.5Ti1.5Zr0.5,BCC,VAM+HIP+A,HIP for 2h at 1400*C and 207MPa then annealed at 1400*C for 24h in Ar,compressive ductility,EXP,None,298.0,3.5,0.5,%,T5,10.1007/s11837-014-1066-0
+A3,Al0.4Hf0.6NbTaTiZr,BCC,VAM+HIP+A,HIP for 2h at 1400*C and 207MPa then annealed at 1400*C for 24h in Ar,compressive ductility,EXP,None,298.0,10.0,0.5,%,T5,10.1007/s11837-014-1066-0
+A4,Al0.3NbTaTi1.4Zr1.3,BCC+BCC,VAM+HIP+A,HIP for 2h at 1200*C and 207MPa then annealed at 1200*C for 24h in Ar,compressive ductility,EXP,None,298.0,5.0,0.5,%,T5,10.1007/s11837-014-1066-0
+A5,Al0.3NbTa0.8Ti1.4V0.2Zr1.3,BCC,VAM+HIP+A,HIP for 2h at 1200*C and 207MPa then annealed at 1200*C for 24h in Ar,compressive ductility,EXP,None,298.0,5.0,0.5,%,T5,10.1007/s11837-014-1066-0
+A6,Al0.5NbTa0.8Ti1.5V0.2Zr,BCC+BCC,VAM+HIP+A,HIP for 2h at 1200*C and 207MPa then annealed at 1200*C for 24h in Ar,compressive ductility,EXP,None,298.0,4.5,0.5,%,T5,10.1007/s11837-014-1066-0
+A1,AlMo0.5NbTa0.5TiZr,BCC+BCC,VAM+HIP+A,HIP for 2h at 1400*C and 207MPa then annealed at 1400*C for 24h in Ar,compressive yield stress,EXP,None,1073.0,1597000000.0,10000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A2,AlNb1.5Ta0.5Ti1.5Zr0.5,BCC,VAM+HIP+A,HIP for 2h at 1400*C and 207MPa then annealed at 1400*C for 24h in Ar,compressive yield stress,EXP,None,1073.0,728000000.0,10000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A3,Al0.4Hf0.6NbTaTiZr,BCC,VAM+HIP+A,HIP for 2h at 1400*C and 207MPa then annealed at 1400*C for 24h in Ar,compressive yield stress,EXP,None,1073.0,796000000.0,10000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A4,Al0.3NbTaTi1.4Zr1.3,BCC+BCC,VAM+HIP+A,HIP for 2h at 1200*C and 207MPa then annealed at 1200*C for 24h in Ar,compressive yield stress,EXP,None,1073.0,362000000.0,10000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A5,Al0.3NbTa0.8Ti1.4V0.2Zr1.3,BCC,VAM+HIP+A,HIP for 2h at 1200*C and 207MPa then annealed at 1200*C for 24h in Ar,compressive yield stress,EXP,None,1073.0,678000000.0,10000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A6,Al0.5NbTa0.8Ti1.5V0.2Zr,BCC+BCC,VAM+HIP+A,HIP for 2h at 1200*C and 207MPa then annealed at 1200*C for 24h in Ar,compressive yield stress,EXP,None,1073.0,796000000.0,10000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A1,AlMo0.5NbTa0.5TiZr,BCC+BCC,VAM+HIP+A,HIP for 2h at 1400*C and 207MPa then annealed at 1400*C for 24h in Ar,UCS,EXP,None,1073.0,1810000000.0,10000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A2,AlNb1.5Ta0.5Ti1.5Zr0.5,BCC,VAM+HIP+A,HIP for 2h at 1400*C and 207MPa then annealed at 1400*C for 24h in Ar,UCS,EXP,None,1073.0,1000000000.0,10000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A3,Al0.4Hf0.6NbTaTiZr,BCC,VAM+HIP+A,HIP for 2h at 1400*C and 207MPa then annealed at 1400*C for 24h in Ar,UCS,EXP,None,1073.0,834000000.0,10000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A4,Al0.3NbTaTi1.4Zr1.3,BCC+BCC,VAM+HIP+A,HIP for 2h at 1200*C and 207MPa then annealed at 1200*C for 24h in Ar,UCS,EXP,None,1073.0,397000000.0,10000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A5,Al0.3NbTa0.8Ti1.4V0.2Zr1.3,BCC,VAM+HIP+A,HIP for 2h at 1200*C and 207MPa then annealed at 1200*C for 24h in Ar,UCS,EXP,None,1073.0,693000000.0,10000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A6,Al0.5NbTa0.8Ti1.5V0.2Zr,BCC+BCC,VAM+HIP+A,HIP for 2h at 1200*C and 207MPa then annealed at 1200*C for 24h in Ar,UCS,EXP,None,1073.0,851000000.0,10000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A1,AlMo0.5NbTa0.5TiZr,BCC+BCC,VAM+HIP+A,HIP for 2h at 1400*C and 207MPa then annealed at 1400*C for 24h in Ar,compressive ductility,EXP,None,1073.0,11.0,1.0,%,T5,10.1007/s11837-014-1066-0
+A2,AlNb1.5Ta0.5Ti1.5Zr0.5,BCC,VAM+HIP+A,HIP for 2h at 1400*C and 207MPa then annealed at 1400*C for 24h in Ar,compressive ductility,EXP,None,1073.0,38.0,1.0,%,T5,10.1007/s11837-014-1066-0
+A3,Al0.4Hf0.6NbTaTiZr,BCC,VAM+HIP+A,HIP for 2h at 1400*C and 207MPa then annealed at 1400*C for 24h in Ar,minimum compressive ductility,EXP,None,1073.0,45.0,None,%,T5,10.1007/s11837-014-1066-0
+A4,Al0.3NbTaTi1.4Zr1.3,BCC+BCC,VAM+HIP+A,HIP for 2h at 1200*C and 207MPa then annealed at 1200*C for 24h in Ar,minimum compressive ductility,EXP,None,1073.0,45.0,None,%,T5,10.1007/s11837-014-1066-0
+A5,Al0.3NbTa0.8Ti1.4V0.2Zr1.3,BCC,VAM+HIP+A,HIP for 2h at 1200*C and 207MPa then annealed at 1200*C for 24h in Ar,minimum compressive ductility,EXP,None,1073.0,45.0,None,%,T5,10.1007/s11837-014-1066-0
+A6,Al0.5NbTa0.8Ti1.5V0.2Zr,BCC+BCC,VAM+HIP+A,HIP for 2h at 1200*C and 207MPa then annealed at 1200*C for 24h in Ar,minimum compressive ductility,EXP,None,1073.0,45.0,None,%,T5,10.1007/s11837-014-1066-0
+A1,AlMo0.5NbTa0.5TiZr,BCC+BCC,VAM+HIP+A,HIP for 2h at 1400*C and 207MPa then annealed at 1400*C for 24h in Ar,compressive yield stress,EXP,None,1273.0,745000000.0,5000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A2,AlNb1.5Ta0.5Ti1.5Zr0.5,BCC,VAM+HIP+A,HIP for 2h at 1400*C and 207MPa then annealed at 1400*C for 24h in Ar,compressive yield stress,EXP,None,1273.0,403000000.0,5000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A3,Al0.4Hf0.6NbTaTiZr,BCC,VAM+HIP+A,HIP for 2h at 1400*C and 207MPa then annealed at 1400*C for 24h in Ar,compressive yield stress,EXP,None,1273.0,298000000.0,5000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A4,Al0.3NbTaTi1.4Zr1.3,BCC+BCC,VAM+HIP+A,HIP for 2h at 1200*C and 207MPa then annealed at 1200*C for 24h in Ar,compressive yield stress,EXP,None,1273.0,236000000.0,5000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A5,Al0.3NbTa0.8Ti1.4V0.2Zr1.3,BCC,VAM+HIP+A,HIP for 2h at 1200*C and 207MPa then annealed at 1200*C for 24h in Ar,compressive yield stress,EXP,None,1273.0,166000000.0,5000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A6,Al0.5NbTa0.8Ti1.5V0.2Zr,BCC+BCC,VAM+HIP+A,HIP for 2h at 1200*C and 207MPa then annealed at 1200*C for 24h in Ar,compressive yield stress,EXP,None,1273.0,220000000.0,5000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A1,AlMo0.5NbTa0.5TiZr,BCC+BCC,VAM+HIP+A,HIP for 2h at 1400*C and 207MPa then annealed at 1400*C for 24h in Ar,UCS,EXP,None,1273.0,772000000.0,5000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A2,AlNb1.5Ta0.5Ti1.5Zr0.5,BCC,VAM+HIP+A,HIP for 2h at 1400*C and 207MPa then annealed at 1400*C for 24h in Ar,UCS,EXP,None,1273.0,415000000.0,5000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A3,Al0.4Hf0.6NbTaTiZr,BCC,VAM+HIP+A,HIP for 2h at 1400*C and 207MPa then annealed at 1400*C for 24h in Ar,UCS,EXP,None,1273.0,455000000.0,5000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A4,Al0.3NbTaTi1.4Zr1.3,BCC+BCC,VAM+HIP+A,HIP for 2h at 1200*C and 207MPa then annealed at 1200*C for 24h in Ar,UCS,EXP,None,1273.0,247000000.0,5000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A5,Al0.3NbTa0.8Ti1.4V0.2Zr1.3,BCC,VAM+HIP+A,HIP for 2h at 1200*C and 207MPa then annealed at 1200*C for 24h in Ar,UCS,EXP,None,1273.0,189000000.0,5000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A6,Al0.5NbTa0.8Ti1.5V0.2Zr,BCC+BCC,VAM+HIP+A,HIP for 2h at 1200*C and 207MPa then annealed at 1200*C for 24h in Ar,UCS,EXP,None,1273.0,225000000.0,5000000.0,Pa,T5,10.1007/s11837-014-1066-0
+A1,AlMo0.5NbTa0.5TiZr,BCC+BCC,VAM+HIP+A,HIP for 2h at 1400*C and 207MPa then annealed at 1400*C for 24h in Ar,minimum compressive ductility,EXP,None,1273.0,50.0,None,%,T5,10.1007/s11837-014-1066-0
+A2,AlNb1.5Ta0.5Ti1.5Zr0.5,BCC,VAM+HIP+A,HIP for 2h at 1400*C and 207MPa then annealed at 1400*C for 24h in Ar,minimum compressive ductility,EXP,None,1273.0,50.0,None,%,T5,10.1007/s11837-014-1066-0
+A3,Al0.4Hf0.6NbTaTiZr,BCC,VAM+HIP+A,HIP for 2h at 1400*C and 207MPa then annealed at 1400*C for 24h in Ar,minimum compressive ductility,EXP,None,1273.0,50.0,None,%,T5,10.1007/s11837-014-1066-0
+A4,Al0.3NbTaTi1.4Zr1.3,BCC+BCC,VAM+HIP+A,HIP for 2h at 1200*C and 207MPa then annealed at 1200*C for 24h in Ar,minimum compressive ductility,EXP,None,1273.0,50.0,None,%,T5,10.1007/s11837-014-1066-0
+A5,Al0.3NbTa0.8Ti1.4V0.2Zr1.3,BCC,VAM+HIP+A,HIP for 2h at 1200*C and 207MPa then annealed at 1200*C for 24h in Ar,minimum compressive ductility,EXP,None,1273.0,50.0,None,%,T5,10.1007/s11837-014-1066-0
+A6,Al0.5NbTa0.8Ti1.5V0.2Zr,BCC+BCC,VAM+HIP+A,HIP for 2h at 1200*C and 207MPa then annealed at 1200*C for 24h in Ar,minimum compressive ductility,EXP,None,1273.0,50.0,None,%,T5,10.1007/s11837-014-1066-0
+None,Cr0.5MoNbTaVW,BCC,VAM,from high purity elemental powders,hardness,EXP,None,298.0,6624700000.0,269200000.0,Pa,T3,10.1016/j.calphad.2015.09.007
+None,Cr1.0MoNbTaVW,BCC,VAM,from high purity elemental powders,hardness,EXP,None,298.0,6910300000.0,170500000.0,Pa,T3,10.1016/j.calphad.2015.09.007
+None,Cr2.0MoNbTaVW,BCC+BCC,VAM,from high purity elemental powders,hardness,EXP,None,298.0,7403400000.0,422500000.0,Pa,T3,10.1016/j.calphad.2015.09.007
+None,Cr0.5MoNbTaVW,BCC,VAM,from high purity elemental powders,density,EXP,None,298.0,1150.0,None,kg/m^3,T3,10.1016/j.calphad.2015.09.007
+None,Cr1.0MoNbTaVW,BCC,VAM,from high purity elemental powders,density,EXP,None,298.0,1140.0,None,kg/m^3,T3,10.1016/j.calphad.2015.09.007
+None,Cr2.0MoNbTaVW,BCC+BCC,VAM,from high purity elemental powders,density,EXP,None,298.0,1120.0,None,kg/m^3,T3,10.1016/j.calphad.2015.09.007
+None,V20 Nb20 Mo20 Ta20 W20 ,BCC,MA,high energy ball milling in Ar for 30h,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2018.07.331 
+None,V20 Nb20 Mo20 Ta20 W20 ,BCC,MA+CIP+HIP,high energy ball milling in Ar for 30h; 10MPa CIP; HIP for 30min at 5GPa and 1073K,hardness,EXP ,None,298.0,10200000000.0,200000000.0,None,F11,10.1016/j.jallcom.2018.07.331 
+None,V20 Nb20 Mo20 Ta20 W20 ,BCC,MA+CIP+HIP,high energy ball milling in Ar for 30h; 10MPa CIP; HIP for 30min at 5GPa and 1273K,hardness,EXP ,None,298.0,10700000000.0,250000000.0,None,F11,10.1016/j.jallcom.2018.07.331 
+None,V20 Nb20 Mo20 Ta20 W20 ,BCC+carbide,MA+CIP+HIP,high energy ball milling in Ar for 30h; 10MPa CIP; HIP for 30min at 5GPa and 1423K,hardness,EXP ,None,298.0,11400000000.0,40000000.0,Pa,T1,10.1016/j.jallcom.2018.07.331 
+None,V20 Nb20 Mo20 Ta20 W20 ,BCC+BC+carbide,MA+CIP+HIP,high energy ball milling in Ar for 30h; 10MPa CIP; HIP for 30min at 5GPa and 1523K,hardness,EXP ,None,298.0,10300000000.0,450000000.0,Pa,T1,10.1016/j.jallcom.2018.07.331 
+None,V20 Nb20 Mo20 Ta20 W20 ,BCC+BC+carbide,MA+CIP+HIP,high energy ball milling in Ar for 30h; 10MPa CIP; HIP for 30min at 5GPa and 1623K,hardness,EXP ,None,298.0,10200000000.0,110000000.0,Pa,T1,10.1016/j.jallcom.2018.07.331 
+None,V20 Nb20 Mo20 Ta20 W20 ,BCC+BC+carbide,MA+CIP+HIP,high energy ball milling in Ar for 30h; 10MPa CIP; HIP for 30min at 5GPa and 1773K,hardness,EXP ,None,298.0,8800000000.0,50000000.0,Pa,T1,10.1016/j.jallcom.2018.07.331 
+None,V20 Nb20 Mo20 Ta20 W20 ,BCC,MA+CIP+HIP,high energy ball milling in Ar for 30h; 10MPa CIP; HIP for 30min at 5GPa and 1073K,density,EXP ,None,298.0,8502.2371364653,None,kg/m^3,F11,10.1016/j.jallcom.2018.07.331 
+None,V20 Nb20 Mo20 Ta20 W20 ,BCC,MA+CIP+HIP,high energy ball milling in Ar for 30h; 10MPa CIP; HIP for 30min at 5GPa and 1273K,density,EXP ,None,298.0,8742.7293064877,None,kg/m^3,F11,10.1016/j.jallcom.2018.07.331 
+None,V20 Nb20 Mo20 Ta20 W20 ,BCC+carbide,MA+CIP+HIP,high energy ball milling in Ar for 30h; 10MPa CIP; HIP for 30min at 5GPa and 1423K,density,EXP ,None,298.0,10465.3243847874,None,kg/m^3,F11,10.1016/j.jallcom.2018.07.331 
+None,V20 Nb20 Mo20 Ta20 W20 ,BCC+BC+carbide,MA+CIP+HIP,high energy ball milling in Ar for 30h; 10MPa CIP; HIP for 30min at 5GPa and 1523K,density,EXP ,None,298.0,10666.6666666666,None,kg/m^3,F11,10.1016/j.jallcom.2018.07.331 
+None,V20 Nb20 Mo20 Ta20 W20 ,BCC+BC+carbide,MA+CIP+HIP,high energy ball milling in Ar for 30h; 10MPa CIP; HIP for 30min at 5GPa and 1623K,density,EXP ,None,298.0,10840.0447427293,None,kg/m^3,F11,10.1016/j.jallcom.2018.07.331 
+None,V20 Nb20 Mo20 Ta20 W20 ,BCC+BC+carbide,MA+CIP+HIP,high energy ball milling in Ar for 30h; 10MPa CIP; HIP for 30min at 5GPa and 1773K,density,EXP ,None,298.0,10789.7091722595,None,kg/m^3,F11,10.1016/j.jallcom.2018.07.331 
+118,Nb25 Ta25 Ti25 V25,BCC,SPS,SPS for 30min at 30MPa at 1773K,UCS,EXP ,None,298.0,1804482225.6568701,None,Pa,F7,10.1016/j.jallcom.2018.10.230 
+119,Nb25 Ta25 Ti25 V25,BCC,SPS,SPS for 30min at 30MPa at 1873K,UCS,EXP ,None,298.0,2042503863.98763,None,Pa,F7,10.1016/j.jallcom.2018.10.230 
+120,Nb25 Ta25 Ti25 V25,BCC,SPS,SPS for 30min at 30MPa at 1973K,UCS,EXP ,None,298.0,2181607418.8562503,None,Pa,F7,10.1016/j.jallcom.2018.10.230 
+120,Nb25 Ta25 Ti25 V25,BCC,SPS,SPS for 30min at 30MPa at 1973K,compressive yield stress,EXP ,None,973.0,667000000.0,None,Pa,F9,10.1016/j.jallcom.2018.10.230 
+120,Nb25 Ta25 Ti25 V25,BCC,SPS,SPS for 30min at 30MPa at 1973K,compressive yield stress,EXP ,None,1073.0,580000000.0,None,Pa,F9,10.1016/j.jallcom.2018.10.230 
+120,Nb25 Ta25 Ti25 V25,BCC,SPS,SPS for 30min at 30MPa at 1973K,compressive yield stress,EXP ,None,1173.0,540000000.0,None,Pa,F9,10.1016/j.jallcom.2018.10.230 
+120,Nb25 Ta25 Ti25 V25,BCC,SPS,SPS for 30min at 30MPa at 1973K,compressive yield stress,EXP ,None,1273.0,437000000.0,None,Pa,F9,10.1016/j.jallcom.2018.10.230 
+120,Nb25 Ta25 Ti25 V25,BCC,SPS,SPS for 30min at 30MPa at 1973K,UCS,EXP ,None,973.0,996000000.0,None,Pa,F9,10.1016/j.jallcom.2018.10.230 
+120,Nb25 Ta25 Ti25 V25,BCC,SPS,SPS for 30min at 30MPa at 1973K,UCS,EXP ,None,1073.0,894000000.0,None,Pa,F9,10.1016/j.jallcom.2018.10.230 
+120,Nb25 Ta25 Ti25 V25,BCC,SPS,SPS for 30min at 30MPa at 1973K,UCS,EXP ,None,1173.0,668000000.0,None,Pa,F9,10.1016/j.jallcom.2018.10.230 
+120,Nb25 Ta25 Ti25 V25,BCC,SPS,SPS for 30min at 30MPa at 1973K,UCS,EXP ,None,1273.0,483000000.0,None,Pa,F9,10.1016/j.jallcom.2018.10.230 
+120,Nb25 Ta25 Ti25 V25,BCC,SPS,SPS for 30min at 30MPa at 1973K,minimum compressive ductility,EXP ,None,973.0,40.0,None,Pa,F9,10.1016/j.jallcom.2018.10.230 
+120,Nb25 Ta25 Ti25 V25,BCC,SPS,SPS for 30min at 30MPa at 1973K,minimum compressive ductility,EXP ,None,1073.0,40.0,None,Pa,F9,10.1016/j.jallcom.2018.10.230 
+120,Nb25 Ta25 Ti25 V25,BCC,SPS,SPS for 30min at 30MPa at 1973K,minimum compressive ductility,EXP ,None,1173.0,40.0,None,Pa,F9,10.1016/j.jallcom.2018.10.230 
+120,Nb25 Ta25 Ti25 V25,BCC,SPS,SPS for 30min at 30MPa at 1973K,minimum compressive ductility,EXP ,None,1273.0,40.0,None,Pa,F9,10.1016/j.jallcom.2018.10.230 
+121,NbTiZr,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,hardness,EXP ,None,298.0,3334380000.0,29421000.0,Pa,T8,10.1016/j.jallcom.2018.12.325 
+122,Ta10Nb30Ti30Zr30,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,hardness,EXP ,None,298.0,3501099000.0,29421000.0,Pa,T8,10.1016/j.jallcom.2018.12.325 
+123,Cr10Nb30Ti30Zr30,BCC+C14,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,hardness,EXP ,None,298.0,4481799000.0,127491000.0,Pa,T8,10.1016/j.jallcom.2018.12.325 
+124,Re10Nb30Ti30Zr30,BCC+C14+C15,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,hardness,EXP ,None,298.0,4060098000.0,78456000.0,Pa,T8,10.1016/j.jallcom.2018.12.325 
+121,NbTiZr,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,compressive yield stress,EXP ,strain rate 1e-3/s,298.0,975000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+122,Ta10Nb30Ti30Zr30,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,compressive yield stress,EXP ,strain rate 1e-3/s,298.0,882000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+123,Cr10Nb30Ti30Zr30,BCC+C14,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,compressive yield stress,EXP ,strain rate 1e-3/s,298.0,1576000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+124,Re10Nb30Ti30Zr30,BCC+C14+C15,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,compressive yield stress,EXP ,strain rate 1e-3/s,298.0,1244000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+121,NbTiZr,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,compressive yield stress,EXP ,strain rate 1e-3/s,1073.0,465000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+122,Ta10Nb30Ti30Zr30,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,compressive yield stress,EXP ,strain rate 1e-3/s,1073.0,596000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+123,Cr10Nb30Ti30Zr30,BCC+C14,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,compressive yield stress,EXP ,strain rate 1e-3/s,1073.0,580000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+124,Re10Nb30Ti30Zr30,BCC+C14+C15,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,compressive yield stress,EXP ,strain rate 1e-3/s,1073.0,805000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+121,NbTiZr,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,compressive yield stress,EXP ,strain rate 1e-3/s,1273.0,146000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+122,Ta10Nb30Ti30Zr30,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,compressive yield stress,EXP ,strain rate 1e-3/s,1273.0,274000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+123,Cr10Nb30Ti30Zr30,BCC+C14,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,compressive yield stress,EXP ,strain rate 1e-3/s,1273.0,139000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+124,Re10Nb30Ti30Zr30,BCC+C14+C15,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,compressive yield stress,EXP ,strain rate 1e-3/s,1273.0,323000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+121,NbTiZr,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,compressive yield stress,EXP ,strain rate 1e-3/s,1473.0,61000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+122,Ta10Nb30Ti30Zr30,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,compressive yield stress,EXP ,strain rate 1e-3/s,1473.0,102000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+123,Cr10Nb30Ti30Zr30,BCC+C14,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,compressive yield stress,EXP ,strain rate 1e-3/s,1473.0,37000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+124,Re10Nb30Ti30Zr30,BCC+C14+C15,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,compressive yield stress,EXP ,strain rate 1e-3/s,1473.0,89000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+121,NbTiZr,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,minimum ultimate compressive strength,EXP ,strain rate 1e-3/s,298.0,1460000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+122,Ta10Nb30Ti30Zr30,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,UCS,EXP ,strain rate 1e-3/s,298.0,1211000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+123,Cr10Nb30Ti30Zr30,BCC+C14,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,UCS,EXP ,strain rate 1e-3/s,298.0,1601000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+124,Re10Nb30Ti30Zr30,BCC+C14+C15,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,UCS,EXP ,strain rate 1e-3/s,298.0,1628000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+121,NbTiZr,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,UCS,EXP ,strain rate 1e-3/s,1073.0,474000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+122,Ta10Nb30Ti30Zr30,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,UCS,EXP ,strain rate 1e-3/s,1073.0,652000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+123,Cr10Nb30Ti30Zr30,BCC+C14,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,UCS,EXP ,strain rate 1e-3/s,1073.0,632000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+124,Re10Nb30Ti30Zr30,BCC+C14+C15,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,UCS,EXP ,strain rate 1e-3/s,1073.0,906000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+121,NbTiZr,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,UCS,EXP ,strain rate 1e-3/s,1273.0,148000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+122,Ta10Nb30Ti30Zr30,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,UCS,EXP ,strain rate 1e-3/s,1273.0,278000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+123,Cr10Nb30Ti30Zr30,BCC+C14,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,UCS,EXP ,strain rate 1e-3/s,1273.0,150000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+124,Re10Nb30Ti30Zr30,BCC+C14+C15,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,UCS,EXP ,strain rate 1e-3/s,1273.0,337000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+121,NbTiZr,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,UCS,EXP ,strain rate 1e-3/s,1473.0,63000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+122,Ta10Nb30Ti30Zr30,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,UCS,EXP ,strain rate 1e-3/s,1473.0,103000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+123,Cr10Nb30Ti30Zr30,BCC+C14,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,UCS,EXP ,strain rate 1e-3/s,1473.0,40000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+124,Re10Nb30Ti30Zr30,BCC+C14+C15,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,UCS,EXP ,strain rate 1e-3/s,1473.0,89000000.0,None,Pa,T9,10.1016/j.jallcom.2018.12.325 
+121,NbTiZr,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,minimum compressive ductility,EXP ,strain rate 1e-3/s,298.0,70.0,None,%,T9,10.1016/j.jallcom.2018.12.325 
+122,Ta10Nb30Ti30Zr30,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,compressive ductility,EXP ,strain rate 1e-3/s,298.0,64.0,None,%,T9,10.1016/j.jallcom.2018.12.325 
+123,Cr10Nb30Ti30Zr30,BCC+C14,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,compressive ductility,EXP ,strain rate 1e-3/s,298.0,5.0,None,%,T9,10.1016/j.jallcom.2018.12.325 
+124,Re10Nb30Ti30Zr30,BCC+C14+C15,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,compressive ductility,EXP ,strain rate 1e-3/s,298.0,53.0,None,%,T9,10.1016/j.jallcom.2018.12.325 
+121,NbTiZr,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,minimum compressive ductility,EXP ,strain rate 1e-3/s,1073.0,72.0,None,%,T9,10.1016/j.jallcom.2018.12.325 
+122,Ta10Nb30Ti30Zr30,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,minimum compressive ductility,EXP ,strain rate 1e-3/s,1073.0,72.0,None,%,T9,10.1016/j.jallcom.2018.12.325 
+123,Cr10Nb30Ti30Zr30,BCC+C14,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,minimum compressive ductility,EXP ,strain rate 1e-3/s,1073.0,72.0,None,%,T9,10.1016/j.jallcom.2018.12.325 
+124,Re10Nb30Ti30Zr30,BCC+C14+C15,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,minimum compressive ductility,EXP ,strain rate 1e-3/s,1073.0,72.0,None,%,T9,10.1016/j.jallcom.2018.12.325 
+121,NbTiZr,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,minimum compressive ductility,EXP ,strain rate 1e-3/s,1273.0,76.0,None,%,T9,10.1016/j.jallcom.2018.12.325 
+122,Ta10Nb30Ti30Zr30,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,minimum compressive ductility,EXP ,strain rate 1e-3/s,1273.0,76.0,None,%,T9,10.1016/j.jallcom.2018.12.325 
+123,Cr10Nb30Ti30Zr30,BCC+C14,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,minimum compressive ductility,EXP ,strain rate 1e-3/s,1273.0,76.0,None,%,T9,10.1016/j.jallcom.2018.12.325 
+124,Re10Nb30Ti30Zr30,BCC+C14+C15,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,minimum compressive ductility,EXP ,strain rate 1e-3/s,1273.0,76.0,None,%,T9,10.1016/j.jallcom.2018.12.325 
+121,NbTiZr,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,minimum compressive ductility,EXP ,strain rate 1e-3/s,1473.0,78.0,None,%,T9,10.1016/j.jallcom.2018.12.325 
+122,Ta10Nb30Ti30Zr30,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,minimum compressive ductility,EXP ,strain rate 1e-3/s,1473.0,78.0,None,%,T9,10.1016/j.jallcom.2018.12.325 
+123,Cr10Nb30Ti30Zr30,BCC+C14,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,minimum compressive ductility,EXP ,strain rate 1e-3/s,1473.0,78.0,None,%,T9,10.1016/j.jallcom.2018.12.325 
+124,Re10Nb30Ti30Zr30,BCC+C14+C15,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,minimum compressive ductility,EXP ,strain rate 1e-3/s,1473.0,78.0,None,%,T9,10.1016/j.jallcom.2018.12.325 
+121,NbTiZr,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,density,EXP ,None,298.0,6630.0,None,kg/m^3,T2,10.1016/j.jallcom.2018.12.325 
+122,Ta10Nb30Ti30Zr30,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,density,EXP ,None,298.0,7810.0,None,kg/m^3,T2,10.1016/j.jallcom.2018.12.325 
+123,Cr10Nb30Ti30Zr30,BCC+C14,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,density,EXP ,None,298.0,6560.0,None,kg/m^3,T2,10.1016/j.jallcom.2018.12.325 
+124,Re10Nb30Ti30Zr30,BCC+C14+C15,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,density,EXP ,None,298.0,7850.0,None,kg/m^3,T2,10.1016/j.jallcom.2018.12.325 
+None,Co Cr Fe Ni,FCC,AAM,None,tensile yield stress,EXP ,strain rate 1e-3/s,298.0,140000000.0,None,Pa,T5,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni Mn,FCC,AAM,None,tensile yield stress,EXP ,strain rate 1e-3/s,298.0,215000000.0,None,Pa,T5,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni,FCC,AAM+H,homogenized at 100*C for 24h,tensile yield stress,EXP ,strain rate 1e-3/s,298.0,130000000.0,None,Pa,T5,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni Mn,FCC,AAM+H,homogenized at 100*C for 24h,tensile yield stress,EXP ,strain rate 1e-3/s,298.0,162000000.0,None,Pa,T5,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni,FCC,AAM,None,UTS,EXP ,strain rate 1e-3/s,298.0,488000000.0,None,Pa,T5,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni Mn,FCC,AAM,None,UTS,EXP ,strain rate 1e-3/s,298.0,491000000.0,None,Pa,T5,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni V,FCC+sigma,AAM,None,UTS,EXP ,strain rate 1e-3/s,298.0,311000000.0,None,Pa,T5,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni Mn V,FCC+sigma,AAM,None,UTS,EXP ,strain rate 1e-3/s,298.0,90000000.0,None,Pa,T5,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni,FCC,AAM+H,homogenized at 100*C for 24h,UTS,EXP ,strain rate 1e-3/s,298.0,458000000.0,None,Pa,T5,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni Mn,FCC,AAM+H,homogenized at 100*C for 24h,UTS,EXP ,strain rate 1e-3/s,298.0,443000000.0,None,Pa,T5,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni V,FCC+sigma,AAM+H,homogenized at 100*C for 24h,UTS,EXP ,strain rate 1e-3/s,298.0,330000000.0,None,Pa,T5,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni Mn V,FCC+sigma,AAM+H,homogenized at 100*C for 24h,UTS,EXP ,strain rate 1e-3/s,298.0,62000000.0,None,Pa,T5,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni,FCC,AAM,None,UTS,EXP ,strain rate 1e-3/s,298.0,83.0,None,%,T5,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni Mn,FCC,AAM,None,UTS,EXP ,strain rate 1e-3/s,298.0,71.0,None,%,T5,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni V,FCC+sigma,AAM,None,UTS,EXP ,strain rate 1e-3/s,298.0,0.0,None,%,T5,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni Mn V,FCC+sigma,AAM,None,UTS,EXP ,strain rate 1e-3/s,298.0,0.0,None,%,T5,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni,FCC,AAM+H,homogenized at 100*C for 24h,UTS,EXP ,strain rate 1e-3/s,298.0,87.0,None,%,T5,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni Mn,FCC,AAM+H,homogenized at 100*C for 24h,UTS,EXP ,strain rate 1e-3/s,298.0,68.0,None,%,T5,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni V,FCC+sigma,AAM+H,homogenized at 100*C for 24h,UTS,EXP ,strain rate 1e-3/s,298.0,0.0,None,%,T5,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni Mn V,FCC+sigma,AAM+H,homogenized at 100*C for 24h,UTS,EXP ,strain rate 1e-3/s,298.0,0.0,None,%,T5,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni,FCC,AAM+H,homogenized at 100*C for 24h,compressive yield stress,EXP ,strain rate 1e-3/s,298.0,190000000.0,None,Pa,T6,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni V,FCC+sigma,AAM+H,homogenized at 100*C for 24h,compressive yield stress,EXP ,strain rate 1e-3/s,298.0,1435000000.0,None,Pa,T6,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni Mn V,FCC+sigma,AAM+H,homogenized at 100*C for 24h,compressive yield stress,EXP ,strain rate 1e-3/s,298.0,1660000000.0,None,Pa,T6,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni V,FCC+sigma,AAM+H,homogenized at 100*C for 24h,UCS,EXP ,strain rate 1e-3/s,298.0,1665000000.0,None,Pa,T6,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni Mn V,FCC+sigma,AAM+H,homogenized at 100*C for 24h,UCS,EXP ,strain rate 1e-3/s,298.0,1845000000.0,None,Pa,T6,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni,FCC,AAM+H,homogenized at 100*C for 24h,minimum compressive ductility,EXP ,strain rate 1e-3/s,298.0,75.0,None,%,T6,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni V,FCC+sigma,AAM+H,homogenized at 100*C for 24h,compressive ductility,EXP ,strain rate 1e-3/s,298.0,2.5,None,%,T6,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni Mn V,FCC+sigma,AAM+H,homogenized at 100*C for 24h,compressive ductility,EXP ,strain rate 1e-3/s,298.0,0.5,None,%,T6,10.1016/j.jallcom.2013.12.210
+None,Al10 (Mo Nb Ti V)22.5,BCC,VAM+H+OQ+A+OQ,HT2 was homogenized at 1673K for 24h under vacuum and oil quenched; second annealing at 1273K for 24h under vacuum and oil quenched,compressive yield stress,EXP ,strain rate 1e-4/s,298.0,1290000000.0,None,Pa,T3,10.4028/www.scientific.net/MSF.941.1111
+None,Al Mo Nb Ti V,BCC,VAM+H+OQ+A+OQ,HT2 was homogenized at 1673K for 24h under vacuum and oil quenched; second annealing at 1273K for 24h under vacuum and oil quenched,compressive yield stress,EXP ,strain rate 1e-4/s,298.0,1140000000.0,None,Pa,T3,10.4028/www.scientific.net/MSF.941.1111
+None,Al10 (Mo Nb Ti V)22.5,BCC,VAM+H+OQ+A+OQ,HT2 was homogenized at 1673K for 24h under vacuum and oil quenched; second annealing at 1273K for 24h under vacuum and oil quenched,compressive yield stress,EXP ,strain rate 1e-4/s,1073.0,881000000.0,None,Pa,T3,10.4028/www.scientific.net/MSF.941.1111
+None,Al Mo Nb Ti V,BCC,VAM+H+OQ+A+OQ,HT2 was homogenized at 1673K for 24h under vacuum and oil quenched; second annealing at 1273K for 24h under vacuum and oil quenched,compressive yield stress,EXP ,strain rate 1e-4/s,1073.0,727000000.0,None,Pa,T3,10.4028/www.scientific.net/MSF.941.1111
+None,Al10 (Mo Nb Ti V)22.5,BCC,VAM+H+OQ+A+OQ,HT2 was homogenized at 1673K for 24h under vacuum and oil quenched; second annealing at 1273K for 24h under vacuum and oil quenched,UCS,EXP ,strain rate 1e-4/s,298.0,1579000000.0,None,Pa,F5,10.4028/www.scientific.net/MSF.941.1111
+None,Al Mo Nb Ti V,BCC,VAM+H+OQ+A+OQ,HT2 was homogenized at 1673K for 24h under vacuum and oil quenched; second annealing at 1273K for 24h under vacuum and oil quenched,UCS,EXP ,strain rate 1e-4/s,298.0,1248000000.0,None,Pa,F5,10.4028/www.scientific.net/MSF.941.1111
+None,Al10 (Mo Nb Ti V)22.5,BCC,VAM+H+OQ+A+OQ,HT2 was homogenized at 1673K for 24h under vacuum and oil quenched; second annealing at 1273K for 24h under vacuum and oil quenched,UCS,EXP ,strain rate 1e-4/s,1073.0,1360000000.0,None,Pa,F5,10.4028/www.scientific.net/MSF.941.1111
+None,Al Mo Nb Ti V,BCC,VAM+H+OQ+A+OQ,HT2 was homogenized at 1673K for 24h under vacuum and oil quenched; second annealing at 1273K for 24h under vacuum and oil quenched,UCS,EXP ,strain rate 1e-4/s,1073.0,872000000.0,None,Pa,F5,10.4028/www.scientific.net/MSF.941.1111
+None,Al10 (Mo Nb Ti V)22.5,BCC,VAM+H+OQ+A+OQ,HT2 was homogenized at 1673K for 24h under vacuum and oil quenched; second annealing at 1273K for 24h under vacuum and oil quenched,compressive ductility,EXP ,strain rate 1e-4/s,298.0,6.9,None,%,F5,10.4028/www.scientific.net/MSF.941.1111
+None,Al Mo Nb Ti V,BCC,VAM+H+OQ+A+OQ,HT2 was homogenized at 1673K for 24h under vacuum and oil quenched; second annealing at 1273K for 24h under vacuum and oil quenched,compressive ductility,EXP ,strain rate 1e-4/s,298.0,3.9,None,%,F5,10.4028/www.scientific.net/MSF.941.1111
+None,Al10 (Mo Nb Ti V)22.5,BCC,VAM+H+OQ+A+OQ,HT2 was homogenized at 1673K for 24h under vacuum and oil quenched; second annealing at 1273K for 24h under vacuum and oil quenched,compressive ductility,EXP ,strain rate 1e-4/s,1073.0,8.2,None,%,F5,10.4028/www.scientific.net/MSF.941.1111
+None,Al Mo Nb Ti V,BCC,VAM+H+OQ+A+OQ,HT2 was homogenized at 1673K for 24h under vacuum and oil quenched; second annealing at 1273K for 24h under vacuum and oil quenched,compressive ductility,EXP ,strain rate 1e-4/s,1073.0,10.7,None,%,F5,10.4028/www.scientific.net/MSF.941.1111
+None,CoCrNbMoTi0.4,BCC+BCC,AAM,None,UCS,EXP ,strain rate 1e-3/s,298.0,799000000.0,None,Pa,F7,10.1007/s11661-018-4472-z
+None,CoCrNbMoTi0.4,BCC+BCC+laves,AAM+A,annealed for 20h in vacuum at 1073K,UCS,EXP ,strain rate 1e-3/s,298.0,905000000.0,None,Pa,F7,10.1007/s11661-018-4472-z
+None,CoCrNbMoTi0.4,BCC+BCC+laves,AAM+A,annealed for 20h in vacuum at 1273K,UCS,EXP ,strain rate 1e-3/s,298.0,1731000000.0,None,Pa,F7,10.1007/s11661-018-4472-z
+None,CoCrNbMoTi0.4,BCC+BCC+laves,AAM+A,annealed for 20h in vacuum at 1473K; strong presence of laves phase,UCS,EXP ,strain rate 1e-3/s,298.0,1794000000.0,None,Pa,F7,10.1007/s11661-018-4472-z
+None,CoCrNbMoTi0.4,BCC+BCC,AAM,None,compressive ductility,EXP ,strain rate 1e-3/s,298.0,0.57,None,%,F7,10.1007/s11661-018-4472-z
+None,CoCrNbMoTi0.4,BCC+BCC+laves,AAM+A,annealed for 20h in vacuum at 1073K,compressive ductility,EXP ,strain rate 1e-3/s,298.0,0.69,None,%,F7,10.1007/s11661-018-4472-z
+None,CoCrNbMoTi0.4,BCC+BCC+laves,AAM+A,annealed for 20h in vacuum at 1273K,compressive ductility,EXP ,strain rate 1e-3/s,298.0,1.16,None,%,F7,10.1007/s11661-018-4472-z
+None,CoCrNbMoTi0.4,BCC+BCC+laves,AAM+A,annealed for 20h in vacuum at 1473K; strong presence of laves phase,compressive ductility,EXP ,strain rate 1e-3/s,298.0,1.58,None,%,F7,10.1007/s11661-018-4472-z
+None,CoCrNbMoTi0.4,BCC+BCC,AAM,None,UCS,EXP ,strain rate 1e-3/s,1473.0,680000000.0,None,Pa,T6,10.1007/s11661-018-4472-z
+None,CoCrNbMoTi0.4,BCC+BCC+laves,AAM+A,annealed for 20h in vacuum at 1073K,UCS,EXP ,strain rate 1e-3/s,1473.0,634000000.0,None,Pa,T6,10.1007/s11661-018-4472-z
+None,CoCrNbMoTi0.4,BCC+BCC+laves,AAM+A,annealed for 20h in vacuum at 1273K,UCS,EXP ,strain rate 1e-3/s,1473.0,625000000.0,None,Pa,T6,10.1007/s11661-018-4472-z
+None,CoCrNbMoTi0.4,BCC+BCC+laves,AAM+A,annealed for 20h in vacuum at 1473K; strong presence of laves phase,UCS,EXP ,strain rate 1e-3/s,1473.0,587000000.0,None,Pa,T6,10.1007/s11661-018-4472-z
+None,CoCrNbMoTi0.4,BCC+BCC,AAM,None,compressive ductility,EXP ,strain rate 1e-3/s,1473.0,17.1,None,%,T6,10.1007/s11661-018-4472-z
+None,CoCrNbMoTi0.4,BCC+BCC+laves,AAM+A,annealed for 20h in vacuum at 1073K,minimum compressive ductility,EXP ,strain rate 1e-3/s,1473.0,50.0,None,%,T6,10.1007/s11661-018-4472-z
+None,CoCrNbMoTi0.4,BCC+BCC+laves,AAM+A,annealed for 20h in vacuum at 1273K,minimum compressive ductility,EXP ,strain rate 1e-3/s,1473.0,50.0,None,%,T6,10.1007/s11661-018-4472-z
+None,CoCrNbMoTi0.4,BCC+BCC+laves,AAM+A,annealed for 20h in vacuum at 1473K; strong presence of laves phase,compressive ductility,EXP ,strain rate 1e-3/s,1473.0,20.1,None,%,T6,10.1007/s11661-018-4472-z
+None,Mo98.79 Ti1.0 Zr0.08 C0.13,BCC,SPS,sintered at 1420*C for 30min under 40MPa,density,EXP ,None,298.0,9930.0,20.0,kg/m^3,T1,10.1016/j.ijrmhm.2016.04.020 
+None,Mo94.67 Ti0.96 Zr0.08 C0.89 B3.4,BCC,SPS,sintered at 1420*C for 30min under 40MPa,density,EXP ,None,298.0,9820.0,10.0,kg/m^3,T1,10.1016/j.ijrmhm.2016.04.020 
+None,Mo90.85 Ti0.93 Zr0.08 C1.59 B6.56,BCC+Mo2C,SPS,sintered at 1420*C for 30min under 40MPa,density,EXP ,None,298.0,9720.0,40.0,kg/m^3,T1,10.1016/j.ijrmhm.2016.04.020 
+None,Mo83.96 Ti0.86 Zr0.08 C2.86 B12.24,BCC+Mo2C,SPS,sintered at 1420*C for 30min under 40MPa,density,EXP ,None,298.0,9580.0,30.0,kg/m^3,T1,10.1016/j.ijrmhm.2016.04.020 
+None,Mo67.86 Ti0.72 Zr0.06 C5.83 B25.52,BCC+Mo2C+Mo2B,SPS,sintered at 1420*C for 30min under 40MPa,density,EXP ,None,298.0,9410.0,20.0,kg/m^3,T1,10.1016/j.ijrmhm.2016.04.020
+None,Nb Ta Ti V,BCC,VAM,None,compressive yield stress,EXP ,strain rate 5e-4/s,298.0,965000000.0,None,Pa,T2,10.1016/j.msea.2016.07.102 
+None,Nb Ta V W,BCC,VAM,None,compressive yield stress,EXP ,strain rate 5e-4/s,298.0,1530000000.0,None,Pa,T2,10.1016/j.msea.2016.07.102 
+None,Nb Ta Ti V W,BCC,VAM,None,compressive yield stress,EXP ,strain rate 5e-4/s,298.0,1420000000.0,None,Pa,T2,10.1016/j.msea.2016.07.102 
+None,Nb Ta Ti V,BCC,VAM,None,UCS,EXP ,strain rate 5e-4/s,298.0,1306000000.0,None,Pa,T2,10.1016/j.msea.2016.07.102 
+None,Nb Ta V W,BCC,VAM,None,UCS,EXP ,strain rate 5e-4/s,298.0,1707000000.0,None,Pa,T2,10.1016/j.msea.2016.07.102 
+None,Nb Ta Ti V W,BCC,VAM,None,UCS,EXP ,strain rate 5e-4/s,298.0,1829000000.0,None,Pa,T2,10.1016/j.msea.2016.07.102 
+None,Nb Ta Ti V,BCC,VAM,None,minimum compressive ductility,EXP ,strain rate 5e-4/s,298.0,50.0,None,%,F6,10.1016/j.msea.2016.07.102 
+None,Nb Ta V W,BCC,VAM,None,compressive ductility,EXP ,strain rate 5e-4/s,298.0,12.0,None,%,F6,10.1016/j.msea.2016.07.102 
+None,Nb Ta Ti V W,BCC,VAM,None,compressive ductility,EXP ,strain rate 5e-4/s,298.0,20.0,None,%,F6,10.1016/j.msea.2016.07.102 
+None,Nb46 Ti35 Al6 Cr5 V8 ,BCC,AAM+HW+A,slowly hot forged at 1100*C and annealed at 1100*C for 1h afterwards,compressive yield stress,EXP,strain rate 3e-3/s,298.0,800000000.0,None,Pa,None,10.1016/j.msea.2008.07.038
+None,Nb46 Ti35 Al6 Cr5 V8 ,BCC,AAM+HW+A,slowly hot forged at 1100*C and annealed at 1100*C for 1h afterwards,compressive yield stress,EXP,strain rate 3e-3/s,1073.0,475000000.0,None,Pa,None,10.1016/j.msea.2008.07.038
+None,Nb46 Ti35 Al6 Cr5 V8 ,BCC,AAM+HW+A,slowly hot forged at 1100*C and annealed at 1100*C for 1h afterwards,compressive yield stress,EXP,strain rate 3e-3/s,1273.0,223000000.0,None,Pa,None,10.1016/j.msea.2008.07.038
+None,Nb45 Ti35 Al6 Cr5 V8 C1,BCC,AAM+HW+A,slowly hot forged at 1100*C and annealed at 1100*C for 1h afterwards,compressive yield stress,None,strain rate 3e-3/s,298.0,796000000.0,None,Pa,None,10.1016/j.msea.2008.07.038
+None,Nb45 Ti35 Al6 Cr5 V8 C1,BCC,AAM+HW+A,slowly hot forged at 1100*C and annealed at 1100*C for 1h afterwards,compressive yield stress,None,strain rate 3e-3/s,1073.0,480000000.0,None,Pa,None,10.1016/j.msea.2008.07.038
+None,Nb45 Ti35 Al6 Cr5 V8 C1,BCC,AAM+HW+A,slowly hot forged at 1100*C and annealed at 1100*C for 1h afterwards,compressive yield stress,None,strain rate 3e-3/s,1273.0,219000000.0,None,Pa,None,10.1016/j.msea.2008.07.038
+None,Nb36 Ti35 Al6 Cr5 V8 C10,BCC,AAM+HW+A,slowly hot forged at 1100*C and annealed at 1100*C for 1h afterwards,compressive yield stress,None,strain rate 3e-3/s,298.0,925000000.0,None,Pa,None,10.1016/j.msea.2008.07.038
+None,Nb36 Ti35 Al6 Cr5 V8 C10,BCC,AAM+HW+A,slowly hot forged at 1100*C and annealed at 1100*C for 1h afterwards,compressive yield stress,None,strain rate 3e-3/s,1073.0,550000000.0,None,Pa,None,10.1016/j.msea.2008.07.038
+None,Nb36 Ti35 Al6 Cr5 V8 C10,BCC,AAM+HW+A,slowly hot forged at 1100*C and annealed at 1100*C for 1h afterwards,compressive yield stress,None,strain rate 3e-3/s,1273.0,283000000.0,None,Pa,None,10.1016/j.msea.2008.07.038
