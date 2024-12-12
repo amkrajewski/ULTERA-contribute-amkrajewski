@@ -624,9 +624,9 @@ A6,Al0.5NbTa0.8Ti1.5V0.2Zr,BCC+BCC,VAM+HIP+A,HIP for 2h at 1200*C and 207MPa the
 None,Cr0.5MoNbTaVW,BCC,VAM,from high purity elemental powders,hardness,EXP,None,298.0,6624700000.0,269200000.0,Pa,T3,10.1016/j.calphad.2015.09.007
 None,Cr1.0MoNbTaVW,BCC,VAM,from high purity elemental powders,hardness,EXP,None,298.0,6910300000.0,170500000.0,Pa,T3,10.1016/j.calphad.2015.09.007
 None,Cr2.0MoNbTaVW,BCC+BCC,VAM,from high purity elemental powders,hardness,EXP,None,298.0,7403400000.0,422500000.0,Pa,T3,10.1016/j.calphad.2015.09.007
-None,Cr0.5MoNbTaVW,BCC,VAM,from high purity elemental powders,density,EXP,None,298.0,1150.0,None,kg/m^3,T3,10.1016/j.calphad.2015.09.007
-None,Cr1.0MoNbTaVW,BCC,VAM,from high purity elemental powders,density,EXP,None,298.0,1140.0,None,kg/m^3,T3,10.1016/j.calphad.2015.09.007
-None,Cr2.0MoNbTaVW,BCC+BCC,VAM,from high purity elemental powders,density,EXP,None,298.0,1120.0,None,kg/m^3,T3,10.1016/j.calphad.2015.09.007
+None,Cr0.5MoNbTaVW,BCC,VAM,from high purity elemental powders,density,EXP,None,298.0,11500.0,None,kg/m^3,T3,10.1016/j.calphad.2015.09.007
+None,Cr1.0MoNbTaVW,BCC,VAM,from high purity elemental powders,density,EXP,None,298.0,11400.0,None,kg/m^3,T3,10.1016/j.calphad.2015.09.007
+None,Cr2.0MoNbTaVW,BCC+BCC,VAM,from high purity elemental powders,density,EXP,None,298.0,11200.0,None,kg/m^3,T3,10.1016/j.calphad.2015.09.007
 None,V20 Nb20 Mo20 Ta20 W20 ,BCC,MA,high energy ball milling in Ar for 30h,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2018.07.331 
 None,V20 Nb20 Mo20 Ta20 W20 ,BCC,MA+CIP+HIP,high energy ball milling in Ar for 30h; 10MPa CIP; HIP for 30min at 5GPa and 1073K,hardness,EXP ,None,298.0,10200000000.0,200000000.0,None,F11,10.1016/j.jallcom.2018.07.331 
 None,V20 Nb20 Mo20 Ta20 W20 ,BCC,MA+CIP+HIP,high energy ball milling in Ar for 30h; 10MPa CIP; HIP for 30min at 5GPa and 1273K,hardness,EXP ,None,298.0,10700000000.0,250000000.0,None,F11,10.1016/j.jallcom.2018.07.331 
@@ -781,7 +781,7 @@ None,Nb Ta Ti V W,BCC,VAM,None,UCS,EXP ,strain rate 5e-4/s,298.0,1829000000.0,No
 None,Nb Ta Ti V,BCC,VAM,None,minimum compressive ductility,EXP ,strain rate 5e-4/s,298.0,50.0,None,%,F6,10.1016/j.msea.2016.07.102 
 None,Nb Ta V W,BCC,VAM,None,compressive ductility,EXP ,strain rate 5e-4/s,298.0,12.0,None,%,F6,10.1016/j.msea.2016.07.102 
 None,Nb Ta Ti V W,BCC,VAM,None,compressive ductility,EXP ,strain rate 5e-4/s,298.0,20.0,None,%,F6,10.1016/j.msea.2016.07.102 
-None,Nb46 Ti35 Al6 Cr5 V8 ,BCC,AAM+HW+A,slowly hot forged at 1100*C and annealed at 1100*C for 1h afterwards,compressive yield stress,EXP,strain rate 3e-3/s,298.0,800000000.0,None,Pa,None,10.1016/j.msea.2008.07.038
+None,Nb46 Ti35 Al6 Cr5 V8 ,BCC,AAM+HW+A,slowly hot forged at 1100*C and annealed at 1100*C for 1h afterwards,compressive yield stress,EXP,strain rate 3e-3/s,298.0,800000000.0,None,Pa,F8,10.1016/j.msea.2008.07.038
 None,Nb46 Ti35 Al6 Cr5 V8 ,BCC,AAM+HW+A,slowly hot forged at 1100*C and annealed at 1100*C for 1h afterwards,compressive yield stress,EXP,strain rate 3e-3/s,1073.0,475000000.0,None,Pa,None,10.1016/j.msea.2008.07.038
 None,Nb46 Ti35 Al6 Cr5 V8 ,BCC,AAM+HW+A,slowly hot forged at 1100*C and annealed at 1100*C for 1h afterwards,compressive yield stress,EXP,strain rate 3e-3/s,1273.0,223000000.0,None,Pa,None,10.1016/j.msea.2008.07.038
 None,Nb45 Ti35 Al6 Cr5 V8 C1,BCC,AAM+HW+A,slowly hot forged at 1100*C and annealed at 1100*C for 1h afterwards,compressive yield stress,EXP,strain rate 3e-3/s,298.0,796000000.0,None,Pa,None,10.1016/j.msea.2008.07.038
@@ -790,3 +790,71 @@ None,Nb45 Ti35 Al6 Cr5 V8 C1,BCC,AAM+HW+A,slowly hot forged at 1100*C and anneal
 None,Nb36 Ti35 Al6 Cr5 V8 C10,BCC,AAM+HW+A,slowly hot forged at 1100*C and annealed at 1100*C for 1h afterwards,compressive yield stress,EXP,strain rate 3e-3/s,298.0,925000000.0,None,Pa,None,10.1016/j.msea.2008.07.038
 None,Nb36 Ti35 Al6 Cr5 V8 C10,BCC,AAM+HW+A,slowly hot forged at 1100*C and annealed at 1100*C for 1h afterwards,compressive yield stress,EXP,strain rate 3e-3/s,1073.0,550000000.0,None,Pa,None,10.1016/j.msea.2008.07.038
 None,Nb36 Ti35 Al6 Cr5 V8 C10,BCC,AAM+HW+A,slowly hot forged at 1100*C and annealed at 1100*C for 1h afterwards,compressive yield stress,EXP,strain rate 3e-3/s,1273.0,283000000.0,None,Pa,None,10.1016/j.msea.2008.07.038
+None,TiAlV,BCC,VAM+A+WQ,annealed at 1473K for 24h and quenched,hardness,EXP,strain rate 3e-4/s,298.0,6178500640.934355,None,Pa,F8,10.1016/j.jallcom.2022.164849
+None,TiAlVSc,BCC+B2,VAM+A+WQ,annealed at 1473K for 24h and quenched,hardness,EXP,strain rate 3e-4/s,298.0,5717191896.5631075,None,Pa,F8,10.1016/j.jallcom.2022.164849
+None,TiAlVRu,B2,VAM+A+WQ,annealed at 1473K for 24h and quenched,hardness,EXP,strain rate 3e-4/s,298.0,8073606834.027024,None,Pa,F8,10.1016/j.jallcom.2022.164849
+None,TiAlVZr,BCC+C14,VAM+A+WQ,annealed at 1473K for 24h and quenchedl; C14 laves is Al2Zr,hardness,EXP,strain rate 3e-4/s,298.0,7263199580.401861,None,Pa,F8,10.1016/j.jallcom.2022.164849
+None,TiAlVCo,BCC+B2+C15,VAM+A+WQ,annealed at 1473K for 24h and quenched; C15 laves is Ti2Co,hardness,EXP,strain rate 3e-4/s,298.0,8684529225.22139,None,Pa,F8,10.1016/j.jallcom.2022.164849
+None,TiAlVZrCo,HCP+C15,VAM+A+WQ,annealed at 1473K for 24h and quenched; C15 laves is Ti2Co,hardness,EXP,strain rate 3e-4/s,298.0,9719356949.081211,None,Pa,F8,10.1016/j.jallcom.2022.164849
+None,TiZrHf,HCP,VAM+A+WQ,annealed at 1473K for 24h and quenched,hardness,EXP,strain rate 3e-4/s,298.0,4171184212.7243547,None,Pa,F8,10.1016/j.jallcom.2022.164849
+None,TiZrHfSc,HCP+HCP,VAM+A+WQ,annealed at 1473K for 24h and quenched,hardness,EXP,strain rate 3e-4/s,298.0,3298437939.5895653,None,Pa,F8,10.1016/j.jallcom.2022.164849
+None,TiZrHfRu,BCC+B2,VAM+A+WQ,annealed at 1473K for 24h and quenched,hardness,EXP,strain rate 3e-4/s,298.0,6203436248.738214,None,Pa,F8,10.1016/j.jallcom.2022.164849
+None,TiZrHfAl,BCC+C14,VAM+A+WQ,annealed at 1473K for 24h and quenched; C14 laves is Zr2Al,hardness,EXP,strain rate 3e-4/s,298.0,5629917269.249638,None,Pa,F8,10.1016/j.jallcom.2022.164849
+None,TiZrHfV,BCC+C15,VAM+A+WQ,annealed at 1473K for 24h and quenched; C15 laves is V2Hf,hardness,EXP,strain rate 3e-4/s,298.0,4869381231.232156,None,Pa,F8,10.1016/j.jallcom.2022.164849
+None,TiZrHf,HCP,VAM+A+WQ,annealed at 1473K for 24h and quenched,compressive yield stress,EXP,strain rate 3e-4/s,298.0,1000840336.13445,None,Pa,F9,10.1016/j.jallcom.2022.164849
+None,TiZrSc,HCP,VAM+A+WQ,annealed at 1473K for 24h and quenched,compressive yield stress,EXP,strain rate 3e-4/s,298.0,955462184.873949,None,Pa,F9,10.1016/j.jallcom.2022.164849
+None,TiZrHfSc,HCP+HCP,VAM+A+WQ,annealed at 1473K for 24h and quenched,compressive yield stress,EXP,strain rate 3e-4/s,298.0,799159663.865546,None,Pa,F9,10.1016/j.jallcom.2022.164849
+None,TiZrHfRu,BCC+B2,VAM+A+WQ,annealed at 1473K for 24h and quenched,compressive yield stress,EXP,strain rate 3e-4/s,298.0,1265546218.48739,None,Pa,F9,10.1016/j.jallcom.2022.164849
+None,TiZrHfAl,BCC+C14,VAM+A+WQ,annealed at 1473K for 24h and quenched; C14 laves is Zr2Al,compressive yield stress,EXP,strain rate 3e-4/s,298.0,1835294117.64705,None,Pa,F9,10.1016/j.jallcom.2022.164849
+None,TiZrHfV,BCC+C15,VAM+A+WQ,annealed at 1473K for 24h and quenched; C15 laves is V2Hf,compressive yield stress,EXP,strain rate 3e-4/s,298.0,1308403361.3445299,None,Pa,F9,10.1016/j.jallcom.2022.164849
+None,TiZrHf,HCP,VAM+A+WQ,annealed at 1473K for 24h and quenched,compressive yield stress,EXP,strain rate 3e-4/s,873.0,325210084.03361297,None,Pa,F9,10.1016/j.jallcom.2022.164849
+None,TiZrSc,HCP,VAM+A+WQ,annealed at 1473K for 24h and quenched,compressive yield stress,EXP,strain rate 3e-4/s,873.0,277310924.369747,None,Pa,F9,10.1016/j.jallcom.2022.164849
+None,TiZrHfSc,HCP+HCP,VAM+A+WQ,annealed at 1473K for 24h and quenched,compressive yield stress,EXP,strain rate 3e-4/s,873.0,373109243.697478,None,Pa,F9,10.1016/j.jallcom.2022.164849
+None,TiZrHfRu,BCC+B2,VAM+A+WQ,annealed at 1473K for 24h and quenched,compressive yield stress,EXP,strain rate 3e-4/s,873.0,806722689.07563,None,Pa,F9,10.1016/j.jallcom.2022.164849
+None,TiZrHfAl,BCC+C14,VAM+A+WQ,annealed at 1473K for 24h and quenched; C14 laves is Zr2Al,compressive yield stress,EXP,strain rate 3e-4/s,873.0,842016806.722689,None,Pa,F9,10.1016/j.jallcom.2022.164849
+None,TiZrHfV,BCC+C15,VAM+A+WQ,annealed at 1473K for 24h and quenched; C15 laves is V2Hf,compressive yield stress,EXP,strain rate 3e-4/s,873.0,315126050.420168,None,Pa,F9,10.1016/j.jallcom.2022.164849
+None,Ir4 Rh4 Ru2 W45 Mo45,BCC+HCP,AAM+H,homogenized in vacuum at 1800*C for 2h,compressive yield stress,EXP,dynamic strain rate from 1e-4/s to 3e-3/s,298.0,975000000.0,None,Pa,T5,10.1016/j.msea.2024.147018
+None,Ir12.46 Rh12.46 Ru5.08 W35 Mo35,BCC+HCP+B19,AAM+H,homogenized in vacuum at 1800*C for 2h,compressive yield stress,EXP,dynamic strain rate from 1e-4/s to 3e-3/s,298.0,1170000000.0,None,Pa,T5,10.1016/j.msea.2024.147018
+None,Ir21.59 Rh12.59 Ru8.81 W24 Mo24,HCP,AAM+H,homogenized in vacuum at 1800*C for 2h,compressive yield stress,EXP,dynamic strain rate from 1e-4/s to 3e-3/s,298.0,616000000.0,None,Pa,T5,10.1016/j.msea.2024.147018
+None,Ir37.37 Rh37.37 Ru15.25 W5 Mo5,FCC,AAM+H,homogenized in vacuum at 1800*C for 2h,compressive yield stress,EXP,dynamic strain rate from 1e-4/s to 3e-3/s,298.0,435000000.0,None,Pa,T5,10.1016/j.msea.2024.147018
+None,Ir4 Rh4 Ru2 W45 Mo45,BCC+HCP,AAM+H,homogenized in vacuum at 1800*C for 2h,compressive yield stress,EXP,dynamic strain rate from 1e-4/s to 3e-3/s,1773.0,173000000.0,None,Pa,T5,10.1016/j.msea.2024.147018
+None,Ir12.46 Rh12.46 Ru5.08 W35 Mo35,BCC+HCP+B19,AAM+H,homogenized in vacuum at 1800*C for 2h,compressive yield stress,EXP,dynamic strain rate from 1e-4/s to 3e-3/s,1773.0,139000000.0,None,Pa,T5,10.1016/j.msea.2024.147018
+None,Ir21.59 Rh12.59 Ru8.81 W24 Mo24,HCP,AAM+H,homogenized in vacuum at 1800*C for 2h,compressive yield stress,EXP,dynamic strain rate from 1e-4/s to 3e-3/s,1773.0,161000000.0,None,Pa,T5,10.1016/j.msea.2024.147018
+None,Ir37.37 Rh37.37 Ru15.25 W5 Mo5,FCC,AAM+H,homogenized in vacuum at 1800*C for 2h,compressive yield stress,EXP,dynamic strain rate from 1e-4/s to 3e-3/s,1773.0,166000000.0,None,Pa,T5,10.1016/j.msea.2024.147018
+None,Ir4 Rh4 Ru2 W45 Mo45,BCC+HCP,AAM+H,homogenized in vacuum at 1800*C for 2h,UCS,EXP,dynamic strain rate from 1e-4/s to 3e-3/s,298.0,1339000000.0,None,Pa,F7,10.1016/j.msea.2024.147018
+None,Ir12.46 Rh12.46 Ru5.08 W35 Mo35,BCC+HCP+B19,AAM+H,homogenized in vacuum at 1800*C for 2h,UCS,EXP,dynamic strain rate from 1e-4/s to 3e-3/s,298.0,1633000000.0,None,Pa,F7,10.1016/j.msea.2024.147018
+None,Ir21.59 Rh12.59 Ru8.81 W24 Mo24,HCP,AAM+H,homogenized in vacuum at 1800*C for 2h,UCS,EXP,dynamic strain rate from 1e-4/s to 3e-3/s,298.0,850000000.0,None,Pa,F7,10.1016/j.msea.2024.147018
+None,Ir37.37 Rh37.37 Ru15.25 W5 Mo5,FCC,AAM+H,homogenized in vacuum at 1800*C for 2h,UCS,EXP,dynamic strain rate from 1e-4/s to 3e-3/s,298.0,554000000.0,None,Pa,F7,10.1016/j.msea.2024.147018
+None,Ir4 Rh4 Ru2 W45 Mo45,BCC+HCP,AAM+H,homogenized in vacuum at 1800*C for 2h,UCS,EXP,dynamic strain rate from 1e-4/s to 3e-3/s,1773.0,269000000.0,None,Pa,F7,10.1016/j.msea.2024.147018
+None,Ir12.46 Rh12.46 Ru5.08 W35 Mo35,BCC+HCP+B19,AAM+H,homogenized in vacuum at 1800*C for 2h,UCS,EXP,dynamic strain rate from 1e-4/s to 3e-3/s,1773.0,227000000.0,None,Pa,F7,10.1016/j.msea.2024.147018
+None,Ir21.59 Rh12.59 Ru8.81 W24 Mo24,HCP,AAM+H,homogenized in vacuum at 1800*C for 2h,UCS,EXP,dynamic strain rate from 1e-4/s to 3e-3/s,1773.0,293000000.0,None,Pa,F7,10.1016/j.msea.2024.147018
+None,Ir37.37 Rh37.37 Ru15.25 W5 Mo5,FCC,AAM+H,homogenized in vacuum at 1800*C for 2h,UCS,EXP,dynamic strain rate from 1e-4/s to 3e-3/s,1773.0,260000000.0,None,Pa,F7,10.1016/j.msea.2024.147018
+None,Ir4 Rh4 Ru2 W45 Mo45,BCC+HCP,AAM+H,homogenized in vacuum at 1800*C for 2h,compressive ductility,EXP,dynamic strain rate from 1e-4/s to 3e-3/s,298.0,11.0,None,%,F8,10.1016/j.msea.2024.147018
+None,Ir12.46 Rh12.46 Ru5.08 W35 Mo35,BCC+HCP+B19,AAM+H,homogenized in vacuum at 1800*C for 2h,compressive ductility,EXP,dynamic strain rate from 1e-4/s to 3e-3/s,298.0,13.4,None,%,F8,10.1016/j.msea.2024.147018
+None,Ir21.59 Rh12.59 Ru8.81 W24 Mo24,HCP,AAM+H,homogenized in vacuum at 1800*C for 2h,compressive ductility,EXP,dynamic strain rate from 1e-4/s to 3e-3/s,298.0,21.3,None,%,F8,10.1016/j.msea.2024.147018
+None,Ir37.37 Rh37.37 Ru15.25 W5 Mo5,FCC,AAM+H,homogenized in vacuum at 1800*C for 2h,compressive ductility,EXP,dynamic strain rate from 1e-4/s to 3e-3/s,298.0,13.4,None,%,F8,10.1016/j.msea.2024.147018
+None,Ir4 Rh4 Ru2 W45 Mo45,BCC+HCP,AAM+H,homogenized in vacuum at 1800*C for 2h,compressive ductility,EXP,dynamic strain rate from 1e-4/s to 3e-3/s,1773.0,9.1,None,%,F8,10.1016/j.msea.2024.147018
+None,Ir12.46 Rh12.46 Ru5.08 W35 Mo35,BCC+HCP+B19,AAM+H,homogenized in vacuum at 1800*C for 2h,compressive ductility,EXP,dynamic strain rate from 1e-4/s to 3e-3/s,1773.0,16.7,None,%,F8,10.1016/j.msea.2024.147018
+None,Ir21.59 Rh12.59 Ru8.81 W24 Mo24,HCP,AAM+H,homogenized in vacuum at 1800*C for 2h,compressive ductility,EXP,dynamic strain rate from 1e-4/s to 3e-3/s,1773.0,21.4,None,%,F8,10.1016/j.msea.2024.147018
+None,Ir37.37 Rh37.37 Ru15.25 W5 Mo5,FCC,AAM+H,homogenized in vacuum at 1800*C for 2h,compressive ductility,EXP,dynamic strain rate from 1e-4/s to 3e-3/s,1773.0,15.9,None,%,F8,10.1016/j.msea.2024.147018
+None,Ti40Zr20Hf21Cr19,HCP+BCC+C15,VAM,None,density,EXP,archimedes method,298.0,7399.0,None,kg/m^3,T3,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf16Cr24,HCP+BCC+C15,VAM,None,density,EXP,archimedes method,298.0,6905.0,None,kg/m^3,T3,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf11Cr29,HCP+BCC+C15,VAM,None,density,EXP,archimedes method,298.0,6500.0,None,kg/m^3,T3,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf21Cr19,HCP+BCC+C15,VAM,None,compressive ductility,None,strain rate 1e-3/s,298.0,5.74,None,%,F7,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf16Cr24,HCP+BCC+C15,VAM,None,compressive ductility,None,strain rate 1e-3/s,298.0,6.46,None,%,F7,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf11Cr29,HCP+BCC+C15,VAM,None,compressive ductility,None,strain rate 1e-3/s,298.0,5.82,None,%,F7,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf21Cr19,HCP+BCC+C15,VAM,None,UCS,None,strain rate 1e-3/s,298.0,1388000000.0,None,Pa,T3,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf16Cr24,HCP+BCC+C15,VAM,None,UCS,None,strain rate 1e-3/s,298.0,1649000000.0,None,Pa,T3,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf11Cr29,HCP+BCC+C15,VAM,None,UCS,None,strain rate 1e-3/s,298.0,1468000000.0,None,Pa,T3,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf21Cr19,HCP+BCC+C15,VAM,None,compressive ductility,None,strain rate 1e-3/s,873.0,10.4,None,%,T4,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf16Cr24,HCP+BCC+C15,VAM,None,compressive ductility,None,strain rate 1e-3/s,873.0,6.1,None,%,T4,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf11Cr29,HCP+BCC+C15,VAM,None,compressive ductility,None,strain rate 1e-3/s,873.0,4.8,None,%,T4,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf21Cr19,HCP+BCC+C15,VAM,None,UCS,None,strain rate 1e-3/s,873.0,895000000.0,None,Pa,T4,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf16Cr24,HCP+BCC+C15,VAM,None,UCS,None,strain rate 1e-3/s,873.0,1262000000.0,None,Pa,T4,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf11Cr29,HCP+BCC+C15,VAM,None,UCS,None,strain rate 1e-3/s,873.0,884000000.0,None,Pa,T4,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf21Cr19,HCP+BCC+C15,VAM,None,minimum compressive ductility,None,strain rate 1e-3/s,1273.0,30.0,None,%,T4,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf16Cr24,HCP+BCC+C15,VAM,None,minimum compressive ductility,None,strain rate 1e-3/s,1273.0,30.0,None,%,T4,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf11Cr29,HCP+BCC+C15,VAM,None,minimum compressive ductility,None,strain rate 1e-3/s,1273.0,30.0,None,%,T4,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf21Cr19,HCP+BCC+C15,VAM,None,UCS,None,strain rate 1e-3/s,1273.0,29000000.0,None,Pa,T4,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf16Cr24,HCP+BCC+C15,VAM,None,UCS,None,strain rate 1e-3/s,1273.0,68000000.0,None,Pa,T4,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf11Cr29,HCP+BCC+C15,VAM,None,UCS,None,strain rate 1e-3/s,1273.0,31000000.0,None,Pa,T4,10.1016/j.matchar.2024.114393
