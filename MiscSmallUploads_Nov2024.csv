@@ -840,21 +840,21 @@ None,Ir37.37 Rh37.37 Ru15.25 W5 Mo5,FCC,AAM+H,homogenized in vacuum at 1800*C fo
 None,Ti40Zr20Hf21Cr19,HCP+BCC+C15,VAM,None,density,EXP,archimedes method,298.0,7399.0,None,kg/m^3,T3,10.1016/j.matchar.2024.114393
 None,Ti40Zr20Hf16Cr24,HCP+BCC+C15,VAM,None,density,EXP,archimedes method,298.0,6905.0,None,kg/m^3,T3,10.1016/j.matchar.2024.114393
 None,Ti40Zr20Hf11Cr29,HCP+BCC+C15,VAM,None,density,EXP,archimedes method,298.0,6500.0,None,kg/m^3,T3,10.1016/j.matchar.2024.114393
-None,Ti40Zr20Hf21Cr19,HCP+BCC+C15,VAM,None,compressive ductility,None,strain rate 1e-3/s,298.0,5.74,None,%,F7,10.1016/j.matchar.2024.114393
-None,Ti40Zr20Hf16Cr24,HCP+BCC+C15,VAM,None,compressive ductility,None,strain rate 1e-3/s,298.0,6.46,None,%,F7,10.1016/j.matchar.2024.114393
-None,Ti40Zr20Hf11Cr29,HCP+BCC+C15,VAM,None,compressive ductility,None,strain rate 1e-3/s,298.0,5.82,None,%,F7,10.1016/j.matchar.2024.114393
-None,Ti40Zr20Hf21Cr19,HCP+BCC+C15,VAM,None,UCS,None,strain rate 1e-3/s,298.0,1388000000.0,None,Pa,T3,10.1016/j.matchar.2024.114393
-None,Ti40Zr20Hf16Cr24,HCP+BCC+C15,VAM,None,UCS,None,strain rate 1e-3/s,298.0,1649000000.0,None,Pa,T3,10.1016/j.matchar.2024.114393
-None,Ti40Zr20Hf11Cr29,HCP+BCC+C15,VAM,None,UCS,None,strain rate 1e-3/s,298.0,1468000000.0,None,Pa,T3,10.1016/j.matchar.2024.114393
-None,Ti40Zr20Hf21Cr19,HCP+BCC+C15,VAM,None,compressive ductility,None,strain rate 1e-3/s,873.0,10.4,None,%,T4,10.1016/j.matchar.2024.114393
-None,Ti40Zr20Hf16Cr24,HCP+BCC+C15,VAM,None,compressive ductility,None,strain rate 1e-3/s,873.0,6.1,None,%,T4,10.1016/j.matchar.2024.114393
-None,Ti40Zr20Hf11Cr29,HCP+BCC+C15,VAM,None,compressive ductility,None,strain rate 1e-3/s,873.0,4.8,None,%,T4,10.1016/j.matchar.2024.114393
-None,Ti40Zr20Hf21Cr19,HCP+BCC+C15,VAM,None,UCS,None,strain rate 1e-3/s,873.0,895000000.0,None,Pa,T4,10.1016/j.matchar.2024.114393
-None,Ti40Zr20Hf16Cr24,HCP+BCC+C15,VAM,None,UCS,None,strain rate 1e-3/s,873.0,1262000000.0,None,Pa,T4,10.1016/j.matchar.2024.114393
-None,Ti40Zr20Hf11Cr29,HCP+BCC+C15,VAM,None,UCS,None,strain rate 1e-3/s,873.0,884000000.0,None,Pa,T4,10.1016/j.matchar.2024.114393
-None,Ti40Zr20Hf21Cr19,HCP+BCC+C15,VAM,None,minimum compressive ductility,None,strain rate 1e-3/s,1273.0,30.0,None,%,T4,10.1016/j.matchar.2024.114393
-None,Ti40Zr20Hf16Cr24,HCP+BCC+C15,VAM,None,minimum compressive ductility,None,strain rate 1e-3/s,1273.0,30.0,None,%,T4,10.1016/j.matchar.2024.114393
-None,Ti40Zr20Hf11Cr29,HCP+BCC+C15,VAM,None,minimum compressive ductility,None,strain rate 1e-3/s,1273.0,30.0,None,%,T4,10.1016/j.matchar.2024.114393
-None,Ti40Zr20Hf21Cr19,HCP+BCC+C15,VAM,None,UCS,None,strain rate 1e-3/s,1273.0,29000000.0,None,Pa,T4,10.1016/j.matchar.2024.114393
-None,Ti40Zr20Hf16Cr24,HCP+BCC+C15,VAM,None,UCS,None,strain rate 1e-3/s,1273.0,68000000.0,None,Pa,T4,10.1016/j.matchar.2024.114393
-None,Ti40Zr20Hf11Cr29,HCP+BCC+C15,VAM,None,UCS,None,strain rate 1e-3/s,1273.0,31000000.0,None,Pa,T4,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf21Cr19,HCP+BCC+C15,VAM,None,compressive ductility,EXP,strain rate 1e-3/s,298.0,5.74,None,%,F7,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf16Cr24,HCP+BCC+C15,VAM,None,compressive ductility,EXP,strain rate 1e-3/s,298.0,6.46,None,%,F7,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf11Cr29,HCP+BCC+C15,VAM,None,compressive ductility,EXP,strain rate 1e-3/s,298.0,5.82,None,%,F7,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf21Cr19,HCP+BCC+C15,VAM,None,UCS,EXP,strain rate 1e-3/s,298.0,1388000000.0,None,Pa,T3,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf16Cr24,HCP+BCC+C15,VAM,None,UCS,EXP,strain rate 1e-3/s,298.0,1649000000.0,None,Pa,T3,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf11Cr29,HCP+BCC+C15,VAM,None,UCS,EXP,strain rate 1e-3/s,298.0,1468000000.0,None,Pa,T3,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf21Cr19,HCP+BCC+C15,VAM,None,compressive ductility,EXP,strain rate 1e-3/s,873.0,10.4,None,%,T4,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf16Cr24,HCP+BCC+C15,VAM,None,compressive ductility,EXP,strain rate 1e-3/s,873.0,6.1,None,%,T4,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf11Cr29,HCP+BCC+C15,VAM,None,compressive ductility,EXP,strain rate 1e-3/s,873.0,4.8,None,%,T4,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf21Cr19,HCP+BCC+C15,VAM,None,UCS,EXP,strain rate 1e-3/s,873.0,895000000.0,None,Pa,T4,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf16Cr24,HCP+BCC+C15,VAM,None,UCS,EXP,strain rate 1e-3/s,873.0,1262000000.0,None,Pa,T4,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf11Cr29,HCP+BCC+C15,VAM,None,UCS,EXP,strain rate 1e-3/s,873.0,884000000.0,None,Pa,T4,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf21Cr19,HCP+BCC+C15,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,1273.0,30.0,None,%,T4,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf16Cr24,HCP+BCC+C15,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,1273.0,30.0,None,%,T4,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf11Cr29,HCP+BCC+C15,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,1273.0,30.0,None,%,T4,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf21Cr19,HCP+BCC+C15,VAM,None,UCS,EXP,strain rate 1e-3/s,1273.0,29000000.0,None,Pa,T4,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf16Cr24,HCP+BCC+C15,VAM,None,UCS,EXP,strain rate 1e-3/s,1273.0,68000000.0,None,Pa,T4,10.1016/j.matchar.2024.114393
+None,Ti40Zr20Hf11Cr29,HCP+BCC+C15,VAM,None,UCS,EXP,strain rate 1e-3/s,1273.0,31000000.0,None,Pa,T4,10.1016/j.matchar.2024.114393
