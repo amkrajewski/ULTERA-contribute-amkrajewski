@@ -5,3 +5,109 @@ Hand Fetched:,T
 Comment:,None
 
 id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
+None,Al25 Li25 Mg12.5 Ti37.5,D024+L10+gamma+HCP,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 550*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,density,EXP,None,298.0,2790.0,None,kg/m^3,T3,10.1016/j.intermet.2023.108089
+None,(Al25 Li25 Mg12.5 Ti37.5)0.95 Sc5,D024+L10+gamma+HCP,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 550*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,density,EXP,None,298.0,2820.0,None,kg/m^3,T3,10.1016/j.intermet.2023.108089
+None,(Al25 Li25 Mg12.5 Ti37.5)0.9 Sc10,C15+D024+L10+gamma+HCP,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 550*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,density,EXP,None,298.0,2770.0,None,kg/m^3,T3,10.1016/j.intermet.2023.108089
+None,(Al25 Li25 Mg12.5 Ti37.5)0.9 Sc15,C15+D024+L10+gamma+HCP,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 550*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,density,EXP,None,298.0,2650.0,None,kg/m^3,T3,10.1016/j.intermet.2023.108089
+None,(Al25 Li25 Mg12.5 Ti37.5)0.8 Sc20,HCP+gamma,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 550*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,density,EXP,None,298.0,2880.0,None,kg/m^3,T3,10.1016/j.intermet.2023.108089
+None,Al25 Li25 Mg12.5 Ti37.5,D024+L10+gamma+HCP,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 550*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,1772854205.6074688,73323364.48598428,Pa,F5,10.1016/j.intermet.2023.108089
+None,(Al25 Li25 Mg12.5 Ti37.5)0.95 Sc5,D024+L10+gamma+HCP,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 550*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,1919500934.5794377,73323364.48597452,Pa,F5,10.1016/j.intermet.2023.108089
+None,(Al25 Li25 Mg12.5 Ti37.5)0.9 Sc10,C15+D024+L10+gamma+HCP,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 550*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,2186607476.6355085,109985046.72897168,Pa,F5,10.1016/j.intermet.2023.108089
+None,(Al25 Li25 Mg12.5 Ti37.5)0.9 Sc15,C15+D024+L10+gamma+HCP,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 550*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,2328016822.429902,151884112.14953405,Pa,F5,10.1016/j.intermet.2023.108089
+None,(Al25 Li25 Mg12.5 Ti37.5)0.8 Sc20,HCP+gamma,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 550*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,3726398130.841121,83798130.8411147,Pa,F5,10.1016/j.intermet.2023.108089
+None,Al25 Li25 Mg12.5 Ti37.5,D024+L10+gamma,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 650*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,2747007476.635507,115222429.90654664,Pa,F5,10.1016/j.intermet.2023.108089
+None,(Al25 Li25 Mg12.5 Ti37.5)0.95 Sc5,D024+L10+gamma,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 650*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,2930315887.8504634,120459813.08411185,Pa,F5,10.1016/j.intermet.2023.108089
+None,(Al25 Li25 Mg12.5 Ti37.5)0.9 Sc10,C15+D024+L10+gamma,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 650*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,3008876635.514013,115222429.90654664,Pa,F5,10.1016/j.intermet.2023.108089
+None,(Al25 Li25 Mg12.5 Ti37.5)0.9 Sc15,C15+D024+L10+gamma,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 650*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,3160760747.663547,109985046.7289714,Pa,F5,10.1016/j.intermet.2023.108089
+None,(Al25 Li25 Mg12.5 Ti37.5)0.8 Sc20,C15+D024+L10+gamma+HCP,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 650*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,5779452336.448594,136171962.61681807,Pa,F5,10.1016/j.intermet.2023.108089
+None,NiCoCrFe,FCC+BCC,BM+SPS,milled untill SS and SPSed at 1173K for 45min under 45MPa,hardness,EXP,None,298.0,6099954000.0,68649000.0,Pa,T4,10.1016/j.jallcom.2021.161924
+None,NiCoCrFeZr0.4,FCC,BM+SPS,milled untill SS and SPSed at 1173K for 45min under 45MPa,hardness,EXP,None,298.0,8120196000.0,98070000.0,Pa,T4,10.1016/j.jallcom.2021.161924
+None,NiCoCrFe,FCC+BCC,BM+SPS,milled untill SS and SPSed at 1173K for 45min under 45MPa,nanohardness,EXP,None,298.0,6590304000.0,68649000.0,Pa,T4,10.1016/j.jallcom.2021.161924
+None,NiCoCrFeZr0.4,FCC,BM+SPS,milled untill SS and SPSed at 1173K for 45min under 45MPa,nanohardness,EXP,None,298.0,8286915000.0,98070000.0,Pa,T4,10.1016/j.jallcom.2021.161924
+None,NiCoCrFe,FCC+BCC,BM+SPS,milled untill SS and SPSed at 1173K for 45min under 45MPa,reduced elastic modulus,EXP,None,298.0,181500000000.0,None,Pa,T4,10.1016/j.jallcom.2021.161924
+None,NiCoCrFeZr0.4,FCC,BM+SPS,milled untill SS and SPSed at 1173K for 45min under 45MPa,reduced elastic modulus,EXP,None,298.0,189600000000.0,None,Pa,T4,10.1016/j.jallcom.2021.161924
+None,NiCoCrFe,FCC+BCC,BM+SPS,milled untill SS and SPSed at 1173K for 45min under 45MPa,saturation magnetization,EXP,None,298.0,83.0,None,Am^2/kg,T6,10.1016/j.jallcom.2021.161924
+None,NiCoCrFeZr0.4,FCC,BM+SPS,milled untill SS and SPSed at 1173K for 45min under 45MPa,saturation magnetization,EXP,None,298.0,70.0,None,Am^2/kg,T6,10.1016/j.jallcom.2021.161924
+None,NiCoCrFe,FCC+BCC,BM+SPS,milled untill SS and SPSed at 1173K for 45min under 45MPa,coercivity,EXP,None,298.0,716.197248,None,A/m,T6,10.1016/j.jallcom.2021.161924
+None,NiCoCrFeZr0.4,FCC,BM+SPS,milled untill SS and SPSed at 1173K for 45min under 45MPa,coercivity,EXP,None,298.0,1671.126912,None,A/m,T6,10.1016/j.jallcom.2021.161924
+None,AlCoCrCuFeNiTi,FCC+FCC+BCC+B2+sigma,BM+CIP+S,milled for 10h then pressed under 1.5GPa and sintered in vacuum at 1473K for 3h,hardness,EXP,None,298.0,5903814000.0,431508000.0,Pa,None,10.1007/s12613-019-1771-3
+None,AlCoCrCuFeNi,FCC+B2,BM+SPS,milled for 60h then SPS at 1023K under 80MPa for 15min,density,EXP,None,298.0,7120.0,None,kg/m^3,None,10.1016/j.actamat.2016.11.046
+None,AlCoCrCuFeNi,FCC+B2,BM+SPS,milled for 60h then SPS at 1023K under 80MPa for 15min,hardness,EXP,vickers load 100g,298.0,6501267427.12294,177439797.21166,Pa,F10,10.1016/j.actamat.2016.11.046
+None,AlCoCrCuFeNi,FCC+B2,BM+SPS,milled for 60h then SPS at 1023K under 80MPa for 15min,hardness,EXP,vickers load 300g,298.0,6599493029.15082,123574144.48669,Pa,F10,10.1016/j.actamat.2016.11.046
+None,AlCoCrCuFeNi,FCC+B2,BM+SPS,milled for 60h then SPS at 1023K under 80MPa for 15min,hardness,EXP,vickers load 500g,298.0,6501267427.12294,98225602.0278802,Pa,F10,10.1016/j.actamat.2016.11.046
+None,AlCoCrCuFeNi,FCC+B2,BM+SPS,milled for 60h then SPS at 1023K under 80MPa for 15min,nanohardness,EXP,peak load 1mN,298.0,8014267185.47341,269779507.13359,Pa,F11,10.1016/j.actamat.2016.11.046
+None,AlCoCrCuFeNi,FCC+B2,BM+SPS,milled for 60h then SPS at 1023K under 80MPa for 15min,nanohardness,EXP,peak load 8mN,298.0,8162127107.65239,233463035.01946,Pa,F11,10.1016/j.actamat.2016.11.046
+None,AlCoCrCuFeNi,FCC+B2,BM+SPS,milled for 60h then SPS at 1023K under 80MPa for 15min,reduced elastic modulus,EXP,peak load 8mN,298.0,172000000000.0,None,Pa,None,10.1016/j.actamat.2016.11.046
+None,FeCoNiCr,FCC,AAM,None,None,None,None,None,None,None,None,None,10.1016/j.matchemphys.2005.01.001
+None,FeCoNiCrCu0.5,FCC,AAM,None,None,None,None,None,None,None,None,None,10.1016/j.matchemphys.2005.01.001
+None,FeCoNiCrCu,FCC+FCC,AAM,None,None,None,None,None,None,None,None,None,10.1016/j.matchemphys.2005.01.001
+None,CuCoNiCrFe,FCC,AC,None,hardness,EXP,None,298.0,1304331000.0,None,Pa,T2,10.1007/s11661-006-0234-4
+None,CuCoNiCrAl0.5Fe,FCC,AC,None,hardness,EXP,None,298.0,2039856000.0,None,Pa,T2,10.1007/s11661-006-0234-4
+None,Cu0.5CoNiCrAl,BCC+FCC,AC,major BCC phase,hardness,EXP,None,298.0,4864272000.0,None,Pa,T2,10.1007/s11661-006-0234-4
+None,Cu0.5CoNiCrAl,BCC+FCC,SD,major BCC phase,hardness,EXP,None,298.0,8002512000.0,None,Pa,T2,10.1007/s11661-006-0234-4
+None, CuCoNiCrAlFeTiV,BCC+FCC,AC,two major phases,hardness,EXP,None,298.0,5491920000.0,None,Pa,T2,10.1007/s11661-006-0234-4
+None,CuCoNiCrAlFeTiV,BCC,RS,None,hardness,EXP,None,298.0,6531462000.0,None,Pa,T2,10.1007/s11661-006-0234-4
+None,MnCrFeCoNiCuAgWMoNbAlCdSnPbBiZnGeSiSbMg,FCC+5?,VIM,very brittle; not tested mechanically but used to derrive candidates based on FCC solid solution ,None,None,None,None,None,None,None,None,10.1016/j.msea.2003.10.257
+None,MnCrFeCoNiCuAgWMoNbAlCdSnPbZnMg,FCC+5?,VIM,very brittle; not tested mechanically but used to derrive candidates based on FCC solid solution ,None,None,None,None,None,None,None,None,10.1016/j.msea.2003.10.257
+None,MnCrFeCoNiCuAgWMoNbAlCdSnPbBiZnGeSiSbMg,FCC+5?,MS,very brittle; not tested mechanically but used to derrive candidates based on FCC solid solution ,None,None,None,None,None,None,None,None,10.1016/j.msea.2003.10.257
+None,MnCrFeCoNiCuAgWMoNbAlCdSnPbZnMg,FCC+5?,MS,very brittle; not tested mechanically but used to derrive candidates based on FCC solid solution ,None,None,None,None,None,None,None,None,10.1016/j.msea.2003.10.257
+None,Fe20Cr20Mn20Ni20Co20,FCC,VIM,the Cantor alloy,None,None,None,None,None,None,None,None,10.1016/j.msea.2003.10.257
+None,Fe Cr Mn Ni Co Nb,FCC,VIM,None,None,None,None,None,None,None,None,None,10.1016/j.msea.2003.10.257
+None,Fe Cr Mn Ni Co Ge,FCC+BCC+FCC,VIM,None,None,None,None,None,None,None,None,None,10.1016/j.msea.2003.10.257
+None,Fe Cr Mn Ni Co Cu,FCC+FCC,VIM,None,None,None,None,None,None,None,None,None,10.1016/j.msea.2003.10.257
+None,Fe Cr Mn Ni Co Ti,FCC+BCC,VIM,None,None,None,None,None,None,None,None,None,10.1016/j.msea.2003.10.257
+None,Fe Cr Mn Ni Co V,FCC+?,VIM,None,None,None,None,None,None,None,None,None,10.1016/j.msea.2003.10.257
+None,Zr41.2Ti13.8Cu12.5Ni10.0Be22.5,amorphous,VIM,glassy state retained upon slow 10K/s cooling; extremely ductile at 99.9% rolling reduction,hardness,EXP,None,298.0,5738000000.0,None,Pa,None,10.1063/1.110520
+None,Zr62Cu20Ni8Al10,amorphous,RS,None,None,None,None,None,None,None,None,None,10.1063/1.122980
+None,Zr59Ti3Cu20Ni8Al10,amorphous,RS,None,None,None,None,None,None,None,None,None,10.1063/1.122980
+None,Zr62Cu20Ni8Al10,amorphous+C11b+E93,RS+A,E93 is NiZr2 and C11b is CuZr2; heated until first exothermic event (around 700K) for a few minutes,None,None,None,None,None,None,None,None,10.1063/1.122980
+None,Zr59Ti3Cu20Ni8Al10,amorphous+quasicrystals,RS+A,heated until first exothermic event (around 700K) for a few minutes,None,None,None,None,None,None,None,None,10.1063/1.122980
+None,Zr57Ti5Cu20Ni8Al10,amorphous,RS,None,hardness,EXP,strain rate 3e-4/s,298.0,5001570000.0,None,Pa,T1,10.1063/1.122980
+None,Zr57Ti5Cu20Ni8Al10,amorphous,RS+A,heated until first exothermic event (around 700K) for a few minutes,hardness,EXP,strain rate 3e-4/s,298.0,5197710000.0,None,Pa,T1,10.1063/1.122980
+None,Zr57Ti5Cu20Ni8Al10,amorphous+quasicrystals,RS+HT,annealed at 673K fro short time to arrive at equal icosahedral quasicrystal population (50%),hardness,EXP,strain rate 3e-4/s,298.0,5786130000.0,None,Pa,T1,10.1063/1.122980
+None,Zr57Ti5Cu20Ni8Al10,amorphous+quasicrystals,RS+HT,annealed at 673K fro short time to arrive at majority icosahedral quasicrystal population (78%),hardness,EXP,strain rate 3e-4/s,298.0,6472620000.0,None,Pa,T1,10.1063/1.122980
+None,Zr57Ti5Cu20Ni8Al10,amorphous,RS,None,youngs modulus,EXP,strain rate 3e-4/s,298.0,65000000000.0,None,Pa,T1,10.1063/1.122980
+None,Zr57Ti5Cu20Ni8Al10,amorphous,RS+A,heated until first exothermic event (around 700K) for a few minutes,youngs modulus,EXP,strain rate 3e-4/s,298.0,70000000000.0,None,Pa,T1,10.1063/1.122980
+None,Zr57Ti5Cu20Ni8Al10,amorphous+quasicrystals,RS+HT,annealed at 673K fro short time to arrive at minority icosahedral quasicrystal population (14%),youngs modulus,EXP,strain rate 3e-4/s,298.0,71000000000.0,None,Pa,T1,10.1063/1.122980
+None,Zr57Ti5Cu20Ni8Al10,amorphous+quasicrystals,RS+HT,annealed at 673K fro short time to arrive at equal icosahedral quasicrystal population (50%),youngs modulus,EXP,strain rate 3e-4/s,298.0,72000000000.0,None,Pa,T1,10.1063/1.122980
+None,Zr57Ti5Cu20Ni8Al10,amorphous+quasicrystals,RS+HT,annealed at 673K fro short time to arrive at majority icosahedral quasicrystal population (78%),youngs modulus,EXP,strain rate 3e-4/s,298.0,70000000000.0,None,Pa,T1,10.1063/1.122980
+None,Zr57Ti5Cu20Ni8Al10,amorphous,RS,None,compressive fracture strength,EXP,strain rate 3e-4/s,298.0,1680000000.0,None,Pa,T1,10.1063/1.122980
+None,Zr57Ti5Cu20Ni8Al10,amorphous,RS+A,heated until first exothermic event (around 700K) for a few minutes,compressive fracture strength,EXP,strain rate 3e-4/s,298.0,1741000000.0,None,Pa,T1,10.1063/1.122980
+None,Zr57Ti5Cu20Ni8Al10,amorphous+quasicrystals,RS+HT,annealed at 673K fro short time to arrive at minority icosahedral quasicrystal population (14%),compressive fracture strength,EXP,strain rate 3e-4/s,298.0,1695000000.0,None,Pa,T1,10.1063/1.122980
+None,Zr57Ti5Cu20Ni8Al10,amorphous+quasicrystals,RS+HT,annealed at 673K fro short time to arrive at equal icosahedral quasicrystal population (50%),compressive fracture strength,EXP,strain rate 3e-4/s,298.0,1835000000.0,None,Pa,T1,10.1063/1.122980
+None,Zr57Ti5Cu20Ni8Al10,amorphous+quasicrystals,RS+HT,annealed at 673K fro short time to arrive at majority icosahedral quasicrystal population (78%),compressive fracture strength,EXP,strain rate 3e-4/s,298.0,1169000000.0,None,Pa,T1,10.1063/1.122980
+None,Zr57Ti5Cu20Ni8Al10,amorphous,RS,None,compressive yield stress,EXP,strain rate 3e-4/s,298.0,1520000000.0,None,Pa,T1,10.1063/1.122980
+None,Zr57Ti5Cu20Ni8Al10,amorphous,RS+A,heated until first exothermic event (around 700K) for a few minutes,compressive yield stress,EXP,strain rate 3e-4/s,298.0,1634000000.0,None,Pa,T1,10.1063/1.122980
+None,Zr57Ti5Cu20Ni8Al10,amorphous+quasicrystals,RS+HT,annealed at 673K fro short time to arrive at minority icosahedral quasicrystal population (14%),compressive yield stress,EXP,strain rate 3e-4/s,298.0,1556000000.0,None,Pa,T1,10.1063/1.122980
+None,Zr57Ti5Cu20Ni8Al10,amorphous+quasicrystals,RS+HT,annealed at 673K fro short time to arrive at equal icosahedral quasicrystal population (50%),compressive yield stress,EXP,strain rate 3e-4/s,298.0,1673000000.0,None,Pa,T1,10.1063/1.122980
+None,Zr57Ti5Cu20Ni8Al10,amorphous,RS,None,compressive ductility,EXP,strain rate 3e-4/s,298.0,3.8,None,%,T1,10.1063/1.122980
+None,Zr57Ti5Cu20Ni8Al10,amorphous,RS+A,heated until first exothermic event (around 700K) for a few minutes,compressive ductility,EXP,strain rate 3e-4/s,298.0,3.6,None,%,T1,10.1063/1.122980
+None,Zr57Ti5Cu20Ni8Al10,amorphous+quasicrystals,RS+HT,annealed at 673K fro short time to arrive at minority icosahedral quasicrystal population (14%),compressive ductility,EXP,strain rate 3e-4/s,298.0,3.1,None,%,T1,10.1063/1.122980
+None,Zr57Ti5Cu20Ni8Al10,amorphous+quasicrystals,RS+HT,annealed at 673K fro short time to arrive at equal icosahedral quasicrystal population (50%),compressive ductility,EXP,strain rate 3e-4/s,298.0,3.0,None,%,T1,10.1063/1.122980
+None,Zr57Ti5Cu20Ni8Al10,amorphous+quasicrystals,RS+HT,annealed at 673K fro short time to arrive at majority icosahedral quasicrystal population (78%),compressive ductility,EXP,strain rate 3e-4/s,298.0,1.9,None,%,T1,10.1063/1.122980
+None,Ta55Zr10Ni10Al10Cu15,BCC,MA,ball milled for 130ks; supersaturated BCC solid solution reported,None,None,None,None,None,None,None,None,10.1016/S0925-8388(02)00928-3
+None,Ta55Zr10Ni10Al10Cu15,amorphous,MA,ball milled for 1080ks,None,None,None,None,None,None,None,None,10.1016/S0925-8388(02)00928-3
+None,Ti60Cu14Ni12Sn4Mo10,BCC+?,AAM,None,youngs modulus,EXP,strain rate 1e-4/s,298.0,103000000000.0,None,Pa,T1,10.1016/S0142-9612(03)00440-X
+None,Ti60Cu14Ni12Sn4Nb10,BCC+HCP+?,AAM,None,youngs modulus,EXP,strain rate 1e-4/s,298.0,59000000000.0,None,Pa,T1,10.1016/S0142-9612(03)00440-X
+None,Ti60Cu14Ni12Sn4Mo12Ta10,BCC+HCP+?,AAM,None,youngs modulus,EXP,strain rate 1e-4/s,298.0,71000000000.0,None,Pa,T1,10.1016/S0142-9612(03)00440-X
+None,Ti60Cu14Ni12Sn4Mo13Ta10,BCC+?,AAM+Q,None,youngs modulus,EXP,strain rate 1e-4/s,298.0,69000000000.0,None,Pa,T1,10.1016/S0142-9612(03)00440-X
+None,Ti60Cu14Ni12Sn4Mo14Ta10,BCC+?,AAM+Q,None,youngs modulus,EXP,strain rate 1e-4/s,298.0,73000000000.0,None,Pa,T1,10.1016/S0142-9612(03)00440-X
+None,Ti60Cu14Ni12Sn4Mo14Ta10,None,AAM+A,annealed at 973K for 10min,youngs modulus,EXP,strain rate 1e-4/s,298.0,96000000000.0,None,Pa,T1,10.1016/S0142-9612(03)00440-X
+None,Ti60Cu14Ni12Sn4Mo10,BCC+?,AAM,None,compressive yield stress,EXP,strain rate 1e-4/s,298.0,1169000000.0,None,Pa,T1,10.1016/S0142-9612(03)00440-X
+None,Ti60Cu14Ni12Sn4Nb10,BCC+HCP+?,AAM,None,compressive yield stress,EXP,strain rate 1e-4/s,298.0,1052000000.0,None,Pa,T1,10.1016/S0142-9612(03)00440-X
+None,Ti60Cu14Ni12Sn4Mo12Ta10,BCC+HCP+?,AAM,None,compressive yield stress,EXP,strain rate 1e-4/s,298.0,1037000000.0,None,Pa,T1,10.1016/S0142-9612(03)00440-X
+None,Ti60Cu14Ni12Sn4Mo13Ta10,BCC+?,AAM+Q,None,compressive yield stress,EXP,strain rate 1e-4/s,298.0,1755000000.0,None,Pa,T1,10.1016/S0142-9612(03)00440-X
+None,Ti60Cu14Ni12Sn4Mo14Ta10,BCC+?,AAM+Q,None,compressive yield stress,EXP,strain rate 1e-4/s,298.0,1525000000.0,None,Pa,T1,10.1016/S0142-9612(03)00440-X
+None,Ti60Cu14Ni12Sn4Mo14Ta10,None,AAM+A,annealed at 973K for 10min,compressive yield stress,EXP,strain rate 1e-4/s,298.0,1770000000.0,None,Pa,T1,10.1016/S0142-9612(03)00440-X
+None,Ti60Cu14Ni12Sn4Mo10,BCC+?,AAM,None,UCS,EXP,strain rate 1e-4/s,298.0,2578000000.0,None,Pa,T1,10.1016/S0142-9612(03)00440-X
+None,Ti60Cu14Ni12Sn4Nb10,BCC+HCP+?,AAM,None,UCS,EXP,strain rate 1e-4/s,298.0,2345000000.0,None,Pa,T1,10.1016/S0142-9612(03)00440-X
+None,Ti60Cu14Ni12Sn4Mo12Ta10,BCC+HCP+?,AAM,None,UCS,EXP,strain rate 1e-4/s,298.0,2196000000.0,None,Pa,T1,10.1016/S0142-9612(03)00440-X
+None,Ti60Cu14Ni12Sn4Mo13Ta10,BCC+?,AAM+Q,None,UCS,EXP,strain rate 1e-4/s,298.0,2440000000.0,None,Pa,T1,10.1016/S0142-9612(03)00440-X
+None,Ti60Cu14Ni12Sn4Mo14Ta10,BCC+?,AAM+Q,None,UCS,EXP,strain rate 1e-4/s,298.0,2282000000.0,None,Pa,T1,10.1016/S0142-9612(03)00440-X
+None,Ti60Cu14Ni12Sn4Mo14Ta10,None,AAM+A,annealed at 973K for 10min,UCS,EXP,strain rate 1e-4/s,298.0,2285000000.0,None,Pa,T1,10.1016/S0142-9612(03)00440-X
+None,Ti60Cu14Ni12Sn4Mo10,BCC+?,AAM,None,compressive ductility,EXP,strain rate 1e-4/s,298.0,18.7981818182,None,%,F5,10.1016/S0142-9612(03)00440-X
+None,Ti60Cu14Ni12Sn4Nb10,BCC+HCP+?,AAM,None,compressive ductility,EXP,strain rate 1e-4/s,298.0,22.4163636364,None,%,F5,10.1016/S0142-9612(03)00440-X
+None,Ti60Cu14Ni12Sn4Mo12Ta10,BCC+HCP+?,AAM,None,compressive ductility,EXP,strain rate 1e-4/s,298.0,16.7981818182,None,%,F5,10.1016/S0142-9612(03)00440-X
+None,Ti60Cu14Ni12Sn4Mo13Ta10,BCC+?,AAM+Q,None,compressive ductility,EXP,strain rate 1e-4/s,298.0,7.0336363636,None,%,F5,10.1016/S0142-9612(03)00440-X
+None,Ti60Cu14Ni12Sn4Mo14Ta10,BCC+?,AAM+Q,None,compressive ductility,EXP,strain rate 1e-4/s,298.0,8.07,None,%,F5,10.1016/S0142-9612(03)00440-X
+None,Ti60Cu14Ni12Sn4Mo14Ta10,None,AAM+A,annealed at 973K for 10min,compressive ductility,EXP,strain rate 1e-4/s,298.0,3.5609090909,None,%,F5,10.1016/S0142-9612(03)00440-X
