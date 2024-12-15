@@ -10,16 +10,16 @@ None,(Al25 Li25 Mg12.5 Ti37.5)0.95 Sc5,D024+L10+gamma+HCP,BM+CIP+S,ball milled w
 None,(Al25 Li25 Mg12.5 Ti37.5)0.9 Sc10,C15+D024+L10+gamma+HCP,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 550*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,density,EXP,None,298.0,2770.0,None,kg/m^3,T3,10.1016/j.intermet.2023.108089
 None,(Al25 Li25 Mg12.5 Ti37.5)0.9 Sc15,C15+D024+L10+gamma+HCP,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 550*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,density,EXP,None,298.0,2650.0,None,kg/m^3,T3,10.1016/j.intermet.2023.108089
 None,(Al25 Li25 Mg12.5 Ti37.5)0.8 Sc20,HCP+gamma,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 550*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,density,EXP,None,298.0,2880.0,None,kg/m^3,T3,10.1016/j.intermet.2023.108089
-None,Al25 Li25 Mg12.5 Ti37.5,D024+L10+gamma+HCP,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 550*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,1772854205.60747,73323364.4859843,Pa,F5,10.1016/j.intermet.2023.108089
-None,(Al25 Li25 Mg12.5 Ti37.5)0.95 Sc5,D024+L10+gamma+HCP,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 550*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,1919500934.57944,73323364.4859745,Pa,F5,10.1016/j.intermet.2023.108089
-None,(Al25 Li25 Mg12.5 Ti37.5)0.9 Sc10,C15+D024+L10+gamma+HCP,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 550*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,2186607476.63551,109985046.728972,Pa,F5,10.1016/j.intermet.2023.108089
-None,(Al25 Li25 Mg12.5 Ti37.5)0.9 Sc15,C15+D024+L10+gamma+HCP,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 550*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,2328016822.4299,151884112.149534,Pa,F5,10.1016/j.intermet.2023.108089
-None,(Al25 Li25 Mg12.5 Ti37.5)0.8 Sc20,HCP+gamma,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 550*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,3726398130.84112,83798130.8411151,Pa,F5,10.1016/j.intermet.2023.108089
-None,Al25 Li25 Mg12.5 Ti37.5,D024+L10+gamma,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 650*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,2747007476.63551,115222429.906547,Pa,F5,10.1016/j.intermet.2023.108089
-None,(Al25 Li25 Mg12.5 Ti37.5)0.95 Sc5,D024+L10+gamma,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 650*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,2930315887.85046,120459813.084112,Pa,F5,10.1016/j.intermet.2023.108089
-None,(Al25 Li25 Mg12.5 Ti37.5)0.9 Sc10,C15+D024+L10+gamma,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 650*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,3008876635.51401,115222429.906547,Pa,F5,10.1016/j.intermet.2023.108089
-None,(Al25 Li25 Mg12.5 Ti37.5)0.9 Sc15,C15+D024+L10+gamma,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 650*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,3160760747.66355,109985046.728972,Pa,F5,10.1016/j.intermet.2023.108089
-None,(Al25 Li25 Mg12.5 Ti37.5)0.8 Sc20,C15+D024+L10+gamma+HCP,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 650*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,5779452336.44859,136171962.616818,Pa,F5,10.1016/j.intermet.2023.108089
+None,Al25 Li25 Mg12.5 Ti37.5,D024+L10+gamma+HCP,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 550*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,1772854205.6074688,73323364.48598428,Pa,F5,10.1016/j.intermet.2023.108089
+None,(Al25 Li25 Mg12.5 Ti37.5)0.95 Sc5,D024+L10+gamma+HCP,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 550*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,1919500934.5794377,73323364.48597452,Pa,F5,10.1016/j.intermet.2023.108089
+None,(Al25 Li25 Mg12.5 Ti37.5)0.9 Sc10,C15+D024+L10+gamma+HCP,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 550*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,2186607476.6355085,109985046.72897168,Pa,F5,10.1016/j.intermet.2023.108089
+None,(Al25 Li25 Mg12.5 Ti37.5)0.9 Sc15,C15+D024+L10+gamma+HCP,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 550*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,2328016822.429902,151884112.14953405,Pa,F5,10.1016/j.intermet.2023.108089
+None,(Al25 Li25 Mg12.5 Ti37.5)0.8 Sc20,HCP+gamma,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 550*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,3726398130.841121,83798130.8411147,Pa,F5,10.1016/j.intermet.2023.108089
+None,Al25 Li25 Mg12.5 Ti37.5,D024+L10+gamma,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 650*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,2747007476.635507,115222429.90654664,Pa,F5,10.1016/j.intermet.2023.108089
+None,(Al25 Li25 Mg12.5 Ti37.5)0.95 Sc5,D024+L10+gamma,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 650*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,2930315887.8504634,120459813.08411185,Pa,F5,10.1016/j.intermet.2023.108089
+None,(Al25 Li25 Mg12.5 Ti37.5)0.9 Sc10,C15+D024+L10+gamma,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 650*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,3008876635.514013,115222429.90654664,Pa,F5,10.1016/j.intermet.2023.108089
+None,(Al25 Li25 Mg12.5 Ti37.5)0.9 Sc15,C15+D024+L10+gamma,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 650*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,3160760747.663547,109985046.7289714,Pa,F5,10.1016/j.intermet.2023.108089
+None,(Al25 Li25 Mg12.5 Ti37.5)0.8 Sc20,C15+D024+L10+gamma+HCP,BM+CIP+S,ball milled with steel balls for 30h then cold pressed at 2GPa for 2min and sintered at 650*C for 2h and slowly cooled; D024 is β-AlTi3; L10 is α-AlTi; gamma is Al12Mg17; C15 is Al2Sc,hardness,EXP,None,298.0,5779452336.448594,136171962.61681807,Pa,F5,10.1016/j.intermet.2023.108089
 None,NiCoCrFe,FCC+BCC,BM+SPS,milled untill SS and SPSed at 1173K for 45min under 45MPa,hardness,EXP,None,298.0,6099954000.0,68649000.0,Pa,T4,10.1016/j.jallcom.2021.161924
 None,NiCoCrFeZr0.4,FCC,BM+SPS,milled untill SS and SPSed at 1173K for 45min under 45MPa,hardness,EXP,None,298.0,8120196000.0,98070000.0,Pa,T4,10.1016/j.jallcom.2021.161924
 None,NiCoCrFe,FCC+BCC,BM+SPS,milled untill SS and SPSed at 1173K for 45min under 45MPa,nanohardness,EXP,None,298.0,6590304000.0,68649000.0,Pa,T4,10.1016/j.jallcom.2021.161924
@@ -112,3 +112,96 @@ None,Ti60Cu14Ni12Sn4Mo13Ta10,BCC+?,AAM+Q,None,compressive ductility,EXP,strain r
 None,Ti60Cu14Ni12Sn4Mo14Ta10,BCC+?,AAM+Q,None,compressive ductility,EXP,strain rate 1e-4/s,298.0,8.07,None,%,F5,10.1016/S0142-9612(03)00440-X
 None,Ti60Cu14Ni12Sn4Mo14Ta10,None,AAM+A,annealed at 973K for 10min,compressive ductility,EXP,strain rate 1e-4/s,298.0,3.5609090909,None,%,F5,10.1016/S0142-9612(03)00440-X
 None,MgCaAlLiCu,tetragonal,AAM,None,compressive fracture strength,EXP,strain rate 1e-3/s,298.0,910000000.0,None,Pa,None,10.4028/www.scientific.net/KEM.727.132
+None,CoCrFeNiB,FCC+Cb+D011,AAM,Cb is Cr2B (oF48-Mg2Cu); D011 is Co3B (oP16-Fe3C),None,None,None,None,None,None,None,None,10.1016/j.jallcom.2021.163388
+None,CoCrFeNiB,FCC+Cb+D011+Cr2B,AAM+H,homogenized at 1373K for 48h; Cb is Cr2B (oF48-Mg2Cu); D011 is Co3B (oP16-Fe3C); Cr2B has tI12 SG,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2021.163388
+None,CoCrFeNiB,FCC+Cb+D011+Cr2B,AAM+H+A+WQ,homogenized at 1373K for 48h; annealed at 1173K for 240h; Cb is Cr2B (oF48-Mg2Cu); D011 is Co3B (oP16-Fe3C); Cr2B has tI12 SG,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2021.163388
+None,CoCrFeNiB,FCC+Cb+D011+Cr2B+B33,AAM+H+A+WQ,homogenized at 1373K for 48h; annealed at 973K for 480h; Cb is Cr2B (oF48-Mg2Cu); D011 is Co3B (oP16-Fe3C); Cr2B has tI12 SG; B33 is CrB,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2021.163388
+None,CoCrFeNiB,FCC+Cb+D011+Cr2B,AAM+H+A+WQ,homogenized at 1373K for 48h; annealed at 773K for 720h; Cb is Cr2B (oF48-Mg2Cu); D011 is Co3B (oP16-Fe3C); Cr2B has tI12 SG,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2021.163388
+None,CoCrFeNiAl,BCC+B2,AAM,interesting modulated spinodal BCC+B2 structure,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2021.163388
+None,CoCrFeNiAl,BCC+B2+FCC,AAM+H,homogenized at 1373K for 48h,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2021.163388
+None,CoCrFeNiAl,FCC+B2+sigma,AAM+H+A+WQ,homogenized at 1373K for 48h; annealed at 1173K for 240h,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2021.163388
+None,CoCrFeNiAl,FCC+B2+sigma,AAM+H+A+WQ,homogenized at 1373K for 48h; annealed at 973K for 480h,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2021.163388
+None,CoCrFeNiAl,FCC+BCC+B2,AAM+H+A+WQ,homogenized at 1373K for 48h; annealed at 773K for 720h,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2021.163388
+None,CoCrFeNiGa,FCC+BCC+B2,AAM,None,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2021.163388
+None,CoCrFeNiGa,FCC+BCC,AAM+H,homogenized at 1373K for 48h,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2021.163388
+None,CoCrFeNiGa,FCC+BCC,AAM+H+A+WQ,homogenized at 1373K for 48h; annealed at 1173K for 240h,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2021.163388
+None,CoCrFeNiGa,FCC+BCC+sigma,AAM+H+A+WQ,homogenized at 1373K for 48h; annealed at 973K for 480h,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2021.163388
+None,CoCrFeNiGa,FCC+BCC+sigma,AAM+H+A+WQ,homogenized at 1373K for 48h; annealed at 773K for 720h,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2021.163388
+None,CoCrFeNiY,BCC+B27+Y2Ni17+YCo3,VAM,B27 is YNi (oP8-FeB-b); Y2Ni17 has structure (hP38-Th2Ni17); YCo3 has structure (hR36-PuNi3),None,None,None,None,None,None,None,None,10.1016/j.jallcom.2016.10.286
+None,CoCrFeNiTi,chi+C14+D024,VAM,chi has structure (cI58-Ti5Re24); D024 aka eta-Ni3Ti has structure (hP16-TiNi3),None,None,None,None,None,None,None,None,10.1016/j.jallcom.2016.10.286
+None,CoCrFeNiZr,BCC+C15,VAM,None,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2016.10.286
+None,CoCrFeNiHf,BCC+C36,VAM,None,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2016.10.286
+None,CoCrFeNiV,FCC+sigma,VAM,None,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2016.10.286
+None,CoCrFeNiNb,FCC+C14,VAM,None,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2016.10.286
+None,CoCrFeNiTa,FCC+C14,VAM,None,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2016.10.286
+None,CoCr2FeNi,FCC+BCC,VAM,None,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2016.10.286
+None,CoCrFeNiMo,FCC+sigma,VAM,None,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2016.10.286
+None,CoCrFeNiW,FCC+D85,VAM,D85 aka mu is (hR39-W6Fe7),None,None,None,None,None,None,None,None,10.1016/j.jallcom.2016.10.286
+None,FeCr1.2Ni1.1Al,BCC+B2,AAM,minor B2 phase could have been missed by others,density,EXP,None,298.0,6600.0,None,kg/m^3,T4,10.1016/j.jallcom.2020.155929
+None,FeCr1.2Ni1.3Al,BCC+B2,AAM,minor B2 phase could have been missed by others,density,EXP,None,298.0,6740.0,None,kg/m^3,T4,10.1016/j.jallcom.2020.155929
+None,FeCr1.2Ni1.5Al,BCC+B2,AAM,minor B2 phase could have been missed by others,density,EXP,None,298.0,6850.0,None,kg/m^3,T4,10.1016/j.jallcom.2020.155929
+None,FeCr1.2Ni1.1Al,BCC+B2,AAM,minor B2 phase could have been missed by others,hardness,EXP,None,298.0,4506316500.0,None,Pa,T4,10.1016/j.jallcom.2020.155929
+None,FeCr1.2Ni1.3Al,BCC+B2,AAM,minor B2 phase could have been missed by others,hardness,EXP,None,298.0,4597521600.0,None,Pa,T4,10.1016/j.jallcom.2020.155929
+None,FeCr1.2Ni1.5Al,BCC+B2,AAM,minor B2 phase could have been missed by others,hardness,EXP,None,298.0,4704417900.0,None,Pa,T4,10.1016/j.jallcom.2020.155929
+None,FeCr1.2Ni1.1Al,BCC+B2,AAM,minor B2 phase could have been missed by others,UCS,EXP,None,298.0,2783000000.0,None,Pa,T5,10.1016/j.jallcom.2020.155929
+None,FeCr1.2Ni1.3Al,BCC+B2,AAM,minor B2 phase could have been missed by others,UCS,EXP,None,298.0,3069000000.0,None,Pa,T5,10.1016/j.jallcom.2020.155929
+None,FeCr1.2Ni1.5Al,BCC+B2,AAM,minor B2 phase could have been missed by others,UCS,EXP,None,298.0,3184000000.0,None,Pa,T5,10.1016/j.jallcom.2020.155929
+None,FeCr1.2Ni1.1Al,BCC+B2,AAM,minor B2 phase could have been missed by others,compressive yield stress,EXP,None,298.0,1348000000.0,None,Pa,T5,10.1016/j.jallcom.2020.155929
+None,FeCr1.2Ni1.3Al,BCC+B2,AAM,minor B2 phase could have been missed by others,compressive yield stress,EXP,None,298.0,1413000000.0,None,Pa,T5,10.1016/j.jallcom.2020.155929
+None,FeCr1.2Ni1.5Al,BCC+B2,AAM,minor B2 phase could have been missed by others,compressive yield stress,EXP,None,298.0,1459000000.0,None,Pa,T5,10.1016/j.jallcom.2020.155929
+None,FeCr1.2Ni1.1Al,BCC+B2,AAM,minor B2 phase could have been missed by others,compressive ductility,EXP,None,298.0,33.9,None,%,T5,10.1016/j.jallcom.2020.155929
+None,FeCr1.2Ni1.3Al,BCC+B2,AAM,minor B2 phase could have been missed by others,compressive ductility,EXP,None,298.0,35.9,None,%,T5,10.1016/j.jallcom.2020.155929
+None,FeCr1.2Ni1.5Al,BCC+B2,AAM,minor B2 phase could have been missed by others,compressive ductility,EXP,None,298.0,36.6,None,%,T5,10.1016/j.jallcom.2020.155929
+None,FeCr1.2Ni1.1Al,BCC+B2,AAM,minor B2 phase could have been missed by others,UCS,EXP,None,1173.0,281000000.0,None,Pa,F7,10.1016/j.jallcom.2020.155929
+None,FeCr1.2Ni1.3Al,BCC+B2,AAM,minor B2 phase could have been missed by others,UCS,EXP,None,1173.0,255000000.0,None,Pa,F7,10.1016/j.jallcom.2020.155929
+None,FeCr1.2Ni1.5Al,BCC+B2,AAM,minor B2 phase could have been missed by others,UCS,EXP,None,1173.0,218000000.0,None,Pa,F7,10.1016/j.jallcom.2020.155929
+None,FeCr1.2Ni1.1Al,BCC+B2,AAM,minor B2 phase could have been missed by others,minimum compressive ductility,EXP,None,1173.0,45.0,None,%,F7,10.1016/j.jallcom.2020.155929
+None,FeCr1.2Ni1.3Al,BCC+B2,AAM,minor B2 phase could have been missed by others,minimum compressive ductility,EXP,None,1173.0,45.0,None,%,F7,10.1016/j.jallcom.2020.155929
+None,FeCr1.2Ni1.5Al,BCC+B2,AAM,minor B2 phase could have been missed by others,minimum compressive ductility,EXP,None,1173.0,45.0,None,%,F7,10.1016/j.jallcom.2020.155929
+None,FeCr1.2Ni1.5Al,BCC+B2,AAM,minor B2 phase could have been missed by others,solidus temperature,EXP,None,None,1621.0,None,K,None,10.1016/j.jallcom.2024.178025
+None,FeCr1.2Ni1.5Al,BCC+B2,AAM,minor B2 phase could have been missed by others,liquidus temperature,EXP,None,None,1655.0,None,K,None,10.1016/j.jallcom.2024.178025
+None,FeCr1.2Ni1.5Al,BCC+B2,AAM,minor B2 phase could have been missed by others,electrical resistivity,EXP,None,298.0,5.4e-07,None,Ohm m,None,10.1016/j.jallcom.2024.178025
+None,FeCr1.2Ni1.5Al,BCC+B2,AAM,minor B2 phase could have been missed by others,thermal conductivity,EXP,None,298.0,13.14,None,W/(m K),F4,10.1016/j.jallcom.2024.178025
+None,FeCr1.2Ni1.5Al,BCC+B2,AAM,minor B2 phase could have been missed by others,thermal conductivity,EXP,None,500.0,16.89,None,W/(m K),F4,10.1016/j.jallcom.2024.178025
+None,FeCr1.2Ni1.5Al,BCC+B2,AAM,minor B2 phase could have been missed by others,thermal conductivity,EXP,None,700.0,21.67,None,W/(m K),F4,10.1016/j.jallcom.2024.178025
+None,FeCr1.2Ni1.5Al,BCC+B2,AAM,minor B2 phase could have been missed by others,thermal conductivity,EXP,None,900.0,26.13,None,W/(m K),F4,10.1016/j.jallcom.2024.178025
+None,FeCr1.2Ni1.5Al,BCC+B2,AAM,minor B2 phase could have been missed by others,thermal conductivity,EXP,None,1173.0,29.37,None,W/(m K),F4,10.1016/j.jallcom.2024.178025
+None,FeCr1.2Ni1.5Al,BCC+B2,AAM,minor B2 phase could have been missed by others,CTE,EXP,None,300.0,1.04e-05,None,K^-1,F5,10.1016/j.jallcom.2024.178025
+None,FeCr1.2Ni1.5Al,BCC+B2,AAM,minor B2 phase could have been missed by others,CTE,EXP,None,400.0,1.119e-05,None,K^-1,F5,10.1016/j.jallcom.2024.178025
+None,FeCr1.2Ni1.5Al,BCC+B2,AAM,minor B2 phase could have been missed by others,CTE,EXP,None,600.0,1.224e-05,None,K^-1,F5,10.1016/j.jallcom.2024.178025
+None,FeCr1.2Ni1.5Al,BCC+B2,AAM,minor B2 phase could have been missed by others,CTE,EXP,None,800.0,1.262e-05,None,K^-1,F5,10.1016/j.jallcom.2024.178025
+None,FeCr1.2Ni1.5Al,BCC+B2,AAM,minor B2 phase could have been missed by others,CTE,EXP,None,1000.0,1.299e-05,None,K^-1,F5,10.1016/j.jallcom.2024.178025
+None,FeCr1.2Ni1.5Al,BCC+B2,AAM,minor B2 phase could have been missed by others,CTE,EXP,None,1273.0,1.508e-05,None,K^-1,F5,10.1016/j.jallcom.2024.178025
+NTW,Nb70 Ti18 W12,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,density,EXP,helium pycnometry,298.0,8900.0,None,kg/m^3,T3,10.1016/j.msea.2023.144870
+NTW-R,Nb65 Ti18 W12 Re5,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,density,EXP,helium pycnometry,298.0,9460.0,None,kg/m^3,T3,10.1016/j.msea.2023.144870
+NTW-RA,Nb64 Ti18 W12 Re5 Al1,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,density,EXP,helium pycnometry,298.0,9460.0,None,kg/m^3,T3,10.1016/j.msea.2023.144870
+NTW,Nb70 Ti18 W12,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,compressive yield stress,EXP,None,298.0,874000000.0,None,Pa,T5,10.1016/j.msea.2023.144870
+NTW-R,Nb65 Ti18 W12 Re5,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,compressive yield stress,EXP,None,298.0,1000000000.0,None,Pa,T5,10.1016/j.msea.2023.144870
+NTW-RA,Nb64 Ti18 W12 Re5 Al1,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,compressive yield stress,EXP,None,298.0,924000000.0,None,Pa,T5,10.1016/j.msea.2023.144870
+NTW,Nb70 Ti18 W12,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,compressive yield stress,EXP,None,873.0,430000000.0,None,Pa,T5,10.1016/j.msea.2023.144870
+NTW-R,Nb65 Ti18 W12 Re5,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,compressive yield stress,EXP,None,873.0,520000000.0,None,Pa,T5,10.1016/j.msea.2023.144870
+NTW-RA,Nb64 Ti18 W12 Re5 Al1,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,compressive yield stress,EXP,None,873.0,604000000.0,None,Pa,T5,10.1016/j.msea.2023.144870
+NTW,Nb70 Ti18 W12,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,compressive yield stress,EXP,None,1073.0,404000000.0,None,Pa,T5,10.1016/j.msea.2023.144870
+NTW-R,Nb65 Ti18 W12 Re5,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,compressive yield stress,EXP,None,1073.0,455000000.0,None,Pa,T5,10.1016/j.msea.2023.144870
+NTW-RA,Nb64 Ti18 W12 Re5 Al1,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,compressive yield stress,EXP,None,1073.0,513000000.0,None,Pa,T5,10.1016/j.msea.2023.144870
+NTW,Nb70 Ti18 W12,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,compressive yield stress,EXP,None,1273.0,353000000.0,None,Pa,T5,10.1016/j.msea.2023.144870
+NTW-R,Nb65 Ti18 W12 Re5,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,compressive yield stress,EXP,None,1273.0,412000000.0,None,Pa,T5,10.1016/j.msea.2023.144870
+NTW-RA,Nb64 Ti18 W12 Re5 Al1,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,compressive yield stress,EXP,None,1273.0,452000000.0,None,Pa,T5,10.1016/j.msea.2023.144870
+NTW,Nb70 Ti18 W12,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,compressive yield stress,EXP,None,1473.0,202000000.0,None,Pa,T5,10.1016/j.msea.2023.144870
+NTW-R,Nb65 Ti18 W12 Re5,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,compressive yield stress,EXP,None,1474.0,337000000.0,None,Pa,T5,10.1016/j.msea.2023.144870
+NTW-RA,Nb64 Ti18 W12 Re5 Al1,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,compressive yield stress,EXP,None,1475.0,373000000.0,None,Pa,T5,10.1016/j.msea.2023.144870
+NTW,Nb70 Ti18 W12,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,compressive ductility,EXP,None,298.0,59.0,None,%,F7,10.1016/j.msea.2023.144870
+NTW-R,Nb65 Ti18 W12 Re5,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,compressive ductility,EXP,None,298.0,26.0,None,%,F7,10.1016/j.msea.2023.144870
+NTW-RA,Nb64 Ti18 W12 Re5 Al1,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,compressive ductility,EXP,None,298.0,18.0,None,%,F7,10.1016/j.msea.2023.144870
+NTW,Nb70 Ti18 W12,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,minimum compressive ductility,EXP,None,873.0,50.0,None,%,F7,10.1016/j.msea.2023.144870
+NTW-R,Nb65 Ti18 W12 Re5,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,minimum compressive ductility,EXP,None,873.0,50.0,None,%,F7,10.1016/j.msea.2023.144870
+NTW-RA,Nb64 Ti18 W12 Re5 Al1,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,minimum compressive ductility,EXP,None,873.0,50.0,None,%,F7,10.1016/j.msea.2023.144870
+NTW,Nb70 Ti18 W12,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,minimum compressive ductility,EXP,None,1073.0,50.0,None,%,F7,10.1016/j.msea.2023.144870
+NTW-R,Nb65 Ti18 W12 Re5,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,minimum compressive ductility,EXP,None,1073.0,50.0,None,%,F7,10.1016/j.msea.2023.144870
+NTW-RA,Nb64 Ti18 W12 Re5 Al1,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,minimum compressive ductility,EXP,None,1073.0,50.0,None,%,F7,10.1016/j.msea.2023.144870
+NTW,Nb70 Ti18 W12,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,minimum compressive ductility,EXP,None,1273.0,50.0,None,%,F7,10.1016/j.msea.2023.144870
+NTW-R,Nb65 Ti18 W12 Re5,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,minimum compressive ductility,EXP,None,1273.0,50.0,None,%,F7,10.1016/j.msea.2023.144870
+NTW-RA,Nb64 Ti18 W12 Re5 Al1,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,minimum compressive ductility,EXP,None,1273.0,50.0,None,%,F7,10.1016/j.msea.2023.144870
+NTW,Nb70 Ti18 W12,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,minimum compressive ductility,EXP,None,1473.0,50.0,None,%,F7,10.1016/j.msea.2023.144870
+NTW-R,Nb65 Ti18 W12 Re5,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,minimum compressive ductility,EXP,None,1474.0,50.0,None,%,F7,10.1016/j.msea.2023.144870
+NTW-RA,Nb64 Ti18 W12 Re5 Al1,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,minimum compressive ductility,EXP,None,1475.0,50.0,None,%,F7,10.1016/j.msea.2023.144870
