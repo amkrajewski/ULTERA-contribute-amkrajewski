@@ -205,3 +205,15 @@ NTW-RA,Nb64 Ti18 W12 Re5 Al1,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,mini
 NTW,Nb70 Ti18 W12,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,minimum compressive ductility,EXP,None,1473.0,50.0,None,%,F7,10.1016/j.msea.2023.144870
 NTW-R,Nb65 Ti18 W12 Re5,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,minimum compressive ductility,EXP,None,1474.0,50.0,None,%,F7,10.1016/j.msea.2023.144870
 NTW-RA,Nb64 Ti18 W12 Re5 Al1,BCC,VAM+HIP,HIPed at 1673K under 207MPa for 3h,minimum compressive ductility,EXP,None,1475.0,50.0,None,%,F7,10.1016/j.msea.2023.144870
+None,CrMoNbReTaVW,BCC,VAM,None,None,None,None,None,None,None,None,None,10.1557/mrc.2017.7
+6C,AlCoCrCuFeNi,BCC,MA,mechanical alloying through high energy ball milling for 60h,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2012.12.095
+7C,AlCoCrCuFeNiW,BCC,MA,mechanical alloying through high energy ball milling for 60h,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2012.12.095
+8C,AlCoCrCuFeNiWZr,BCC,MA,mechanical alloying through high energy ball milling for 60h,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2012.12.095
+5C,FeCrCuMnTi,FCC+BCC+HCP,MA+SR,mechanical alloying through high energy ball milling for 25h,None,None,None,None,None,None,None,None,10.1080/10426914.2021.2006217
+6C,FeCrCuMnTiV,FCC+BCC+HCP,MA+SR,mechanical alloying through high energy ball milling for 25h,None,None,None,None,None,None,None,None,10.1080/10426914.2021.2006217
+7C,FeCrCuMnTiVZn,FCC+BCC+HCP,MA+SR,mechanical alloying through high energy ball milling for 25h,None,None,None,None,None,None,None,None,10.1080/10426914.2021.2006217
+None,Ni48.6 Al10.3 Co17 Cr7.5 Fe9 Ti5.8 Ta0.6 Mo0.8 W0.4,FCC+L12,AAM,None,UCS,EXP,strain rate 1e-2/s,1073.0,1175177304.96453,None,Pa,F7b,10.1016/j.msea.2024.146887
+None,Ni48.6 Al10.3 Co17 Cr7.5 Fe9 Ti5.8 Ta0.6 Mo0.8 W0.4,FCC+L12,AAM,None,UCS,EXP,strain rate 1e-2/s,1173.0,664539007.0921979,None,Pa,F7b,10.1016/j.msea.2024.146887
+None,Ni48.6 Al10.3 Co17 Cr7.5 Fe9 Ti5.8 Ta0.6 Mo0.8 W0.4,FCC+L12,AAM,None,UCS,EXP,strain rate 1e-2/s,1273.0,412765957.446808,None,Pa,F7b,10.1016/j.msea.2024.146887
+None,Ni48.6 Al10.3 Co17 Cr7.5 Fe9 Ti5.8 Ta0.6 Mo0.8 W0.4,FCC+L12,AAM,None,UCS,EXP,strain rate 1e-2/s,1323.0,274468085.106383,None,Pa,F7b,10.1016/j.msea.2024.146887
+None,Ni48.6 Al10.3 Co17 Cr7.5 Fe9 Ti5.8 Ta0.6 Mo0.8 W0.4,FCC+L12,AAM,None,UCS,EXP,strain rate 1e-2/s,1373.0,182269503.546099,None,Pa,F7b,10.1016/j.msea.2024.146887
