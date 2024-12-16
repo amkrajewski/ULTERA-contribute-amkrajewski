@@ -293,3 +293,7 @@ H0,(Ni2FeCoCr)17.65 Al5 Ti3 W1.5 Mo1.5 Nb0.75,FCC+sigma,AAM+H+WQ+CR,homogenized 
 H1,(Ni2FeCoCr)17.65 Al5 Ti3 W1.5 Mo1.5 Nb0.75,FCC+sigma+L12,AAM+H+WQ+CR+A+AT,homogenized at 1473K for 20h and water quenched; cold rolled to 80% reduction; annealed at 1173K for 20min; agrd at 1023K for 24h,tensile ductility,EXP,None,298.0,11.4,None,%,F4b,10.1016/j.msea.2022.144137
 H2,(Ni2FeCoCr)17.65 Al5 Ti3 W1.5 Mo1.5 Nb0.75,FCC+sigma+L12,AAM+H+WQ+CR+A+AT,homogenized at 1473K for 20h and water quenched; cold rolled to 80% reduction; annealed at 1198KK for 20min; agrd at 1023K for 24h,tensile ductility,EXP,None,298.0,12.8,None,%,F4b,10.1016/j.msea.2022.144137
 H3,(Ni2FeCoCr)17.65 Al5 Ti3 W1.5 Mo1.5 Nb0.75,FCC+sigma+L12,AAM+H+WQ+CR+A+AT,homogenized at 1473K for 20h and water quenched; cold rolled to 80% reduction; annealed at 1223K for 20min; agrd at 1023K for 24h,tensile ductility,EXP,None,298.0,19.5,None,%,F4b,10.1016/j.msea.2022.144137
+None, Nb3Ta3MoWTh,BCC+FCC,AAM,None,superconducting transition temperature,EXP,None,None,5.6,None,K,None,10.1038/s41598-023-43085-y
+None, Nb3Ta3MoWTh,BCC+FCC,AAM,None,electrical resistivity,EXP,None,22.0,2.33e-07,None,Ohm m,F4b,10.1038/s41598-023-43085-y
+None, Nb3Ta3MoWTh,BCC+FCC,AAM,None,electrical resistivity,EXP,None,140.0,3.88e-07,None,Ohm m,F4b,10.1038/s41598-023-43085-y
+None, Nb3Ta3MoWTh,BCC+FCC,AAM,None,electrical resistivity,EXP,None,298.0,5.72e-07,None,Ohm m,F4b,10.1038/s41598-023-43085-y
