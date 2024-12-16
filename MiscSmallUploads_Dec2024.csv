@@ -217,3 +217,79 @@ None,Ni48.6 Al10.3 Co17 Cr7.5 Fe9 Ti5.8 Ta0.6 Mo0.8 W0.4,FCC+L12,AAM,None,UCS,EX
 None,Ni48.6 Al10.3 Co17 Cr7.5 Fe9 Ti5.8 Ta0.6 Mo0.8 W0.4,FCC+L12,AAM,None,UCS,EXP,strain rate 1e-2/s,1273.0,412765957.446808,None,Pa,F7b,10.1016/j.msea.2024.146887
 None,Ni48.6 Al10.3 Co17 Cr7.5 Fe9 Ti5.8 Ta0.6 Mo0.8 W0.4,FCC+L12,AAM,None,UCS,EXP,strain rate 1e-2/s,1323.0,274468085.106383,None,Pa,F7b,10.1016/j.msea.2024.146887
 None,Ni48.6 Al10.3 Co17 Cr7.5 Fe9 Ti5.8 Ta0.6 Mo0.8 W0.4,FCC+L12,AAM,None,UCS,EXP,strain rate 1e-2/s,1373.0,182269503.546099,None,Pa,F7b,10.1016/j.msea.2024.146887
+None,CoCrFeNiNb0.25Ta0.20,FCC+C14,AC,eutectic alloy; lamellar microstructure,melting temperature,EXP,cooling DSC,None,1525.0,None,K,F4,10.1016/j.jallcom.2023.168975
+None,CoCrFeNiTa0.25Hf0.25,FCC+C14,AC,eutectic alloy; lamellar microstructure,melting temperature,EXP,cooling DSC,None,1512.0,None,K,F4,10.1016/j.jallcom.2023.168975
+None,CoCrFeNiNb0.15Zr0.15Hf0.15,FCC+C15,AC,eutectic alloy; lamellar microstructure,melting temperature,EXP,cooling DSC,None,1489.0,None,K,F4,10.1016/j.jallcom.2023.168975
+None,CoCrFeNiZr0.17Hf0.16Ta0.16,FCC+C15,AC,eutectic alloy; lamellar microstructure,melting temperature,EXP,cooling DSC,None,1482.0,None,K,F4,10.1016/j.jallcom.2023.168975
+None,CoCrFeNiNb0.25Ta0.20,FCC+C14,AC,eutectic alloy; lamellar microstructure,UCS,EXP,strain rate 1e-3/s,1073.0,593253968.253968,None,Pa,F9,10.1016/j.jallcom.2023.168975
+None,CoCrFeNiTa0.25Hf0.25,FCC+C14,AC,eutectic alloy; lamellar microstructure,UCS,EXP,strain rate 1e-3/s,1073.0,659722222.222222,None,Pa,F9,10.1016/j.jallcom.2023.168975
+None,CoCrFeNiNb0.15Zr0.15Hf0.15,FCC+C15,AC,eutectic alloy; lamellar microstructure,UCS,EXP,strain rate 1e-3/s,1073.0,441468253.96825397,None,Pa,F9,10.1016/j.jallcom.2023.168975
+None,CoCrFeNiZr0.17Hf0.16Ta0.16,FCC+C15,AC,eutectic alloy; lamellar microstructure,UCS,EXP,strain rate 1e-3/s,1073.0,503968253.96825397,None,Pa,F9,10.1016/j.jallcom.2023.168975
+None,CoCrFeNiNb0.25Ta0.20,FCC+C14,AC,eutectic alloy; lamellar microstructure,UCS,EXP,strain rate 1e-3/s,1173.0,272817460.31746,None,Pa,F9,10.1016/j.jallcom.2023.168975
+None,CoCrFeNiTa0.25Hf0.25,FCC+C14,AC,eutectic alloy; lamellar microstructure,UCS,EXP,strain rate 1e-3/s,1173.0,258928571.428571,None,Pa,F9,10.1016/j.jallcom.2023.168975
+None,CoCrFeNiNb0.15Zr0.15Hf0.15,FCC+C15,AC,eutectic alloy; lamellar microstructure,UCS,EXP,strain rate 1e-3/s,1173.0,272817460.31746,None,Pa,F9,10.1016/j.jallcom.2023.168975
+None,CoCrFeNiZr0.17Hf0.16Ta0.16,FCC+C15,AC,eutectic alloy; lamellar microstructure,UCS,EXP,strain rate 1e-3/s,1173.0,280753968.253968,None,Pa,F9,10.1016/j.jallcom.2023.168975
+None,CoCrFeNiNb0.25Ta0.20,FCC+C14,AC,eutectic alloy; lamellar microstructure,UCS,EXP,strain rate 1e-3/s,1273.0,141865079.365079,None,Pa,F9,10.1016/j.jallcom.2023.168975
+None,CoCrFeNiTa0.25Hf0.25,FCC+C14,AC,eutectic alloy; lamellar microstructure,UCS,EXP,strain rate 1e-3/s,1273.0,140873015.873015,None,Pa,F9,10.1016/j.jallcom.2023.168975
+None,CoCrFeNiNb0.15Zr0.15Hf0.15,FCC+C15,AC,eutectic alloy; lamellar microstructure,UCS,EXP,strain rate 1e-3/s,1273.0,153769841.26984102,None,Pa,F9,10.1016/j.jallcom.2023.168975
+None,CoCrFeNiZr0.17Hf0.16Ta0.16,FCC+C15,AC,eutectic alloy; lamellar microstructure,UCS,EXP,strain rate 1e-3/s,1273.0,140873015.873015,None,Pa,F9,10.1016/j.jallcom.2023.168975
+None,Ti35 Zr35 Nb20 Ta5 Ag5,BCC+BCC,MA+CIP+S,BioHEA 1; mechanical alloying for 2h followed by CIP under 700MPa and 2h sintering in Ar at 1573K,density,EXP,None,298.0,6255.0,None,kg/m^3,None,10.1016/j.matchemphys.2024.130114
+None,Ti35 Zr35 Nb20 Ta5 Ag5,BCC+BCC,MA+CIP+S,BioHEA 1; mechanical alloying for 2h followed by CIP under 700MPa and 2h sintering in Ar at 1573K,density,EXP,None,298.0,6508.0,None,kg/m^3,None,10.1016/j.matchemphys.2024.130114
+None,Ti35 Zr35 Nb20 Ta5 Ag5,BCC+BCC,MA+CIP+S,BioHEA 1; mechanical alloying for 2h followed by CIP under 700MPa and 2h sintering in Ar at 1573K,reduced elastic modulus,EXP,None,298.0,87900000000.0,6300000000.0,Pa,None,10.1016/j.matchemphys.2024.130114
+None,Ti35 Zr35 Nb20 Ta5 Ag5,BCC+BCC,MA+CIP+S,BioHEA 1; mechanical alloying for 2h followed by CIP under 700MPa and 2h sintering in Ar at 1573K,reduced elastic modulus,EXP,None,298.0,113300000000.0,13100000000.0,Pa,None,10.1016/j.matchemphys.2024.130114
+None,Ti35 Zr35 Nb20 Ta5 Ag5,BCC+BCC,MA+CIP+S,BioHEA 1; mechanical alloying for 2h followed by CIP under 700MPa and 2h sintering in Ar at 1573K,hardness,EXP,None,298.0,3930000000.0,None,Pa,None,10.1016/j.matchemphys.2024.130114
+None,Ti35 Zr35 Nb20 Ta5 Ag5,BCC+BCC,MA+CIP+S,BioHEA 1; mechanical alloying for 2h followed by CIP under 700MPa and 2h sintering in Ar at 1573K,hardness,EXP,None,298.0,5188000000.0,None,Pa,None,10.1016/j.matchemphys.2024.130114
+None,CoCrFeNi,FCC,VIM,None,hardness,EXP,None,298.0,1321983600.0,52957800.0,Pa,F4,10.1016/j.jmrt.2024.06.209
+None,CoCrFeNiCe0.1,FCC+CeNi3,VIM,None,hardness,EXP,None,298.0,1995724500.0,40208700.0,Pa,F4,10.1016/j.jmrt.2024.06.209
+None,CoCrFeNiCe0.3,FCC+CeNi3,VIM,None,hardness,EXP,None,298.0,3274557300.0,167699700.0,Pa,F4,10.1016/j.jmrt.2024.06.209
+None,CoCrFeNiCe0.5,FCC+CeNi3+FCC,VIM,None,hardness,EXP,None,298.0,3752158200.0,170641800.0,Pa,F4,10.1016/j.jmrt.2024.06.209
+0Ce,Nb0.5TiZrV0.5,BCC,AAM,None,tensile yield stress,EXP,None,298.0,985400000.0,None,Pa,F5a,10.1016/j.jmst.2024.01.046
+0.005Ce,(Nb16.67 Ti33.33 Zr33.33 V16.67)0.995 Ce0.005,BCC,AAM,None,tensile yield stress,EXP,None,298.0,963800000.0,None,Pa,F5a,10.1016/j.jmst.2024.01.046
+0.01Ce,(Nb16.67 Ti33.33 Zr33.33 V16.67)0.99 Ce0.01,BCC+C32,AAM,C32 is Ce-rich omega-like phase formed in RHEAs,tensile yield stress,EXP,None,298.0,979000000.0,None,Pa,F5a,10.1016/j.jmst.2024.01.046
+0Ce,Nb0.5TiZrV0.5,BCC,AAM,None,UTS,EXP,None,298.0,1018000000.0,None,Pa,F5b,10.1016/j.jmst.2024.01.046
+0.005Ce,(Nb16.67 Ti33.33 Zr33.33 V16.67)0.995 Ce0.005,BCC,AAM,None,UTS,EXP,None,298.0,1009000000.0,None,Pa,F5b,10.1016/j.jmst.2024.01.046
+0.01Ce,(Nb16.67 Ti33.33 Zr33.33 V16.67)0.99 Ce0.01,BCC+C32,AAM,C32 is Ce-rich omega-like phase formed in RHEAs,UTS,EXP,None,298.0,1000000000.0,None,Pa,F5b,10.1016/j.jmst.2024.01.046
+0Ce,Nb0.5TiZrV0.5,BCC,AAM,None,tensile ductility,EXP,None,298.0,4.32,0.34,%,None,10.1016/j.jmst.2024.01.046
+0.005Ce,(Nb16.67 Ti33.33 Zr33.33 V16.67)0.995 Ce0.005,BCC,AAM,None,tensile ductility,EXP,None,298.0,7.15,0.41,%,None,10.1016/j.jmst.2024.01.046
+0.01Ce,(Nb16.67 Ti33.33 Zr33.33 V16.67)0.99 Ce0.01,BCC+C32,AAM,C32 is Ce-rich omega-like phase formed in RHEAs,tensile ductility,EXP,None,298.0,2.29,0.25,%,None,10.1016/j.jmst.2024.01.046
+None,(Nb16.67 Ti33.33 Zr33.33 V16.67)0.97 Ce0.03,None,AAM,manufactured and tested but not fully discussed in the manuscript due to near-zero ductility,estimated tensile ductility,EXP,None,298.0,0.0,None,%,None,10.1016/j.jmst.2024.01.046
+None,(Nb16.67 Ti33.33 Zr33.33 V16.67)0.95 Ce0.05,None,AAM,manufactured and tested but not fully discussed in the manuscript due to near-zero ductility,estimated tensile ductility,EXP,None,298.0,0.0,None,%,None,10.1016/j.jmst.2024.01.046
+None,HfZrTiNb0.2,BCC+C32,AAM,C32 is omega-like phase formed in RHEAs,compressive yield stress,EXP,None,298.0,1005000000.0,5000000.0,Pa,None,10.1016/j.matchar.2018.06.012
+None,HfZrTiNb0.4,BCC,AAM,None,compressive yield stress,EXP,None,298.0,670000000.0,8000000.0,Pa,None,10.1016/j.matchar.2018.06.012
+None,HfZrTiNb0.6,BCC,AAM,None,compressive yield stress,EXP,None,298.0,660000000.0,5000000.0,Pa,None,10.1016/j.matchar.2018.06.012
+None,HfZrTiNb1,BCC,AAM,None,compressive yield stress,EXP,None,298.0,645000000.0,5000000.0,Pa,None,10.1016/j.matchar.2018.06.012
+None,HfZrTiNb0.2,BCC+C32,AAM,C32 is omega-like phase formed in RHEAs,UCS,EXP,None,298.0,1069000000.0,None,Pa,F3,10.1016/j.matchar.2018.06.012
+None,HfZrTiNb0.4,BCC,AAM,None,UCS,EXP,None,298.0,897000000.0,None,Pa,F3,10.1016/j.matchar.2018.06.012
+None,HfZrTiNb0.6,BCC,AAM,None,UCS,EXP,None,298.0,932000000.0,None,Pa,F3,10.1016/j.matchar.2018.06.012
+None,HfZrTiNb1,BCC,AAM,None,UCS,EXP,None,298.0,941000000.0,None,Pa,F3,10.1016/j.matchar.2018.06.012
+None,HfZrTiNb0.2,BCC+C32,AAM,C32 is omega-like phase formed in RHEAs,compressive ductility,EXP,None,298.0,27.6,None,%,F3,10.1016/j.matchar.2018.06.012
+None,HfZrTiNb0.4,BCC,AAM,None,compressive ductility,EXP,None,298.0,36.6,None,%,F3,10.1016/j.matchar.2018.06.012
+None,HfZrTiNb0.6,BCC,AAM,None,minimum compressive ductility,EXP,None,298.0,70.0,None,%,F3,10.1016/j.matchar.2018.06.012
+None,HfZrTiNb1,BCC,AAM,None,minimum compressive ductility,EXP,None,298.0,70.0,None,%,F3,10.1016/j.matchar.2018.06.012
+None,CeGdTbDyHo,HCP+C19,LM,None,curie temperature,EXP,None,None,140.0,None,K,None,10.1016/j.jallcom.2018.01.331
+None,CeGdTbDyHo,HCP+C19,LM,None,electrical resistivity,EXP,None,2.0,8.2e-07,None,Ohm m,None,10.1016/j.jallcom.2018.01.331
+None,CeGdTbDyHo,HCP+C19,LM,None,electrical resistivity,EXP,None,140.0,1.17e-06,None,Ohm m,None,10.1016/j.jallcom.2018.01.331
+None,CeGdTbDyHo,HCP+C19,LM,None,electrical resistivity,EXP,None,300.0,1.27e-06,None,Ohm m,None,10.1016/j.jallcom.2018.01.331
+None,ScYLaTiZrHf,HCP+HCP,AAM,Y-rich HCP and Ti/Hf-rich HCP,None,None,None,None,None,None,None,None,10.1016/j.intermet.2015.10.022
+None,YGdTbDyLu,HCP,AAM,None,None,None,None,None,None,None,None,None,10.1007/s11837-014-1085-x
+None,GdTbDyTmLu,HCP,AAM,None,None,None,None,None,None,None,None,None,10.1007/s11837-014-1085-x
+None,GdTbDyTmLu,HCP,AAM+A,annealed at 1273K for 3.6ks and 1173K for 86.4ks; nanoscale inclusions persisted from the AC state,None,None,None,None,None,None,None,None,10.1007/s11837-014-1085-x
+None,CoCuPdTiZrHf,BCC,AAM,None,None,None,None,None,None,None,None,None,10.2320/matertrans.M2016121
+None,CoCuFeTiZrHf,B2,AAM,None,None,None,None,None,None,None,None,None,10.2320/matertrans.M2016121
+None,AgAuCuNiPdPt,FCC+FCC,AAM,None,None,None,None,None,None,None,None,None,10.2320/matertrans.M2016121
+None,Al4CoNiPdPt,B2,AAM+H,after arc-melting alloys were homogenized in vacuum in quartz "as needed" at 1273K for 43.2ks,None,None,None,None,None,None,None,None,10.2320/matertrans.M2016121
+None,(Ni2FeCoCr)17.65 Al5 Ti3 W1.5 Mo1.5 Nb0.75,FCC,AAM+H+WQ,homogenized at 1473K for 20h and water quenched,tensile yield stress,EXP,None,298.0,562000000.0,None,Pa,None,10.1016/j.msea.2022.144137
+None,(Ni2FeCoCr)17.65 Al5 Ti3 W1.5 Mo1.5 Nb0.76,FCC,AAM+H+WQ,homogenized at 1473K for 20h and water quenched,UTS,EXP,None,298.0,865000000.0,None,Pa,None,10.1016/j.msea.2022.144137
+None,(Ni2FeCoCr)17.65 Al5 Ti3 W1.5 Mo1.5 Nb0.77,FCC,AAM+H+WQ,homogenized at 1473K for 20h and water quenched,tensile ductility,EXP,None,298.0,44.0,None,%,None,10.1016/j.msea.2022.144137
+H0,(Ni2FeCoCr)17.65 Al5 Ti3 W1.5 Mo1.5 Nb0.75,FCC+sigma,AAM+H+WQ+CR,homogenized at 1473K for 20h and water quenched; cold rolled to 80% reduction,tensile yield stress,EXP,None,298.0,1683000000.0,None,Pa,F4b,10.1016/j.msea.2022.144137
+H1,(Ni2FeCoCr)17.65 Al5 Ti3 W1.5 Mo1.5 Nb0.75,FCC+sigma+L12,AAM+H+WQ+CR+A+AT,homogenized at 1473K for 20h and water quenched; cold rolled to 80% reduction; annealed at 1173K for 20min; agrd at 1023K for 24h,tensile yield stress,EXP,None,298.0,1822000000.0,None,Pa,F4b,10.1016/j.msea.2022.144137
+H2,(Ni2FeCoCr)17.65 Al5 Ti3 W1.5 Mo1.5 Nb0.75,FCC+sigma+L12,AAM+H+WQ+CR+A+AT,homogenized at 1473K for 20h and water quenched; cold rolled to 80% reduction; annealed at 1198KK for 20min; agrd at 1023K for 24h,tensile yield stress,EXP,None,298.0,1686000000.0,None,Pa,F4b,10.1016/j.msea.2022.144137
+H3,(Ni2FeCoCr)17.65 Al5 Ti3 W1.5 Mo1.5 Nb0.75,FCC+sigma+L12,AAM+H+WQ+CR+A+AT,homogenized at 1473K for 20h and water quenched; cold rolled to 80% reduction; annealed at 1223K for 20min; agrd at 1023K for 24h,tensile yield stress,EXP,None,298.0,1384000000.0,None,Pa,F4b,10.1016/j.msea.2022.144137
+H0,(Ni2FeCoCr)17.65 Al5 Ti3 W1.5 Mo1.5 Nb0.75,FCC+sigma,AAM+H+WQ+CR,homogenized at 1473K for 20h and water quenched; cold rolled to 80% reduction,UTS,EXP,None,298.0,1698000000.0,None,Pa,F4b,10.1016/j.msea.2022.144137
+H1,(Ni2FeCoCr)17.65 Al5 Ti3 W1.5 Mo1.5 Nb0.75,FCC+sigma+L12,AAM+H+WQ+CR+A+AT,homogenized at 1473K for 20h and water quenched; cold rolled to 80% reduction; annealed at 1173K for 20min; agrd at 1023K for 24h,UTS,EXP,None,298.0,1930000000.0,None,Pa,F4b,10.1016/j.msea.2022.144137
+H2,(Ni2FeCoCr)17.65 Al5 Ti3 W1.5 Mo1.5 Nb0.75,FCC+sigma+L12,AAM+H+WQ+CR+A+AT,homogenized at 1473K for 20h and water quenched; cold rolled to 80% reduction; annealed at 1198KK for 20min; agrd at 1023K for 24h,UTS,EXP,None,298.0,1853000000.0,None,Pa,F4b,10.1016/j.msea.2022.144137
+H3,(Ni2FeCoCr)17.65 Al5 Ti3 W1.5 Mo1.5 Nb0.75,FCC+sigma+L12,AAM+H+WQ+CR+A+AT,homogenized at 1473K for 20h and water quenched; cold rolled to 80% reduction; annealed at 1223K for 20min; agrd at 1023K for 24h,UTS,EXP,None,298.0,1727000000.0,None,Pa,F4b,10.1016/j.msea.2022.144137
+H0,(Ni2FeCoCr)17.65 Al5 Ti3 W1.5 Mo1.5 Nb0.75,FCC+sigma,AAM+H+WQ+CR,homogenized at 1473K for 20h and water quenched; cold rolled to 80% reduction,tensile ductility,EXP,None,298.0,4.9,None,%,F4b,10.1016/j.msea.2022.144137
+H1,(Ni2FeCoCr)17.65 Al5 Ti3 W1.5 Mo1.5 Nb0.75,FCC+sigma+L12,AAM+H+WQ+CR+A+AT,homogenized at 1473K for 20h and water quenched; cold rolled to 80% reduction; annealed at 1173K for 20min; agrd at 1023K for 24h,tensile ductility,EXP,None,298.0,11.4,None,%,F4b,10.1016/j.msea.2022.144137
+H2,(Ni2FeCoCr)17.65 Al5 Ti3 W1.5 Mo1.5 Nb0.75,FCC+sigma+L12,AAM+H+WQ+CR+A+AT,homogenized at 1473K for 20h and water quenched; cold rolled to 80% reduction; annealed at 1198KK for 20min; agrd at 1023K for 24h,tensile ductility,EXP,None,298.0,12.8,None,%,F4b,10.1016/j.msea.2022.144137
+H3,(Ni2FeCoCr)17.65 Al5 Ti3 W1.5 Mo1.5 Nb0.75,FCC+sigma+L12,AAM+H+WQ+CR+A+AT,homogenized at 1473K for 20h and water quenched; cold rolled to 80% reduction; annealed at 1223K for 20min; agrd at 1023K for 24h,tensile ductility,EXP,None,298.0,19.5,None,%,F4b,10.1016/j.msea.2022.144137
