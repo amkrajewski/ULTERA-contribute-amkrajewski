@@ -297,3 +297,73 @@ None, Nb3Ta3MoWTh,BCC+FCC,AAM,None,superconducting transition temperature,EXP,No
 None, Nb3Ta3MoWTh,BCC+FCC,AAM,None,electrical resistivity,EXP,None,22.0,2.33e-07,None,Ohm m,F4b,10.1038/s41598-023-43085-y
 None, Nb3Ta3MoWTh,BCC+FCC,AAM,None,electrical resistivity,EXP,None,140.0,3.88e-07,None,Ohm m,F4b,10.1038/s41598-023-43085-y
 None, Nb3Ta3MoWTh,BCC+FCC,AAM,None,electrical resistivity,EXP,None,298.0,5.72e-07,None,Ohm m,F4b,10.1038/s41598-023-43085-y
+1,Fe51Cr14Ni22Mn13,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,204000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+2,Fe51Cr18Ni20Mn11,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,214000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+3,Fe51Cr18Ni25Mn6,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,188000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+4,Fe51Cr23Ni20Mn6,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,185000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+5,Fe52Cr16Ni23Mn9,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,208000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+6,Fe56Cr18Ni20Mn6,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,179000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+7,Fe58Cr15Ni12Mn15,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,215000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+8,Fe59Cr13Ni26Mn2,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,186000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+9,Fe60Cr17Ni17Mn6,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,169000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+10,Fe60Cr17Ni14Mn9,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,188000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+11,Fe60Cr21Ni14Mn5,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,176000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+12,Fe60Cr17Ni18Mn5,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,173000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+13,Fe61Cr18Ni20Mn1,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,177000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+14,Fe61Cr13Ni20Mn6,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,185000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+15,Fe61Cr18Ni15Mn6,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,182000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+16,Fe64Cr15Ni10Mn11,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,172000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+17,Fe64Cr17Ni14Mn5,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,171000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+18,Fe65Cr22Ni11Mn2,FCC+BCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,223000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+19,Fe67Cr14Ni4Mn15,FCC+HCP,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,210000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+20,Fe68Cr13Ni14Mn5,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,168000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+21,Fe68Cr16Ni8Mn8,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,178000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+22,Fe68Cr17Ni10Mn5,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,176000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+23,Fe68Cr17Ni14Mn1,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,209000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+24,Fe37Cr18Ni30Mn15,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,227000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+25,Fe39Cr20Ni21Mn20,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,212000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+26,Fe47Cr20Ni18Mn15,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,202000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+27,Fe49Cr12Ni21Mn18,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,211000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+28,Fe57Cr11Ni29Mn3,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,197000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+29,Fe67Cr8Ni10Mn15,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,169000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+30,Fe71Cr13Ni5Mn11,FCC+BCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,341000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+31,Fe71Cr17Ni7Mn5,FCC+BCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,255000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+32,Fe71Cr18Ni7Mn4,FCC+BCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,256000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+33,Fe74Cr19Ni5Mn2,BCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,479000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+34,Fe78Cr9Ni5Mn8,BCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile yield stress,EXP,strain rate 1e-3/s,298.0,509000000.0,None,Pa,ST3,10.1016/j.jmst.2024.11.041
+17,Fe64Cr17Ni14Mn5,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,UTS,EXP,strain rate 1e-3/s,298.0,431141439.205955,None,Pa,SF3a,10.1016/j.jmst.2024.11.041
+11,Fe60Cr21Ni14Mn5,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,UTS,EXP,strain rate 1e-3/s,298.0,443548387.096774,None,Pa,SF3a,10.1016/j.jmst.2024.11.041
+20,Fe68Cr13Ni14Mn5,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,UTS,EXP,strain rate 1e-3/s,298.0,417493796.52605397,None,Pa,SF3a,10.1016/j.jmst.2024.11.041
+12,Fe60Cr17Ni18Mn5,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,UTS,EXP,strain rate 1e-3/s,298.0,427419354.838709,None,Pa,SF3a,10.1016/j.jmst.2024.11.041
+22,Fe68Cr17Ni10Mn5,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,UTS,EXP,strain rate 1e-3/s,298.0,471464019.851116,None,Pa,SF3a,10.1016/j.jmst.2024.11.041
+10,Fe60Cr17Ni14Mn9,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,UTS,EXP,strain rate 1e-3/s,298.0,429280397.022332,None,Pa,SF3a,10.1016/j.jmst.2024.11.041
+23,Fe68Cr17Ni14Mn1,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,UTS,EXP,strain rate 1e-3/s,298.0,452853598.014888,None,Pa,SF3a,10.1016/j.jmst.2024.11.041
+6,Fe56Cr18Ni20Mn6,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,UTS,EXP,strain rate 1e-3/s,298.0,433898305.084745,None,Pa,SF3b,10.1016/j.jmst.2024.11.041
+4,Fe51Cr23Ni20Mn6,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,UTS,EXP,strain rate 1e-3/s,298.0,444375963.02002996,None,Pa,SF3b,10.1016/j.jmst.2024.11.041
+14,Fe61Cr13Ni20Mn6,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,UTS,EXP,strain rate 1e-3/s,298.0,409861325.115562,None,Pa,SF3b,10.1016/j.jmst.2024.11.041
+3,Fe51Cr18Ni25Mn6,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,UTS,EXP,strain rate 1e-3/s,298.0,438212634.822804,None,Pa,SF3b,10.1016/j.jmst.2024.11.041
+15,Fe61Cr18Ni15Mn6,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,UTS,EXP,strain rate 1e-3/s,298.0,441294298.921417,None,Pa,SF3b,10.1016/j.jmst.2024.11.041
+2,Fe51Cr18Ni20Mn11,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,UTS,EXP,strain rate 1e-3/s,298.0,430200308.166409,None,Pa,SF3b,10.1016/j.jmst.2024.11.041
+13,Fe61Cr18Ni20Mn1,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,UTS,EXP,strain rate 1e-3/s,298.0,424036979.96918297,None,Pa,SF3b,10.1016/j.jmst.2024.11.041
+8,Fe59Cr13Ni26Mn2,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,UTS,EXP,strain rate 1e-3/s,298.0,414953271.028037,None,Pa,SF3c,10.1016/j.jmst.2024.11.041
+21,Fe68Cr16Ni8Mn8,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,UTS,EXP,strain rate 1e-3/s,298.0,557543391.188251,None,Pa,SF3c,10.1016/j.jmst.2024.11.041
+1,Fe51Cr14Ni22Mn13,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,UTS,EXP,strain rate 1e-3/s,298.0,475033377.837116,None,Pa,SF3c,10.1016/j.jmst.2024.11.041
+7,Fe58Cr15Ni12Mn15,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,UTS,EXP,strain rate 1e-3/s,298.0,487850467.289719,None,Pa,SF3c,10.1016/j.jmst.2024.11.041
+17,Fe64Cr17Ni14Mn5,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile ductility,EXP,strain rate 1e-3/s,298.0,46.9718309859,None,%,SF3a,10.1016/j.jmst.2024.11.041
+11,Fe60Cr21Ni14Mn5,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile ductility,EXP,strain rate 1e-3/s,298.0,65.2112676056,None,%,SF3a,10.1016/j.jmst.2024.11.041
+20,Fe68Cr13Ni14Mn5,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile ductility,EXP,strain rate 1e-3/s,298.0,55.2112676056,None,%,SF3a,10.1016/j.jmst.2024.11.041
+12,Fe60Cr17Ni18Mn5,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile ductility,EXP,strain rate 1e-3/s,298.0,51.5492957746,None,%,SF3a,10.1016/j.jmst.2024.11.041
+22,Fe68Cr17Ni10Mn5,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile ductility,EXP,strain rate 1e-3/s,298.0,50.8450704225,None,%,SF3a,10.1016/j.jmst.2024.11.041
+10,Fe60Cr17Ni14Mn9,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile ductility,EXP,strain rate 1e-3/s,298.0,52.2535211268,None,%,SF3a,10.1016/j.jmst.2024.11.041
+23,Fe68Cr17Ni14Mn1,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile ductility,EXP,strain rate 1e-3/s,298.0,43.8028169014,None,%,SF3a,10.1016/j.jmst.2024.11.041
+6,Fe56Cr18Ni20Mn6,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile ductility,EXP,strain rate 1e-3/s,298.0,46.7677946324,None,%,SF3b,10.1016/j.jmst.2024.11.041
+4,Fe51Cr23Ni20Mn6,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile ductility,EXP,strain rate 1e-3/s,298.0,55.6592765461,None,%,SF3b,10.1016/j.jmst.2024.11.041
+14,Fe61Cr13Ni20Mn6,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile ductility,EXP,strain rate 1e-3/s,298.0,36.8261376896,None,%,SF3b,10.1016/j.jmst.2024.11.041
+3,Fe51Cr18Ni25Mn6,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile ductility,EXP,strain rate 1e-3/s,298.0,40.536756126,None,%,SF3b,10.1016/j.jmst.2024.11.041
+15,Fe61Cr18Ni15Mn6,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile ductility,EXP,strain rate 1e-3/s,298.0,56.6394399067,None,%,SF3b,10.1016/j.jmst.2024.11.041
+2,Fe51Cr18Ni20Mn11,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile ductility,EXP,strain rate 1e-3/s,298.0,50.3383897316,None,%,SF3b,10.1016/j.jmst.2024.11.041
+13,Fe61Cr18Ni20Mn1,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile ductility,EXP,strain rate 1e-3/s,298.0,42.4270711785,None,%,SF3b,10.1016/j.jmst.2024.11.041
+8,Fe59Cr13Ni26Mn2,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile ductility,EXP,strain rate 1e-3/s,298.0,35.0053821313,None,%,SF3c,10.1016/j.jmst.2024.11.041
+21,Fe68Cr16Ni8Mn8,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile ductility,EXP,strain rate 1e-3/s,298.0,55.7373519914,None,%,SF3c,10.1016/j.jmst.2024.11.041
+1,Fe51Cr14Ni22Mn13,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile ductility,EXP,strain rate 1e-3/s,298.0,30.1614639397,None,%,SF3c,10.1016/j.jmst.2024.11.041
+7,Fe58Cr15Ni12Mn15,FCC,AAM+H+WQ,homogenized at 1473K for 5h in Ar and water quenched,tensile ductility,EXP,strain rate 1e-3/s,298.0,58.4499461787,None,%,SF3c,10.1016/j.jmst.2024.11.041
