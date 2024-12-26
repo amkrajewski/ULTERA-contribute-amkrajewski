@@ -478,3 +478,36 @@ first+28,Co25.00 Cr25.00 Ti25.00 Mo25.00,None,BM+CIP+AAM,ball milled at 150rpm f
 2s+9,Co30.00 Cr55.00 Ti5.00 Mo5.00 W5.00,None,BM+CIP+AAM,ball milled at 150rpm for 12h and pressed under 223MPa for 1min to prepare cylinders for arc melting,hardness,EXP,None,298.0,8855721000.0,None,Pa,S,10.20517/jmi.2022.03
 2s+17,Co50.00 Cr30.00 Ti5.00 Mo5.00 W10.00,None,BM+CIP+AAM,ball milled at 150rpm for 12h and pressed under 223MPa for 1min to prepare cylinders for arc melting,hardness,EXP,None,298.0,8916524400.0,None,Pa,S,10.20517/jmi.2022.03
 2s+23,Co50.00 Cr20.00 Ti5.00 Mo10.00 W15.00,None,BM+CIP+AAM,ball milled at 150rpm for 12h and pressed under 223MPa for 1min to prepare cylinders for arc melting,hardness,EXP,None,298.0,8929273500.0,None,Pa,S,10.20517/jmi.2022.03
+None,Mo45 Nb35 Ta5 V15,BCC+BCC,AAM,None,nanohardness,EXP,None,298.0,6860000000.0,220000000.0,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo25 Nb50 V20 W5,BCC,AAM,None,nanohardness,EXP,None,298.0,6850000000.0,90000000.0,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo30 Nb35 Ta5 V25 W5,BCC+BCC,AAM,None,nanohardness,EXP,None,298.0,7200000000.0,140000000.0,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo45 Nb35 Ta5 V15,BCC+BCC,AAM,None,reduced elastic modulus,EXP,None,298.0,178000000000.0,6000000000.0,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo25 Nb50 V20 W5,BCC,AAM,None,reduced elastic modulus,EXP,None,298.0,136000000000.0,3000000000.0,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo30 Nb35 Ta5 V25 W5,BCC+BCC,AAM,None,reduced elastic modulus,EXP,None,298.0,158000000000.0,4000000000.0,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo45 Nb35 Ta5 V15,BCC+BCC,AAM,None,hardness,EXP,None,298.0,4932921000.0,88263000.0,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo25 Nb50 V20 W5,BCC,AAM,None,hardness,EXP,None,298.0,4874079000.0,68649000.0,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo30 Nb35 Ta5 V25 W5,BCC+BCC,AAM,None,hardness,EXP,None,298.0,5099640000.0,78456000.0,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo45 Nb35 Ta5 V15,BCC,AAM+H,homogenized at 1925°C for 12h,density,EXP,None,298.0,9411.0,None,kg/m^3,T2,10.1016/j.actamat.2023.118784
+None,Mo25 Nb50 V20 W5,BCC,AAM+H,homogenized at 1925°C for 12h,density,EXP,None,298.0,9085.0,None,kg/m^3,T2,10.1016/j.actamat.2023.118784
+None,Mo30 Nb35 Ta5 V25 W5,BCC,AAM+H,homogenized at 1925°C for 12h,density,EXP,None,298.0,9441.0,None,kg/m^3,T2,10.1016/j.actamat.2023.118784
+None,Mo45 Nb35 Ta5 V15,BCC,AAM+H,homogenized at 1925°C for 12h,hardness,EXP,None,298.0,4599483000.0,137298000.0,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo25 Nb50 V20 W5,BCC,AAM+H,homogenized at 1925°C for 12h,hardness,EXP,None,298.0,4677939000.0,88263000.0,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo30 Nb35 Ta5 V25 W5,BCC,AAM+H,homogenized at 1925°C for 12h,hardness,EXP,None,298.0,4707360000.0,156912000.0,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo45 Nb35 Ta5 V15,BCC,AAM+H,homogenized at 1925°C for 12h,compressive yield stress,EXP,strain rate 1e-3/s,298.0,752000000.0,None,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo25 Nb50 V20 W5,BCC,AAM+H,homogenized at 1925°C for 12h,compressive yield stress,EXP,strain rate 1e-3/s,298.0,974000000.0,None,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo30 Nb35 Ta5 V25 W5,BCC,AAM+H,homogenized at 1925°C for 12h,compressive yield stress,EXP,strain rate 1e-3/s,298.0,1053000000.0,None,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo45 Nb35 Ta5 V15,BCC,AAM+H,homogenized at 1925°C for 12h,UCS,EXP,strain rate 1e-3/s,298.0,852000000.0,None,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo25 Nb50 V20 W5,BCC,AAM+H,homogenized at 1925°C for 12h,UCS,EXP,strain rate 1e-3/s,298.0,1210000000.0,None,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo30 Nb35 Ta5 V25 W5,BCC,AAM+H,homogenized at 1925°C for 12h,UCS,EXP,strain rate 1e-3/s,298.0,1198000000.0,None,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo45 Nb35 Ta5 V15,BCC,AAM+H,homogenized at 1925°C for 12h,compressive yield stress,EXP,strain rate 1e-2/s,1573.0,263000000.0,None,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo25 Nb50 V20 W5,BCC,AAM+H,homogenized at 1925°C for 12h,compressive yield stress,EXP,strain rate 1e-2/s,1573.0,253000000.0,None,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo30 Nb35 Ta5 V25 W5,BCC,AAM+H,homogenized at 1925°C for 12h,compressive yield stress,EXP,strain rate 1e-2/s,1573.0,480000000.0,None,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo45 Nb35 Ta5 V15,BCC,AAM+H,homogenized at 1925°C for 12h,UCS,EXP,strain rate 1e-2/s,1573.0,304000000.0,None,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo25 Nb50 V20 W5,BCC,AAM+H,homogenized at 1925°C for 12h,UCS,EXP,strain rate 1e-2/s,1573.0,270000000.0,None,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo30 Nb35 Ta5 V25 W5,BCC,AAM+H,homogenized at 1925°C for 12h,UCS,EXP,strain rate 1e-2/s,1573.0,673000000.0,None,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo45 Nb35 Ta5 V15,BCC,AAM+H,homogenized at 1925°C for 12h,compressive ductility,EXP,strain rate 1e-3/s,298.0,1.0897571278,None,%,F8,10.1016/j.actamat.2023.118784
+None,Mo25 Nb50 V20 W5,BCC,AAM+H,homogenized at 1925°C for 12h,compressive ductility,EXP,strain rate 1e-3/s,298.0,3.7317845829,None,%,F8,10.1016/j.actamat.2023.118784
+None,Mo30 Nb35 Ta5 V25 W5,BCC,AAM+H,homogenized at 1925°C for 12h,compressive ductility,EXP,strain rate 1e-3/s,298.0,5.2967265048,None,%,F8,10.1016/j.actamat.2023.118784
+None,Mo45 Nb35 Ta5 V15,BCC,AAM+H,homogenized at 1925°C for 12h,compressive ductility,EXP,strain rate 1e-2/s,1573.0,12.9918032787,None,%,F8,10.1016/j.actamat.2023.118784
+None,Mo25 Nb50 V20 W5,BCC,AAM+H,homogenized at 1925°C for 12h,compressive ductility,EXP,strain rate 1e-2/s,1573.0,6.9808743169,None,%,F8,10.1016/j.actamat.2023.118784
+None,Mo30 Nb35 Ta5 V25 W5,BCC,AAM+H,homogenized at 1925°C for 12h,compressive ductility,EXP,strain rate 1e-2/s,1573.0,12.0218579235,None,%,F8,10.1016/j.actamat.2023.118784
