@@ -511,3 +511,13 @@ None,Mo30 Nb35 Ta5 V25 W5,BCC,AAM+H,homogenized at 1925°C for 12h,compressive d
 None,Mo45 Nb35 Ta5 V15,BCC,AAM+H,homogenized at 1925°C for 12h,compressive ductility,EXP,strain rate 1e-2/s,1573.0,12.9918032787,None,%,F8,10.1016/j.actamat.2023.118784
 None,Mo25 Nb50 V20 W5,BCC,AAM+H,homogenized at 1925°C for 12h,compressive ductility,EXP,strain rate 1e-2/s,1573.0,6.9808743169,None,%,F8,10.1016/j.actamat.2023.118784
 None,Mo30 Nb35 Ta5 V25 W5,BCC,AAM+H,homogenized at 1925°C for 12h,compressive ductility,EXP,strain rate 1e-2/s,1573.0,12.0218579235,None,%,F8,10.1016/j.actamat.2023.118784
+None,Mn35 Co20 Ni20 Cu20 In5,FCC+B2,AAM,None,liquidus temperature,EXP,None,None,1247.15,None,K,None,10.1007/s40194-024-01879-2
+None,Mn35 Co20 Ni20 Cu20 Ge5,FCC,AAM,None,liquidus temperature,EXP,None,None,1226.45,None,K,None,10.1007/s40194-024-01879-2
+None,Mn35 Co20 Ni20 Cu20 In5,FCC+B2,AAM,None,solidus temperature,EXP,None,None,1362.15,None,K,None,10.1007/s40194-024-01879-2
+None,Mn35 Co20 Ni20 Cu20 Ge5,FCC,AAM,None,solidus temperature,EXP,None,None,1373.75,None,K,None,10.1007/s40194-024-01879-2
+None,Mn35 Co20 Ni20 Cu20 In5,FCC+B2,AAM,None,hardness,EXP,None,298.0,2402000000.0,20000000.0,Pa,F9,10.1007/s40194-024-01879-2
+None,Mn35 Co20 Ni20 Cu20 Ge5,FCC,AAM,None,hardness,EXP,None,298.0,1889500000.0,20000000.0,Pa,F9,10.1007/s40194-024-01879-2
+7x,TiZrHfNbCoNiAl,C14+?,AAM+H,arc melting in helium not argon but assigned AAM for practical purposes; homogenized at 673K for 50h,None,None,None,None,None,None,None,None,10.3390/met11121962
+12x,TiZrHfNbVCrMoMnFeCoNiAl,C14,AAM+H,arc melting in helium not argon but assigned AAM for practical purposes; homogenized at 673K for 50h,None,None,None,None,None,None,None,None,10.3390/met11121962
+12x+Sc,TiZrHfNbVCrMoMnFeCoNiAlSc,C14,AAM+H,arc melting in helium not argon but assigned AAM for practical purposes; homogenized at 673K for 50h,None,None,None,None,None,None,None,None,10.3390/met11121962
+12x+Be,TiZrHfNbVCrMoMnFeCoNiAlBe,C14+C15,AAM+H,arc melting in helium not argon but assigned AAM for practical purposes; homogenized at 673K for 50h,None,None,None,None,None,None,None,None,10.3390/met11121962
