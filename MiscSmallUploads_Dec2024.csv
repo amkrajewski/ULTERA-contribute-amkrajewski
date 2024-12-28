@@ -542,3 +542,4 @@ None,ErHoTb,HCP+?,AAM,the unidentified phase had trigonal symmetry,peak magnetic
 None,Gd20Dy20Er20Ho20Tb20,HCP,AAM,None,compressive yield stress,EXP,None,298.0,258000000.0,None,Pa,F10,10.1016/j.actamat.2016.12.021
 None,Gd20Dy20Er20Ho20Tb20,HCP,AAM,None,UCS,EXP,None,298.0,759000000.0,None,Pa,F10,10.1016/j.actamat.2016.12.021
 None,Gd20Dy20Er20Ho20Tb20,HCP,AAM,None,compressive ductility,EXP,None,298.0,24.8,None,%,F10,10.1016/j.actamat.2016.12.021
+None,MgAlTiFeNi,B2,MA,mechanical alloying by ball milling under Ar for 30h at 200rpm,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2020.158357
