@@ -521,3 +521,24 @@ None,Mn35 Co20 Ni20 Cu20 Ge5,FCC,AAM,None,hardness,EXP,None,298.0,1889500000.0,2
 12x,TiZrHfNbVCrMoMnFeCoNiAl,C14,AAM+H,arc melting in helium not argon but assigned AAM for practical purposes; homogenized at 673K for 50h,None,None,None,None,None,None,None,None,10.3390/met11121962
 12x+Sc,TiZrHfNbVCrMoMnFeCoNiAlSc,C14,AAM+H,arc melting in helium not argon but assigned AAM for practical purposes; homogenized at 673K for 50h,None,None,None,None,None,None,None,None,10.3390/met11121962
 12x+Be,TiZrHfNbVCrMoMnFeCoNiAlBe,C14+C15,AAM+H,arc melting in helium not argon but assigned AAM for practical purposes; homogenized at 673K for 50h,None,None,None,None,None,None,None,None,10.3390/met11121962
+RHEA0,Ti25.00 V25.00 Nb25.00 Mo25.00,BCC,AC,None,density,EXP,None,298.0,7330.0,10.0,kg/m^3,ST2,10.1016/j.jmrt.2024.12.204
+RHEA1,Ti20.00 V35.00 Nb35.00 Mo10.00,BCC,AC,None,density,EXP,None,298.0,7040.0,30.0,kg/m^3,ST2,10.1016/j.jmrt.2024.12.204
+RHEA2,Ti35.00 V35.00 Nb10.00 Mo20.00,BCC,AC,None,density,EXP,None,298.0,6610.0,10.0,kg/m^3,ST2,10.1016/j.jmrt.2024.12.204
+RHEA0,Ti25.00 V25.00 Nb25.00 Mo25.00,BCC,AC,None,compressive yield stress,EXP,None,298.0,975371532.8467085,None,Pa,F14,10.1016/j.jmrt.2024.12.204
+RHEA1,Ti20.00 V35.00 Nb35.00 Mo10.00,BCC,AC,None,compressive yield stress,EXP,None,298.0,946032116.7883168,None,Pa,F14,10.1016/j.jmrt.2024.12.204
+RHEA2,Ti35.00 V35.00 Nb10.00 Mo20.00,BCC,AC,None,compressive yield stress,EXP,None,298.0,988122627.7372228,None,Pa,F14,10.1016/j.jmrt.2024.12.204
+RHEA0,Ti25.00 V25.00 Nb25.00 Mo25.00,BCC,AC,None,compressive ductility,EXP,None,298.0,26.0,None,%,F14,10.1016/j.jmrt.2024.12.204
+RHEA1,Ti20.00 V35.00 Nb35.00 Mo10.00,BCC,AC,None,minimum compressive ductility,EXP,None,298.0,50.0,None,%,F14,10.1016/j.jmrt.2024.12.204
+RHEA2,Ti35.00 V35.00 Nb10.00 Mo20.00,BCC,AC,None,minimum compressive ductility,EXP,None,298.0,50.0,None,%,F14,10.1016/j.jmrt.2024.12.204
+RHEA0,Ti25.00 V25.00 Nb25.00 Mo25.00,BCC,AC,None,UCS,EXP,None,298.0,1640000000.0,None,Pa,F14,10.1016/j.jmrt.2024.12.204
+None,Gd20Dy20Er20Ho20Tb20,HCP,AAM,None,neel temperature,EXP,None,None,186.0,None,K,T2,10.1016/j.actamat.2016.12.021
+None,Gd25Er25Ho25Tb25,HCP+?,AAM,the unidentified phase had trigonal symmetry,neel temperature,EXP,None,None,139.0,None,K,T2,10.1016/j.actamat.2016.12.021
+None,Dy25Er25Ho25Tb25,HCP+?,AAM,the unidentified phase had trigonal symmetry,neel temperature,EXP,None,None,52.0,None,K,T2,10.1016/j.actamat.2016.12.021
+None,ErHoTb,HCP+?,AAM,the unidentified phase had trigonal symmetry,neel temperature,EXP,None,None,88.0,None,K,T2,10.1016/j.actamat.2016.12.021
+None,Gd20Dy20Er20Ho20Tb20,HCP,AAM,None,peak magnetic entropy change,EXP,5T,None,8.8,None,J/kgK,T2,10.1016/j.actamat.2016.12.021
+None,Gd25Er25Ho25Tb25,HCP+?,AAM,the unidentified phase had trigonal symmetry,peak magnetic entropy change,EXP,5T,None,4.8,None,J/kgK,T2,10.1016/j.actamat.2016.12.021
+None,Dy25Er25Ho25Tb25,HCP+?,AAM,the unidentified phase had trigonal symmetry,peak magnetic entropy change,EXP,3T,None,0.65,None,J/kgK,T2,10.1016/j.actamat.2016.12.021
+None,ErHoTb,HCP+?,AAM,the unidentified phase had trigonal symmetry,peak magnetic entropy change,EXP,3T,None,3.0,None,J/kgK,T2,10.1016/j.actamat.2016.12.021
+None,Gd20Dy20Er20Ho20Tb20,HCP,AAM,None,compressive yield stress,EXP,None,298.0,258000000.0,None,Pa,F10,10.1016/j.actamat.2016.12.021
+None,Gd20Dy20Er20Ho20Tb20,HCP,AAM,None,UCS,EXP,None,298.0,759000000.0,None,Pa,F10,10.1016/j.actamat.2016.12.021
+None,Gd20Dy20Er20Ho20Tb20,HCP,AAM,None,compressive ductility,EXP,None,298.0,24.8,None,%,F10,10.1016/j.actamat.2016.12.021
