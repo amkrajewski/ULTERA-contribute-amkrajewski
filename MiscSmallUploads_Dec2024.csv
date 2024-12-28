@@ -549,3 +549,73 @@ None,TiNbTaZrMo,None,VAM,None,hardness,EXP,None,298.0,4677939000.0,76494600.0,Pa
 None,TiNbTaZrW,None,VAM,None,hardness,EXP,None,298.0,5452692000.0,61784100.0,Pa,T3,10.1016/j.msec.2019.110322
 None,TiZrHfCr0.2Mo,BCC+laves,VAM,None,hardness,EXP,None,298.0,5207517000.0,107877000.0,Pa,T3,10.1016/j.msec.2019.110322
 None,TiZrHfCo0.07Cr0.07Mo,BCC+laves,VAM,None,hardness,EXP,None,298.0,5217324000.0,57861300.0,Pa,T3,10.1016/j.msec.2019.110322
+Cr0,AlCoFeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,298.0,5899404651.162788,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr0,AlCoFeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,573.0,5260809302.325574,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr0,AlCoFeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,673.0,4909581860.465109,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr0,AlCoFeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,773.0,4909581860.465109,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr0,AlCoFeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,873.0,5047944186.046506,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr0,AlCoFeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,973.0,4909581860.465109,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr0,AlCoFeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,1073.0,3781396744.1860447,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr0,AlCoFeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,1173.0,2961866046.5116277,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr0,AlCoFeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,1273.0,2355200465.11627,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr0.5,AlCoCr0.5FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,298.0,6005837209.302318,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr0.5,AlCoCr0.5FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,573.0,5335312093.023255,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr0.5,AlCoCr0.5FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,673.0,5335312093.023255,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr0.5,AlCoCr0.5FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,773.0,5345955348.837205,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr0.5,AlCoCr0.5FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,873.0,5133090232.558136,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr0.5,AlCoCr0.5FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,973.0,4909581860.465109,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr0.5,AlCoCr0.5FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,1073.0,3951688837.2092977,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr0.5,AlCoCr0.5FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,1173.0,2887363255.813946,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr0.5,AlCoCr0.5FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,1273.0,2355200465.11627,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr1,AlCoCr1.0FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,298.0,7144665581.395342,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr1,AlCoCr1.0FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,573.0,6506070232.558136,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr1,AlCoCr1.0FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,673.0,6399637674.418598,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr1,AlCoCr1.0FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,773.0,6271918604.65116,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr1,AlCoCr1.0FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,873.0,6005837209.302318,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr1,AlCoCr1.0FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,973.0,5803615348.837209,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr1,AlCoCr1.0FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,1073.0,5165019999.999993,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr1,AlCoCr1.0FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,1173.0,4345489302.325577,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr1,AlCoCr1.0FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,1273.0,3387596279.0697646,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr1.5,AlCoCr1.5FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,298.0,7974839534.883718,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr1.5,AlCoCr1.5FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,573.0,7336244186.046512,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr1.5,AlCoCr1.5FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,673.0,7176595348.837209,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr1.5,AlCoCr1.5FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,773.0,7080806046.511628,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr1.5,AlCoCr1.5FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,873.0,6772151627.90697,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr1.5,AlCoCr1.5FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,973.0,6410280930.232556,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr1.5,AlCoCr1.5FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,1073.0,5803615348.837209,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr1.5,AlCoCr1.5FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,1173.0,4813792558.139529,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr1.5,AlCoCr1.5FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,1273.0,3674964186.0465055,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr2,AlCoCr2.0FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,298.0,8507002325.581392,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr2,AlCoCr2.0FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,573.0,7612968837.209294,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr2,AlCoCr2.0FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,673.0,7304314418.604645,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr2,AlCoCr2.0FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,773.0,6963730232.55814,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr2,AlCoCr2.0FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,873.0,7123379069.767433,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr2,AlCoCr2.0FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,973.0,6644432558.139533,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr2,AlCoCr2.0FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,1073.0,6165486046.511621,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr2,AlCoCr2.0FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,1173.0,5548177209.302324,None,Pa,F7,10.1016/j.msea.2011.01.072
+Cr2,AlCoCr2.0FeMo0.5Ni,B2+sigma,AAM,None,hardness,EXP,None,1273.0,4430635348.837208,None,Pa,F7,10.1016/j.msea.2011.01.072
+Ti05,Co1.5CrFeNi1.5Ti0.5,FCC+D024,AAM+H+WQ+AT,homogenized at 1423K for 6h then quenched in water and aged for 50h at 1023K; D024 is η-Ni3Ti phase ,hardness,EXP,None,298.0,5165019999.999993,None,Pa,F6,10.1016/j.jallcom.2015.09.042
+Ti05,Co1.5CrFeNi1.5Ti0.5,FCC+D024,AAM+H+WQ+AT,homogenized at 1423K for 6h then quenched in water and aged for 50h at 1023K; D024 is η-Ni3Ti phase ,hardness,EXP,None,773.0,4357213777.777775,None,Pa,F6,10.1016/j.jallcom.2015.09.042
+Ti05,Co1.5CrFeNi1.5Ti0.5,FCC+D024,AAM+H+WQ+AT,homogenized at 1423K for 6h then quenched in water and aged for 50h at 1023K; D024 is η-Ni3Ti phase ,hardness,EXP,None,973.0,4101505333.333331,None,Pa,F6,10.1016/j.jallcom.2015.09.042
+Ti05,Co1.5CrFeNi1.5Ti0.5,FCC+D024,AAM+H+WQ+AT,homogenized at 1423K for 6h then quenched in water and aged for 50h at 1023K; D024 is η-Ni3Ti phase ,hardness,EXP,None,1073.0,3810927555.5555496,None,Pa,F6,10.1016/j.jallcom.2015.09.042
+Ti05,Co1.5CrFeNi1.5Ti0.5,FCC+D024,AAM+H+WQ+AT,homogenized at 1423K for 6h then quenched in water and aged for 50h at 1023K; D024 is η-Ni3Ti phase ,hardness,EXP,None,1173.0,3421553333.3333244,None,Pa,F6,10.1016/j.jallcom.2015.09.042
+Ti05,Co1.5CrFeNi1.5Ti0.5,FCC+D024,AAM+H+WQ+AT,homogenized at 1423K for 6h then quenched in water and aged for 50h at 1023K; D024 is η-Ni3Ti phase ,hardness,EXP,None,1273.0,2631181777.7777753,None,Pa,F6,10.1016/j.jallcom.2015.09.042
+Al01Ti04,Al0.1Co1.5CrFeNi1.5Ti0.4,FCC+L12,AAM+H+WQ+AT,homogenized at 1423K for 6h then quenched in water and aged for 50h at 1023K,hardness,EXP,None,298.0,4351402222.222216,None,Pa,F6,10.1016/j.jallcom.2015.09.042
+Al01Ti04,Al0.1Co1.5CrFeNi1.5Ti0.4,FCC+L12,AAM+H+WQ+AT,homogenized at 1423K for 6h then quenched in water and aged for 50h at 1023K,hardness,EXP,None,773.0,3828362222.2222185,None,Pa,F6,10.1016/j.jallcom.2015.09.042
+Al01Ti04,Al0.1Co1.5CrFeNi1.5Ti0.4,FCC+L12,AAM+H+WQ+AT,homogenized at 1423K for 6h then quenched in water and aged for 50h at 1023K,hardness,EXP,None,973.0,3473857333.333331,None,Pa,F6,10.1016/j.jallcom.2015.09.042
+Al01Ti04,Al0.1Co1.5CrFeNi1.5Ti0.4,FCC+L12,AAM+H+WQ+AT,homogenized at 1423K for 6h then quenched in water and aged for 50h at 1023K,hardness,EXP,None,1073.0,3392495555.5555563,None,Pa,F6,10.1016/j.jallcom.2015.09.042
+Al01Ti04,Al0.1Co1.5CrFeNi1.5Ti0.4,FCC+L12,AAM+H+WQ+AT,homogenized at 1423K for 6h then quenched in water and aged for 50h at 1023K,hardness,EXP,None,1173.0,2770659111.1111064,None,Pa,F6,10.1016/j.jallcom.2015.09.042
+Al01Ti04,Al0.1Co1.5CrFeNi1.5Ti0.4,FCC+L12,AAM+H+WQ+AT,homogenized at 1423K for 6h then quenched in water and aged for 50h at 1023K,hardness,EXP,None,1273.0,2183691999.9999933,None,Pa,F6,10.1016/j.jallcom.2015.09.042
+Al02Ti03,Al0.2Co1.5CrFeNi1.5Ti0.3,FCC+L12,AAM+H+WQ+AT,homogenized at 1423K for 6h then quenched in water and aged for 50h at 1023K,hardness,EXP,None,298.0,3508726666.666659,None,Pa,F6,10.1016/j.jallcom.2015.09.042
+Al02Ti03,Al0.2Co1.5CrFeNi1.5Ti0.3,FCC+L12,AAM+H+WQ+AT,homogenized at 1423K for 6h then quenched in water and aged for 50h at 1023K,hardness,EXP,None,773.0,2968251999.9999933,None,Pa,F6,10.1016/j.jallcom.2015.09.042
+Al02Ti03,Al0.2Co1.5CrFeNi1.5Ti0.3,FCC+L12,AAM+H+WQ+AT,homogenized at 1423K for 6h then quenched in water and aged for 50h at 1023K,hardness,EXP,None,973.0,2625370222.2222157,None,Pa,F6,10.1016/j.jallcom.2015.09.042
+Al02Ti03,Al0.2Co1.5CrFeNi1.5Ti0.3,FCC+L12,AAM+H+WQ+AT,homogenized at 1423K for 6h then quenched in water and aged for 50h at 1023K,hardness,EXP,None,1073.0,2468458222.2222157,None,Pa,F6,10.1016/j.jallcom.2015.09.042
+Al02Ti03,Al0.2Co1.5CrFeNi1.5Ti0.3,FCC+L12,AAM+H+WQ+AT,homogenized at 1423K for 6h then quenched in water and aged for 50h at 1023K,hardness,EXP,None,1173.0,2299923111.111106,None,Pa,F6,10.1016/j.jallcom.2015.09.042
+Al02Ti03,Al0.2Co1.5CrFeNi1.5Ti0.3,FCC+L12,AAM+H+WQ+AT,homogenized at 1423K for 6h then quenched in water and aged for 50h at 1023K,hardness,EXP,None,1273.0,1649028888.8888876,None,Pa,F6,10.1016/j.jallcom.2015.09.042
+Al03Ti02,Al0.3Co1.5CrFeNi1.5Ti0.2,FCC+L12,AAM+H+WQ+AT,homogenized at 1423K for 6h then quenched in water and aged for 50h at 1023K,hardness,EXP,None,298.0,3008932888.8888807,None,Pa,F6,10.1016/j.jallcom.2015.09.042
+Al03Ti02,Al0.3Co1.5CrFeNi1.5Ti0.2,FCC+L12,AAM+H+WQ+AT,homogenized at 1423K for 6h then quenched in water and aged for 50h at 1023K,hardness,EXP,None,773.0,2503327555.555553,None,Pa,F6,10.1016/j.jallcom.2015.09.042
+Al03Ti02,Al0.3Co1.5CrFeNi1.5Ti0.2,FCC+L12,AAM+H+WQ+AT,homogenized at 1423K for 6h then quenched in water and aged for 50h at 1023K,hardness,EXP,None,973.0,2352227111.1111026,None,Pa,F6,10.1016/j.jallcom.2015.09.042
+Al03Ti02,Al0.3Co1.5CrFeNi1.5Ti0.2,FCC+L12,AAM+H+WQ+AT,homogenized at 1423K for 6h then quenched in water and aged for 50h at 1023K,hardness,EXP,None,1073.0,1957041333.333328,None,Pa,F6,10.1016/j.jallcom.2015.09.042
+Al03Ti02,Al0.3Co1.5CrFeNi1.5Ti0.2,FCC+L12,AAM+H+WQ+AT,homogenized at 1423K for 6h then quenched in water and aged for 50h at 1023K,hardness,EXP,None,1173.0,1538609333.3333247,None,Pa,F6,10.1016/j.jallcom.2015.09.042
+Al03Ti02,Al0.3Co1.5CrFeNi1.5Ti0.2,FCC+L12,AAM+H+WQ+AT,homogenized at 1423K for 6h then quenched in water and aged for 50h at 1023K,hardness,EXP,None,1273.0,870280444.444445,None,Pa,F6,10.1016/j.jallcom.2015.09.042
+Al05,Co1.5CrFeNi1.5Al0.5 ,FCC+BCC,AAM+H+WQ+AT,homogenized at 1423K for 6h then quenched in water and aged for 50h at 1023K,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2015.09.042
