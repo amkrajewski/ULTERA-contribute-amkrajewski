@@ -5,3 +5,108 @@ Hand Fetched:,T
 Comment:,None
 
 id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
+None,NbTaTiV,BCC,AAM+CR+A,annealed at 1473K for 45min,hardness,EXP,None,298.0,2765313472.485765,101233548.38710338,Pa,F7a,10.1016/j.jmrt.2024.12.256
+None,NbTaTiVHf0.25,BCC,AAM+CR+A,annealed at 1473K for 45min,hardness,EXP,None,298.0,2951404554.079691,276903529.4117637,Pa,F7a,10.1016/j.jmrt.2024.12.256
+None,NbTaTiVHf0.5,BCC,AAM+CR+A,annealed at 1473K for 45min,hardness,EXP,None,298.0,3323586717.267543,208422011.3852037,Pa,F7a,10.1016/j.jmrt.2024.12.256
+None,NbTaTiVHf0.75,BCC,AAM+CR+A,annealed at 1473K for 45min,hardness,EXP,None,298.0,3472459582.5426855,165248880.45541432,Pa,F7a,10.1016/j.jmrt.2024.12.256
+None,NbTaTiVHf,BCC,AAM+CR+A,annealed at 1473K for 45min,hardness,EXP,None,298.0,3555828387.0967712,98256091.08159097,Pa,F7a,10.1016/j.jmrt.2024.12.256
+None,NbTaTiV,BCC,AAM+CR+A,annealed at 1473K for 45min,tensile yield stress,EXP,None,298.0,727045075.125208,None,Pa,F9b,10.1016/j.jmrt.2024.12.256
+None,NbTaTiVHf0.25,BCC,AAM+CR+A,annealed at 1473K for 45min,tensile yield stress,EXP,None,298.0,790651085.141903,None,Pa,F9b,10.1016/j.jmrt.2024.12.256
+None,NbTaTiVHf0.5,BCC,AAM+CR+A,annealed at 1473K for 45min,tensile yield stress,EXP,None,298.0,814190317.195325,None,Pa,F9b,10.1016/j.jmrt.2024.12.256
+None,NbTaTiVHf0.75,BCC,AAM+CR+A,annealed at 1473K for 45min,tensile yield stress,EXP,None,298.0,869282136.894824,None,Pa,F9b,10.1016/j.jmrt.2024.12.256
+None,NbTaTiVHf,BCC,AAM+CR+A,annealed at 1473K for 45min,tensile yield stress,EXP,None,298.0,996994991.6527541,None,Pa,F9b,10.1016/j.jmrt.2024.12.256
+None,NbTaTiV,BCC,AAM+CR+A,annealed at 1473K for 45min,UTS,EXP,None,298.0,872763419.483101,None,Pa,F7b,10.1016/j.jmrt.2024.12.256
+None,NbTaTiVHf0.25,BCC,AAM+CR+A,annealed at 1473K for 45min,UTS,EXP,None,298.0,914115308.151093,None,Pa,F7b,10.1016/j.jmrt.2024.12.256
+None,NbTaTiVHf0.5,BCC,AAM+CR+A,annealed at 1473K for 45min,UTS,EXP,None,298.0,958648111.3320069,None,Pa,F7b,10.1016/j.jmrt.2024.12.256
+None,NbTaTiVHf0.75,BCC,AAM+CR+A,annealed at 1473K for 45min,UTS,EXP,None,298.0,1023856858.84691,None,Pa,F7b,10.1016/j.jmrt.2024.12.256
+None,NbTaTiVHf,BCC,AAM+CR+A,annealed at 1473K for 45min,UTS,EXP,None,298.0,1058846918.4890599,None,Pa,F7b,10.1016/j.jmrt.2024.12.256
+None,NbTaTiV,BCC,AAM+CR+A,annealed at 1473K for 45min,tensile ductility,EXP,None,298.0,26.9246861925,None,%,F7b,10.1016/j.jmrt.2024.12.256
+None,NbTaTiVHf0.25,BCC,AAM+CR+A,annealed at 1473K for 45min,tensile ductility,EXP,None,298.0,20.9832635983,None,%,F7b,10.1016/j.jmrt.2024.12.256
+None,NbTaTiVHf0.5,BCC,AAM+CR+A,annealed at 1473K for 45min,tensile ductility,EXP,None,298.0,19.4490934449,None,%,F7b,10.1016/j.jmrt.2024.12.256
+None,NbTaTiVHf0.75,BCC,AAM+CR+A,annealed at 1473K for 45min,tensile ductility,EXP,None,298.0,18.8912133891,None,%,F7b,10.1016/j.jmrt.2024.12.256
+None,NbTaTiVHf,BCC,AAM+CR+A,annealed at 1473K for 45min,tensile ductility,EXP,None,298.0,14.2887029289,None,%,F7b,10.1016/j.jmrt.2024.12.256
+None,NbTaTiV,BCC,None,VASP DFT with GGA-PBE and PAW over SQS,B/G ratio,DFT,160-atom SQS supercell,None,4.68,None,None,T2,10.1016/j.jmrt.2024.12.256
+None,NbTaTiVHf0.21,BCC,None,VASP DFT with GGA-PBE and PAW over SQS,B/G ratio,DFT,160-atom SQS supercell,None,4.53,None,None,T2,10.1016/j.jmrt.2024.12.256
+None,NbTaTiVHf0.44,BCC,None,VASP DFT with GGA-PBE and PAW over SQS,B/G ratio,DFT,160-atom SQS supercell,None,4.359,None,None,T2,10.1016/j.jmrt.2024.12.256
+None,NbTaTiVHf0.71,BCC,None,VASP DFT with GGA-PBE and PAW over SQS,B/G ratio,DFT,160-atom SQS supercell,None,4.016,None,None,T2,10.1016/j.jmrt.2024.12.256
+None,NbTaTiVHf,BCC,None,VASP DFT with GGA-PBE and PAW over SQS,B/G ratio,DFT,160-atom SQS supercell,None,3.817,None,None,T2,10.1016/j.jmrt.2024.12.256
+None,NbTaTiV,BCC,None,VASP DFT with GGA-PBE and PAW over SQS,poissons ratio,DFT,160-atom SQS supercell,None,0.4,None,None,T2,10.1016/j.jmrt.2024.12.256
+None,NbTaTiVHf0.21,BCC,None,VASP DFT with GGA-PBE and PAW over SQS,poissons ratio,DFT,160-atom SQS supercell,None,0.397,None,None,T2,10.1016/j.jmrt.2024.12.256
+None,NbTaTiVHf0.44,BCC,None,VASP DFT with GGA-PBE and PAW over SQS,poissons ratio,DFT,160-atom SQS supercell,None,0.393,None,None,T2,10.1016/j.jmrt.2024.12.256
+None,NbTaTiVHf0.71,BCC,None,VASP DFT with GGA-PBE and PAW over SQS,poissons ratio,DFT,160-atom SQS supercell,None,0.385,None,None,T2,10.1016/j.jmrt.2024.12.256
+None,NbTaTiVHf,BCC,None,VASP DFT with GGA-PBE and PAW over SQS,poissons ratio,DFT,160-atom SQS supercell,None,0.38,None,None,T2,10.1016/j.jmrt.2024.12.256
+HT,Al0.3NbTi3VZr1.5,BCC,DED+T+H+WQ,AM DED followed by tempering at 873K for 2h to remove residual stress; homogenized at 1473K for 1h and quenched in water,nanohardness,EXP,None,298.0,4137236084.45297,119001919.38579988,Pa,F6b,10.1016/j.ijplas.2024.104237
+CR,Al0.3NbTi3VZr1.5,BCC,DED+T+H+WQ+CR,AM DED followed by tempering at 873K for 2h to remove residual stress; homogenized at 1473K for 1h and quenched in water; cold-rolled to 70% thickness reduction,nanohardness,EXP,None,298.0,5223608445.2975,322456813.8195801,Pa,F6b,10.1016/j.ijplas.2024.104237
+RA,Al0.3NbTi3VZr1.5,BCC+C14,DED+T+H+WQ+CR+RX+WQ,AM DED followed by tempering at 873K for 2h to remove residual stress; homogenized at 1473K for 1h and quenched in water; cold-rolled to 70% thickness reduction; recrystallized at 1173K for 1h and quenched,nanohardness,EXP,None,298.0,4283109404.9904,218809980.80614042,Pa,F6b,10.1016/j.ijplas.2024.104237
+AT,Al0.3NbTi3VZr1.5,BCC+C14,DED+T+H+WQ+CR+RX+WQ+AT,AM DED followed by tempering at 873K for 2h to remove residual stress; homogenized at 1473K for 1h and quenched in water; cold-rolled to 70% thickness reduction; recrystallized at 1173K for 1h and quenched; aged at 573K for 7 days,nanohardness,EXP,None,298.0,4494241842.61036,218809980.80613995,Pa,F6b,10.1016/j.ijplas.2024.104237
+HT,Al0.3NbTi3VZr1.5,BCC,DED+T+H+WQ,AM DED followed by tempering at 873K for 2h to remove residual stress; homogenized at 1473K for 1h and quenched in water,tensile yield stress,EXP,None,298.0,933971291.866028,None,Pa,F7c,10.1016/j.ijplas.2024.104237
+CR,Al0.3NbTi3VZr1.5,BCC,DED+T+H+WQ+CR,AM DED followed by tempering at 873K for 2h to remove residual stress; homogenized at 1473K for 1h and quenched in water; cold-rolled to 70% thickness reduction,tensile yield stress,EXP,None,298.0,1341626794.2583702,None,Pa,F7c,10.1016/j.ijplas.2024.104237
+RA,Al0.3NbTi3VZr1.5,BCC+C14,DED+T+H+WQ+CR+RX+WQ,AM DED followed by tempering at 873K for 2h to remove residual stress; homogenized at 1473K for 1h and quenched in water; cold-rolled to 70% thickness reduction; recrystallized at 1173K for 1h and quenched,tensile yield stress,EXP,None,298.0,1025837320.57416,None,Pa,F7c,10.1016/j.ijplas.2024.104237
+AT,Al0.3NbTi3VZr1.5,BCC+C14,DED+T+H+WQ+CR+RX+WQ+AT,AM DED followed by tempering at 873K for 2h to remove residual stress; homogenized at 1473K for 1h and quenched in water; cold-rolled to 70% thickness reduction; recrystallized at 1173K for 1h and quenched; aged at 573K for 7 days,tensile yield stress,EXP,None,298.0,1063157894.7368399,None,Pa,F7c,10.1016/j.ijplas.2024.104237
+HT,Al0.3NbTi3VZr1.5,BCC,DED+T+H+WQ,AM DED followed by tempering at 873K for 2h to remove residual stress; homogenized at 1473K for 1h and quenched in water,UTS,EXP,None,298.0,941784037.5586851,None,Pa,F7a,10.1016/j.ijplas.2024.104237
+CR,Al0.3NbTi3VZr1.5,BCC,DED+T+H+WQ+CR,AM DED followed by tempering at 873K for 2h to remove residual stress; homogenized at 1473K for 1h and quenched in water; cold-rolled to 70% thickness reduction,UTS,EXP,None,298.0,1467605633.80281,None,Pa,F7a,10.1016/j.ijplas.2024.104237
+RA,Al0.3NbTi3VZr1.5,BCC+C14,DED+T+H+WQ+CR+RX+WQ,AM DED followed by tempering at 873K for 2h to remove residual stress; homogenized at 1473K for 1h and quenched in water; cold-rolled to 70% thickness reduction; recrystallized at 1173K for 1h and quenched,UTS,EXP,None,298.0,1122065727.6995301,None,Pa,F7a,10.1016/j.ijplas.2024.104237
+AT,Al0.3NbTi3VZr1.5,BCC+C14,DED+T+H+WQ+CR+RX+WQ+AT,AM DED followed by tempering at 873K for 2h to remove residual stress; homogenized at 1473K for 1h and quenched in water; cold-rolled to 70% thickness reduction; recrystallized at 1173K for 1h and quenched; aged at 573K for 7 days,UTS,EXP,None,298.0,1180281690.1408398,None,Pa,F7a,10.1016/j.ijplas.2024.104237
+HT,Al0.3NbTi3VZr1.5,BCC,DED+T+H+WQ,AM DED followed by tempering at 873K for 2h to remove residual stress; homogenized at 1473K for 1h and quenched in water,tensile ductility,EXP,None,298.0,10.4528301887,None,%,F7a,10.1016/j.ijplas.2024.104237
+CR,Al0.3NbTi3VZr1.5,BCC,DED+T+H+WQ+CR,AM DED followed by tempering at 873K for 2h to remove residual stress; homogenized at 1473K for 1h and quenched in water; cold-rolled to 70% thickness reduction,tensile ductility,EXP,None,298.0,9.8113207547,None,%,F7a,10.1016/j.ijplas.2024.104237
+RA,Al0.3NbTi3VZr1.5,BCC+C14,DED+T+H+WQ+CR+RX+WQ,AM DED followed by tempering at 873K for 2h to remove residual stress; homogenized at 1473K for 1h and quenched in water; cold-rolled to 70% thickness reduction; recrystallized at 1173K for 1h and quenched,tensile ductility,EXP,None,298.0,15.9433962264,None,%,F7a,10.1016/j.ijplas.2024.104237
+AT,Al0.3NbTi3VZr1.5,BCC+C14,DED+T+H+WQ+CR+RX+WQ+AT,AM DED followed by tempering at 873K for 2h to remove residual stress; homogenized at 1473K for 1h and quenched in water; cold-rolled to 70% thickness reduction; recrystallized at 1173K for 1h and quenched; aged at 573K for 7 days,tensile ductility,EXP,None,298.0,18.0188679245,None,%,F7a,10.1016/j.ijplas.2024.104237
+None,TiZrNbTa,BCC,AAM,None,hardness,EXP,None,298.0,3375515312.0464396,78285195.93614365,Pa,F8,10.1016/j.msea.2025.147800
+None,(TiZrNbTa)24.75 O1,BCC,AAM,None,hardness,EXP,None,298.0,3937745355.5878005,85402031.9303406,Pa,F8,10.1016/j.msea.2025.147800
+None,(TiZrNbTa)24.625 O1.5,BCC,AAM,None,hardness,EXP,None,298.0,4400339695.210444,88960449.92743546,Pa,F8,10.1016/j.msea.2025.147800
+None,(TiZrNbTa)24.5 O2,BCC,AAM,None,hardness,EXP,None,298.0,4638753701.01596,71168359.94194613,Pa,F8,10.1016/j.msea.2025.147800
+None,(TiZrNbTa)24.375 O2.5,BCC,AAM,None,hardness,EXP,None,298.0,4741947822.931779,53376269.95645737,Pa,F8,10.1016/j.msea.2025.147800
+None,(TiZrNbTa)24.25 O3,BCC,AAM,None,hardness,EXP,None,298.0,4955452902.757618,64051523.947748624,Pa,F8,10.1016/j.msea.2025.147800
+None,(TiZrNbTa)24.125 O3.5,BCC,AAM,None,None,None,None,None,None,None,None,None,10.1016/j.msea.2025.147800
+None,(TiZrNbTa)24 O4,BCC,AAM,None,hardness,EXP,None,298.0,5393138316.400576,74726777.93903987,Pa,F8,10.1016/j.msea.2025.147800
+None,(TiZrNbTa)23.75 O5,BCC+oxide,AAM,None,hardness,EXP,None,298.0,5677811756.168359,49817851.959353596,Pa,F8,10.1016/j.msea.2025.147800
+None,(TiZrNbTa)23.5 O6,BCC+oxide,AAM,None,hardness,EXP,None,298.0,5869966328.011605,49817851.95936363,Pa,F8,10.1016/j.msea.2025.147800
+None,TiZrNbTa,BCC,AAM,None,compressive yield stress,EXP,None,298.0,1109502262.44343,16289592.76019001,Pa,F9b,10.1016/j.msea.2025.147800
+None,(TiZrNbTa)24.75 O1,BCC,AAM,None,compressive yield stress,EXP,None,298.0,1237782805.42986,16289592.760179758,Pa,F9b,10.1016/j.msea.2025.147800
+None,(TiZrNbTa)24.625 O1.5,BCC,AAM,None,compressive yield stress,EXP,None,298.0,1278506787.33031,35972850.67872977,Pa,F9b,10.1016/j.msea.2025.147800
+None,(TiZrNbTa)24.5 O2,BCC,AAM,None,compressive yield stress,EXP,None,298.0,1305656108.59728,17647058.82352996,Pa,F9b,10.1016/j.msea.2025.147800
+None,(TiZrNbTa)24.375 O2.5,BCC,AAM,None,compressive yield stress,EXP,None,298.0,1338235294.11764,48190045.248870134,Pa,F9b,10.1016/j.msea.2025.147800
+None,(TiZrNbTa)24.25 O3,BCC,AAM,None,compressive yield stress,EXP,None,298.0,1370135746.60633,19683257.918550253,Pa,F9b,10.1016/j.msea.2025.147800
+None,(TiZrNbTa)24 O4,BCC,AAM,None,compressive yield stress,EXP,None,298.0,1383710407.23981,21040723.981899977,Pa,F9b,10.1016/j.msea.2025.147800
+None,(TiZrNbTa)23.75 O5,BCC+oxide,AAM,None,compressive yield stress,EXP,None,298.0,1409502262.44343,36651583.71041012,Pa,F9b,10.1016/j.msea.2025.147800
+None,(TiZrNbTa)23.5 O6,BCC+oxide,AAM,None,compressive yield stress,EXP,None,298.0,1521493212.6696799,31900452.488690138,Pa,F9b,10.1016/j.msea.2025.147800
+None,(TiZrNbTa)24.5 O2,BCC,AAM,None,UCS,EXP,None,298.0,2227440147.32965,None,Pa,F9a,10.1016/j.msea.2025.147800
+None,(TiZrNbTa)24.25 O3,BCC,AAM,None,UCS,EXP,None,298.0,2275322283.60957,None,Pa,F9a,10.1016/j.msea.2025.147800
+None,(TiZrNbTa)24 O4,BCC,AAM,None,UCS,EXP,None,298.0,2139042357.2743998,None,Pa,F9a,10.1016/j.msea.2025.147800
+None,(TiZrNbTa)23.75 O5,BCC+oxide,AAM,None,UCS,EXP,None,298.0,1844383057.09023,None,Pa,F9a,10.1016/j.msea.2025.147800
+None,(TiZrNbTa)23.5 O6,BCC+oxide,AAM,None,UCS,EXP,None,298.0,1925414364.6408799,None,Pa,F9a,10.1016/j.msea.2025.147800
+None,TiZrNbTa,BCC,AAM,None,minimum compressive ductility,EXP,None,298.0,40.3539019964,None,%,F9a,10.1016/j.msea.2025.147800
+None,(TiZrNbTa)24.75 O1,BCC,AAM,None,minimum compressive ductility,EXP,None,298.0,41.0344827586,None,%,F9a,10.1016/j.msea.2025.147800
+None,(TiZrNbTa)24.5 O2,BCC,AAM,None,compressive ductility,EXP,None,298.0,29.7822141561,None,%,F9a,10.1016/j.msea.2025.147800
+None,(TiZrNbTa)24.25 O3,BCC,AAM,None,compressive ductility,EXP,None,298.0,27.6497277677,None,%,F9a,10.1016/j.msea.2025.147800
+None,(TiZrNbTa)24 O4,BCC,AAM,None,compressive ductility,EXP,None,298.0,26.4700544465,None,%,F9a,10.1016/j.msea.2025.147800
+None,(TiZrNbTa)23.75 O5,BCC+oxide,AAM,None,compressive ductility,EXP,None,298.0,13.1760435572,None,%,F9a,10.1016/j.msea.2025.147800
+None,(TiZrNbTa)23.5 O6,BCC+oxide,AAM,None,compressive ductility,EXP,None,298.0,9.3647912886,None,%,F9a,10.1016/j.msea.2025.147800
+HT0,NbMoZrTi,BCC,AAM,None,hardness,EXP,None,298.0,5118273300.0,196140000.0,Pa,F11,10.1016/j.ijrmhm.2025.107039
+HT600,NbMoZrTi,BCC,AAM+A,annealed at 873K in Ar for 10h and furnace cooled,hardness,EXP,None,298.0,5797898400.0,196140000.0,Pa,F11,10.1016/j.ijrmhm.2025.107039
+HT800,NbMoZrTi,BCC,AAM+A,annealed at 1073K in Ar for 10h and furnace cooled,hardness,EXP,None,298.0,4983917400.0,196140000.0,Pa,F11,10.1016/j.ijrmhm.2025.107039
+HT1000,NbMoZrTi,BCC,AAM+A,annealed at 1273K in Ar for 10h and furnace cooled,hardness,EXP,None,298.0,4635768900.0,294210000.0,Pa,F11,10.1016/j.ijrmhm.2025.107039
+HT0,NbMoZrTi,BCC,AAM,None,compressive yield stress,EXP,None,298.0,1462000000.0,None,Pa,T5,10.1016/j.ijrmhm.2025.107039
+HT600,NbMoZrTi,BCC,AAM+A,annealed at 873K in Ar for 10h and furnace cooled,compressive yield stress,EXP,None,298.0,1538000000.0,None,Pa,T5,10.1016/j.ijrmhm.2025.107039
+HT800,NbMoZrTi,BCC,AAM+A,annealed at 1073K in Ar for 10h and furnace cooled,compressive yield stress,EXP,None,298.0,1474000000.0,None,Pa,T5,10.1016/j.ijrmhm.2025.107039
+HT1000,NbMoZrTi,BCC,AAM+A,annealed at 1273K in Ar for 10h and furnace cooled,compressive yield stress,EXP,None,298.0,1458000000.0,None,Pa,T5,10.1016/j.ijrmhm.2025.107039
+HT0,NbMoZrTi,BCC,AAM,None,UCS,EXP,None,298.0,2158000000.0,None,Pa,T5,10.1016/j.ijrmhm.2025.107039
+HT600,NbMoZrTi,BCC,AAM+A,annealed at 873K in Ar for 10h and furnace cooled,UCS,EXP,None,298.0,2193000000.0,None,Pa,T5,10.1016/j.ijrmhm.2025.107039
+HT800,NbMoZrTi,BCC,AAM+A,annealed at 1073K in Ar for 10h and furnace cooled,UCS,EXP,None,298.0,2105000000.0,None,Pa,T5,10.1016/j.ijrmhm.2025.107039
+HT1000,NbMoZrTi,BCC,AAM+A,annealed at 1273K in Ar for 10h and furnace cooled,UCS,EXP,None,298.0,2017000000.0,None,Pa,T5,10.1016/j.ijrmhm.2025.107039
+HT0,NbMoZrTi,BCC,AAM,None,compressive ductility,EXP,None,298.0,26.4814814815,None,%,F12,10.1016/j.ijrmhm.2025.107039
+HT600,NbMoZrTi,BCC,AAM+A,annealed at 873K in Ar for 10h and furnace cooled,compressive ductility,EXP,None,298.0,23.7962962963,None,%,F12,10.1016/j.ijrmhm.2025.107039
+HT800,NbMoZrTi,BCC,AAM+A,annealed at 1073K in Ar for 10h and furnace cooled,compressive ductility,EXP,None,298.0,27.4691358025,None,%,F12,10.1016/j.ijrmhm.2025.107039
+HT1000,NbMoZrTi,BCC,AAM+A,annealed at 1273K in Ar for 10h and furnace cooled,compressive ductility,EXP,None,298.0,28.8580246914,None,%,F12,10.1016/j.ijrmhm.2025.107039
+None,Al6.3 Ti34.28 Zr25.81 Nb16.9 Ta16.71,BCC,VAM,None,compressive yield stress,EXP,None,298.0,1075000000.0,None,Pa,T2,10.1016/j.msea.2025.147831
+None,Al6.3 Ti34.28 Zr25.81 Nb16.9 Ta16.71,BCC,DED,LDED with laser power of 1200-1800W scanning 300-600 mm/min at powder feed 4 g/min in protective gas flow rate of 4-8 L/min rising height of 1.5 mm and alternating scanning strategy between layers; properties averaged for 2 directions,compressive yield stress,EXP,None,298.0,1603000000.0,50000000.0,Pa,T2,10.1016/j.msea.2025.147831
+None,Al6.3 Ti34.28 Zr25.81 Nb16.9 Ta16.71,BCC,VAM,None,UCS,EXP,None,298.0,1460000000.0,None,Pa,T2,10.1016/j.msea.2025.147831
+None,Al6.3 Ti34.28 Zr25.81 Nb16.9 Ta16.71,BCC,DED,LDED with laser power of 1200-1800W scanning 300-600 mm/min at powder feed 4 g/min in protective gas flow rate of 4-8 L/min rising height of 1.5 mm and alternating scanning strategy between layers; properties averaged for 2 directions,UCS,EXP,None,298.0,2001000000.0,10000000.0,Pa,T2,10.1016/j.msea.2025.147831
+None,Al6.3 Ti34.28 Zr25.81 Nb16.9 Ta16.71,BCC,VAM,None,compressive ductility,EXP,None,298.0,22.0,None,%,T2,10.1016/j.msea.2025.147831
+None,Al6.3 Ti34.28 Zr25.81 Nb16.9 Ta16.71,BCC,DED,LDED with laser power of 1200-1800W scanning 300-600 mm/min at powder feed 4 g/min in protective gas flow rate of 4-8 L/min rising height of 1.5 mm and alternating scanning strategy between layers; properties averaged for 2 directions,compressive ductility,EXP,None,298.0,37.0,2.0,%,T2,10.1016/j.msea.2025.147831
+None,Al7(CoNiV)31,FCC+L21,VIM+H+WQ+CR+RX+WQ,homogenized in Ar at 1373 K for 6h then quenched and cold rolled to 84% reduction then recrystallized at 1173K for 1h and water quenched again; FCC majority and L21 (ordered BCC) minority,tensile yield stress,EXP,None,77.0,1270000000.0,13000000.0,Pa,T2,10.1016/j.jmst.2024.11.057
+None,Al7(CoNiV)31,FCC+L21,VIM+H+WQ+CR+RX+WQ,homogenized in Ar at 1373 K for 6h then quenched and cold rolled to 84% reduction then recrystallized at 1173K for 1h and water quenched again; FCC majority and L21 (ordered BCC) minority,UTS,EXP,None,77.0,1844000000.0,15000000.0,Pa,T2,10.1016/j.jmst.2024.11.057
+None,Al7(CoNiV)31,FCC+L21,VIM+H+WQ+CR+RX+WQ,homogenized in Ar at 1373 K for 6h then quenched and cold rolled to 84% reduction then recrystallized at 1173K for 1h and water quenched again; FCC majority and L21 (ordered BCC) minority,tensile ductility,EXP,None,77.0,29.0,2.0,%,T2,10.1016/j.jmst.2024.11.057
+None,Al7(CoNiV)31,FCC+L21,VIM+H+WQ+CR+RX+WQ,homogenized in Ar at 1373 K for 6h then quenched and cold rolled to 84% reduction then recrystallized at 1173K for 1h and water quenched again; FCC majority and L21 (ordered BCC) minority,tensile yield stress,EXP,None,298.0,1145000000.0,9000000.0,Pa,T2,10.1016/j.jmst.2024.11.057
+None,Al7(CoNiV)31,FCC+L21,VIM+H+WQ+CR+RX+WQ,homogenized in Ar at 1373 K for 6h then quenched and cold rolled to 84% reduction then recrystallized at 1173K for 1h and water quenched again; FCC majority and L21 (ordered BCC) minority,UTS,EXP,None,298.0,1556000000.0,16000000.0,Pa,T2,10.1016/j.jmst.2024.11.057
+None,Al7(CoNiV)31,FCC+L21,VIM+H+WQ+CR+RX+WQ,homogenized in Ar at 1373 K for 6h then quenched and cold rolled to 84% reduction then recrystallized at 1173K for 1h and water quenched again; FCC majority and L21 (ordered BCC) minority,tensile ductility,EXP,None,298.0,43.0,5.0,%,T2,10.1016/j.jmst.2024.11.057
