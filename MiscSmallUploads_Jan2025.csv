@@ -110,3 +110,119 @@ None,Al7(CoNiV)31,FCC+L21,VIM+H+WQ+CR+RX+WQ,homogenized in Ar at 1373 K for 6h t
 None,Al7(CoNiV)31,FCC+L21,VIM+H+WQ+CR+RX+WQ,homogenized in Ar at 1373 K for 6h then quenched and cold rolled to 84% reduction then recrystallized at 1173K for 1h and water quenched again; FCC majority and L21 (ordered BCC) minority,tensile yield stress,EXP,None,298.0,1145000000.0,9000000.0,Pa,T2,10.1016/j.jmst.2024.11.057
 None,Al7(CoNiV)31,FCC+L21,VIM+H+WQ+CR+RX+WQ,homogenized in Ar at 1373 K for 6h then quenched and cold rolled to 84% reduction then recrystallized at 1173K for 1h and water quenched again; FCC majority and L21 (ordered BCC) minority,UTS,EXP,None,298.0,1556000000.0,16000000.0,Pa,T2,10.1016/j.jmst.2024.11.057
 None,Al7(CoNiV)31,FCC+L21,VIM+H+WQ+CR+RX+WQ,homogenized in Ar at 1373 K for 6h then quenched and cold rolled to 84% reduction then recrystallized at 1173K for 1h and water quenched again; FCC majority and L21 (ordered BCC) minority,tensile ductility,EXP,None,298.0,43.0,5.0,%,T2,10.1016/j.jmst.2024.11.057
+None,Al0.3 Ti0.2 Co0.7 Cr Fe Ni1.7,None,DED,LENS-750 with IPG YLS 1500W laser ,nanohardness,EXP,None,298.0,4157000000.0,287000000.0,Pa,T1,10.1007/s11837-023-06129-2
+None,Al0.3 Ti0.2 Co0.7 Cr Fe Ni1.7,None,DED+HT+WQ,LENS-750 with IPG YLS 1500W laser; heat treated at 1073K for 5h and quenched,nanohardness,EXP,None,298.0,4710000000.0,123000000.0,Pa,T1,10.1007/s11837-023-06129-2
+None,Al0.3 Ti0.2 Co0.7 Cr Fe Ni1.7,None,SLM,Trumpf TruPrint 1000 LPBF SLM,nanohardness,EXP,None,298.0,4116000000.0,145000000.0,Pa,T1,10.1007/s11837-023-06129-2
+None,Al0.3 Ti0.2 Co0.7 Cr Fe Ni1.7,None,SLM+HT+WQ,Trumpf TruPrint 1000 LPBF SLM; heat treated at 1073K for 5h and quenched,nanohardness,EXP,None,298.0,4654000000.0,171000000.0,Pa,T1,10.1007/s11837-023-06129-2
+None,Al0.3 Ti0.2 Co0.7 Cr Fe Ni1.7,None,DED,LENS-750 with IPG YLS 1500W laser ,nanohardness,EXP,None,523.0,3763000000.0,212000000.0,Pa,T1,10.1007/s11837-023-06129-2
+None,Al0.3 Ti0.2 Co0.7 Cr Fe Ni1.7,None,DED+HT+WQ,LENS-750 with IPG YLS 1500W laser; heat treated at 1073K for 5h and quenched,nanohardness,EXP,None,523.0,4663000000.0,183000000.0,Pa,T1,10.1007/s11837-023-06129-2
+None,Al0.3 Ti0.2 Co0.7 Cr Fe Ni1.7,None,SLM,Trumpf TruPrint 1000 LPBF SLM,nanohardness,EXP,None,523.0,3569000000.0,171000000.0,Pa,T1,10.1007/s11837-023-06129-2
+None,Al0.3 Ti0.2 Co0.7 Cr Fe Ni1.7,None,SLM+HT+WQ,Trumpf TruPrint 1000 LPBF SLM; heat treated at 1073K for 5h and quenched,nanohardness,EXP,None,523.0,4494000000.0,132000000.0,Pa,T1,10.1007/s11837-023-06129-2
+None,Al0.3 Ti0.2 Co0.7 Cr Fe Ni1.7,None,DED,LENS-750 with IPG YLS 1500W laser ,nanohardness,EXP,None,773.0,3197000000.0,233000000.0,Pa,T1,10.1007/s11837-023-06129-2
+None,Al0.3 Ti0.2 Co0.7 Cr Fe Ni1.7,None,DED+HT+WQ,LENS-750 with IPG YLS 1500W laser; heat treated at 1073K for 5h and quenched,nanohardness,EXP,None,773.0,4387000000.0,153000000.0,Pa,T1,10.1007/s11837-023-06129-2
+None,Al0.3 Ti0.2 Co0.7 Cr Fe Ni1.7,None,SLM,Trumpf TruPrint 1000 LPBF SLM,nanohardness,EXP,None,773.0,3560000000.0,121000000.0,Pa,T1,10.1007/s11837-023-06129-2
+None,Al0.3 Ti0.2 Co0.7 Cr Fe Ni1.7,None,SLM+HT+WQ,Trumpf TruPrint 1000 LPBF SLM; heat treated at 1073K for 5h and quenched,nanohardness,EXP,None,773.0,4427000000.0,104000000.0,Pa,T1,10.1007/s11837-023-06129-2
+HNTT,Hf20Nb31Ta31Ti18,BCC,VAM,prepared and tested under vacuum,hardness,EXP,None,298.0,2883258000.0,49035000.0,Pa,T2,10.1063/5.0160762
+HNTT-Mn,Hf20 Nb29.75 Ta29.75 Ti18 Mn2.5,BCC,VAM,prepared and tested under vacuum; significant loss of Mn observed,hardness,EXP,None,298.0,2314452000.0,58842000.0,Pa,T2,10.1063/5.0160762
+HNTT-Al ,Hf20 Nb29.75 Ta29.75 Ti18 Al2.5,BCC,VAM,prepared and tested under vacuum,hardness,EXP,None,298.0,2363487000.0,39228000.0,Pa,T2,10.1063/5.0160762
+HNTT-Cu,Hf20 Nb29.75 Ta29.75 Ti18 Cu2.5,BCC,VAM,prepared and tested under vacuum,hardness,EXP,None,298.0,2500785000.0,9807000.0,Pa,T2,10.1063/5.0160762
+HNTT-Fe,Hf20 Nb29.75 Ta29.75 Ti18 Fe2.5,BCC,VAM,prepared and tested under vacuum,hardness,EXP,None,298.0,3040170000.0,39228000.0,Pa,T2,10.1063/5.0160762
+HNTT,Hf20Nb31Ta31Ti18,BCC,VAM,prepared and tested under vacuum,hardness,EXP,None,573.0,2216382000.0,19614000.0,Pa,T2,10.1063/5.0160762
+HNTT-Mn,Hf20 Nb29.75 Ta29.75 Ti18 Mn2.5,BCC,VAM,prepared and tested under vacuum; significant loss of Mn observed,hardness,EXP,None,573.0,1922172000.0,19614000.0,Pa,T2,10.1063/5.0160762
+HNTT-Al ,Hf20 Nb29.75 Ta29.75 Ti18 Al2.5,BCC,VAM,prepared and tested under vacuum,hardness,EXP,None,573.0,1873137000.0,49035000.0,Pa,T2,10.1063/5.0160762
+HNTT-Cu,Hf20 Nb29.75 Ta29.75 Ti18 Cu2.5,BCC,VAM,prepared and tested under vacuum,hardness,EXP,None,573.0,2039856000.0,29421000.0,Pa,T2,10.1063/5.0160762
+HNTT-Fe,Hf20 Nb29.75 Ta29.75 Ti18 Fe2.5,BCC,VAM,prepared and tested under vacuum,hardness,EXP,None,573.0,2569434000.0,49035000.0,Pa,T2,10.1063/5.0160762
+HNTT,Hf20Nb31Ta31Ti18,BCC,VAM,prepared and tested under vacuum,hardness,EXP,None,673.0,2206575000.0,39228000.0,Pa,T2,10.1063/5.0160762
+HNTT-Mn,Hf20 Nb29.75 Ta29.75 Ti18 Mn2.5,BCC,VAM,prepared and tested under vacuum; significant loss of Mn observed,hardness,EXP,None,673.0,1873137000.0,39228000.0,Pa,T2,10.1063/5.0160762
+HNTT-Al ,Hf20 Nb29.75 Ta29.75 Ti18 Al2.5,BCC,VAM,prepared and tested under vacuum,hardness,EXP,None,673.0,1843716000.0,39228000.0,Pa,T2,10.1063/5.0160762
+HNTT-Cu,Hf20 Nb29.75 Ta29.75 Ti18 Cu2.5,BCC,VAM,prepared and tested under vacuum,hardness,EXP,None,673.0,1981014000.0,19614000.0,Pa,T2,10.1063/5.0160762
+HNTT-Fe,Hf20 Nb29.75 Ta29.75 Ti18 Fe2.5,BCC,VAM,prepared and tested under vacuum,hardness,EXP,None,673.0,2216382000.0,29421000.0,Pa,T2,10.1063/5.0160762
+HNTT,Hf20Nb31Ta31Ti18,BCC,VAM,prepared and tested under vacuum,hardness,EXP,None,873.0,2216382000.0,29421000.0,Pa,T2,10.1063/5.0160762
+HNTT-Mn,Hf20 Nb29.75 Ta29.75 Ti18 Mn2.5,BCC,VAM,prepared and tested under vacuum; significant loss of Mn observed,hardness,EXP,None,873.0,1902558000.0,19614000.0,Pa,T2,10.1063/5.0160762
+HNTT-Al ,Hf20 Nb29.75 Ta29.75 Ti18 Al2.5,BCC,VAM,prepared and tested under vacuum,hardness,EXP,None,873.0,1833909000.0,39228000.0,Pa,T2,10.1063/5.0160762
+HNTT-Cu,Hf20 Nb29.75 Ta29.75 Ti18 Cu2.5,BCC,VAM,prepared and tested under vacuum,hardness,EXP,None,873.0,1931979000.0,78456000.0,Pa,T2,10.1063/5.0160762
+HNTT-Fe,Hf20 Nb29.75 Ta29.75 Ti18 Fe2.5,BCC,VAM,prepared and tested under vacuum,hardness,EXP,None,873.0,2294838000.0,98070000.0,Pa,T2,10.1063/5.0160762
+HNTT,Hf20Nb31Ta31Ti18,BCC,VAM,prepared and tested under vacuum,hardness,EXP,None,1073.0,2010435000.0,39228000.0,Pa,T2,10.1063/5.0160762
+HNTT-Mn,Hf20 Nb29.75 Ta29.75 Ti18 Mn2.5,BCC,VAM,prepared and tested under vacuum; significant loss of Mn observed,hardness,EXP,None,1073.0,1824102000.0,19614000.0,Pa,T2,10.1063/5.0160762
+HNTT-Al ,Hf20 Nb29.75 Ta29.75 Ti18 Al2.5,BCC,VAM,prepared and tested under vacuum,hardness,EXP,None,1073.0,1824102000.0,29421000.0,Pa,T2,10.1063/5.0160762
+HNTT-Cu,Hf20 Nb29.75 Ta29.75 Ti18 Cu2.5,BCC,VAM,prepared and tested under vacuum,hardness,EXP,None,1073.0,1824102000.0,29421000.0,Pa,T2,10.1063/5.0160762
+HNTT-Fe,Hf20 Nb29.75 Ta29.75 Ti18 Fe2.5,BCC,VAM,prepared and tested under vacuum,hardness,EXP,None,1073.0,2177154000.0,58842000.0,Pa,T2,10.1063/5.0160762
+HNTT,Hf20Nb31Ta31Ti18,BCC,VAM,prepared and tested under vacuum,hardness,EXP,None,1273.0,1500471000.0,49035000.0,Pa,T2,10.1063/5.0160762
+HNTT-Mn,Hf20 Nb29.75 Ta29.75 Ti18 Mn2.5,BCC,VAM,prepared and tested under vacuum; significant loss of Mn observed,hardness,EXP,None,1273.0,1284717000.0,58842000.0,Pa,T2,10.1063/5.0160762
+HNTT-Al ,Hf20 Nb29.75 Ta29.75 Ti18 Al2.5,BCC,VAM,prepared and tested under vacuum,hardness,EXP,None,1273.0,1284717000.0,29421000.0,Pa,T2,10.1063/5.0160762
+HNTT-Cu,Hf20 Nb29.75 Ta29.75 Ti18 Cu2.5,BCC,VAM,prepared and tested under vacuum,hardness,EXP,None,1273.0,1333752000.0,29421000.0,Pa,T2,10.1063/5.0160762
+HNTT-Fe,Hf20 Nb29.75 Ta29.75 Ti18 Fe2.5,BCC,VAM,prepared and tested under vacuum,hardness,EXP,None,1273.0,1216068000.0,49035000.0,Pa,T2,10.1063/5.0160762
+None,Nb40 Ti25 Al15 V10 Ta5 Hf3 W2,BCC,AAM,None,compressive yield stress,EXP,strain rate 1e-3,298.0,1024000000.0,7000000.0,Pa,F2,10.1016/j.matchar.2023.113321
+None,Nb40 Ti25 Al15 V10 Ta5 Hf3 W2,BCC,AAM,None,compressive yield stress,EXP,strain rate 1e-3,1073.0,611000000.0,24000000.0,Pa,F2,10.1016/j.matchar.2023.113321
+None,Nb40 Ti25 Al15 V10 Ta5 Hf3 W2,BCC,AAM,None,compressive yield stress,EXP,strain rate 1e-3,1173.0,437000000.0,8000000.0,Pa,F2,10.1016/j.matchar.2023.113321
+None,Nb40 Ti25 Al15 V10 Ta5 Hf3 W2,BCC,AAM,None,compressive yield stress,EXP,strain rate 1e-3,1273.0,237000000.0,8000000.0,Pa,F2,10.1016/j.matchar.2023.113321
+None,Nb40 Ti25 Al15 V10 Ta5 Hf3 W2,BCC,AAM+H+AT,homogenized at 1473K for 10h and aged at 923K for 120h,hardness,EXP,None,298.0,3671740800.0,10787700.0,Pa,T4,10.1016/j.matchar.2023.113321
+None,Nb40 Ti25 Al15 V10 Ta5 Hf3 W2,BCC,AAM+H+AT,homogenized at 1473K for 10h and aged at 1123K for 120h,hardness,EXP,None,298.0,3471678000.0,16671900.0,Pa,T4,10.1016/j.matchar.2023.113321
+None,Ti V Nb,BCC,VAM,None,hardness,EXP,None,298.0,2370351900.0,7845600.0,Pa,None,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)33 Zr1,BCC,VAM,None,hardness,EXP,None,298.0,2441943000.0,6864900.0,Pa,None,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)32.33 Zr3,BCC,VAM,None,hardness,EXP,None,298.0,2671426800.0,54919200.0,Pa,None,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)31.66 Zr5,BCC,VAM,None,hardness,EXP,None,298.0,2942100000.0,64726200.0,Pa,None,10.1016/j.jmrt.2023.09.289
+None,Ti V Nb,BCC,VAM,None,tensile yield stress,EXP,None,298.0,605000000.0,None,Pa,F2,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)33 Zr1,BCC,VAM,None,tensile yield stress,EXP,None,298.0,681000000.0,None,Pa,F2,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)32.33 Zr3,BCC,VAM,None,tensile yield stress,EXP,None,298.0,738000000.0,None,Pa,F2,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)31.66 Zr5,BCC,VAM,None,tensile yield stress,EXP,None,298.0,830000000.0,None,Pa,F2,10.1016/j.jmrt.2023.09.289
+None,Ti V Nb,BCC,VAM,None,tensile yield stress,EXP,None,873.0,373000000.0,None,Pa,F2,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)33 Zr1,BCC,VAM,None,tensile yield stress,EXP,None,873.0,423000000.0,None,Pa,F2,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)32.33 Zr3,BCC,VAM,None,tensile yield stress,EXP,None,873.0,514000000.0,None,Pa,F2,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)31.66 Zr5,BCC,VAM,None,tensile yield stress,EXP,None,873.0,545000000.0,None,Pa,F2,10.1016/j.jmrt.2023.09.289
+None,Ti V Nb,BCC,VAM,None,tensile yield stress,EXP,None,1073.0,344000000.0,None,Pa,F2,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)33 Zr1,BCC,VAM,None,tensile yield stress,EXP,None,1073.0,434000000.0,None,Pa,F2,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)32.33 Zr3,BCC,VAM,None,tensile yield stress,EXP,None,1073.0,449000000.0,None,Pa,F2,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)31.66 Zr5,BCC,VAM,None,tensile yield stress,EXP,None,1073.0,451000000.0,None,Pa,F2,10.1016/j.jmrt.2023.09.289
+None,Ti V Nb,BCC,VAM,None,UTS,EXP,None,298.0,639000000.0,None,Pa,F2,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)33 Zr1,BCC,VAM,None,UTS,EXP,None,298.0,713000000.0,None,Pa,F2,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)32.33 Zr3,BCC,VAM,None,UTS,EXP,None,298.0,766000000.0,None,Pa,F2,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)31.66 Zr5,BCC,VAM,None,UTS,EXP,None,298.0,872000000.0,None,Pa,F2,10.1016/j.jmrt.2023.09.289
+None,Ti V Nb,BCC,VAM,None,UTS,EXP,None,873.0,456000000.0,None,Pa,F2,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)33 Zr1,BCC,VAM,None,UTS,EXP,None,873.0,486000000.0,None,Pa,F2,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)32.33 Zr3,BCC,VAM,None,UTS,EXP,None,873.0,577000000.0,None,Pa,F2,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)31.66 Zr5,BCC,VAM,None,UTS,EXP,None,873.0,617000000.0,None,Pa,F2,10.1016/j.jmrt.2023.09.289
+None,Ti V Nb,BCC,VAM,None,UTS,EXP,None,1073.0,371000000.0,None,Pa,F2,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)33 Zr1,BCC,VAM,None,UTS,EXP,None,1073.0,454000000.0,None,Pa,F2,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)32.33 Zr3,BCC,VAM,None,UTS,EXP,None,1073.0,457000000.0,None,Pa,F2,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)31.66 Zr5,BCC,VAM,None,UTS,EXP,None,1073.0,467000000.0,None,Pa,F2,10.1016/j.jmrt.2023.09.289
+None,Ti V Nb,BCC,VAM,None,tensile ductility,EXP,None,298.0,18.5,None,%,F2,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)33 Zr1,BCC,VAM,None,tensile ductility,EXP,None,298.0,17.4,None,%,F2,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)32.33 Zr3,BCC,VAM,None,tensile ductility,EXP,None,298.0,15.8,None,%,F2,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)31.66 Zr5,BCC,VAM,None,tensile ductility,EXP,None,298.0,13.3,None,%,F2,10.1016/j.jmrt.2023.09.289
+None,Ti V Nb,BCC,VAM,None,tensile ductility,EXP,None,873.0,24.6,None,%,F2,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)33 Zr1,BCC,VAM,None,tensile ductility,EXP,None,873.0,14.2,None,%,F2,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)32.33 Zr3,BCC,VAM,None,tensile ductility,EXP,None,873.0,19.1,None,%,F2,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)31.66 Zr5,BCC,VAM,None,tensile ductility,EXP,None,873.0,14.1,None,%,F2,10.1016/j.jmrt.2023.09.289
+None,Ti V Nb,BCC,VAM,None,tensile ductility,EXP,None,1073.0,8.2,None,%,F2,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)33 Zr1,BCC,VAM,None,tensile ductility,EXP,None,1073.0,5.2,None,%,F2,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)32.33 Zr3,BCC,VAM,None,tensile ductility,EXP,None,1073.0,5.3,None,%,F2,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)31.66 Zr5,BCC,VAM,None,tensile ductility,EXP,None,1073.0,4.9,None,%,F2,10.1016/j.jmrt.2023.09.289
+None,Ti V Nb,BCC,VAM,None,compressive yield stress,EXP,None,298.0,688000000.0,None,Pa,F6,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)33 Zr1,BCC,VAM,None,compressive yield stress,EXP,None,298.0,671000000.0,None,Pa,F6,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)32.33 Zr3,BCC,VAM,None,compressive yield stress,EXP,None,298.0,756000000.0,None,Pa,F6,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)31.66 Zr5,BCC,VAM,None,compressive yield stress,EXP,None,298.0,814000000.0,None,Pa,F6,10.1016/j.jmrt.2023.09.289
+None,Ti V Nb,BCC,VAM,None,compressive yield stress,EXP,None,1073.0,366000000.0,None,Pa,F6,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)33 Zr1,BCC,VAM,None,compressive yield stress,EXP,None,1073.0,429000000.0,None,Pa,F6,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)32.33 Zr3,BCC,VAM,None,compressive yield stress,EXP,None,1073.0,503000000.0,None,Pa,F6,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)31.66 Zr5,BCC,VAM,None,compressive yield stress,EXP,None,1073.0,442000000.0,None,Pa,F6,10.1016/j.jmrt.2023.09.289
+None,Ti V Nb,BCC,VAM,None,compressive yield stress,EXP,None,1273.0,146000000.0,None,Pa,F6,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)33 Zr1,BCC,VAM,None,compressive yield stress,EXP,None,1273.0,145000000.0,None,Pa,F6,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)32.33 Zr3,BCC,VAM,None,compressive yield stress,EXP,None,1273.0,163000000.0,None,Pa,F6,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)31.66 Zr5,BCC,VAM,None,compressive yield stress,EXP,None,1273.0,122000000.0,None,Pa,F6,10.1016/j.jmrt.2023.09.289
+None,Ti V Nb,BCC,VAM,None,compressive yield stress,EXP,None,1473.0,57000000.0,None,Pa,F6,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)33 Zr1,BCC,VAM,None,compressive yield stress,EXP,None,1473.0,48000000.0,None,Pa,F6,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)32.33 Zr3,BCC,VAM,None,compressive yield stress,EXP,None,1473.0,42000000.0,None,Pa,F6,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)31.66 Zr5,BCC,VAM,None,compressive yield stress,EXP,None,1473.0,31000000.0,None,Pa,F6,10.1016/j.jmrt.2023.09.289
+None,Ti V Nb,BCC,VAM,None,minimum compressive ductility,EXP,None,298.0,20.0,None,%,F6,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)33 Zr1,BCC,VAM,None,minimum compressive ductility,EXP,None,298.0,20.0,None,%,F6,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)32.33 Zr3,BCC,VAM,None,minimum compressive ductility,EXP,None,298.0,20.0,None,%,F6,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)31.66 Zr5,BCC,VAM,None,minimum compressive ductility,EXP,None,298.0,20.0,None,%,F6,10.1016/j.jmrt.2023.09.289
+None,Ti V Nb,BCC,VAM,None,minimum compressive ductility,EXP,None,1473.0,80.0,None,%,F6,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)33 Zr1,BCC,VAM,None,minimum compressive ductility,EXP,None,1473.0,80.0,None,%,F6,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)32.33 Zr3,BCC,VAM,None,minimum compressive ductility,EXP,None,1473.0,80.0,None,%,F6,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)31.66 Zr5,BCC,VAM,None,minimum compressive ductility,EXP,None,1473.0,80.0,None,%,F6,10.1016/j.jmrt.2023.09.289
+None,Ti V Nb,BCC,VAM,None,UCS,EXP,None,1073.0,419000000.0,None,Pa,F6,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)33 Zr1,BCC,VAM,None,UCS,EXP,None,1073.0,462000000.0,None,Pa,F6,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)32.33 Zr3,BCC,VAM,None,UCS,EXP,None,1073.0,526000000.0,None,Pa,F6,10.1016/j.jmrt.2023.09.289
+None,(Ti V Nb)31.66 Zr5,BCC,VAM,None,UCS,EXP,None,1073.0,482000000.0,None,Pa,F6,10.1016/j.jmrt.2023.09.289
