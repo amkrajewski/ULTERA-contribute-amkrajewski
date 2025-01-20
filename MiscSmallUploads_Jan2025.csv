@@ -226,3 +226,54 @@ None,Ti V Nb,BCC,VAM,None,UCS,EXP,None,1073.0,419000000.0,None,Pa,F6,10.1016/j.j
 None,(Ti V Nb)33 Zr1,BCC,VAM,None,UCS,EXP,None,1073.0,462000000.0,None,Pa,F6,10.1016/j.jmrt.2023.09.289
 None,(Ti V Nb)32.33 Zr3,BCC,VAM,None,UCS,EXP,None,1073.0,526000000.0,None,Pa,F6,10.1016/j.jmrt.2023.09.289
 None,(Ti V Nb)31.66 Zr5,BCC,VAM,None,UCS,EXP,None,1073.0,482000000.0,None,Pa,F6,10.1016/j.jmrt.2023.09.289
+None,Nb38 Ti35 Al15 V6 Cr4 (TaHfMoW)0.5,BCC,AAM,None,density,EXP,None,298.0,6300.0,None,kg/m^3,None,10.1007/s40195-024-01805-x
+None,Nb38 Ti35 Al15 V6 Cr4 (TaHfMoW)0.5,BCC,AAM,None,compressive yield stress,EXP,None,298.0,1023000000.0,None,Pa,T2,10.1007/s40195-024-01805-x
+None,Nb38 Ti35 Al15 V6 Cr4 (TaHfMoW)0.5,BCC,AAM,None,compressive yield stress,EXP,None,1073.0,531000000.0,None,Pa,T2,10.1007/s40195-024-01805-x
+None,Nb38 Ti35 Al15 V6 Cr4 (TaHfMoW)0.5,BCC,AAM,None,compressive yield stress,EXP,None,1173.0,343000000.0,None,Pa,T2,10.1007/s40195-024-01805-x
+None,Nb38 Ti35 Al15 V6 Cr4 (TaHfMoW)0.5,BCC,AAM,None,compressive yield stress,EXP,None,1273.0,137000000.0,None,Pa,T2,10.1007/s40195-024-01805-x
+None,Nb38 Ti35 Al15 V6 Cr4 (TaHfMoW)0.5,BCC,AAM,None,compressive yield stress,EXP,None,1373.0,96000000.0,None,Pa,T2,10.1007/s40195-024-01805-x
+None,Nb38 Ti35 Al15 V6 Cr4 (TaHfMoW)0.5,BCC,AAM,None,compressive yield stress,EXP,None,1473.0,51000000.0,None,Pa,T2,10.1007/s40195-024-01805-x
+None,Nb38 Ti35 Al15 V6 Cr4 (TaHfMoW)0.5,BCC,AAM,None,minimum compressive ductility,EXP,None,298.0,50.0,None,%,F3f,10.1007/s40195-024-01805-x
+None,Nb38 Ti35 Al15 V6 Cr4 (TaHfMoW)0.5,BCC,AAM,None,minimum compressive ductility,EXP,None,1073.0,50.0,None,%,F3f,10.1007/s40195-024-01805-x
+None,Nb38 Ti35 Al15 V6 Cr4 (TaHfMoW)0.5,BCC,AAM,None,minimum compressive ductility,EXP,None,1173.0,50.0,None,%,F3f,10.1007/s40195-024-01805-x
+None,Nb38 Ti35 Al15 V6 Cr4 (TaHfMoW)0.5,BCC,AAM,None,minimum compressive ductility,EXP,None,1273.0,50.0,None,%,F3f,10.1007/s40195-024-01805-x
+None,Nb38 Ti35 Al15 V6 Cr4 (TaHfMoW)0.5,BCC,AAM,None,minimum compressive ductility,EXP,None,1373.0,50.0,None,%,F3f,10.1007/s40195-024-01805-x
+None,Nb38 Ti35 Al15 V6 Cr4 (TaHfMoW)0.5,BCC,AAM,None,minimum compressive ductility,EXP,None,1473.0,50.0,None,%,F3f,10.1007/s40195-024-01805-x
+None,Nb38 Ti35 Al15 V6 Cr4 (TaHfMoW)0.5,BCC,AAM,None,UCS,EXP,None,1073.0,574000000.0,None,Pa,F3d,10.1007/s40195-024-01805-x
+None,Nb38 Ti35 Al15 V6 Cr4 (TaHfMoW)0.5,BCC,AAM,None,UCS,EXP,None,1173.0,343000000.0,None,Pa,F3d,10.1007/s40195-024-01805-x
+None,Nb38 Ti35 Al15 V6 Cr4 (TaHfMoW)0.5,BCC,AAM,None,UCS,EXP,None,1273.0,144000000.0,None,Pa,F3d,10.1007/s40195-024-01805-x
+None,Nb38 Ti35 Al15 V6 Cr4 (TaHfMoW)0.5,BCC,AAM,None,UCS,EXP,None,1373.0,100000000.0,None,Pa,F3d,10.1007/s40195-024-01805-x
+None,Nb38 Ti35 Al15 V6 Cr4 (TaHfMoW)0.5,BCC,AAM,None,UCS,EXP,None,1473.0,54000000.0,None,Pa,F3d,10.1007/s40195-024-01805-x
+None,Mo45 Nb35 Ta5 V15,BCC,AAM+H,None,nanohardness,EXP,None,298.0,6860000000.0,220000000.0,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo45 Nb35 Ta5 V15,BCC,AAM+H,None,reduced elastic modulus,EXP,None,298.0,178000000000.0,6000000000.0,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo45 Nb35 Ta5 V15,BCC,AAM,None,hardness,EXP,None,298.0,4932921000.0,88263000.0,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo45 Nb35 Ta5 V15,BCC,AAM+H,None,hardness,EXP,None,298.0,4599483000.0,137298000.0,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo45 Nb35 Ta5 V15,BCC,AAM+H,None,compressive yield stress,EXP,None,298.0,752000000.0,None,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo45 Nb35 Ta5 V15,BCC,AAM+H,None,UCS,EXP,None,298.0,852000000.0,None,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo45 Nb35 Ta5 V15,BCC,AAM+H,None,compressive yield stress,EXP,None,1573.0,263000000.0,None,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo45 Nb35 Ta5 V15,BCC,AAM+H,None,UCS,EXP,None,1573.0,304000000.0,None,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo45 Nb35 Ta5 V15,BCC,AAM+H,None,density,EXP,None,298.0,9411.0,None,kg/m^3,T2,10.1016/j.actamat.2023.118784
+None,Mo45 Nb35 Ta5 V15,BCC,None,None,reduced elastic modulus,DFT,None,None,186000000000.0,None,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo45 Nb35 Ta5 V15,BCC,None,None,B/G ratio,DFT,None,None,3.0434782609,None,None,T2,10.1016/j.actamat.2023.118784
+None,Mo25 Nb50 V20 W5,BCC,AAM+H,None,nanohardness,EXP,None,298.0,6850000000.0,90000000.0,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo25 Nb50 V20 W5,BCC,AAM+H,None,reduced elastic modulus,EXP,None,298.0,136000000000.0,3000000000.0,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo25 Nb50 V20 W5,BCC,AAM,None,hardness,EXP,None,298.0,4874079000.0,68649000.0,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo25 Nb50 V20 W5,BCC,AAM+H,None,hardness,EXP,None,298.0,4677939000.0,88263000.0,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo25 Nb50 V20 W5,BCC,AAM+H,None,compressive yield stress,EXP,None,298.0,974000000.0,None,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo25 Nb50 V20 W5,BCC,AAM+H,None,UCS,EXP,None,298.0,1210000000.0,None,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo25 Nb50 V20 W5,BCC,AAM+H,None,compressive yield stress,EXP,None,1573.0,253000000.0,None,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo25 Nb50 V20 W5,BCC,AAM+H,None,UCS,EXP,None,1573.0,270000000.0,None,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo25 Nb50 V20 W5,BCC,AAM+H,None,density,EXP,None,298.0,9085.0,None,kg/m^3,T2,10.1016/j.actamat.2023.118784
+None,Mo25 Nb50 V20 W5,BCC,None,None,reduced elastic modulus,DFT,None,None,147000000000.0,None,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo25 Nb50 V20 W5,BCC,None,None,B/G ratio,DFT,None,None,3.3859649123,None,None,T2,10.1016/j.actamat.2023.118784
+None,Mo30 Nb35 Ta5 V25 W5,BCC,AAM+H,None,nanohardness,EXP,None,298.0,7200000000.0,140000000.0,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo30 Nb35 Ta5 V25 W5,BCC,AAM+H,None,reduced elastic modulus,EXP,None,298.0,158000000000.0,4000000000.0,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo30 Nb35 Ta5 V25 W5,BCC,AAM,None,hardness,EXP,None,298.0,5099640000.0,78456000.0,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo30 Nb35 Ta5 V25 W5,BCC,AAM+H,None,hardness,EXP,None,298.0,4707360000.0,156912000.0,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo30 Nb35 Ta5 V25 W5,BCC,AAM+H,None,compressive yield stress,EXP,None,298.0,1053000000.0,None,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo30 Nb35 Ta5 V25 W5,BCC,AAM+H,None,UCS,EXP,None,298.0,1198000000.0,None,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo30 Nb35 Ta5 V25 W5,BCC,AAM+H,None,compressive yield stress,EXP,None,1573.0,480000000.0,None,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo30 Nb35 Ta5 V25 W5,BCC,AAM+H,None,UCS,EXP,None,1573.0,673000000.0,None,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo30 Nb35 Ta5 V25 W5,BCC,AAM+H,None,density,EXP,None,298.0,9441.0,None,kg/m^3,T2,10.1016/j.actamat.2023.118784
+None,Mo30 Nb35 Ta5 V25 W5,BCC,None,None,reduced elastic modulus,DFT,None,None,173000000000.0,None,Pa,T2,10.1016/j.actamat.2023.118784
+None,Mo30 Nb35 Ta5 V25 W5,BCC,None,None,B/G ratio,DFT,None,None,3.140625,None,None,T2,10.1016/j.actamat.2023.118784
