@@ -330,3 +330,37 @@ NTTHZ,Hf15 Nb40 Ta25 Ti15 Zr5,BCC,AAM+CR,cold rolled with 90% reduction ,hardnes
 NTTHZ,Hf15 Nb40 Ta25 Ti15 Zr5,BCC,AAM+CR+A,cold rolled with 90% reduction and annealed at 900*C for 60min forming heterogeneous lamella (HL) structure,tensile yield stress,EXP,strain rate 1e-3,77.0,1407000000.0,None,Pa,S11a,10.1016/j.actamat.2022.118602
 NTTHZ,Hf15 Nb40 Ta25 Ti15 Zr5,BCC,AAM+CR+A,cold rolled with 90% reduction and annealed at 900*C for 60min forming heterogeneous lamella (HL) structure,UTS,EXP,strain rate 1e-3,77.0,1493000000.0,None,Pa,S11a,10.1016/j.actamat.2022.118602
 NTTHZ,Hf15 Nb40 Ta25 Ti15 Zr5,BCC,AAM+CR+A,cold rolled with 90% reduction and annealed at 900*C for 60min forming heterogeneous lamella (HL) structure,tensile ductility,EXP,strain rate 1e-3,77.0,12.4,None,%,S11a,10.1016/j.actamat.2022.118602
+None,CrCuFeMnNi,FCC+FCC+BCC,VAM,None,hardness,EXP,None,298.0,2716539000.0,166719000.0,Pa,T1,10.3166/acsm.31.685-698
+None,Al0.3CrCuFeMnNi ,FCC+FCC+BCC,VAM,None,hardness,EXP,None,298.0,3206889000.0,39228000.0,Pa,T1,10.3166/acsm.31.685-698
+None,Al0.5CrCuFeMnNi ,FCC+BCC+BCC,VAM,None,hardness,EXP,None,298.0,3824730000.0,176526000.0,Pa,T1,10.3166/acsm.31.685-698
+None,Al0.8CrCuFeMnNi ,FCC+BCC+BCC,VAM,None,hardness,EXP,None,298.0,4275852000.0,166719000.0,Pa,T1,10.3166/acsm.31.685-698
+None,AlCrCuFeMnNi ,BCC+BCC,VAM,None,hardness,EXP,None,298.0,4854465000.0,58842000.0,Pa,T1,10.3166/acsm.31.685-698
+None,CoCrCuFeNi,FCC,VAM,None,hardness,EXP,None,298.0,1304331000.0,196140000.0,Pa,T1,10.3166/acsm.31.685-698
+None,Al0.3CoCrCuFeNi,FCC,VAM,None,hardness,EXP,None,298.0,1765260000.0,196140000.0,Pa,T1,10.3166/acsm.31.685-698
+None,Al0.5CoCrCuFeNi,FCC,VAM,None,hardness,EXP,None,298.0,2039856000.0,196140000.0,Pa,T1,10.3166/acsm.31.685-698
+None,Al0.8CoCrCuFeNi,FCC+BCC,VAM,None,hardness,EXP,None,298.0,2657697000.0,196140000.0,Pa,T1,10.3166/acsm.31.685-698
+None,AlCoCrCuFeNi,FCC+BCC,VAM,None,hardness,EXP,None,298.0,3981642000.0,196140000.0,Pa,T1,10.3166/acsm.31.685-698
+None,AlCrCuFeMnNi ,BCC+BCC,VAM+AT,aged at 1073K for 50h,hardness,EXP,None,298.0,5850195145.631065,68009708.73785962,Pa,F6,10.3166/acsm.31.685-698
+None,Al0.8CrCuFeMnNi ,FCC+BCC+BCC,VAM+AT,aged at 1073K for 50h,hardness,EXP,None,298.0,5115690291.262135,40805825.24271644,Pa,F6,10.3166/acsm.31.685-698
+None,Al0.5CrCuFeMnNi ,FCC+BCC+BCC,VAM+AT,aged at 1073K for 50h,hardness,EXP,None,298.0,4129549514.5631003,74810679.61165015,Pa,F6,10.3166/acsm.31.685-698
+None,Al0.3CrCuFeMnNi ,FCC+FCC+BCC,VAM+AT,aged at 1073K for 50h,hardness,EXP,None,298.0,3891515533.980578,68009708.7378691,Pa,F6,10.3166/acsm.31.685-698
+None,CrCuFeMnNi,FCC+FCC+BCC,VAM+AT,aged at 1073K for 50h,hardness,EXP,None,298.0,2864568932.038828,136019417.47572815,Pa,F6,10.3166/acsm.31.685-698
+None,Al0.5CoCrCuFeNi,FCC,VAM+AT,aged at 1073K for 50h,hardness,EXP,None,298.0,2374899029.1262107,81611650.48543121,Pa,F6,10.3166/acsm.31.685-698
+None,CoCrCuFeNi,FCC,VAM+AT,aged at 1073K for 50h,hardness,EXP,None,298.0,1409161165.0485384,13601941.747571869,Pa,F6,10.3166/acsm.31.685-698
+None,Al0.8CrCu1.5FeMnNi,FCC+BCC,VAM,None,hardness,EXP,None,298.0,3854151000.0,78456000.0,Pa,T5,10.3166/acsm.31.685-698
+None,Al0.8CrCuFe1.5MnNi,FCC+BCC+BCC,VAM,None,hardness,EXP,None,298.0,4530834000.0,98070000.0,Pa,T5,10.3166/acsm.31.685-698
+None,Al0.8CrCuFeMn1.5Ni,BCC+BCC,VAM,None,hardness,EXP,None,298.0,4324887000.0,9807000.0,Pa,T5,10.3166/acsm.31.685-698
+None,Al0.8CrCu1.5FeMnNi,FCC+BCC,VAM+AT,aged at 1073K for 50h,hardness,EXP,None,298.0,3943935775.862068,76088793.10344607,Pa,F8,10.3166/acsm.31.685-698
+None,Al0.8CrCuFe1.5MnNi,FCC+BCC+BCC,VAM+AT,aged at 1073K for 50h,hardness,EXP,None,298.0,5300852586.206893,54953017.24137843,Pa,F8,10.3166/acsm.31.685-698
+None,Al0.8CrCuFeMn1.5Ni,BCC+BCC,VAM+AT,aged at 1073K for 50h,hardness,EXP,None,298.0,4865455603.448272,88770258.62068921,Pa,F8,10.3166/acsm.31.685-698
+None,AlCrFeNiTi,BCC+BCC,AAM,None,hardness,EXP,None,298.0,4257718301.8867884,130451603.77358647,Pa,F8,10.1016/j.intermet.2021.107397
+None,AlCrFeNiTiCu0.5,FCC+BCC+BCC,AAM,None,hardness,EXP,None,298.0,3755340849.0565963,105471509.43396145,Pa,F8,10.1016/j.intermet.2021.107397
+None,AlCrFeNiTiCu1,FCC+BCC+BCC,AAM,None,hardness,EXP,None,298.0,3469457547.169808,113798207.54717295,Pa,F8,10.1016/j.intermet.2021.107397
+None,AlCrFeNiTiCu1.5,FCC+BCC+BCC,AAM,None,hardness,EXP,None,298.0,3069776037.7358465,86042547.16980723,Pa,F8,10.1016/j.intermet.2021.107397
+None,AlCrFeNiTiCu2,FCC+BCC+BCC,AAM,None,hardness,EXP,None,298.0,2747810377.3584905,108247075.4716921,Pa,F8,10.1016/j.intermet.2021.107397
+None,AlCoCrFeNi,BCC,AAM,None,None,None,None,None,None,None,None,None,10.1016/j.intermet.2016.12.015
+None,AlCoCrCu0.5FeNi,BCC,AAM,None,None,None,None,None,None,None,None,None,10.1016/j.intermet.2016.12.015
+None,AlCoCrCuFeNi,BCC+FCC,AAM,None,None,None,None,None,None,None,None,None,10.1016/j.intermet.2016.12.015
+None,Al0.25CoCrFeNiCu,FCC,IM,metal granules and powders by molten in alumina crucibles with graphite lids in induction furnace in a reducing atmosphere at up to 1873K,None,None,None,None,None,None,None,None,10.1134/S1029959921060035
+None,Al0.5CoCrFeNi1.6Ti0.7,FCC+BCC,IM,metal granules and powders by molten in alumina crucibles with graphite lids in induction furnace in a reducing atmosphere at up to 1873K,None,None,None,None,None,None,None,None,10.1134/S1029959921060035
+None,Al0.25CoCrFeNiV,FCC+BCC,IM,BCC is mostly V; metal granules and powders by molten in alumina crucibles with graphite lids in induction furnace in a reducing atmosphere at up to 1873K,None,None,None,None,None,None,None,None,10.1134/S1029959921060035
