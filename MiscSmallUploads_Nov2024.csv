@@ -119,8 +119,8 @@ None,Nb40Ti25Al15V10Ta5Hf3W2,BCC+B2,AAM,B2 nanoprecipitates,UCS,EXP,strain rate 
 None,Nb40Ti25Al15V10Ta5Hf3W2,BCC+B2,AAM,B2 nanoprecipitates,UCS,EXP,strain rate 1e-3/s,1273.0,244000000.0,None,Pa,None,10.1016/j.msea.2021.142290
 None,Nb40Ti25Al15V10Ta5Hf3W2,BCC+B2,AAM,B2 nanoprecipitates,minimum compressive ductility,EXP,strain rate 1e-3/s,298.0,70.0,None,%,None,10.1016/j.msea.2021.142290
 None,Nb40Ti25Al15V10Ta5Hf3W2,BCC+B2,AAM,B2 nanoprecipitates,minimum compressive ductility,EXP,strain rate 1e-3/s,1273.0,70.0,None,%,None,10.1016/j.msea.2021.142290
-None,(NbTa)3 (MoHfW)1,BCC,VAM,None,electrical resistivity,EXP,None,5.0,9.7e-07,None,Ohm m / m^2,None,10.1103/PhysRevB.106.184512
-None,(NbTa)3 (MoHfW)1,BCC,VAM,None,electrical resistivity,EXP,None,298.0,1.32e-06,None,Ohm m / m^2,None,10.1103/PhysRevB.106.184512
+None,(NbTa)3 (MoHfW)1,BCC,VAM,None,electrical resistivity,EXP,None,5.0,9.7e-07,None,Ohm m^2 / m,None,10.1103/PhysRevB.106.184512
+None,(NbTa)3 (MoHfW)1,BCC,VAM,None,electrical resistivity,EXP,None,298.0,1.32e-06,None,Ohm m^2 / m,None,10.1103/PhysRevB.106.184512
 None,(NbTa)3 (MoHfW)1,BCC,VAM,None,superconducting transition temperature,EXP,None,None,4.3,None,K,None,10.1103/PhysRevB.106.184512
 None,Nb0.4 (MoTaW)0.2,BCC,VAM+A,annealed at 1673K for 24h in vacuum,density,EXP,None,298.0,12700.0,None,kg/m^3,T1,10.1016/j.intermet.2024.108379
 None,Nb0.55 (MoTaW)0.15,BCC,VAM+A,annealed at 1673K for 24h in vacuum,density,EXP,None,298.0,11600.0,None,kg/m^3,T1,10.1016/j.intermet.2024.108379
@@ -241,7 +241,7 @@ None,Al0.5CoCrFeNi2,FCC,VIM+H+WQ,homogenized at 1250*C for 12h in Ar and water q
 None,Fe27Ni35Cr18.25Al13.75Co2Ti2Mo2,FCC+BCC+B2,AAM,engineered lamellar structure,tensile yield stress,EXP,None,298.0,1056000000.0,13000000.0,Pa,T3,10.1016/j.jmst.2023.08.054
 None,Fe27Ni35Cr18.25Al13.75Co2Ti2Mo2,FCC+BCC+B2,AAM,engineered lamellar structure,UTS,EXP,None,298.0,1526000000.0,9000000.0,Pa,T3,10.1016/j.jmst.2023.08.054
 None,Fe27Ni35Cr18.25Al13.75Co2Ti2Mo2,FCC+BCC+B2,AAM,engineered lamellar structure,tensile ductility,EXP,None,298.0,15.6,600000.0,%,T3,10.1016/j.jmst.2023.08.054
-None,Al12Nb25.5Ta8.5Ti27.5Zr26.5,BCC+B2,AAM,processing called VAC incorrectly,density,EXP,None,299.0,6900.0,None,Pa,None,10.1016/j.matchar.2024.114602
+None,Al12Nb25.5Ta8.5Ti27.5Zr26.5,BCC+B2,AAM,processing called VAC incorrectly,density,EXP,None,299.0,6900.0,None,kg/m^3,None,10.1016/j.matchar.2024.114602
 None,Al12Nb25.5Ta8.5Ti27.5Zr26.5,BCC+B2,AAM,processing called VAC incorrectly,compressive yield stress,EXP,strain rate 1e-3/s,293.0,1301000000.0,None,Pa,None,10.1016/j.matchar.2024.114602
 None,Al12Nb25.5Ta8.5Ti27.5Zr26.5,BCC+B2,AAM,processing called VAC incorrectly,compressive yield stress,EXP,strain rate 1e-3/s,873.0,782000000.0,None,Pa,None,10.1016/j.matchar.2024.114602
 None,Al12Nb25.5Ta8.5Ti27.5Zr26.5,BCC+B2,AAM,processing called VAC incorrectly,compressive yield stress,EXP,strain rate 1e-3/s,1073.0,358000000.0,None,Pa,None,10.1016/j.matchar.2024.114602
@@ -463,13 +463,13 @@ M2,Nb70 Mo11.9 Ti18.1,BCC,VAM,None,minimum compressive ductility,EXP,strain rate
 M3,Nb67.8 Mo14.1 Ti18.1,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,1473.0,70.0,None,%,F4,10.1016/j.jallcom.2019.151685
 M4,Nb34.7 Mo32.8 Ti32.5,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,1473.0,70.0,None,%,F4,10.1016/j.jallcom.2019.151685
 MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,minimum compressive ductility,EXP,strain rate 1e-3/s,1473.0,70.0,None,%,F4,10.1016/j.jallcom.2019.151685
-MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,UCS,EXP,strain rate 1e-3/s,873.0,1227000000.0,None,%,F4,10.1016/j.jallcom.2019.151685
-MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,UCS,EXP,strain rate 1e-3/s,1073.0,1115000000.0,None,%,F4,10.1016/j.jallcom.2019.151685
-M4,Nb34.7 Mo32.8 Ti32.5,BCC,VAM,None,UCS,EXP,strain rate 1e-3/s,1273.0,657000000.0,None,%,F4,10.1016/j.jallcom.2019.151685
-MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,UCS,EXP,strain rate 1e-3/s,1273.0,846000000.0,None,%,F4,10.1016/j.jallcom.2019.151685
-C-3009,Nb71.7 W5.9 Hf22.4,BCC,AC,None,UCS,EXP,strain rate 1e-3/s,1473.0,433000000.0,None,%,F4,10.1016/j.jallcom.2019.151685
-M4,Nb34.7 Mo32.8 Ti32.5,BCC,VAM,None,UCS,EXP,strain rate 1e-3/s,1473.0,323000000.0,None,%,F4,10.1016/j.jallcom.2019.151685
-MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,UCS,EXP,strain rate 1e-3/s,1473.0,498000000.0,None,%,F4,10.1016/j.jallcom.2019.151685
+MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,UCS,EXP,strain rate 1e-3/s,873.0,1227000000.0,None,Pa,F4,10.1016/j.jallcom.2019.151685
+MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,UCS,EXP,strain rate 1e-3/s,1073.0,1115000000.0,None,Pa,F4,10.1016/j.jallcom.2019.151685
+M4,Nb34.7 Mo32.8 Ti32.5,BCC,VAM,None,UCS,EXP,strain rate 1e-3/s,1273.0,657000000.0,None,Pa,F4,10.1016/j.jallcom.2019.151685
+MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,UCS,EXP,strain rate 1e-3/s,1273.0,846000000.0,None,Pa,F4,10.1016/j.jallcom.2019.151685
+C-3009,Nb71.7 W5.9 Hf22.4,BCC,AC,None,UCS,EXP,strain rate 1e-3/s,1473.0,433000000.0,None,Pa,F4,10.1016/j.jallcom.2019.151685
+M4,Nb34.7 Mo32.8 Ti32.5,BCC,VAM,None,UCS,EXP,strain rate 1e-3/s,1473.0,323000000.0,None,Pa,F4,10.1016/j.jallcom.2019.151685
+MW1,Nb32.9 Mo17.0 Ti34.4 W15.7,BCC,VAM,None,UCS,EXP,strain rate 1e-3/s,1473.0,498000000.0,None,Pa,F4,10.1016/j.jallcom.2019.151685
 Ti35/Base,Ti35Zr30V10Nb25,BCC,AAM,None,hardness,EXP,None,298.0,2500785000.0,9807000.0,Pa,S,10.1016/j.scriptamat.2024.116488
 O1,(Ti35Zr30V10Nb25)0.99 O1,BCC,AAM,oxygen introduced through TiO2,hardness,EXP,None,298.0,3148047000.0,39228000.0,Pa,S,10.1016/j.scriptamat.2024.116488
 O2,(Ti35Zr30V10Nb25)0.98 O2,BCC,AAM,oxygen introduced through TiO2,hardness,EXP,None,298.0,3687432000.0,58842000.0,Pa,S,10.1016/j.scriptamat.2024.116488
@@ -651,10 +651,10 @@ None,V20 Nb20 Mo20 Ta20 W20 ,BCC+BC+carbide,MA+CIP+HIP,high energy ball milling 
 120,Nb25 Ta25 Ti25 V25,BCC,SPS,SPS for 30min at 30MPa at 1973K,UCS,EXP ,None,1073.0,894000000.0,None,Pa,F9,10.1016/j.jallcom.2018.10.230 
 120,Nb25 Ta25 Ti25 V25,BCC,SPS,SPS for 30min at 30MPa at 1973K,UCS,EXP ,None,1173.0,668000000.0,None,Pa,F9,10.1016/j.jallcom.2018.10.230 
 120,Nb25 Ta25 Ti25 V25,BCC,SPS,SPS for 30min at 30MPa at 1973K,UCS,EXP ,None,1273.0,483000000.0,None,Pa,F9,10.1016/j.jallcom.2018.10.230 
-120,Nb25 Ta25 Ti25 V25,BCC,SPS,SPS for 30min at 30MPa at 1973K,minimum compressive ductility,EXP ,None,973.0,40.0,None,Pa,F9,10.1016/j.jallcom.2018.10.230 
-120,Nb25 Ta25 Ti25 V25,BCC,SPS,SPS for 30min at 30MPa at 1973K,minimum compressive ductility,EXP ,None,1073.0,40.0,None,Pa,F9,10.1016/j.jallcom.2018.10.230 
-120,Nb25 Ta25 Ti25 V25,BCC,SPS,SPS for 30min at 30MPa at 1973K,minimum compressive ductility,EXP ,None,1173.0,40.0,None,Pa,F9,10.1016/j.jallcom.2018.10.230 
-120,Nb25 Ta25 Ti25 V25,BCC,SPS,SPS for 30min at 30MPa at 1973K,minimum compressive ductility,EXP ,None,1273.0,40.0,None,Pa,F9,10.1016/j.jallcom.2018.10.230 
+120,Nb25 Ta25 Ti25 V25,BCC,SPS,SPS for 30min at 30MPa at 1973K,minimum compressive ductility,EXP ,None,973.0,40.0,None,%,F9,10.1016/j.jallcom.2018.10.230 
+120,Nb25 Ta25 Ti25 V25,BCC,SPS,SPS for 30min at 30MPa at 1973K,minimum compressive ductility,EXP ,None,1073.0,40.0,None,%,F9,10.1016/j.jallcom.2018.10.230 
+120,Nb25 Ta25 Ti25 V25,BCC,SPS,SPS for 30min at 30MPa at 1973K,minimum compressive ductility,EXP ,None,1173.0,40.0,None,%,F9,10.1016/j.jallcom.2018.10.230 
+120,Nb25 Ta25 Ti25 V25,BCC,SPS,SPS for 30min at 30MPa at 1973K,minimum compressive ductility,EXP ,None,1273.0,40.0,None,%,F9,10.1016/j.jallcom.2018.10.230 
 121,NbTiZr,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,hardness,EXP ,None,298.0,3334380000.0,29421000.0,Pa,T8,10.1016/j.jallcom.2018.12.325 
 122,Ta10Nb30Ti30Zr30,BCC,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,hardness,EXP ,None,298.0,3501099000.0,29421000.0,Pa,T8,10.1016/j.jallcom.2018.12.325 
 123,Cr10Nb30Ti30Zr30,BCC+C14,HIP + A,HIP'd at 1673K for 2h under 276MPa; annealed at 1673K,hardness,EXP ,None,298.0,4481799000.0,127491000.0,Pa,T8,10.1016/j.jallcom.2018.12.325 
@@ -723,14 +723,14 @@ None,Co Cr Fe Ni,FCC,AAM+H,homogenized at 100*C for 24h,UTS,EXP ,strain rate 1e-
 None,Co Cr Fe Ni Mn,FCC,AAM+H,homogenized at 100*C for 24h,UTS,EXP ,strain rate 1e-3/s,298.0,443000000.0,None,Pa,T5,10.1016/j.jallcom.2013.12.210
 None,Co Cr Fe Ni V,FCC+sigma,AAM+H,homogenized at 100*C for 24h,UTS,EXP ,strain rate 1e-3/s,298.0,330000000.0,None,Pa,T5,10.1016/j.jallcom.2013.12.210
 None,Co Cr Fe Ni Mn V,FCC+sigma,AAM+H,homogenized at 100*C for 24h,UTS,EXP ,strain rate 1e-3/s,298.0,62000000.0,None,Pa,T5,10.1016/j.jallcom.2013.12.210
-None,Co Cr Fe Ni,FCC,AAM,None,UTS,EXP ,strain rate 1e-3/s,298.0,83.0,None,%,T5,10.1016/j.jallcom.2013.12.210
-None,Co Cr Fe Ni Mn,FCC,AAM,None,UTS,EXP ,strain rate 1e-3/s,298.0,71.0,None,%,T5,10.1016/j.jallcom.2013.12.210
-None,Co Cr Fe Ni V,FCC+sigma,AAM,None,UTS,EXP ,strain rate 1e-3/s,298.0,0.0,None,%,T5,10.1016/j.jallcom.2013.12.210
-None,Co Cr Fe Ni Mn V,FCC+sigma,AAM,None,UTS,EXP ,strain rate 1e-3/s,298.0,0.0,None,%,T5,10.1016/j.jallcom.2013.12.210
-None,Co Cr Fe Ni,FCC,AAM+H,homogenized at 100*C for 24h,UTS,EXP ,strain rate 1e-3/s,298.0,87.0,None,%,T5,10.1016/j.jallcom.2013.12.210
-None,Co Cr Fe Ni Mn,FCC,AAM+H,homogenized at 100*C for 24h,UTS,EXP ,strain rate 1e-3/s,298.0,68.0,None,%,T5,10.1016/j.jallcom.2013.12.210
-None,Co Cr Fe Ni V,FCC+sigma,AAM+H,homogenized at 100*C for 24h,UTS,EXP ,strain rate 1e-3/s,298.0,0.0,None,%,T5,10.1016/j.jallcom.2013.12.210
-None,Co Cr Fe Ni Mn V,FCC+sigma,AAM+H,homogenized at 100*C for 24h,UTS,EXP ,strain rate 1e-3/s,298.0,0.0,None,%,T5,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni,FCC,AAM,None,tensile ductility,EXP ,strain rate 1e-3/s,298.0,83.0,None,%,T5,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni Mn,FCC,AAM,None,tensile ductility,EXP ,strain rate 1e-3/s,298.0,71.0,None,%,T5,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni V,FCC+sigma,AAM,None,tensile ductility,EXP ,strain rate 1e-3/s,298.0,0.0,None,%,T5,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni Mn V,FCC+sigma,AAM,None,tensile ductility,EXP ,strain rate 1e-3/s,298.0,0.0,None,%,T5,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni,FCC,AAM+H,homogenized at 100*C for 24h,tensile ductility,EXP ,strain rate 1e-3/s,298.0,87.0,None,%,T5,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni Mn,FCC,AAM+H,homogenized at 100*C for 24h,tensile ductility,EXP ,strain rate 1e-3/s,298.0,68.0,None,%,T5,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni V,FCC+sigma,AAM+H,homogenized at 100*C for 24h,tensile ductility,EXP ,strain rate 1e-3/s,298.0,0.0,None,%,T5,10.1016/j.jallcom.2013.12.210
+None,Co Cr Fe Ni Mn V,FCC+sigma,AAM+H,homogenized at 100*C for 24h,tensile ductility,EXP ,strain rate 1e-3/s,298.0,0.0,None,%,T5,10.1016/j.jallcom.2013.12.210
 None,Co Cr Fe Ni,FCC,AAM+H,homogenized at 100*C for 24h,compressive yield stress,EXP ,strain rate 1e-3/s,298.0,190000000.0,None,Pa,T6,10.1016/j.jallcom.2013.12.210
 None,Co Cr Fe Ni V,FCC+sigma,AAM+H,homogenized at 100*C for 24h,compressive yield stress,EXP ,strain rate 1e-3/s,298.0,1435000000.0,None,Pa,T6,10.1016/j.jallcom.2013.12.210
 None,Co Cr Fe Ni Mn V,FCC+sigma,AAM+H,homogenized at 100*C for 24h,compressive yield stress,EXP ,strain rate 1e-3/s,298.0,1660000000.0,None,Pa,T6,10.1016/j.jallcom.2013.12.210

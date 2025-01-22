@@ -29,10 +29,10 @@ Sc0,AlCoCrFeNi,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,compressive yield st
 Sc-0.5,Al19.9 Co19.9 Cr19.9 Fe19.9 Ni19.9 Sc0.5,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,compressive yield stress,EXP,None,298.0,1349000000.0,None,Pa,P2,10.1016/j.msea.2022.144425
 Sc-1,Al19.8 Co19.8 Cr19.8 Fe19.8 Ni19.8 Sc1,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,compressive yield stress,EXP,None,298.0,1402000000.0,None,Pa,F5,10.1016/j.msea.2022.144425
 Sc-2,Al19.6 Co19.6 Cr19.6 Fe19.6 Ni19.6 Sc2,BCC+B2+laves,AAM,Sc-rich laves; (Fe,Cr)-rich BCC; (Ni,Al)-rich B2,compressive yield stress,EXP,None,298.0,1441000000.0,None,Pa,P2,10.1016/j.msea.2022.144425
-Sc0,AlCoCrFeNi,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,compressive ductility,EXP,None,298.0,32.5,None,Pa,P2,10.1016/j.msea.2022.144425
-Sc-0.5,Al19.9 Co19.9 Cr19.9 Fe19.9 Ni19.9 Sc0.5,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,compressive ductility,EXP,None,298.0,26.6,None,Pa,P2,10.1016/j.msea.2022.144425
-Sc-1,Al19.8 Co19.8 Cr19.8 Fe19.8 Ni19.8 Sc1,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,compressive ductility,EXP,None,298.0,25.0,None,Pa,F5,10.1016/j.msea.2022.144425
-Sc-2,Al19.6 Co19.6 Cr19.6 Fe19.6 Ni19.6 Sc2,BCC+B2+laves,AAM,Sc-rich laves; (Fe,Cr)-rich BCC; (Ni,Al)-rich B2,compressive ductility,EXP,None,298.0,23.6,None,Pa,P2,10.1016/j.msea.2022.144425
+Sc0,AlCoCrFeNi,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,compressive ductility,EXP,None,298.0,32.5,None,%,P2,10.1016/j.msea.2022.144425
+Sc-0.5,Al19.9 Co19.9 Cr19.9 Fe19.9 Ni19.9 Sc0.5,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,compressive ductility,EXP,None,298.0,26.6,None,%,P2,10.1016/j.msea.2022.144425
+Sc-1,Al19.8 Co19.8 Cr19.8 Fe19.8 Ni19.8 Sc1,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,compressive ductility,EXP,None,298.0,25.0,None,%,F5,10.1016/j.msea.2022.144425
+Sc-2,Al19.6 Co19.6 Cr19.6 Fe19.6 Ni19.6 Sc2,BCC+B2+laves,AAM,Sc-rich laves; (Fe,Cr)-rich BCC; (Ni,Al)-rich B2,compressive ductility,EXP,None,298.0,23.6,None,%,P2,10.1016/j.msea.2022.144425
 Sc0,AlCoCrFeNi,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,ultimate compressive strength,EXP,None,298.0,2352000000.0,None,Pa,P2,10.1016/j.msea.2022.144425
 Sc-0.5,Al19.9 Co19.9 Cr19.9 Fe19.9 Ni19.9 Sc0.5,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,ultimate compressive strength,EXP,None,298.0,2104000000.0,None,Pa,P2,10.1016/j.msea.2022.144425
 Sc-1,Al19.8 Co19.8 Cr19.8 Fe19.8 Ni19.8 Sc1,BCC+B2,AAM,(Fe,Cr)-rich BCC; (Ni,Al)-rich B2,ultimate compressive strength,EXP,None,298.0,2050000000.0,None,Pa,F5,10.1016/j.msea.2022.144425
