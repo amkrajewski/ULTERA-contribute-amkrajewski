@@ -364,3 +364,80 @@ None,AlCoCrCuFeNi,BCC+FCC,AAM,None,None,None,None,None,None,None,None,None,10.10
 None,Al0.25CoCrFeNiCu,FCC,IM,metal granules and powders by molten in alumina crucibles with graphite lids in induction furnace in a reducing atmosphere at up to 1873K,None,None,None,None,None,None,None,None,10.1134/S1029959921060035
 None,Al0.5CoCrFeNi1.6Ti0.7,FCC+BCC,IM,metal granules and powders by molten in alumina crucibles with graphite lids in induction furnace in a reducing atmosphere at up to 1873K,None,None,None,None,None,None,None,None,10.1134/S1029959921060035
 None,Al0.25CoCrFeNiV,FCC+BCC,IM,BCC is mostly V; metal granules and powders by molten in alumina crucibles with graphite lids in induction furnace in a reducing atmosphere at up to 1873K,None,None,None,None,None,None,None,None,10.1134/S1029959921060035
+None,AlCoCrFeNiSi0.5Cu0.01,B2,IM,IM in Ar,saturation magnetization,EXP,None,298.0,39.3,None,Am^2/kg,T2,10.1007/s43452-024-01102-5
+None,AlCoCrFeNiSi0.5Cu0.05,B2,IM,IM in Ar,saturation magnetization,EXP,None,298.0,38.9,None,Am^2/kg,T2,10.1007/s43452-024-01102-5
+None,AlCoCrFeNiSi0.5Cu0.1,B2,IM,IM in Ar,saturation magnetization,EXP,None,298.0,35.3,None,Am^2/kg,T2,10.1007/s43452-024-01102-5
+None,AlCoCrFeNiSi0.5Cu0.01,B2,IM,IM in Ar,coercivity,EXP,None,298.0,6238.873648,None,A/m,T2,10.1007/s43452-024-01102-5
+None,AlCoCrFeNiSi0.5Cu0.05,B2,IM,IM in Ar,coercivity,EXP,None,298.0,5944.437009,None,A/m,T2,10.1007/s43452-024-01102-5
+None,AlCoCrFeNiSi0.5Cu0.1,B2,IM,IM in Ar,coercivity,EXP,None,298.0,5172.53555,None,A/m,T2,10.1007/s43452-024-01102-5
+None,AlCoCrFeNiSi0.5Cu0.01,B2,IM,IM in Ar,hardness,EXP,None,298.0,6961921122.99465,432661764.7058768,Pa,F13,10.1007/s43452-024-01102-5
+None,AlCoCrFeNiSi0.5Cu0.05,B2,IM,IM in Ar,hardness,EXP,None,298.0,6975032085.561495,471994652.40641487,Pa,F13,10.1007/s43452-024-01102-5
+None,AlCoCrFeNiSi0.5Cu0.1,B2,IM,IM in Ar,hardness,EXP,None,298.0,7053697860.96256,747324866.310163,Pa,F13,10.1007/s43452-024-01102-5
+None,CoCrFeNiMn,FCC,AAM,None,UTS,EXP,None,298.0,487261146.496815,None,Pa,F7,10.1016/j.matchemphys.2017.08.011
+None,CoCrFeNiMnC0.05,FCC,AAM,None,UTS,EXP,None,298.0,573885350.318471,None,Pa,F7,10.1016/j.matchemphys.2017.08.011
+None,CoCrFeNiMnC0.1,FCC,AAM,None,UTS,EXP,None,298.0,664331210.191082,None,Pa,F7,10.1016/j.matchemphys.2017.08.011
+None,CoCrFeNiMnC0.15,FCC+carbide,AAM,None,UTS,EXP,None,298.0,621019108.280254,None,Pa,F7,10.1016/j.matchemphys.2017.08.011
+None,CoCrFeNiMnC0.2,FCC+carbide,AAM,None,UTS,EXP,None,298.0,733121019.10828,None,Pa,F7,10.1016/j.matchemphys.2017.08.011
+None,CoCrFeNiMn,FCC,AAM,None,tensile yield stress,EXP,None,298.0,277500000.0,None,Pa,F7,10.1016/j.matchemphys.2017.08.011
+None,CoCrFeNiMnC0.05,FCC,AAM,None,tensile yield stress,EXP,None,298.0,311249999.999999,None,Pa,F7,10.1016/j.matchemphys.2017.08.011
+None,CoCrFeNiMnC0.1,FCC,AAM,None,tensile yield stress,EXP,None,298.0,391874999.999999,None,Pa,F7,10.1016/j.matchemphys.2017.08.011
+None,CoCrFeNiMnC0.15,FCC+carbide,AAM,None,tensile yield stress,EXP,None,298.0,470625000.0,None,Pa,F7,10.1016/j.matchemphys.2017.08.011
+None,CoCrFeNiMnC0.2,FCC+carbide,AAM,None,tensile yield stress,EXP,None,298.0,650625000.0,None,Pa,F7,10.1016/j.matchemphys.2017.08.011
+None,CoCrFeNiMn,FCC,AAM,None,tensile ductility,EXP,None,298.0,52.6767676768,None,%,F7,10.1016/j.matchemphys.2017.08.011
+None,CoCrFeNiMnC0.05,FCC,AAM,None,tensile ductility,EXP,None,298.0,60.5050505051,None,%,F7,10.1016/j.matchemphys.2017.08.011
+None,CoCrFeNiMnC0.1,FCC,AAM,None,tensile ductility,EXP,None,298.0,47.1212121212,None,%,F7,10.1016/j.matchemphys.2017.08.011
+None,CoCrFeNiMnC0.15,FCC+carbide,AAM,None,tensile ductility,EXP,None,298.0,20.101010101,None,%,F7,10.1016/j.matchemphys.2017.08.011
+None,CoCrFeNiMnC0.2,FCC+carbide,AAM,None,tensile ductility,EXP,None,298.0,12.5252525253,None,%,F7,10.1016/j.matchemphys.2017.08.011
+None,Al15Cr15Fe50Ni20,FCC+BCC,AAM,None,hardness,EXP,None,298.0,4246431000.0,None,Pa,T3,10.1007/s11665-023-08899-x
+None,Al15Cr15Fe50Ni18B2 ,FCC+BCC,AAM,None,hardness,EXP,None,298.0,4756395000.0,None,Pa,T3,10.1007/s11665-023-08899-x
+None,Al15Cr15Fe50Ni16B4 ,FCC+BCC+Cr2B,AAM,None,hardness,EXP,None,298.0,4825044000.0,None,Pa,T3,10.1007/s11665-023-08899-x
+None,Al15Cr15Fe50Ni15B5 ,FCC+BCC+Cr2B,AAM,None,hardness,EXP,None,298.0,5639025000.0,None,Pa,T3,10.1007/s11665-023-08899-x
+None,Al15Cr15Fe50Ni14B6 ,FCC+BCC+Cr2B,AAM,None,hardness,EXP,None,298.0,5266359000.0,None,Pa,T3,10.1007/s11665-023-08899-x
+None,Al15Cr15Fe50Ni12B8,FCC+BCC+Cr2B,AAM,None,hardness,EXP,None,298.0,4883886000.0,None,Pa,T3,10.1007/s11665-023-08899-x
+None,Al15Cr15Fe50Ni20,FCC+BCC,AAM,None,compressive yield stress,EXP,None,298.0,1096000000.0,None,Pa,T3,10.1007/s11665-023-08899-x
+None,Al15Cr15Fe50Ni18B2 ,FCC+BCC,AAM,None,compressive yield stress,EXP,None,298.0,1243000000.0,None,Pa,T3,10.1007/s11665-023-08899-x
+None,Al15Cr15Fe50Ni16B4 ,FCC+BCC+Cr2B,AAM,None,compressive yield stress,EXP,None,298.0,1258000000.0,None,Pa,T3,10.1007/s11665-023-08899-x
+None,Al15Cr15Fe50Ni15B5 ,FCC+BCC+Cr2B,AAM,None,compressive yield stress,EXP,None,298.0,1330000000.0,None,Pa,T3,10.1007/s11665-023-08899-x
+None,Al15Cr15Fe50Ni14B6 ,FCC+BCC+Cr2B,AAM,None,compressive yield stress,EXP,None,298.0,1778000000.0,None,Pa,T3,10.1007/s11665-023-08899-x
+None,Al15Cr15Fe50Ni12B8,FCC+BCC+Cr2B,AAM,None,compressive yield stress,EXP,None,298.0,1912000000.0,None,Pa,T3,10.1007/s11665-023-08899-x
+None,Al15Cr15Fe50Ni16B4 ,FCC+BCC+Cr2B,AAM,None,UCS,EXP,None,298.0,2564000000.0,None,Pa,T3,10.1007/s11665-023-08899-x
+None,Al15Cr15Fe50Ni15B5 ,FCC+BCC+Cr2B,AAM,None,UCS,EXP,None,298.0,2595000000.0,None,Pa,T3,10.1007/s11665-023-08899-x
+None,Al15Cr15Fe50Ni14B6 ,FCC+BCC+Cr2B,AAM,None,UCS,EXP,None,298.0,2414000000.0,None,Pa,T3,10.1007/s11665-023-08899-x
+None,Al15Cr15Fe50Ni12B8,FCC+BCC+Cr2B,AAM,None,UCS,EXP,None,298.0,2070000000.0,None,Pa,T3,10.1007/s11665-023-08899-x
+None,Al15Cr15Fe50Ni16B4 ,FCC+BCC+Cr2B,AAM,None,compressive ductility,EXP,None,298.0,42.0,None,%,T3,10.1007/s11665-023-08899-x
+None,Al15Cr15Fe50Ni15B5 ,FCC+BCC+Cr2B,AAM,None,compressive ductility,EXP,None,298.0,31.0,None,%,T3,10.1007/s11665-023-08899-x
+None,Al15Cr15Fe50Ni14B6 ,FCC+BCC+Cr2B,AAM,None,compressive ductility,EXP,None,298.0,23.0,None,%,T3,10.1007/s11665-023-08899-x
+None,Al15Cr15Fe50Ni12B8,FCC+BCC+Cr2B,AAM,None,compressive ductility,EXP,None,298.0,16.0,None,%,T3,10.1007/s11665-023-08899-x
+None,Al15Cr15Fe50Ni20,FCC+BCC,AAM,None,minimum compressive ductility,EXP,None,298.0,80.0,None,%,T3,10.1007/s11665-023-08899-x
+None,Al15Cr15Fe50Ni18B2 ,FCC+BCC,AAM,None,minimum compressive ductility,EXP,None,298.0,80.0,None,%,T3,10.1007/s11665-023-08899-x
+None,Si2 V7 Cr10Mn5Fe46Co30,FCC,VIM+HR+H+CR+A+WQ,IM in VIM under Ar and hot rolled at around 1000*C with around 90% reduction then homogenized at 1473K for 2h and cold rolled with over 50% reduction and annealed at 1173K for 15min and water quenched,tensile yield stress,EXP,None,298.0,435000000.0,7000000.0,Pa,F5,10.1016/j.jmst.2020.10.038
+None,Si4 V5 Cr10Mn5Fe46Co30,FCC,VIM+HR+H+CR+A+WQ,IM in VIM under Ar and hot rolled at around 1000*C with around 90% reduction then homogenized at 1473K for 2h and cold rolled with over 50% reduction and annealed at 1173K for 15min and water quenched,tensile yield stress,EXP,None,298.0,392000000.0,4000000.0,Pa,F5,10.1016/j.jmst.2020.10.038
+None,Si7 V2 Cr10Mn5Fe46Co30,FCC+HCP,VIM+HR+H+CR+A+WQ,IM in VIM under Ar and hot rolled at around 1000*C with around 90% reduction then homogenized at 1473K for 2h and cold rolled with over 50% reduction and annealed at 1173K for 15min and water quenched,tensile yield stress,EXP,None,298.0,403000000.0,9000000.0,Pa,F5,10.1016/j.jmst.2020.10.038
+None,Si2 V7 Cr10Mn5Fe46Co30,FCC,VIM+HR+H+CR+A+WQ,IM in VIM under Ar and hot rolled at around 1000*C with around 90% reduction then homogenized at 1473K for 2h and cold rolled with over 50% reduction and annealed at 1173K for 15min and water quenched,UTS,EXP,None,298.0,1085000000.0,6000000.0,Pa,F5,10.1016/j.jmst.2020.10.038
+None,Si4 V5 Cr10Mn5Fe46Co30,FCC,VIM+HR+H+CR+A+WQ,IM in VIM under Ar and hot rolled at around 1000*C with around 90% reduction then homogenized at 1473K for 2h and cold rolled with over 50% reduction and annealed at 1173K for 15min and water quenched,UTS,EXP,None,298.0,962000000.0,8000000.0,Pa,F5,10.1016/j.jmst.2020.10.038
+None,Si7 V2 Cr10Mn5Fe46Co30,FCC+HCP,VIM+HR+H+CR+A+WQ,IM in VIM under Ar and hot rolled at around 1000*C with around 90% reduction then homogenized at 1473K for 2h and cold rolled with over 50% reduction and annealed at 1173K for 15min and water quenched,UTS,EXP,None,298.0,860000000.0,2000000.0,Pa,F5,10.1016/j.jmst.2020.10.038
+None,Si2 V7 Cr10Mn5Fe46Co30,FCC,VIM+HR+H+CR+A+WQ,IM in VIM under Ar and hot rolled at around 1000*C with around 90% reduction then homogenized at 1473K for 2h and cold rolled with over 50% reduction and annealed at 1173K for 15min and water quenched,tensile ductility,EXP,None,298.0,57.3,1.6,%,F5,10.1016/j.jmst.2020.10.038
+None,Si4 V5 Cr10Mn5Fe46Co30,FCC,VIM+HR+H+CR+A+WQ,IM in VIM under Ar and hot rolled at around 1000*C with around 90% reduction then homogenized at 1473K for 2h and cold rolled with over 50% reduction and annealed at 1173K for 15min and water quenched,tensile ductility,EXP,None,298.0,54.8,0.9,%,F5,10.1016/j.jmst.2020.10.038
+None,Si7 V2 Cr10Mn5Fe46Co30,FCC+HCP,VIM+HR+H+CR+A+WQ,IM in VIM under Ar and hot rolled at around 1000*C with around 90% reduction then homogenized at 1473K for 2h and cold rolled with over 50% reduction and annealed at 1173K for 15min and water quenched,tensile ductility,EXP,None,298.0,61.8,0.2,%,F5,10.1016/j.jmst.2020.10.038
+M,CrFeNi,FCC,AAM,AAM in liqid state for over 1h,hardness,EXP,None,298.0,1833909000.0,39228000.0,Pa,T3,10.1016/j.msea.2019.138566
+Mal2,CrFeNiAl0.2,FCC+B2,AAM,AAM in liqid state for over 1h,hardness,EXP,None,298.0,2118312000.0,88263000.0,Pa,T3,10.1016/j.msea.2019.138566
+MAl4,CrFeNiAl0.4,FCC+BCC,AAM,AAM in liqid state for over 1h,hardness,EXP,None,298.0,5315394000.0,98070000.0,Pa,T3,10.1016/j.msea.2019.138566
+Mal3Ti3,CrFeNiAl0.3Ti0.3,FCC+BCC+B2,AAM,AAM in liqid state for over 1h,hardness,EXP,None,298.0,5403657000.0,68649000.0,Pa,T3,10.1016/j.msea.2019.138566
+MAl4Ti2,CrFeNiAl0.4Ti0.2,BCC+B2,AAM,AAM in liqid state for over 1h,hardness,EXP,None,298.0,5688060000.0,78456000.0,Pa,T3,10.1016/j.msea.2019.138566
+M,CrFeNi,FCC,AAM,AAM in liqid state for over 1h,nanohardness,EXP,None,298.0,3108614232.20973,None,Pa,F9,10.1016/j.msea.2019.138566
+Mal2,CrFeNiAl0.2,FCC+B2,AAM,AAM in liqid state for over 1h,nanohardness,EXP,None,298.0,4456928838.95131,None,Pa,F9,10.1016/j.msea.2019.138566
+M,CrFeNi,FCC,AAM,AAM in liqid state for over 1h,reduced elastic modulus,EXP,None,298.0,105614973262.032,None,Pa,F9,10.1016/j.msea.2019.138566
+Mal2,CrFeNiAl0.2,FCC+B2,AAM,AAM in liqid state for over 1h,reduced elastic modulus,EXP,None,298.0,175133689839.572,None,Pa,F9,10.1016/j.msea.2019.138566
+M,CrFeNi,FCC,AAM,AAM in liqid state for over 1h,compressive yield stress,EXP,None,298.0,160000000.0,5000000.0,Pa,T3,10.1016/j.msea.2019.138566
+Mal2,CrFeNiAl0.2,FCC+B2,AAM,AAM in liqid state for over 1h,compressive yield stress,EXP,None,298.0,280000000.0,7000000.0,Pa,T3,10.1016/j.msea.2019.138566
+MAl4,CrFeNiAl0.4,FCC+BCC,AAM,AAM in liqid state for over 1h,compressive yield stress,EXP,None,298.0,1350000000.0,9000000.0,Pa,T3,10.1016/j.msea.2019.138566
+Mal3Ti3,CrFeNiAl0.3Ti0.3,FCC+BCC+B2,AAM,AAM in liqid state for over 1h,compressive yield stress,EXP,None,298.0,1712000000.0,8000000.0,Pa,T3,10.1016/j.msea.2019.138566
+MAl4Ti2,CrFeNiAl0.4Ti0.2,BCC+B2,AAM,AAM in liqid state for over 1h,compressive yield stress,EXP,None,298.0,1600000000.0,6000000.0,Pa,T3,10.1016/j.msea.2019.138566
+MAl4,CrFeNiAl0.4,FCC+BCC,AAM,AAM in liqid state for over 1h,UCS,EXP,None,298.0,3219000000.0,7000000.0,Pa,T3,10.1016/j.msea.2019.138566
+Mal3Ti3,CrFeNiAl0.3Ti0.3,FCC+BCC+B2,AAM,AAM in liqid state for over 1h,UCS,EXP,None,298.0,3700000000.0,9000000.0,Pa,T3,10.1016/j.msea.2019.138566
+MAl4Ti2,CrFeNiAl0.4Ti0.2,BCC+B2,AAM,AAM in liqid state for over 1h,UCS,EXP,None,298.0,3819000000.0,6000000.0,Pa,T3,10.1016/j.msea.2019.138566
+M,CrFeNi,FCC,AAM,AAM in liqid state for over 1h,minimum compressive ductility,EXP,None,298.0,50.0,None,%,T3,10.1016/j.msea.2019.138566
+Mal2,CrFeNiAl0.2,FCC+B2,AAM,AAM in liqid state for over 1h,minimum compressive ductility,EXP,None,298.0,50.0,None,%,T3,10.1016/j.msea.2019.138566
+MAl4,CrFeNiAl0.4,FCC+BCC,AAM,AAM in liqid state for over 1h,compressive ductility,EXP,None,298.0,37.0,0.5,%,T3,10.1016/j.msea.2019.138566
+Mal3Ti3,CrFeNiAl0.3Ti0.3,FCC+BCC+B2,AAM,AAM in liqid state for over 1h,compressive ductility,EXP,None,298.0,39.8,0.6,%,T3,10.1016/j.msea.2019.138566
+MAl4Ti2,CrFeNiAl0.4Ti0.2,BCC+B2,AAM,AAM in liqid state for over 1h,compressive ductility,EXP,None,298.0,45.0,0.9,%,T3,10.1016/j.msea.2019.138566
