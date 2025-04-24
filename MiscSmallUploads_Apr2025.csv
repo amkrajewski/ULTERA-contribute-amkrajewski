@@ -1,0 +1,176 @@
+Name:,Adam Krajewski
+Email:,ak@psu.edu
+Direct Fetched:,T
+Hand Fetched:,T
+Comment:,None
+
+id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
+None,Nb3Cr2Ti0.9W0.4Fe6,BCC,MA+DP-SLM(LPBF),None,hardness,EXP,None,298.0,6590304000.0,None,Pa,P5,10.1016/j.jallcom.2025.180506
+None,Nb3Cr2Ti0.9W0.4Fe6,BCC,MA+DP-SLM(LPBF),None,tensile yield stress,EXP,None,298.0,953000000.0,None,Pa,T5,10.1016/j.jallcom.2025.180506
+None,Nb3Cr2Ti0.9W0.4Fe6,BCC,MA+DP-SLM(LPBF),None,UTS,EXP,None,298.0,1159000000.0,None,Pa,T5,10.1016/j.jallcom.2025.180506
+None,Nb3Cr2Ti0.9W0.4Fe6,BCC,MA+DP-SLM(LPBF),None,tensile ductility,EXP,None,298.0,13.4,None,%,T5,10.1016/j.jallcom.2025.180506
+None,Nb3Cr2Ti0.9W0.4Fe6,BCC,MA+GA-SLM(LPBF),None,tensile yield stress,EXP,None,298.0,984000000.0,None,Pa,T5,10.1016/j.jallcom.2025.180506
+None,Nb3Cr2Ti0.9W0.4Fe6,BCC,MA+GA-SLM(LPBF),None,UTS,EXP,None,298.0,1176000000.0,None,Pa,T5,10.1016/j.jallcom.2025.180506
+None,Nb3Cr2Ti0.9W0.4Fe6,BCC,MA+GA-SLM(LPBF),None,tensile ductility,EXP,None,298.0,10.7,None,%,T5,10.1016/j.jallcom.2025.180506
+None,Nb3Cr2Ti0.9W0.4Fe6,BCC,MA+DP-SLM(LPBF),None,compressive yield stress,EXP,5e-3/s strain rate,1273.0,90000000.0,None,Pa,F17,10.1016/j.jallcom.2025.180506
+None,Nb3Cr2Ti0.9W0.4Fe6,BCC,MA+DP-SLM(LPBF),None,UCS,EXP,5e-3/s strain rate,1273.0,148000000.0,None,Pa,F17,10.1016/j.jallcom.2025.180506
+None,Nb3Cr2Ti0.9W0.4Fe6,BCC,MA+DP-SLM(LPBF),None,minimum compressive ductility,EXP,5e-3/s strain rate,1273.0,60.0,None,%,F17,10.1016/j.jallcom.2025.180506
+None,Nb3Cr2Ti0.9W0.4Fe6,BCC,MA+DP-SLM(LPBF),None,compressive yield stress,EXP,5e-3/s strain rate,1423.0,53000000.0,None,Pa,F17,10.1016/j.jallcom.2025.180506
+None,Nb3Cr2Ti0.9W0.4Fe6,BCC,MA+DP-SLM(LPBF),None,UCS,EXP,5e-3/s strain rate,1423.0,60000000.0,None,Pa,F17,10.1016/j.jallcom.2025.180506
+None,Nb3Cr2Ti0.9W0.4Fe6,BCC,MA+DP-SLM(LPBF),None,minimum compressive ductility,EXP,5e-3/s strain rate,1423.0,60.0,None,%,F17,10.1016/j.jallcom.2025.180506
+Al3,(Fe40Mn20Cr20Ni20)0.97 Al3,FCC+BCC,AAM+H+CR+RX+WQ,homogenized at 1473K for 5h; cold rolled 70%; recrystallized at 1073K for 1h and quenched in water,tensile yield stress,EXP,None,298.0,605000000.0,20000000.0,Pa,S1,10.1016/j.jallcom.2025.180279
+Al3,(Fe40Mn20Cr20Ni20)0.97 Al3,FCC,AAM+H+CR+RX+WQ,homogenized at 1473K for 5h; cold rolled 70%; recrystallized at 1373K for 10min and quenched in water,tensile yield stress,EXP,None,298.0,210000000.0,15000000.0,Pa,S1,10.1016/j.jallcom.2025.180279
+Si5,Fe40Mn20Cr15Ni20 Si5,FCC+BCC,AAM+H+CR+RX+WQ,homogenized at 1473K for 5h; cold rolled 70%; recrystallized at 1073K for 1h and quenched in water,tensile yield stress,EXP,None,298.0,600000000.0,20000000.0,Pa,S1,10.1016/j.jallcom.2025.180279
+Si5,Fe40Mn20Cr15Ni20 Si5,FCC,AAM+H+CR+RX+WQ,homogenized at 1473K for 5h; cold rolled 70%; recrystallized at 1373K for 10min and quenched in water,tensile yield stress,EXP,None,298.0,335000000.0,15000000.0,Pa,S1,10.1016/j.jallcom.2025.180279
+Al5Si5,Fe40Mn20Cr10Ni20 Al5 Si5,FCC+BCC,AAM+H+CR+RX+WQ,homogenized at 1473K for 5h; cold rolled 70%; recrystallized at 1073K for 1h and quenched in water,tensile yield stress,EXP,None,298.0,805000000.0,10000000.0,Pa,S1,10.1016/j.jallcom.2025.180279
+Al5Si5,Fe40Mn20Cr10Ni20 Al5 Si5,FCC,AAM+H+CR+RX+WQ,homogenized at 1473K for 5h; cold rolled 70%; recrystallized at 1373K for 10min and quenched in water,tensile yield stress,EXP,None,298.0,210000000.0,15000000.0,Pa,S1,10.1016/j.jallcom.2025.180279
+Al3,(Fe40Mn20Cr20Ni20)0.97 Al3,FCC+BCC,AAM+H+CR+RX+WQ,homogenized at 1473K for 5h; cold rolled 70%; recrystallized at 1073K for 1h and quenched in water,UTS,EXP,None,298.0,760000000.0,20000000.0,Pa,S1,10.1016/j.jallcom.2025.180279
+Al3,(Fe40Mn20Cr20Ni20)0.97 Al3,FCC,AAM+H+CR+RX+WQ,homogenized at 1473K for 5h; cold rolled 70%; recrystallized at 1373K for 10min and quenched in water,UTS,EXP,None,298.0,460000000.0,10000000.0,Pa,S1,10.1016/j.jallcom.2025.180279
+Si5,Fe40Mn20Cr15Ni20 Si5,FCC+BCC,AAM+H+CR+RX+WQ,homogenized at 1473K for 5h; cold rolled 70%; recrystallized at 1073K for 1h and quenched in water,UTS,EXP,None,298.0,845000000.0,30000000.0,Pa,S1,10.1016/j.jallcom.2025.180279
+Si5,Fe40Mn20Cr15Ni20 Si5,FCC,AAM+H+CR+RX+WQ,homogenized at 1473K for 5h; cold rolled 70%; recrystallized at 1373K for 10min and quenched in water,UTS,EXP,None,298.0,670000000.0,20000000.0,Pa,S1,10.1016/j.jallcom.2025.180279
+Al5Si5,Fe40Mn20Cr10Ni20 Al5 Si5,FCC+BCC,AAM+H+CR+RX+WQ,homogenized at 1473K for 5h; cold rolled 70%; recrystallized at 1073K for 1h and quenched in water,UTS,EXP,None,298.0,1060000000.0,15000000.0,Pa,S1,10.1016/j.jallcom.2025.180279
+Al5Si5,Fe40Mn20Cr10Ni20 Al5 Si5,FCC,AAM+H+CR+RX+WQ,homogenized at 1473K for 5h; cold rolled 70%; recrystallized at 1373K for 10min and quenched in water,UTS,EXP,None,298.0,540000000.0,20000000.0,Pa,S1,10.1016/j.jallcom.2025.180279
+Al3,(Fe40Mn20Cr20Ni20)0.97 Al3,FCC+BCC,AAM+H+CR+RX+WQ,homogenized at 1473K for 5h; cold rolled 70%; recrystallized at 1073K for 1h and quenched in water,tensile ductility,EXP,None,298.0,11.0,1.0,%,S1,10.1016/j.jallcom.2025.180279
+Al3,(Fe40Mn20Cr20Ni20)0.97 Al3,FCC,AAM+H+CR+RX+WQ,homogenized at 1473K for 5h; cold rolled 70%; recrystallized at 1373K for 10min and quenched in water,tensile ductility,EXP,None,298.0,35.0,3.0,%,S1,10.1016/j.jallcom.2025.180279
+Si5,Fe40Mn20Cr15Ni20 Si5,FCC+BCC,AAM+H+CR+RX+WQ,homogenized at 1473K for 5h; cold rolled 70%; recrystallized at 1073K for 1h and quenched in water,tensile ductility,EXP,None,298.0,12.0,1.0,%,S1,10.1016/j.jallcom.2025.180279
+Si5,Fe40Mn20Cr15Ni20 Si5,FCC,AAM+H+CR+RX+WQ,homogenized at 1473K for 5h; cold rolled 70%; recrystallized at 1373K for 10min and quenched in water,tensile ductility,EXP,None,298.0,35.0,3.0,%,S1,10.1016/j.jallcom.2025.180279
+Al5Si5,Fe40Mn20Cr10Ni20 Al5 Si5,FCC+BCC,AAM+H+CR+RX+WQ,homogenized at 1473K for 5h; cold rolled 70%; recrystallized at 1073K for 1h and quenched in water,tensile ductility,EXP,None,298.0,26.0,1.0,%,S1,10.1016/j.jallcom.2025.180279
+Al5Si5,Fe40Mn20Cr10Ni20 Al5 Si5,FCC,AAM+H+CR+RX+WQ,homogenized at 1473K for 5h; cold rolled 70%; recrystallized at 1373K for 10min and quenched in water,tensile ductility,EXP,None,298.0,44.0,3.0,%,S1,10.1016/j.jallcom.2025.180279
+Al5Si5,Fe40Mn20Cr10Ni20 Al5 Si5,FCC+BCC,AAM+H+CR+RX+WQ,homogenized at 1473K for 5h; cold rolled 70%; recrystallized at 1073K for 1h and quenched in water,tensile yield stress,EXP,None,77.0,1796000000.0,None,Pa,F4,10.1016/j.jallcom.2025.180279
+Al5Si5,Fe40Mn20Cr10Ni20 Al5 Si5,FCC,AAM+H+CR+RX+WQ,homogenized at 1473K for 5h; cold rolled 70%; recrystallized at 1373K for 10min and quenched in water,tensile yield stress,EXP,None,77.0,821000000.0,None,Pa,F4,10.1016/j.jallcom.2025.180279
+Al5Si5,Fe40Mn20Cr10Ni20 Al5 Si5,FCC+BCC,AAM+H+CR+RX+WQ,homogenized at 1473K for 5h; cold rolled 70%; recrystallized at 1073K for 1h and quenched in water,UTS,EXP,None,77.0,2618000000.0,None,Pa,F4,10.1016/j.jallcom.2025.180279
+Al5Si5,Fe40Mn20Cr10Ni20 Al5 Si5,FCC,AAM+H+CR+RX+WQ,homogenized at 1473K for 5h; cold rolled 70%; recrystallized at 1373K for 10min and quenched in water,UTS,EXP,None,77.0,1524000000.0,None,Pa,F4,10.1016/j.jallcom.2025.180279
+Al5Si5,Fe40Mn20Cr10Ni20 Al5 Si5,FCC+BCC,AAM+H+CR+RX+WQ,homogenized at 1473K for 5h; cold rolled 70%; recrystallized at 1073K for 1h and quenched in water,tensile ductility,EXP,None,77.0,17.2,None,%,F4,10.1016/j.jallcom.2025.180279
+Al5Si5,Fe40Mn20Cr10Ni20 Al5 Si5,FCC,AAM+H+CR+RX+WQ,homogenized at 1473K for 5h; cold rolled 70%; recrystallized at 1373K for 10min and quenched in water,tensile ductility,EXP,None,77.0,50.7,None,%,F4,10.1016/j.jallcom.2025.180279
+None,NbCrTiTa,BCC,VAM,iteratively designed towards 8-component single BCC structure,None,None,None,None,None,None,None,P7,10.2139/ssrn.5105896
+None,NbCrTiMoVTa,BCC,VAM,iteratively designed towards 8-component single BCC structure,None,None,None,None,None,None,None,P8,10.2139/ssrn.5105896
+None,NbCrTiAlMoVTa,BCC+?,VAM,iteratively designed towards 8-component single BCC structure,None,None,None,None,None,None,None,P9,10.2139/ssrn.5105896
+None,NbCrTiMoVHf,BCC+HCP+laves,VAM,iteratively designed towards 8-component single BCC structure,None,None,None,None,None,None,None,P10,10.2139/ssrn.5105896
+None,NbCrTiMoVTaWMn,BCC,VAM,iteratively designed 8-component single BCC structure,compressive yield stress,EXP,None,303.0,1580000000.0,None,Pa,F4a,10.2139/ssrn.5105896
+None,NbCrTiMoVTaWMn,BCC,VAM,iteratively designed 8-component single BCC structure,compressive yield stress,EXP,None,1073.0,820000000.0,None,Pa,F4a,10.2139/ssrn.5105896
+None,NbCrTiMoVTaWMn,BCC,VAM,iteratively designed 8-component single BCC structure,compressive yield stress,EXP,None,1274.0,747000000.0,None,Pa,F4a,10.2139/ssrn.5105896
+None,NbCrTiMoVTaWMn,BCC,VAM,iteratively designed 8-component single BCC structure,compressive yield stress,EXP,None,1373.0,505000000.0,None,Pa,F4a,10.2139/ssrn.5105896
+None,NbCrTiMoVTaWMn,BCC,VAM,iteratively designed 8-component single BCC structure,UCS,EXP,None,303.0,1692000000.0,None,Pa,F4a,10.2139/ssrn.5105896
+None,NbCrTiMoVTaWMn,BCC,VAM,iteratively designed 8-component single BCC structure,UCS,EXP,None,1073.0,1074000000.0,None,Pa,F4a,10.2139/ssrn.5105896
+None,NbCrTiMoVTaWMn,BCC,VAM,iteratively designed 8-component single BCC structure,UCS,EXP,None,1274.0,878000000.0,None,Pa,F4a,10.2139/ssrn.5105896
+None,NbCrTiMoVTaWMn,BCC,VAM,iteratively designed 8-component single BCC structure,UCS,EXP,None,1373.0,601000000.0,None,Pa,F4a,10.2139/ssrn.5105896
+None,NbCrTiMoVTaWMn,BCC,VAM,iteratively designed 8-component single BCC structure,compressive ductility,EXP,None,303.0,7.9,None,%,F4a,10.2139/ssrn.5105896
+None,NbCrTiMoVTaWMn,BCC,VAM,iteratively designed 8-component single BCC structure,compressive ductility,EXP,None,1073.0,15.5,None,%,F4a,10.2139/ssrn.5105896
+None,NbCrTiMoVTaWMn,BCC,VAM,iteratively designed 8-component single BCC structure,compressive ductility,EXP,None,1274.0,20.8,None,%,F4a,10.2139/ssrn.5105896
+None,NbCrTiMoVTaWMn,BCC,VAM,iteratively designed 8-component single BCC structure,compressive ductility,EXP,None,1373.0,24.0,None,%,F4a,10.2139/ssrn.5105896
+coarse grained ,Ti50Zr18Nb15V12Al5,BCC,AAM+H+WQ,homogenized at 1273K for 1h; coarse grained at 160um,tensile yield stress,EXP,1e-3/s strain rate,298.0,771000000.0,8500000.0,Pa,F3,10.20517/microstructures.2024.2
+fine grained ,Ti50Zr18Nb15V12Al5,BCC,AAM+H+WQ+CR+RX+WQ,homogenized at 1273K for 1h; cold rolled with 70% reduction; recrystallized at 973K for 30min; coarse grained at 160um,tensile yield stress,EXP,1e-3/s strain rate,298.0,818000000.0,7000000.0,Pa,F3,10.20517/microstructures.2024.2
+coarse grained ,Ti50Zr18Nb15V12Al5,BCC,AAM+H+WQ,homogenized at 1273K for 1h; coarse grained at 160um,UTS,EXP,1e-3/s strain rate,298.0,791000000.0,None,Pa,F3,10.20517/microstructures.2024.2
+fine grained ,Ti50Zr18Nb15V12Al5,BCC,AAM+H+WQ+CR+RX+WQ,homogenized at 1273K for 1h; cold rolled with 70% reduction; recrystallized at 973K for 30min; coarse grained at 160um,UTS,EXP,1e-3/s strain rate,298.0,863000000.0,None,Pa,F3,10.20517/microstructures.2024.2
+coarse grained ,Ti50Zr18Nb15V12Al5,BCC,AAM+H+WQ,homogenized at 1273K for 1h; coarse grained at 160um,tensile ductility,EXP,1e-3/s strain rate,298.0,19.8,1.2,%,F3,10.20517/microstructures.2024.2
+fine grained ,Ti50Zr18Nb15V12Al5,BCC,AAM+H+WQ+CR+RX+WQ,homogenized at 1273K for 1h; cold rolled with 70% reduction; recrystallized at 973K for 30min; coarse grained at 160um,tensile ductility,EXP,1e-3/s strain rate,298.0,25.8,1.0,%,F3,10.20517/microstructures.2024.2
+coarse grained ,Ti50Zr18Nb15V12Al5,BCC,AAM+H+WQ,homogenized at 1273K for 1h; coarse grained at 160um,uniform elongation,EXP,1e-3/s strain rate,298.0,1.5,0.2,%,F3,10.20517/microstructures.2024.2
+fine grained ,Ti50Zr18Nb15V12Al5,BCC,AAM+H+WQ+CR+RX+WQ,homogenized at 1273K for 1h; cold rolled with 70% reduction; recrystallized at 973K for 30min; coarse grained at 160um,uniform elongation,EXP,1e-3/s strain rate,298.0,12.2,4.0,%,F3,10.20517/microstructures.2024.2
+None,Ti50 V40 Cr5 Al5,BCC,AAM,None,density,EXP,None,298.0,5090.0,None,kg/m^3,P4,10.1016/j.vacuum.2025.114110
+None,Ti50 V40 Cr5 Al5,BCC,AAM,None,CTE,EXP,None,300.0,3.641e-06,None,1/K,F4a,10.1016/j.vacuum.2025.114110
+None,Ti50 V40 Cr5 Al5,BCC,AAM,None,CTE,EXP,None,343.0,6.9569e-06,None,1/K,F4a,10.1016/j.vacuum.2025.114110
+None,Ti50 V40 Cr5 Al5,BCC,AAM,None,CTE,EXP,None,400.0,8.3621e-06,None,1/K,F4a,10.1016/j.vacuum.2025.114110
+None,Ti50 V40 Cr5 Al5,BCC,AAM,None,CTE,EXP,None,500.0,9.2866e-06,None,1/K,F4a,10.1016/j.vacuum.2025.114110
+None,Ti50 V40 Cr5 Al5,BCC,AAM,None,CTE,EXP,None,700.0,1.01248e-05,None,1/K,F4a,10.1016/j.vacuum.2025.114110
+None,Ti50 V40 Cr5 Al5,BCC,AAM,None,CTE,EXP,None,900.0,1.06795e-05,None,1/K,F4a,10.1016/j.vacuum.2025.114110
+None,Ti50 V40 Cr5 Al5,BCC,AAM,None,CTE,EXP,None,1100.0,1.17273e-05,None,1/K,F4a,10.1016/j.vacuum.2025.114110
+None,Ti50 V40 Cr5 Al5,BCC,AAM,None,thermal conductivity,EXP,None,823.0,30.0,None,W/(m*K),F6b,10.1016/j.vacuum.2025.114110
+None,Ti50 V40 Cr5 Al5,BCC,AAM,None,thermal conductivity,EXP,None,873.0,30.6,None,W/(m*K),F6b,10.1016/j.vacuum.2025.114110
+None,Ti50 V40 Cr5 Al5,BCC,AAM,None,thermal conductivity,EXP,None,923.0,31.3,None,W/(m*K),F6b,10.1016/j.vacuum.2025.114110
+None,Ti50 V40 Cr5 Al5,BCC,AAM,None,tensile yield stress,EXP,1e-3/s strain rate,298.0,796000000.0,None,Pa,F8,10.1016/j.vacuum.2025.114110
+None,Ti50 V40 Cr5 Al5,BCC,AAM,None,tensile yield stress,EXP,1e-3/s strain rate,673.0,598000000.0,None,Pa,F8,10.1016/j.vacuum.2025.114110
+None,Ti50 V40 Cr5 Al5,BCC,AAM,None,tensile yield stress,EXP,1e-3/s strain rate,873.0,586000000.0,None,Pa,F8,10.1016/j.vacuum.2025.114110
+None,Ti50 V40 Cr5 Al5,BCC,AAM,None,tensile yield stress,EXP,1e-3/s strain rate,973.0,497000000.0,None,Pa,F8,10.1016/j.vacuum.2025.114110
+None,Ti50 V40 Cr5 Al5,BCC,AAM,None,tensile ductility,EXP,1e-3/s strain rate,298.0,31.0,None,%,F8,10.1016/j.vacuum.2025.114110
+None,Ti50 V40 Cr5 Al5,BCC,AAM,None,tensile ductility,EXP,1e-3/s strain rate,673.0,42.2,None,%,F8,10.1016/j.vacuum.2025.114110
+None,Ti50 V40 Cr5 Al5,BCC,AAM,None,tensile ductility,EXP,1e-3/s strain rate,873.0,51.8,None,%,F8,10.1016/j.vacuum.2025.114110
+None,Ti50 V40 Cr5 Al5,BCC,AAM,None,tensile ductility,EXP,1e-3/s strain rate,973.0,67.8,None,%,F8,10.1016/j.vacuum.2025.114110
+None,Ti50 V40 Cr5 Al5,BCC,AAM,None,UTS,EXP,1e-3/s strain rate,298.0,800000000.0,None,Pa,F7,10.1016/j.vacuum.2025.114110
+None,Ti50 V40 Cr5 Al5,BCC,AAM,None,UTS,EXP,1e-3/s strain rate,673.0,603000000.0,None,Pa,F7,10.1016/j.vacuum.2025.114110
+None,Ti50 V40 Cr5 Al5,BCC,AAM,None,UTS,EXP,1e-3/s strain rate,873.0,592000000.0,None,Pa,F7,10.1016/j.vacuum.2025.114110
+None,Ti50 V40 Cr5 Al5,BCC,AAM,None,UTS,EXP,1e-3/s strain rate,973.0,502000000.0,None,Pa,F7,10.1016/j.vacuum.2025.114110
+None,Ti50 V40 Cr5 Al5,BCC,AAM,None,uniform elongation,EXP,1e-3/s strain rate,298.0,1.75,None,%,F7,10.1016/j.vacuum.2025.114110
+None,Ti50 V40 Cr5 Al5,BCC,AAM,None,uniform elongation,EXP,1e-3/s strain rate,673.0,13.7,None,%,F7,10.1016/j.vacuum.2025.114110
+None,Ti50 V40 Cr5 Al5,BCC,AAM,None,uniform elongation,EXP,1e-3/s strain rate,873.0,5.6,None,%,F7,10.1016/j.vacuum.2025.114110
+None,Ti50 V40 Cr5 Al5,BCC,AAM,None,uniform elongation,EXP,1e-3/s strain rate,973.0,3.1,None,%,F7,10.1016/j.vacuum.2025.114110
+None,TiZrHf,HCP,AAM+CR+RX+WQ,prepared only to evaluate minimum Nb content to get single BCC phase; cold rolled with 80% reduction; recrystallized at 1123K for 30min in vacuum and quenched in water,None,None,None,None,None,None,None,P2,10.1016/j.actamat.2024.120614
+None,TiZrHfNb0.1,HCP+BCC,AAM+CR+RX+WQ,prepared only to evaluate minimum Nb content to get single BCC phase; cold rolled with 80% reduction; recrystallized at 1123K for 30min in vacuum and quenched in water,None,None,None,None,None,None,None,P2,10.1016/j.actamat.2024.120614
+None,TiZrHfNb0.2,HCP+BCC,AAM+CR+RX+WQ,prepared only to evaluate minimum Nb content to get single BCC phase; cold rolled with 80% reduction; recrystallized at 1123K for 30min in vacuum and quenched in water,None,None,None,None,None,None,None,P2,10.1016/j.actamat.2024.120614
+None,TiZrHfNb0.3,HCP+BCC,AAM+CR+RX+WQ,prepared only to evaluate minimum Nb content to get single BCC phase; cold rolled with 80% reduction; recrystallized at 1123K for 30min in vacuum and quenched in water,None,None,None,None,None,None,None,P2,10.1016/j.actamat.2024.120614
+None,TiZrHfNb0.4,BCC,AAM+CR+RX+WQ,cold rolled with 80% reduction; recrystallized at 1123K for 30min in vacuum and quenched in water,tensile yield stress,EXP,1e-3/s strain rate,298.0,703000000.0,None,Pa,F2a,10.1016/j.actamat.2024.120614
+None,TiZrHfNb0.6,BCC,AAM+CR+RX+WQ,cold rolled with 80% reduction; recrystallized at 1123K for 30min in vacuum and quenched in water,tensile yield stress,EXP,1e-3/s strain rate,298.0,695000000.0,None,Pa,F2a,10.1016/j.actamat.2024.120614
+None,TiZrHfNb0.8,BCC,AAM+CR+RX+WQ,cold rolled with 80% reduction; recrystallized at 1123K for 30min in vacuum and quenched in water,tensile yield stress,EXP,1e-3/s strain rate,298.0,661000000.0,None,Pa,F2a,10.1016/j.actamat.2024.120614
+None,TiZrHfNb1.0,BCC,AAM+CR+RX+WQ,cold rolled with 80% reduction; recrystallized at 1123K for 30min in vacuum and quenched in water,tensile yield stress,EXP,1e-3/s strain rate,298.0,622000000.0,None,Pa,F2a,10.1016/j.actamat.2024.120614
+None,TiZrHfNb0.4,BCC,AAM+CR+RX+WQ,cold rolled with 80% reduction; recrystallized at 1123K for 30min in vacuum and quenched in water,tensile ductility,EXP,1e-3/s strain rate,298.0,8.8,None,%,F2c,10.1016/j.actamat.2024.120614
+None,TiZrHfNb0.6,BCC,AAM+CR+RX+WQ,cold rolled with 80% reduction; recrystallized at 1123K for 30min in vacuum and quenched in water,tensile ductility,EXP,1e-3/s strain rate,298.0,21.9,None,%,F2c,10.1016/j.actamat.2024.120614
+None,TiZrHfNb0.8,BCC,AAM+CR+RX+WQ,cold rolled with 80% reduction; recrystallized at 1123K for 30min in vacuum and quenched in water,tensile ductility,EXP,1e-3/s strain rate,298.0,32.3,None,%,F2c,10.1016/j.actamat.2024.120614
+None,TiZrHfNb1.0,BCC,AAM+CR+RX+WQ,cold rolled with 80% reduction; recrystallized at 1123K for 30min in vacuum and quenched in water,tensile ductility,EXP,1e-3/s strain rate,298.0,33.0,None,%,F2c,10.1016/j.actamat.2024.120614
+None,TiZrHfNb0.4,BCC,AAM+CR+RX+WQ,cold rolled with 80% reduction; recrystallized at 1123K for 30min in vacuum and quenched in water,UTS,EXP,1e-3/s strain rate,298.0,717000000.0,None,Pa,F2a,10.1016/j.actamat.2024.120614
+None,TiZrHfNb0.6,BCC,AAM+CR+RX+WQ,cold rolled with 80% reduction; recrystallized at 1123K for 30min in vacuum and quenched in water,UTS,EXP,1e-3/s strain rate,298.0,711000000.0,None,Pa,F2a,10.1016/j.actamat.2024.120614
+None,TiZrHfNb0.8,BCC,AAM+CR+RX+WQ,cold rolled with 80% reduction; recrystallized at 1123K for 30min in vacuum and quenched in water,UTS,EXP,1e-3/s strain rate,298.0,690000000.0,None,Pa,F2a,10.1016/j.actamat.2024.120614
+None,TiZrHfNb1.0,BCC,AAM+CR+RX+WQ,cold rolled with 80% reduction; recrystallized at 1123K for 30min in vacuum and quenched in water,UTS,EXP,1e-3/s strain rate,298.0,699000000.0,None,Pa,F2a,10.1016/j.actamat.2024.120614
+None,TiZrHfNb0.4,BCC,AAM+CR+RX+WQ,cold rolled with 80% reduction; recrystallized at 1123K for 30min in vacuum and quenched in water,uniform elongation,EXP,1e-3/s strain rate,298.0,1.4,None,%,F2a,10.1016/j.actamat.2024.120614
+None,TiZrHfNb0.6,BCC,AAM+CR+RX+WQ,cold rolled with 80% reduction; recrystallized at 1123K for 30min in vacuum and quenched in water,uniform elongation,EXP,1e-3/s strain rate,298.0,1.9,None,%,F2a,10.1016/j.actamat.2024.120614
+None,TiZrHfNb0.8,BCC,AAM+CR+RX+WQ,cold rolled with 80% reduction; recrystallized at 1123K for 30min in vacuum and quenched in water,uniform elongation,EXP,1e-3/s strain rate,298.0,15.9,None,%,F2a,10.1016/j.actamat.2024.120614
+None,TiZrHfNb1.0,BCC,AAM+CR+RX+WQ,cold rolled with 80% reduction; recrystallized at 1123K for 30min in vacuum and quenched in water,uniform elongation,EXP,1e-3/s strain rate,298.0,16.3,None,%,F2a,10.1016/j.actamat.2024.120614
+None,V29.29Nb11.36Mo23.71Ta14.78W20.96,BCC,SD,magnetron sputtering; compositions from EDS,nanohardness,EXP,None,298.0,13524260355.029501,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V20.00Nb10.91Mo26.71Ta28.70W13.65,BCC,SD,magnetron sputtering; compositions from EDS,nanohardness,EXP,None,298.0,13588165680.4733,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V22.71Nb11.52Mo26.14Ta23.48W16.35,BCC,SD,magnetron sputtering; compositions from EDS,nanohardness,EXP,None,298.0,11081656804.7337,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V25.29Nb14.09Mo21.71Ta17.39W21.92,BCC,SD,magnetron sputtering; compositions from EDS,nanohardness,EXP,None,298.0,11663905325.4437,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V15.71Nb11.21Mo24.29Ta36.09W12.69,BCC,SD,magnetron sputtering; compositions from EDS,nanohardness,EXP,None,298.0,12125443786.982199,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V18.29Nb13.48Mo23.43Ta29.78W15.00,BCC,SD,magnetron sputtering; compositions from EDS,nanohardness,EXP,None,298.0,12253254437.869799,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V20.43Nb13.64Mo22.86Ta25.43W17.69,BCC,SD,magnetron sputtering; compositions from EDS,nanohardness,EXP,None,298.0,12679289940.828402,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V21.14Nb15.15Mo22.00Ta22.83W19.04,BCC,SD,magnetron sputtering; compositions from EDS,nanohardness,EXP,None,298.0,11564497041.420101,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V22.43Nb15.61Mo19.71Ta19.13W23.27,BCC,SD,magnetron sputtering; compositions from EDS,nanohardness,EXP,None,298.0,12075739644.9704,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V23.86Nb17.12Mo17.86Ta14.78W26.73,BCC,SD,magnetron sputtering; compositions from EDS,nanohardness,EXP,None,298.0,12331360946.7455,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V25.71Nb17.58Mo14.86Ta11.52W30.58,BCC,SD,magnetron sputtering; compositions from EDS,nanohardness,EXP,None,298.0,13289940828.4023,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V14.43Nb15.00Mo20.57Ta36.30W13.85,BCC,SD,magnetron sputtering; compositions from EDS,nanohardness,EXP,None,298.0,13652071005.9171,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V16.71Nb15.61Mo20.00Ta30.65W16.92,BCC,SD,magnetron sputtering; compositions from EDS,nanohardness,EXP,None,298.0,12956213017.7514,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V18.71Nb17.42Mo19.43Ta24.57W20.19,BCC,SD,magnetron sputtering; compositions from EDS,nanohardness,EXP,None,298.0,11962130177.5147,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V19.86Nb19.09Mo18.43Ta21.74W21.54,BCC,SD,magnetron sputtering; compositions from EDS,nanohardness,EXP,None,298.0,11564497041.420101,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V20.00Nb19.70Mo17.29Ta18.26W25.00,BCC,SD,magnetron sputtering; compositions from EDS,nanohardness,EXP,None,298.0,11905325443.7869,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V23.29Nb18.18Mo17.14Ta13.91W27.50,BCC,SD,magnetron sputtering; compositions from EDS,nanohardness,EXP,None,298.0,12565680473.3727,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V18.00Nb20.76Mo16.14Ta23.04W22.50,BCC,SD,magnetron sputtering; compositions from EDS,nanohardness,EXP,None,298.0,12728994082.8402,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V19.14Nb21.82Mo15.57Ta18.70W25.00,BCC,SD,magnetron sputtering; compositions from EDS,nanohardness,EXP,None,298.0,12231952662.7218,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V20.43Nb21.36Mo14.14Ta15.65W28.65,BCC,SD,magnetron sputtering; compositions from EDS,nanohardness,EXP,None,298.0,11962130177.5147,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V12.57Nb18.79Mo18.00Ta35.87W14.62,BCC,SD,magnetron sputtering; compositions from EDS,nanohardness,EXP,None,298.0,10542011834.3195,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V15.71Nb23.79Mo13.71Ta24.13W22.88,BCC,SD,magnetron sputtering; compositions from EDS,nanohardness,EXP,None,298.0,11088757396.449701,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V18.71Nb24.85Mo12.71Ta14.57W29.23,BCC,SD,magnetron sputtering; compositions from EDS,nanohardness,EXP,None,298.0,11855621301.7751,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V18.14Nb26.06Mo10.14Ta11.09W34.81,BCC,SD,magnetron sputtering; compositions from EDS,nanohardness,EXP,None,298.0,12963313609.4674,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V13.00Nb24.39Mo14.86Ta30.22W17.69,BCC,SD,magnetron sputtering; compositions from EDS,nanohardness,EXP,None,298.0,10996449704.142,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V13.86Nb26.36Mo12.86Ta26.09W20.96,BCC,SD,magnetron sputtering; compositions from EDS,nanohardness,EXP,None,298.0,10975147928.994,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V14.43Nb27.27Mo12.86Ta21.96W23.85,BCC,SD,magnetron sputtering; compositions from EDS,nanohardness,EXP,None,298.0,11429585798.8165,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V14.71Nb28.33Mo11.57Ta19.13W26.54,BCC,SD,magnetron sputtering; compositions from EDS,nanohardness,EXP,None,298.0,11727810650.8875,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V29.29Nb11.36Mo23.71Ta14.78W20.96,BCC,SD,magnetron sputtering; compositions from EDS,reduced elastic modulus,EXP,None,298.0,233949191685.91202,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V20.00Nb10.91Mo26.71Ta28.70W13.65,BCC,SD,magnetron sputtering; compositions from EDS,reduced elastic modulus,EXP,None,298.0,227136258660.508,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V22.71Nb11.52Mo26.14Ta23.48W16.35,BCC,SD,magnetron sputtering; compositions from EDS,reduced elastic modulus,EXP,None,298.0,200577367205.542,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V25.29Nb14.09Mo21.71Ta17.39W21.92,BCC,SD,magnetron sputtering; compositions from EDS,reduced elastic modulus,EXP,None,298.0,208198614318.706,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V15.71Nb11.21Mo24.29Ta36.09W12.69,BCC,SD,magnetron sputtering; compositions from EDS,reduced elastic modulus,EXP,None,298.0,208429561200.923,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V18.29Nb13.48Mo23.43Ta29.78W15.00,BCC,SD,magnetron sputtering; compositions from EDS,reduced elastic modulus,EXP,None,298.0,211547344110.854,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V20.43Nb13.64Mo22.86Ta25.43W17.69,BCC,SD,magnetron sputtering; compositions from EDS,reduced elastic modulus,EXP,None,298.0,217898383371.824,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V21.14Nb15.15Mo22.00Ta22.83W19.04,BCC,SD,magnetron sputtering; compositions from EDS,reduced elastic modulus,EXP,None,298.0,205889145496.535,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V22.43Nb15.61Mo19.71Ta19.13W23.27,BCC,SD,magnetron sputtering; compositions from EDS,reduced elastic modulus,EXP,None,298.0,212009237875.288,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V23.86Nb17.12Mo17.86Ta14.78W26.73,BCC,SD,magnetron sputtering; compositions from EDS,reduced elastic modulus,EXP,None,298.0,215473441108.54498,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V25.71Nb17.58Mo14.86Ta11.52W30.58,BCC,SD,magnetron sputtering; compositions from EDS,reduced elastic modulus,EXP,None,298.0,223903002309.46802,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V14.43Nb15.00Mo20.57Ta36.30W13.85,BCC,SD,magnetron sputtering; compositions from EDS,reduced elastic modulus,EXP,None,298.0,222632794457.27402,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V16.71Nb15.61Mo20.00Ta30.65W16.92,BCC,SD,magnetron sputtering; compositions from EDS,reduced elastic modulus,EXP,None,298.0,219284064665.127,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V18.71Nb17.42Mo19.43Ta24.57W20.19,BCC,SD,magnetron sputtering; compositions from EDS,reduced elastic modulus,EXP,None,298.0,209006928406.466,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V19.86Nb19.09Mo18.43Ta21.74W21.54,BCC,SD,magnetron sputtering; compositions from EDS,reduced elastic modulus,EXP,None,298.0,207505773672.055,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V20.00Nb19.70Mo17.29Ta18.26W25.00,BCC,SD,magnetron sputtering; compositions from EDS,reduced elastic modulus,EXP,None,298.0,208429561200.923,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V23.29Nb18.18Mo17.14Ta13.91W27.50,BCC,SD,magnetron sputtering; compositions from EDS,reduced elastic modulus,EXP,None,298.0,218244803695.15002,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V18.00Nb20.76Mo16.14Ta23.04W22.50,BCC,SD,magnetron sputtering; compositions from EDS,reduced elastic modulus,EXP,None,298.0,218937644341.801,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V19.14Nb21.82Mo15.57Ta18.70W25.00,BCC,SD,magnetron sputtering; compositions from EDS,reduced elastic modulus,EXP,None,298.0,212817551963.048,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V20.43Nb21.36Mo14.14Ta15.65W28.65,BCC,SD,magnetron sputtering; compositions from EDS,reduced elastic modulus,EXP,None,298.0,209468822170.90002,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V12.57Nb18.79Mo18.00Ta35.87W14.62,BCC,SD,magnetron sputtering; compositions from EDS,reduced elastic modulus,EXP,None,298.0,193764434180.138,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V15.71Nb23.79Mo13.71Ta24.13W22.88,BCC,SD,magnetron sputtering; compositions from EDS,reduced elastic modulus,EXP,None,298.0,197575057736.72,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V18.71Nb24.85Mo12.71Ta14.57W29.23,BCC,SD,magnetron sputtering; compositions from EDS,reduced elastic modulus,EXP,None,298.0,204157043879.907,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V18.14Nb26.06Mo10.14Ta11.09W34.81,BCC,SD,magnetron sputtering; compositions from EDS,reduced elastic modulus,EXP,None,298.0,221824480369.51498,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V13.00Nb24.39Mo14.86Ta30.22W17.69,BCC,SD,magnetron sputtering; compositions from EDS,reduced elastic modulus,EXP,None,298.0,194110854503.464,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V13.86Nb26.36Mo12.86Ta26.09W20.96,BCC,SD,magnetron sputtering; compositions from EDS,reduced elastic modulus,EXP,None,298.0,197921478060.04602,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V14.43Nb27.27Mo12.86Ta21.96W23.85,BCC,SD,magnetron sputtering; compositions from EDS,reduced elastic modulus,EXP,None,298.0,204157043879.907,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,V14.71Nb28.33Mo11.57Ta19.13W26.54,BCC,SD,magnetron sputtering; compositions from EDS,reduced elastic modulus,EXP,None,298.0,207043879907.621,None,Pa,F4,10.1016/j.jmrt.2025.02.011
+None,VNbMoTaW,BCC,VAM,None,None,None,None,None,None,None,None,P3651,10.1016/j.jmrt.2025.02.011
+None,VNbMoTa2,BCC,VAM,None,None,None,None,None,None,None,None,P3651,10.1016/j.jmrt.2025.02.011
+None,V2NbMoTa,BCC,VAM,None,None,None,None,None,None,None,None,P3651,10.1016/j.jmrt.2025.02.011
+None,V2NbTaW,BCC,VAM,None,None,None,None,None,None,None,None,P3651,10.1016/j.jmrt.2025.02.011
+None,VNb2TaW,BCC,VAM,None,None,None,None,None,None,None,None,P3651,10.1016/j.jmrt.2025.02.011
