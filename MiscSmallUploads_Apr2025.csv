@@ -174,3 +174,20 @@ None,VNbMoTa2,BCC,VAM,None,None,None,None,None,None,None,None,P3651,10.1016/j.jm
 None,V2NbMoTa,BCC,VAM,None,None,None,None,None,None,None,None,P3651,10.1016/j.jmrt.2025.02.011
 None,V2NbTaW,BCC,VAM,None,None,None,None,None,None,None,None,P3651,10.1016/j.jmrt.2025.02.011
 None,VNb2TaW,BCC,VAM,None,None,None,None,None,None,None,None,P3651,10.1016/j.jmrt.2025.02.011
+None,Fe26.7 Co26.7 Ga15.6 Mn20 Si11,amorphous,AAM+TE,Ms from Msv assuming density of 8.9g/cm^3,saturation magnetization,EXP,None,298.0,140.55,None,Am^2/kg,T1,10.1016/j.jnoncrysol.2020.120063
+None,Fe26.7 Ni26.7 Ga15.6 Mn20 Si11,amorphous,AAM+TE,Ms from Msv assuming density of 8.9g/cm^3,saturation magnetization,EXP,None,298.0,46.17,None,Am^2/kg,T1,10.1016/j.jnoncrysol.2020.120063
+None,Fe26.7 Co26.7 Ga15.6 Mn20 Si11,amorphous,AAM+TE+A,thermally evaporated and annealed at 700K for 1h; Ms from Msv assuming density of 8.9g/cm^3,saturation magnetization,EXP,None,298.0,213.61,None,Am^2/kg,T1,10.1016/j.jnoncrysol.2020.120063
+None,Fe26.7 Ni26.7 Ga15.6 Mn20 Si11,amorphous,AAM+TE+A,thermally evaporated and annealed at 700K for 1h; Ms from Msv assuming density of 8.9g/cm^3,saturation magnetization,EXP,None,298.0,31.27,None,Am^2/kg,T1,10.1016/j.jnoncrysol.2020.120063
+None,Fe26.7 Co26.7 Ga15.6 Mn20 Si11,amorphous,AAM+TE,None,electrical resistivity,EXP,None,298.0,2.6e-07,None,Ohm m,F5,10.1016/j.jnoncrysol.2020.120063
+None,Fe26.7 Co26.7 Ga15.6 Mn20 Si11,amorphous,AAM+TE+A,thermally evaporated and annealed at 700K for 1h,electrical resistivity,EXP,None,298.0,5.3e-07,None,Ohm m,F5,10.1016/j.jnoncrysol.2020.120063
+None,Fe26.7 Co26.7 Ga15.6 Mn20 Si11,amorphous,AAM+TE,None,electrical resistivity,EXP,None,823.0,3.5e-07,None,Ohm m,F5,10.1016/j.jnoncrysol.2020.120063
+None,Fe26.7 Co26.7 Ga15.6 Mn20 Si11,amorphous,AAM+TE+A,thermally evaporated and annealed at 700K for 1h,electrical resistivity,EXP,None,823.0,6.3e-07,None,Ohm m,F5,10.1016/j.jnoncrysol.2020.120063
+None,Fe26.7 Ni26.7 Ga15.6 Mn20 Si11,amorphous,AAM+TE,None,electrical resistivity,EXP,None,298.0,4.8e-07,None,Ohm m,F5,10.1016/j.jnoncrysol.2020.120063
+None,Fe26.7 Ni26.7 Ga15.6 Mn20 Si11,amorphous,AAM+TE+A,thermally evaporated and annealed at 700K for 1h,electrical resistivity,EXP,None,298.0,4.26e-06,None,Ohm m,F5,10.1016/j.jnoncrysol.2020.120063
+None,Fe26.7 Ni26.7 Ga15.6 Mn20 Si11,amorphous,AAM+TE,None,electrical resistivity,EXP,None,823.0,7.3e-07,None,Ohm m,F5,10.1016/j.jnoncrysol.2020.120063
+None,Fe26.7 Ni26.7 Ga15.6 Mn20 Si11,amorphous,AAM+TE+A,thermally evaporated and annealed at 700K for 1h,electrical resistivity,EXP,None,823.0,4.5e-06,None,Ohm m,F5,10.1016/j.jnoncrysol.2020.120063
+None,FeCo Ni Al0.2 Si0.2,FCC,AAM+MS,None,saturation magnetization,EXP,None,298.0,123.4,None,Am^2/kg,P3,10.1016/j.intermet.2020.106778
+None,FeCo Ni Al0.2 Si0.2,FCC+BCC,AAM,minor BCC phase,saturation magnetization,EXP,None,298.0,118.9,None,Am^2/kg,P3,10.1016/j.intermet.2020.106778
+None,FeCo Ni Al0.2 Si0.2,FCC,AAM+MS,None,coercivity,EXP,None,298.0,85.8,None,A/m,P3,10.1016/j.intermet.2020.106778
+None,FeCo Ni Al0.2 Si0.2,FCC+BCC,AAM,minor BCC phase,coercivity,EXP,None,298.0,405.6,None,A/m,P3,10.1016/j.intermet.2020.106778
+None,Fe26.7 Ni26.7 Ga15.6 Mn20 Si11,BCC,AAM,None,peak magnetic entropy change,EXP,2T,330.0,1.59,None,J / (kg K),None,10.1016/j.cap.2019.09.019
