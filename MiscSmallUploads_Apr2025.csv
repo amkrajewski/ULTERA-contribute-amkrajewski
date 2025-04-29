@@ -191,3 +191,83 @@ None,FeCo Ni Al0.2 Si0.2,FCC+BCC,AAM,minor BCC phase,saturation magnetization,EX
 None,FeCo Ni Al0.2 Si0.2,FCC,AAM+MS,None,coercivity,EXP,None,298.0,85.8,None,A/m,P3,10.1016/j.intermet.2020.106778
 None,FeCo Ni Al0.2 Si0.2,FCC+BCC,AAM,minor BCC phase,coercivity,EXP,None,298.0,405.6,None,A/m,P3,10.1016/j.intermet.2020.106778
 None,Fe26.7 Ni26.7 Ga15.6 Mn20 Si11,BCC,AAM,None,peak magnetic entropy change,EXP,2T,330.0,1.59,None,J / (kg K),None,10.1016/j.cap.2019.09.019
+None,CoCrCuFeNi,FCC+FCC,AAM,very minor secondary FCC phase,hardness,EXP,None,298.0,1729598181.8181782,71323636.36363365,Pa,F6,10.1016/j.msea.2017.09.102
+None,CoCrCuFeNiGd0.05,FCC+FCC,AAM,very minor secondary FCC phase,hardness,EXP,None,298.0,1734055909.090901,66865909.09091099,Pa,F6,10.1016/j.msea.2017.09.102
+None,CoCrCuFeNiGd0.1,FCC+D2d,AAM,hexagonal D2d (CaCu5 prototype) phase,hardness,EXP,None,298.0,2193201818.181812,89154545.45454465,Pa,F6,10.1016/j.msea.2017.09.102
+None,CoCrCuFeNiGd0.2,FCC+D2d,AAM,hexagonal D2d (CaCu5 prototype) phase,hardness,EXP,None,298.0,2799452727.2727227,115900909.09091127,Pa,F6,10.1016/j.msea.2017.09.102
+None,CoCrCuFeNiGd0.3,FCC+D2d,AAM,hexagonal D2d (CaCu5 prototype) phase,hardness,EXP,None,298.0,2870776363.6363564,115900909.09091072,Pa,F6,10.1016/j.msea.2017.09.102
+None,CoCrCuFeNi,FCC+FCC,AAM,very minor secondary FCC phase,nanohardness,EXP,None,298.0,2696498054.4747,285343709.46823025,Pa,F6,10.1016/j.msea.2017.09.102
+None,CoCrCuFeNiGd0.05,FCC+FCC,AAM,very minor secondary FCC phase,nanohardness,EXP,None,298.0,2696498054.4747,313878080.41505,Pa,F6,10.1016/j.msea.2017.09.102
+None,CoCrCuFeNi,FCC+FCC,AAM,very minor secondary FCC phase,compressive yield stress,EXP,None,298.0,320000000.0,None,Pa,T4,10.1016/j.msea.2017.09.102
+None,CoCrCuFeNiGd0.05,FCC+FCC,AAM,very minor secondary FCC phase,compressive yield stress,EXP,None,298.0,300000000.0,None,Pa,T4,10.1016/j.msea.2017.09.102
+None,CoCrCuFeNiGd0.1,FCC+D2d,AAM,hexagonal D2d (CaCu5 prototype) phase,compressive yield stress,EXP,None,298.0,526000000.0,None,Pa,T4,10.1016/j.msea.2017.09.102
+None,CoCrCuFeNiGd0.2,FCC+D2d,AAM,hexagonal D2d (CaCu5 prototype) phase,compressive yield stress,EXP,None,298.0,739000000.0,None,Pa,T4,10.1016/j.msea.2017.09.102
+None,CoCrCuFeNiGd0.3,FCC+D2d,AAM,hexagonal D2d (CaCu5 prototype) phase,compressive yield stress,EXP,None,298.0,1132000000.0,None,Pa,T4,10.1016/j.msea.2017.09.102
+None,CoCrCuFeNi,FCC+FCC,AAM,very minor secondary FCC phase,minimum UCS,EXP,None,298.0,2000000000.0,None,Pa,T4,10.1016/j.msea.2017.09.102
+None,CoCrCuFeNiGd0.05,FCC+FCC,AAM,very minor secondary FCC phase,minimum UCS,EXP,None,298.0,2000000000.0,None,Pa,T4,10.1016/j.msea.2017.09.102
+None,CoCrCuFeNiGd0.1,FCC+D2d,AAM,hexagonal D2d (CaCu5 prototype) phase,UCS,EXP,None,298.0,1410000000.0,None,Pa,T4,10.1016/j.msea.2017.09.102
+None,CoCrCuFeNiGd0.2,FCC+D2d,AAM,hexagonal D2d (CaCu5 prototype) phase,UCS,EXP,None,298.0,1394000000.0,None,Pa,T4,10.1016/j.msea.2017.09.102
+None,CoCrCuFeNiGd0.3,FCC+D2d,AAM,hexagonal D2d (CaCu5 prototype) phase,UCS,EXP,None,298.0,1836000000.0,None,Pa,T4,10.1016/j.msea.2017.09.102
+None,CoCrCuFeNi,FCC+FCC,AAM,very minor secondary FCC phase,minimum compressive ductility,EXP,None,298.0,60.0,None,%,T4,10.1016/j.msea.2017.09.102
+None,CoCrCuFeNiGd0.05,FCC+FCC,AAM,very minor secondary FCC phase,minimum compressive ductility,EXP,None,298.0,60.0,None,%,T4,10.1016/j.msea.2017.09.102
+None,CoCrCuFeNiGd0.1,FCC+D2d,AAM,hexagonal D2d (CaCu5 prototype) phase,compressive ductility,EXP,None,298.0,22.9,None,%,T4,10.1016/j.msea.2017.09.102
+None,CoCrCuFeNiGd0.2,FCC+D2d,AAM,hexagonal D2d (CaCu5 prototype) phase,compressive ductility,EXP,None,298.0,16.6,None,%,T4,10.1016/j.msea.2017.09.102
+None,CoCrCuFeNiGd0.3,FCC+D2d,AAM,hexagonal D2d (CaCu5 prototype) phase,compressive ductility,EXP,None,298.0,12.8,None,%,T4,10.1016/j.msea.2017.09.102
+Ni-Ni,Ni68 Fe12 Co20,FCC,ED,electrodeposition from elemental metal salts,nanohardness,EXP,None,298.0,4818181818.18181,227272727.27272928,Pa,F4,10.1016/j.jallcom.2021.163233
+Eq-Ni,Ni40 Fe29 Co31,FCC,ED,electrodeposition from elemental metal salts,nanohardness,EXP,None,298.0,4610671936.75889,69169960.47431034,Pa,F4,10.1016/j.jallcom.2021.163233
+Lo-Ni,Ni16 Fe32 Co52,BCC,ED,electrodeposition from elemental metal salts,nanohardness,EXP,None,298.0,3503952569.16996,197628458.4980199,Pa,F4,10.1016/j.jallcom.2021.163233
+Ni-Ni,Ni68 Fe12 Co20,FCC,ED+A,electrodeposition from elemental metal salts; annealed at 573K for 1h,nanohardness,EXP,None,298.0,5549407114.624499,148221343.87352026,Pa,F4,10.1016/j.jallcom.2021.163233
+Eq-Ni,Ni40 Fe29 Co31,FCC,ED+A,electrodeposition from elemental metal salts; annealed at 573K for 1h,nanohardness,EXP,None,298.0,5282608695.65217,187747035.57311946,Pa,F4,10.1016/j.jallcom.2021.163233
+Lo-Ni,Ni16 Fe32 Co52,BCC,ED+A,electrodeposition from elemental metal salts; annealed at 573K for 1h,nanohardness,EXP,None,298.0,4215415019.7628403,316205533.59683967,Pa,F4,10.1016/j.jallcom.2021.163233
+Ni-Ni,Ni68 Fe12 Co20,FCC,ED+A,electrodeposition from elemental metal salts; annealed at 773K for 1h,nanohardness,EXP,None,298.0,4205533596.8379397,158102766.79841983,Pa,F4,10.1016/j.jallcom.2021.163233
+Eq-Ni,Ni40 Fe29 Co31,FCC,ED+A,electrodeposition from elemental metal salts; annealed at 773K for 1h,nanohardness,EXP,None,298.0,3434782608.69565,138339920.94861004,Pa,F4,10.1016/j.jallcom.2021.163233
+Lo-Ni,Ni16 Fe32 Co52,BCC,ED+A,electrodeposition from elemental metal salts; annealed at 773K for 1h,nanohardness,EXP,None,298.0,4660079051.383389,247035573.12253022,Pa,F4,10.1016/j.jallcom.2021.163233
+Ni-Ni,Ni68 Fe12 Co20,FCC,ED,electrodeposition from elemental metal salts,reduced elastic modulus,EXP,None,298.0,135741444866.92,3802281368.8209853,Pa,F4,10.1016/j.jallcom.2021.163233
+Eq-Ni,Ni40 Fe29 Co31,FCC,ED,electrodeposition from elemental metal salts,reduced elastic modulus,EXP,None,298.0,116730038022.813,7984790874.524989,Pa,F4,10.1016/j.jallcom.2021.163233
+Lo-Ni,Ni16 Fe32 Co52,BCC,ED,electrodeposition from elemental metal salts,reduced elastic modulus,EXP,None,298.0,140304182509.505,14828897338.40298,Pa,F4,10.1016/j.jallcom.2021.163233
+Ni-Ni,Ni68 Fe12 Co20,FCC,ED+A,electrodeposition from elemental metal salts; annealed at 573K for 1h,reduced elastic modulus,EXP,None,298.0,143346007604.562,8745247148.288996,Pa,F4,10.1016/j.jallcom.2021.163233
+Eq-Ni,Ni40 Fe29 Co31,FCC,ED+A,electrodeposition from elemental metal salts; annealed at 573K for 1h,reduced elastic modulus,EXP,None,298.0,124714828897.338,7224334600.760002,Pa,F4,10.1016/j.jallcom.2021.163233
+Lo-Ni,Ni16 Fe32 Co52,BCC,ED+A,electrodeposition from elemental metal salts; annealed at 573K for 1h,reduced elastic modulus,EXP,None,298.0,163117870722.43298,14828897338.40301,Pa,F4,10.1016/j.jallcom.2021.163233
+Ni-Ni,Ni68 Fe12 Co20,FCC,ED+A,electrodeposition from elemental metal salts; annealed at 773K for 1h,reduced elastic modulus,EXP,None,298.0,187832699619.771,14828897338.40298,Pa,F4,10.1016/j.jallcom.2021.163233
+Eq-Ni,Ni40 Fe29 Co31,FCC,ED+A,electrodeposition from elemental metal salts; annealed at 773K for 1h,reduced elastic modulus,EXP,None,298.0,160836501901.13998,15589353612.167997,Pa,F4,10.1016/j.jallcom.2021.163233
+Lo-Ni,Ni16 Fe32 Co52,BCC,ED+A,electrodeposition from elemental metal salts; annealed at 773K for 1h,reduced elastic modulus,EXP,None,298.0,166920152091.254,16349809885.93199,Pa,F4,10.1016/j.jallcom.2021.163233
+Eq-Cr,Ni28 Fe33 Cr27 O12,FCC,ED,electrodeposition from elemental metal salts,nanohardness,EXP,None,298.0,5434262948.2071705,99601593.62548992,Pa,F5,10.1016/j.jallcom.2021.163233
+Lo-Cr,Ni59 Fe21 Cr14 O7,FCC,ED,electrodeposition from elemental metal salts,nanohardness,EXP,None,298.0,4856573705.17928,199203187.25098962,Pa,F5,10.1016/j.jallcom.2021.163233
+Eq-Cr,Ni28 Fe33 Cr27 O12,FCC,ED+A,electrodeposition from elemental metal salts; annealed at 523K for 1h,nanohardness,EXP,None,298.0,7486055776.89243,398406374.5019899,Pa,F5,10.1016/j.jallcom.2021.163233
+Lo-Cr,Ni59 Fe21 Cr14 O7,FCC,ED+A,electrodeposition from elemental metal salts; annealed at 523K for 1h,nanohardness,EXP,None,298.0,7486055776.89243,318725099.6015898,Pa,F5,10.1016/j.jallcom.2021.163233
+Eq-Cr,Ni28 Fe33 Cr27 O12,FCC,ED+A,electrodeposition from elemental metal salts; annealed at 1123K for 1h,nanohardness,EXP,None,298.0,6031872509.96015,458167330.6773002,Pa,F5,10.1016/j.jallcom.2021.163233
+Lo-Cr,Ni59 Fe21 Cr14 O7,FCC,ED+A,electrodeposition from elemental metal salts; annealed at 1123K for 1h,nanohardness,EXP,None,298.0,4617529880.47808,577689243.0278897,Pa,F5,10.1016/j.jallcom.2021.163233
+Eq-Cr,Ni28 Fe33 Cr27 O12,FCC,ED,electrodeposition from elemental metal salts,reduced elastic modulus,EXP,None,298.0,101415094339.622,5094339622.641996,Pa,F5,10.1016/j.jallcom.2021.163233
+Lo-Cr,Ni59 Fe21 Cr14 O7,FCC,ED,electrodeposition from elemental metal salts,reduced elastic modulus,EXP,None,298.0,99433962264.15091,7358490566.03709,Pa,F5,10.1016/j.jallcom.2021.163233
+Eq-Cr,Ni28 Fe33 Cr27 O12,FCC,ED+A,electrodeposition from elemental metal salts; annealed at 523K for 1h,reduced elastic modulus,EXP,None,298.0,123773584905.66,9339622641.508995,Pa,F5,10.1016/j.jallcom.2021.163233
+Lo-Cr,Ni59 Fe21 Cr14 O7,FCC,ED+A,electrodeposition from elemental metal salts; annealed at 523K for 1h,reduced elastic modulus,EXP,None,298.0,129716981132.07501,11037735849.056986,Pa,F5,10.1016/j.jallcom.2021.163233
+Eq-Cr,Ni28 Fe33 Cr27 O12,FCC,ED+A,electrodeposition from elemental metal salts; annealed at 1123K for 1h,reduced elastic modulus,EXP,None,298.0,140188679245.283,8490566037.734993,Pa,F5,10.1016/j.jallcom.2021.163233
+Lo-Cr,Ni59 Fe21 Cr14 O7,FCC,ED+A,electrodeposition from elemental metal salts; annealed at 1123K for 1h,reduced elastic modulus,EXP,None,298.0,121792452830.188,13584905660.377998,Pa,F5,10.1016/j.jallcom.2021.163233
+Pos 1,Co30.7Fe27.4Ni23.6Zn17.7,FCC,ED,electrodeposition from elemental metal salts thermostated at 55*C onto a polished brass anode,nanohardness,EXP,None,298.0,3311864406.77966,635593220.3389801,Pa,F10,10.3390/met14060700
+Pos 2,Co28.5Fe27.7Ni22.7Zn20.5,FCC,ED,electrodeposition from elemental metal salts thermostated at 55*C onto a polished brass anode,nanohardness,EXP,None,298.0,2869491525.42372,905084745.76272,Pa,F10,10.3390/met14060700
+Pos 3,Co27.7Fe21.5Ni25.6Zn24.6,FCC,ED,electrodeposition from elemental metal salts thermostated at 55*C onto a polished brass anode,nanohardness,EXP,None,298.0,4150847457.62711,498305084.74576974,Pa,F10,10.3390/met14060700
+Pos 4,Co25.9Fe23.2Ni22.1Zn28.3,FCC,ED,electrodeposition from elemental metal salts thermostated at 55*C onto a polished brass anode,nanohardness,EXP,None,298.0,4613559322.03389,122033898.30508992,Pa,F10,10.3390/met14060700
+Pos 5,Co22.7Fe24.4Ni20.0Zn32.8,FCC,ED,electrodeposition from elemental metal salts thermostated at 55*C onto a polished brass anode,nanohardness,EXP,None,298.0,4069491525.42372,167796610.16949987,Pa,F10,10.3390/met14060700
+Pos 6,Co22.8Fe15.3Ni25.8Zn35.8,FCC,ED,electrodeposition from elemental metal salts thermostated at 55*C onto a polished brass anode,nanohardness,EXP,None,298.0,4852542372.8813505,213559322.03390005,Pa,F10,10.3390/met14060700
+Pos 7,Co20.5Fe10.1Ni29.0Zn39.5,FCC,ED,electrodeposition from elemental metal salts thermostated at 55*C onto a polished brass anode,nanohardness,EXP,None,298.0,4410169491.52542,366101694.91525024,Pa,F10,10.3390/met14060700
+Pos 8,Co20.9Fe11.9Ni24.8Zn42.3,FCC,ED,electrodeposition from elemental metal salts thermostated at 55*C onto a polished brass anode,nanohardness,EXP,None,298.0,3967796610.16949,386440677.9661005,Pa,F10,10.3390/met14060700
+Pos 9,Co19.1Fe16.9Ni19.9Zn44.1,FCC,ED,electrodeposition from elemental metal salts thermostated at 55*C onto a polished brass anode,nanohardness,EXP,None,298.0,4338983050.847449,228813559.32203996,Pa,F10,10.3390/met14060700
+Pos 1,Co30.7Fe27.4Ni23.6Zn17.7,FCC,ED,electrodeposition from elemental metal salts thermostated at 55*C onto a polished brass anode,reduced elastic modulus,EXP,None,298.0,113435114503.816,10000000000.0,Pa,F10,10.3390/met14060700
+Pos 2,Co28.5Fe27.7Ni22.7Zn20.5,FCC,ED,electrodeposition from elemental metal salts thermostated at 55*C onto a polished brass anode,reduced elastic modulus,EXP,None,298.0,109312977099.236,14274809160.305012,Pa,F10,10.3390/met14060700
+Pos 3,Co27.7Fe21.5Ni25.6Zn24.6,FCC,ED,electrodeposition from elemental metal salts thermostated at 55*C onto a polished brass anode,reduced elastic modulus,EXP,None,298.0,132748091603.05301,7175572519.084,Pa,F10,10.3390/met14060700
+Pos 4,Co25.9Fe23.2Ni22.1Zn28.3,FCC,ED,electrodeposition from elemental metal salts thermostated at 55*C onto a polished brass anode,reduced elastic modulus,EXP,None,298.0,133511450381.679,5572519083.969013,Pa,F10,10.3390/met14060700
+Pos 5,Co22.7Fe24.4Ni20.0Zn32.8,FCC,ED,electrodeposition from elemental metal salts thermostated at 55*C onto a polished brass anode,reduced elastic modulus,EXP,None,298.0,133435114503.81601,7251908396.946987,Pa,F10,10.3390/met14060700
+Pos 6,Co22.8Fe15.3Ni25.8Zn35.8,FCC,ED,electrodeposition from elemental metal salts thermostated at 55*C onto a polished brass anode,reduced elastic modulus,EXP,None,298.0,140534351145.038,7709923664.122016,Pa,F10,10.3390/met14060700
+Pos 7,Co20.5Fe10.1Ni29.0Zn39.5,FCC,ED,electrodeposition from elemental metal salts thermostated at 55*C onto a polished brass anode,reduced elastic modulus,EXP,None,298.0,133511450381.679,6564885496.182996,Pa,F10,10.3390/met14060700
+Pos 8,Co20.9Fe11.9Ni24.8Zn42.3,FCC,ED,electrodeposition from elemental metal salts thermostated at 55*C onto a polished brass anode,reduced elastic modulus,EXP,None,298.0,140458015267.175,7175572519.084,Pa,F10,10.3390/met14060700
+Pos 9,Co19.1Fe16.9Ni19.9Zn44.1,FCC,ED,electrodeposition from elemental metal salts thermostated at 55*C onto a polished brass anode,reduced elastic modulus,EXP,None,298.0,120305343511.45001,3511450381.6789975,Pa,F10,10.3390/met14060700
+NiFeCo,Ni40 Fe29 Co31,FCC,ED,None,nanohardness,EXP,None,298.0,4615212527.9642,76062639.82103023,Pa,F10a,10.1016/j.jallcom.2023.170026
+W25,Ni18 Fe34 Co23 W25,amorphous,ED,None,nanohardness,EXP,None,298.0,5290827740.49217,170022371.3646496,Pa,F10a,10.1016/j.jallcom.2023.170026
+Mo25,Ni21 Fe27 Co29 Mo23,amorphous,ED,None,nanohardness,EXP,None,298.0,5272930648.76957,210290827.74049002,Pa,F10a,10.1016/j.jallcom.2023.170026
+MoW-EQ,Ni30 Fe23 Co22 Mo13 W13,amorphous,ED,None,nanohardness,EXP,None,298.0,4588366890.38031,192393736.0179,Pa,F10a,10.1016/j.jallcom.2023.170026
+MoW-CF,Ni8 Fe34 Co30 Mo14 W13,amorphous,ED,None,nanohardness,EXP,None,298.0,4011185682.32662,125279642.05815944,Pa,F10a,10.1016/j.jallcom.2023.170026
+NiFeCo,Ni40 Fe29 Co31,FCC,ED,None,reduced elastic modulus,EXP,None,298.0,122731343283.582,9298507462.686005,Pa,F10a,10.1016/j.jallcom.2023.170026
+W25,Ni18 Fe34 Co23 W25,amorphous,ED,None,reduced elastic modulus,EXP,None,298.0,117925373134.328,8358208955.224001,Pa,F10a,10.1016/j.jallcom.2023.170026
+Mo25,Ni21 Fe27 Co29 Mo23,amorphous,ED,None,reduced elastic modulus,EXP,None,298.0,133283582089.552,14000000000.0,Pa,F10a,10.1016/j.jallcom.2023.170026
+MoW-EQ,Ni30 Fe23 Co22 Mo13 W13,amorphous,ED,None,reduced elastic modulus,EXP,None,298.0,106850746268.65599,10134328358.209003,Pa,F10a,10.1016/j.jallcom.2023.170026
+MoW-CF,Ni8 Fe34 Co30 Mo14 W13,amorphous,ED,None,reduced elastic modulus,EXP,None,298.0,97238805970.1492,6582089552.238798,Pa,F10a,10.1016/j.jallcom.2023.170026
