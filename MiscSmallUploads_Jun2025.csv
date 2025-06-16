@@ -5,3 +5,6 @@ Hand Fetched:,T
 Comment:,None
 
 id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
+None,Co31.5 Fe18.5 Ni31.5 Al18.5,BCC+L12,AAM,None,tensile yield stress,EXP,1e-3 strain rate,298,571000000.0,15000000.0,Pa,None,10.1016/j.msea.2025.148524
+None,Co31.5 Fe18.5 Ni31.5 Al18.5,BCC+L12,AAM,None,UTS,EXP,1e-3 strain rate,298,975000000.0,5000000.0,Pa,None,10.1016/j.msea.2025.148524
+None,Co31.5 Fe18.5 Ni31.5 Al18.5,BCC+L12,AAM,None,tensile ductility,EXP,1e-3 strain rate,298,6.9,0.3,%,None,10.1016/j.msea.2025.148524
