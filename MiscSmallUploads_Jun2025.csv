@@ -5,6 +5,87 @@ Hand Fetched:,T
 Comment:,None
 
 id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
-None,Co31.5 Fe18.5 Ni31.5 Al18.5,BCC+L12,AAM,None,tensile yield stress,EXP,1e-3 strain rate,298,571000000.0,15000000.0,Pa,None,10.1016/j.msea.2025.148524
-None,Co31.5 Fe18.5 Ni31.5 Al18.5,BCC+L12,AAM,None,UTS,EXP,1e-3 strain rate,298,975000000.0,5000000.0,Pa,None,10.1016/j.msea.2025.148524
-None,Co31.5 Fe18.5 Ni31.5 Al18.5,BCC+L12,AAM,None,tensile ductility,EXP,1e-3 strain rate,298,6.9,0.3,%,None,10.1016/j.msea.2025.148524
+None,Co31.5 Fe18.5 Ni31.5 Al18.5,BCC+L12,AAM,None,tensile yield stress,EXP,1e-3 strain rate,298.0,571000000.0,15000000.0,Pa,None,10.1016/j.msea.2025.148524
+None,Co31.5 Fe18.5 Ni31.5 Al18.5,BCC+L12,AAM,None,UTS,EXP,1e-3 strain rate,298.0,975000000.0,5000000.0,Pa,None,10.1016/j.msea.2025.148524
+None,Co31.5 Fe18.5 Ni31.5 Al18.5,BCC+L12,AAM,None,tensile ductility,EXP,1e-3 strain rate,298.0,6.9,0.3,%,None,10.1016/j.msea.2025.148524
+None,Nb0.72 Fe1.98 Co1.22 Ni1.00,FCC+C14,AAM,hypereutectic; (Co,Nb)2Nb-type C14 Laves phase majority,compressive yield stress,EXP,2e-4 strain rate,298.0,1678000000.0,None,Pa,F2b,10.1016/j.jmst.2021.06.038
+None,Nb0.62 Fe1.98 Co1.22 Ni1.00,FCC+C14,AAM,eutectic; FCC and (Co,Nb)2Nb-type C14 Laves phase in lamellar structure,compressive yield stress,EXP,2e-4 strain rate,298.0,1397000000.0,None,Pa,F2b,10.1016/j.jmst.2021.06.038
+None,Nb0.55 Fe1.98 Co1.22 Ni1.00,FCC+C14,AAM,hypoeutectic; (Co,Nb)2Nb-type C14 Laves phase minority,compressive yield stress,EXP,2e-4 strain rate,298.0,1248000000.0,None,Pa,F2b,10.1016/j.jmst.2021.06.038
+None,Nb0.40 Fe1.98 Co1.22 Ni1.00,FCC+C14,AAM,hypoeutectic; (Co,Nb)2Nb-type C14 Laves phase minority,compressive yield stress,EXP,2e-4 strain rate,298.0,1168000000.0,None,Pa,F2b,10.1016/j.jmst.2021.06.038
+None,Nb0.72 Fe1.98 Co1.22 Ni1.00,FCC+C14,AAM,hypereutectic; (Co,Nb)2Nb-type C14 Laves phase majority,UCS,EXP,2e-4 strain rate,298.0,2963000000.0,None,Pa,F2b,10.1016/j.jmst.2021.06.038
+None,Nb0.62 Fe1.98 Co1.22 Ni1.00,FCC+C14,AAM,eutectic; FCC and (Co,Nb)2Nb-type C14 Laves phase in lamellar structure,UCS,EXP,2e-4 strain rate,298.0,3281000000.0,None,Pa,F2b,10.1016/j.jmst.2021.06.038
+None,Nb0.55 Fe1.98 Co1.22 Ni1.00,FCC+C14,AAM,hypoeutectic; (Co,Nb)2Nb-type C14 Laves phase minority,UCS,EXP,2e-4 strain rate,298.0,3000000000.0,None,Pa,F2b,10.1016/j.jmst.2021.06.038
+None,Nb0.40 Fe1.98 Co1.22 Ni1.00,FCC+C14,AAM,hypoeutectic; (Co,Nb)2Nb-type C14 Laves phase minority,UCS,EXP,2e-4 strain rate,298.0,2846000000.0,None,Pa,F2b,10.1016/j.jmst.2021.06.038
+None,Nb0.72 Fe1.98 Co1.22 Ni1.00,FCC+C14,AAM,hypereutectic; (Co,Nb)2Nb-type C14 Laves phase majority,compressive ductility,EXP,2e-4 strain rate,298.0,23.5,None,%,F2b,10.1016/j.jmst.2021.06.038
+None,Nb0.62 Fe1.98 Co1.22 Ni1.00,FCC+C14,AAM,eutectic; FCC and (Co,Nb)2Nb-type C14 Laves phase in lamellar structure,compressive ductility,EXP,2e-4 strain rate,298.0,31.0,None,%,F2b,10.1016/j.jmst.2021.06.038
+None,Nb0.55 Fe1.98 Co1.22 Ni1.00,FCC+C14,AAM,hypoeutectic; (Co,Nb)2Nb-type C14 Laves phase minority,compressive ductility,EXP,2e-4 strain rate,298.0,32.0,None,%,F2b,10.1016/j.jmst.2021.06.038
+None,Nb0.40 Fe1.98 Co1.22 Ni1.00,FCC+C14,AAM,hypoeutectic; (Co,Nb)2Nb-type C14 Laves phase minority,compressive ductility,EXP,2e-4 strain rate,298.0,34.5,None,%,F2b,10.1016/j.jmst.2021.06.038
+equiatomic GdTbCoAl,GdTbCoAl,amorphous,AAM+DC+MS,meltspun on Mo wheel at 30m/s for melt-feeding rate of 30μm/s; microwires,liquidus temperature,EXP,None,None,1253.0,None,K,F2,10.1016/j.jmst.2022.12.008
+Gd36,Gd36Tb20Co20Al24,amorphous,AAM+DC+MS,meltspun on Mo wheel at 30m/s for melt-feeding rate of 30μm/s; microwires,liquidus temperature,EXP,None,None,1061.0,None,K,F2,10.1016/j.jmst.2022.12.008
+Dy36,Dy36Tb20Co20Al24,amorphous,AAM+DC+MS,meltspun on Mo wheel at 30m/s for melt-feeding rate of 30μm/s; microwires,liquidus temperature,EXP,None,None,1075.0,None,K,F2,10.1016/j.jmst.2022.12.008
+Ho36,Ho36Tb20Co20Al24,amorphous,AAM+DC+MS,meltspun on Mo wheel at 30m/s for melt-feeding rate of 30μm/s; microwires,liquidus temperature,EXP,None,None,1075.0,None,K,F2,10.1016/j.jmst.2022.12.008
+equiatomic GdTbCoAl,GdTbCoAl,amorphous,AAM+DC+MS,meltspun on Mo wheel at 30m/s for melt-feeding rate of 30μm/s; microwires,glass transition temperature,EXP,None,None,596.0,None,K,F2,10.1016/j.jmst.2022.12.008
+Gd36,Gd36Tb20Co20Al24,amorphous,AAM+DC+MS,meltspun on Mo wheel at 30m/s for melt-feeding rate of 30μm/s; microwires,glass transition temperature,EXP,None,None,585.0,None,K,F2,10.1016/j.jmst.2022.12.008
+Dy36,Dy36Tb20Co20Al24,amorphous,AAM+DC+MS,meltspun on Mo wheel at 30m/s for melt-feeding rate of 30μm/s; microwires,glass transition temperature,EXP,None,None,628.0,None,K,F2,10.1016/j.jmst.2022.12.008
+Ho36,Ho36Tb20Co20Al24,amorphous,AAM+DC+MS,meltspun on Mo wheel at 30m/s for melt-feeding rate of 30μm/s; microwires,glass transition temperature,EXP,None,None,628.0,None,K,F2,10.1016/j.jmst.2022.12.008
+Gd36,Gd36Tb20Co20Al24,amorphous,AAM+DC+MS,meltspun on Mo wheel at 30m/s for melt-feeding rate of 30μm/s; microwires,curie temperature,EXP,5T,None,81.0,None,K,T1,10.1016/j.jmst.2022.12.008
+Dy36,Dy36Tb20Co20Al24,amorphous,AAM+DC+MS,meltspun on Mo wheel at 30m/s for melt-feeding rate of 30μm/s; microwires,curie temperature,EXP,5T,None,40.0,None,K,T1,10.1016/j.jmst.2022.12.008
+Ho36,Ho36Tb20Co20Al24,amorphous,AAM+DC+MS,meltspun on Mo wheel at 30m/s for melt-feeding rate of 30μm/s; microwires,curie temperature,EXP,5T,None,34.0,None,K,T1,10.1016/j.jmst.2022.12.008
+Gd36,Gd36Tb20Co20Al24,amorphous,AAM+DC+MS,meltspun on Mo wheel at 30m/s for melt-feeding rate of 30μm/s; microwires,peak magnetic entropy change,EXP,5T,None,9.0,None,J/kgK,T2,10.1016/j.jmst.2022.12.008
+Dy36,Dy36Tb20Co20Al24,amorphous,AAM+DC+MS,meltspun on Mo wheel at 30m/s for melt-feeding rate of 30μm/s; microwires,peak magnetic entropy change,EXP,5T,None,8.2,None,J/kgK,T2,10.1016/j.jmst.2022.12.008
+Ho36,Ho36Tb20Co20Al24,amorphous,AAM+DC+MS,meltspun on Mo wheel at 30m/s for melt-feeding rate of 30μm/s; microwires,peak magnetic entropy change,EXP,5T,None,10.3,None,J/kgK,T2,10.1016/j.jmst.2022.12.008
+None,SmGdDyCoAl ,amorphous,AAM+DC+MS,meltspun at 30m/s; microwires,curie temperature,EXP,5T,None,52.0,None,K,T1,10.1007/s12598-023-02501-y
+None,GdTbHoErLa,amorphous,None,data from T1 in 10.1007/s12598-023-02501-y,curie temperature,EXP,5T,None,127.0,None,K,None,10.1016/j.jallcom.2021.159918
+None,GdTbHoErLaY,amorphous,None,data from T1 in 10.1007/s12598-023-02501-y,curie temperature,EXP,5T,None,120.0,None,K,None,10.1557/s43578-022-00712-0
+None,ErDyCoAlTm,amorphous,None,data from T1 in 10.1007/s12598-023-02501-y,curie temperature,EXP,5T,None,12.0,None,K,None,10.1016/j.intermet.2018.03.002
+None,HoTmGdCuAl,amorphous,None,data from T1 in 10.1007/s12598-023-02501-y,curie temperature,EXP,5T,None,33.6,None,K,None,10.1016/j.jmmm.2020.167270
+None,GdHoErFeAl,amorphous,None,data from T1 in 10.1007/s12598-023-02501-y,curie temperature,EXP,5T,None,55.0,None,K,None,10.
+1016/j.intermet.2018.02.015
+None,GdTbDyFeAl,amorphous,None,data from T1 in 10.1007/s12598-023-02501-y,curie temperature,EXP,5T,None,112.0,None,K,None,10.1016/j.intermet.2014.11.004
+None,SmGdDyCoAl ,amorphous,AAM+DC+MS,meltspun at 30m/s; microwires,peak magnetic entropy change,EXP,5T,None,6.34,None,J/kgK,T1,10.1007/s12598-023-02501-y
+None,GdTbHoErLa,amorphous,None,data from T1 in 10.1007/s12598-023-02501-y,peak magnetic entropy change,EXP,5T,None,5.92,None,J/kgK,None,10.1016/j.jallcom.2021.159918
+None,GdTbHoErLaY,amorphous,None,data from T1 in 10.1007/s12598-023-02501-y,peak magnetic entropy change,EXP,5T,None,5.9,None,J/kgK,None,10.1557/s43578-022-00712-0
+None,ErDyCoAlTm,amorphous,None,data from T1 in 10.1007/s12598-023-02501-y,peak magnetic entropy change,EXP,5T,None,11.9,None,J/kgK,None,10.1016/j.intermet.2018.03.002
+None,HoTmGdCuAl,amorphous,None,data from T1 in 10.1007/s12598-023-02501-y,peak magnetic entropy change,EXP,5T,None,8.7,None,J/kgK,None,10.1016/j.jmmm.2020.167270
+None,GdHoErFeAl,amorphous,None,data from T1 in 10.1007/s12598-023-02501-y,peak magnetic entropy change,EXP,5T,None,5.1,None,J/kgK,None,10.
+1016/j.intermet.2018.02.015
+None,GdTbDyFeAl,amorphous,None,data from T1 in 10.1007/s12598-023-02501-y,peak magnetic entropy change,EXP,5T,None,5.96,None,J/kgK,None,10.1016/j.intermet.2014.11.004
+None,(MnNiSi)60 (FeCoGe)40,L21,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure,curie temperature,EXP,5T,None,271.3,None,K,T2,10.1016/j.jallcom.2023.171483
+None,(MnNiSi)58 (FeCoGe)42,L21,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure,curie temperature,EXP,5T,None,224.7,None,K,T2,10.1016/j.jallcom.2023.171483
+None,(MnNiSi)55 (FeCoGe)45,L21,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure,curie temperature,EXP,5T,None,232.5,None,K,T2,10.1016/j.jallcom.2023.171483
+None,(MnNiSi)53 (FeCoGe)47,L21,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure,curie temperature,EXP,5T,None,235.0,None,K,T2,10.1016/j.jallcom.2023.171483
+None,(MnNi)60 Si64 (FeCo)40 Ge36,L21+C7,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure; C7 is "low-temperature" TiNiSi-type orthorhombic phase,curie temperature,EXP,5T,None,327.0,None,K,T2,10.1016/j.jallcom.2023.171483
+None,(MnNi)60 Si62 (FeCo)40 Ge38,L21+C7,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure; C7 is "low-temperature" TiNiSi-type orthorhombic phase,curie temperature,EXP,5T,None,308.8,None,K,T2,10.1016/j.jallcom.2023.171483
+None,(MnNi)60 Si60 (FeCo)40 Ge40,L21,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure,curie temperature,EXP,5T,None,271.1,None,K,T2,10.1016/j.jallcom.2023.171483
+None,(MnNi)60 Si58 (FeCo)40 Ge42,L21,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure,curie temperature,EXP,5T,None,295.5,None,K,T2,10.1016/j.jallcom.2023.171483
+None,(MnNiSi)60 (FeCoGe)40,L21,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure,peak magnetic entropy change,EXP,5T,None,44.9,None,J/kgK,T2,10.1016/j.jallcom.2023.171483
+None,(MnNiSi)58 (FeCoGe)42,L21,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure,peak magnetic entropy change,EXP,5T,None,29.2,None,J/kgK,T2,10.1016/j.jallcom.2023.171483
+None,(MnNiSi)55 (FeCoGe)45,L21,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure,peak magnetic entropy change,EXP,5T,None,1.9,None,J/kgK,T2,10.1016/j.jallcom.2023.171483
+None,(MnNiSi)53 (FeCoGe)47,L21,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure,peak magnetic entropy change,EXP,5T,None,2.4,None,J/kgK,T2,10.1016/j.jallcom.2023.171483
+None,(MnNi)60 Si64 (FeCo)40 Ge36,L21+C7,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure; C7 is "low-temperature" TiNiSi-type orthorhombic phase,peak magnetic entropy change,EXP,5T,None,55.3,None,J/kgK,T2,10.1016/j.jallcom.2023.171483
+None,(MnNi)60 Si62 (FeCo)40 Ge38,L21+C7,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure; C7 is "low-temperature" TiNiSi-type orthorhombic phase,peak magnetic entropy change,EXP,5T,None,48.5,None,J/kgK,T2,10.1016/j.jallcom.2023.171483
+None,(MnNi)60 Si60 (FeCo)40 Ge40,L21,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure,peak magnetic entropy change,EXP,5T,None,44.9,None,J/kgK,T2,10.1016/j.jallcom.2023.171483
+None,(MnNi)60 Si58 (FeCo)40 Ge42,L21,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure,peak magnetic entropy change,EXP,5T,None,41.5,None,J/kgK,T2,10.1016/j.jallcom.2023.171483
+None,(MnNiSi)60 (FeCoGe)40,L21,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure,hardness,EXP,None,298.0,5122230164.533818,338852468.0073154,Pa,F7,10.1016/j.jallcom.2023.171483
+None,(MnNiSi)58 (FeCoGe)42,L21,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure,hardness,EXP,None,298.0,6038386837.294331,338852468.0073154,Pa,F7,10.1016/j.jallcom.2023.171483
+None,(MnNiSi)55 (FeCoGe)45,L21,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure,hardness,EXP,None,298.0,6690991590.493599,288652102.3765978,Pa,F7,10.1016/j.jallcom.2023.171483
+None,(MnNiSi)53 (FeCoGe)47,L21,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure,hardness,EXP,None,298.0,6929443327.239488,376502742.23034215,Pa,F7,10.1016/j.jallcom.2023.171483
+None,(MnNi)60 Si64 (FeCo)40 Ge36,L21+C7,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure; C7 is "low-temperature" TiNiSi-type orthorhombic phase,hardness,EXP,None,298.0,4370646088.794919,362838266.38477683,Pa,F14,10.1016/j.jallcom.2023.171483
+None,(MnNi)60 Si62 (FeCo)40 Ge38,L21+C7,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure; C7 is "low-temperature" TiNiSi-type orthorhombic phase,hardness,EXP,None,298.0,5417693657.505286,269536997.88582945,Pa,F14,10.1016/j.jallcom.2023.171483
+None,(MnNi)60 Si60 (FeCo)40 Ge40,L21,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure,hardness,EXP,None,298.0,5127423044.397454,342104651.1627954,Pa,F14,10.1016/j.jallcom.2023.171483
+None,(MnNi)60 Si58 (FeCo)40 Ge42,L21,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure,hardness,EXP,None,298.0,5013388160.676526,238436575.052857,Pa,F14,10.1016/j.jallcom.2023.171483
+None,(MnNiSi)60 (FeCoGe)40,L21,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure,UCS,EXP,None,298.0,383000000.0,None,Pa,F7b,10.1016/j.jallcom.2023.171483
+None,(MnNiSi)58 (FeCoGe)42,L21,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure,UCS,EXP,None,298.0,321000000.0,None,Pa,F7b,10.1016/j.jallcom.2023.171483
+None,(MnNi)60 Si62 (FeCo)40 Ge38,L21+C7,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure; C7 is "low-temperature" TiNiSi-type orthorhombic phase,UCS,EXP,None,298.0,267000000.0,None,Pa,F14b,10.1016/j.jallcom.2023.171483
+None,(MnNiSi)60 (FeCoGe)40,L21,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure,compressive ductility,EXP,None,298.0,12.6,None,%,F7b,10.1016/j.jallcom.2023.171483
+None,(MnNiSi)58 (FeCoGe)42,L21,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure,compressive ductility,EXP,None,298.0,11.5,None,%,F7b,10.1016/j.jallcom.2023.171483
+None,(MnNi)60 Si62 (FeCo)40 Ge38,L21+C7,AAM+A+WQ,annealed at 1023K for 72h and water quenched; Mn evaporation loss compensated; L21 is Ni2In-type hexagonal structure; C7 is "low-temperature" TiNiSi-type orthorhombic phase,compressive ductility,EXP,None,298.0,23.5,None,%,F14b,10.1016/j.jallcom.2023.171483
+None,Co17.33 Cr17.33 Ni47.33 Al18,B2+L12,AAM+DC,eutectic; lamellar structure in as-cast state,tensile yield stress,EXP,None,298.0,708000000.0,None,Pa,None,10.20517/microstructures.2022.40
+None,Co17 Cr17 Ni47 Al19,B2+L12,AAM+DC,eutectic; lamellar structure in as-cast state,tensile yield stress,EXP,None,298.0,734000000.0,None,Pa,None,10.20517/microstructures.2022.40
+None,Co17.33 Cr17.33 Ni47.33 Al18,B2+L12,AAM+DC,eutectic; lamellar structure in as-cast state,UTS,EXP,None,298.0,1179000000.0,None,Pa,None,10.20517/microstructures.2022.40
+None,Co17 Cr17 Ni47 Al19,B2+L12,AAM+DC,eutectic; lamellar structure in as-cast state,UTS,EXP,None,298.0,1219000000.0,None,Pa,None,10.20517/microstructures.2022.40
+None,Co17.33 Cr17.33 Ni47.33 Al18,B2+L12,AAM+DC,eutectic; lamellar structure in as-cast state,tensile ductility,EXP,None,298.0,10.0,None,%,None,10.20517/microstructures.2022.40
+None,Co17 Cr17 Ni47 Al19,B2+L12,AAM+DC,eutectic; lamellar structure in as-cast state,tensile ductility,EXP,None,298.0,9.0,None,%,None,10.20517/microstructures.2022.40
+None,Co20 Cr20 Ni50 Al10,FCC,AC,None,tensile yield stress,EXP,None,298.0,356000000.0,None,Pa,None,10.20517/microstructures.2022.40
+None,Co20 Cr20 Ni50 Al10,FCC,AC,None,UTS,EXP,None,298.0,536000000.0,None,Pa,None,10.20517/microstructures.2022.40
+None,Co20 Cr20 Ni50 Al10,FCC,AC,None,tensile ductility,EXP,None,298.0,29.1,None,%,None,10.20517/microstructures.2022.40
