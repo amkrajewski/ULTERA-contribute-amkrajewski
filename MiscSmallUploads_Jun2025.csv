@@ -89,3 +89,160 @@ None,Co17 Cr17 Ni47 Al19,B2+L12,AAM+DC,eutectic; lamellar structure in as-cast s
 None,Co20 Cr20 Ni50 Al10,FCC,AC,None,tensile yield stress,EXP,None,298.0,356000000.0,None,Pa,None,10.20517/microstructures.2022.40
 None,Co20 Cr20 Ni50 Al10,FCC,AC,None,UTS,EXP,None,298.0,536000000.0,None,Pa,None,10.20517/microstructures.2022.40
 None,Co20 Cr20 Ni50 Al10,FCC,AC,None,tensile ductility,EXP,None,298.0,29.1,None,%,None,10.20517/microstructures.2022.40
+None,CoCrFeNiTa0.1,FCC+C14,VAM,None,hardness,EXP,None,298.0,1765260000.0,None,Pa,T2,10.1016/j.matchemphys.2017.05.056
+None,CoCrFeNi,FCC,VAM,None,minimum compressive plastic strain,EXP,None,298.0,50.0,None,%,F6,10.1016/j.matchemphys.2017.05.056
+None,CoCrFeNiTa0.1,FCC+C14,VAM,None,minimum compressive plastic strain,EXP,None,298.0,50.0,None,%,F6,10.1016/j.matchemphys.2017.05.056
+None,CoCrFeNiTa0.2,FCC+C14,VAM,None,minimum compressive plastic strain,EXP,None,298.0,50.0,None,%,F6,10.1016/j.matchemphys.2017.05.056
+None,CoCrFeNi,FCC,VAM,None,minimum compressive ductility,EXP,None,298.0,47.9343220339,None,%,F6,10.1016/j.matchemphys.2017.05.056
+None,CoCrFeNiTa0.1,FCC+C14,VAM,None,minimum compressive ductility,EXP,None,298.0,48.6758474576,None,%,F6,10.1016/j.matchemphys.2017.05.056
+None,CoCrFeNiTa0.2,FCC+C14,VAM,None,minimum compressive ductility,EXP,None,298.0,50.0,None,%,F6,10.1016/j.matchemphys.2017.05.056
+None,CoCrFeNiTa0.3,FCC+C14,VAM,None,compressive ductility,EXP,None,298.0,36.4936440678,None,%,F6,10.1016/j.matchemphys.2017.05.056
+None,CoCrFeNiTa0.4,FCC+C14,VAM,None,compressive ductility,EXP,None,298.0,28.6016949153,None,%,F6,10.1016/j.matchemphys.2017.05.056
+None,CoCrFeNiTa0.5,FCC+C14,VAM,None,compressive ductility,EXP,None,298.0,26.3241525424,None,%,F6,10.1016/j.matchemphys.2017.05.056
+None,CoCrFeNiTa0.75,FCC+C14,VAM,None,compressive ductility,EXP,None,298.0,11.8644067797,None,%,F6,10.1016/j.matchemphys.2017.05.056
+None,CoCrFeNi,FCC,VAM,None,minimum UCS,EXP,None,298.0,1500000000.0,None,Pa,F6,10.1016/j.matchemphys.2017.05.056
+None,CoCrFeNiTa0.1,FCC+C14,VAM,None,minimum UCS,EXP,None,298.0,2012000000.0,None,Pa,F6,10.1016/j.matchemphys.2017.05.056
+None,CoCrFeNiTa0.2,FCC+C14,VAM,None,minimum UCS,EXP,None,298.0,2453000000.0,None,Pa,F6,10.1016/j.matchemphys.2017.05.056
+None,TiNbTaZr ,BCC,AAM,high quality AAM with 10 times 180s melting events,None,None,None,None,None,None,None,F3,10.3390/e21050483 
+None,TiNbTaZrV,BCC,AAM,high quality AAM with 10 times 180s melting events,None,None,None,None,None,None,None,F3,10.3390/e21050483 
+None,TiNbTaZrMo ,BCC+BCC,AAM,high quality AAM with 10 times 180s melting events,None,None,None,None,None,None,None,F3,10.3390/e21050483 
+None,TiNbTaZrW,BCC+BCC,AAM,high quality AAM with 10 times 180s melting events,None,None,None,None,None,None,None,F3,10.3390/e21050483 
+None,TiNbTaZr ,BCC,AAM+CCLM(LM),high quality AAM with 10 times 180s melting events; cold crucible levitation melted (CCLM) ingots with superior homogenity,None,None,None,None,None,None,None,F7,10.3390/e21050483 
+None,TiNbTaZrV,BCC,AAM+CCLM(LM),high quality AAM with 10 times 180s melting events; cold crucible levitation melted (CCLM) ingots with superior homogenity,None,None,None,None,None,None,None,F7,10.3390/e21050483 
+None,TiNbTaZrMo ,BCC,AAM+CCLM(LM),high quality AAM with 10 times 180s melting events; cold crucible levitation melted (CCLM) ingots with superior homogenity,None,None,None,None,None,None,None,F7,10.3390/e21050483 
+None,TiNbTaZrW,BCC+BCC,AAM+CCLM(LM),high quality AAM with 10 times 180s melting events; cold crucible levitation melted (CCLM) ingots with superior homogenity,None,None,None,None,None,None,None,F7,10.3390/e21050483 
+Hypo-HEA,Co26.6 Fe18.7 Ni23.3 Cr19.8 Ta9.3 Al2.3,FCC+laves,LPBF,hypoeutectic; 10um grain size,hardness,EXP,None,298.0,4776009000.0,176526000.0,Pa,P4,10.1002/advs.202401559
+E-HEA,Co26.1 Fe18.3 Ni22.9 Cr19.4 Ta9.1 Al4.2,FCC+laves,LPBF,eutectic; 15um grain size,hardness,EXP,None,298.0,5511534000.0,196140000.0,Pa,P4,10.1002/advs.202401559
+Hyper-HEA,Co25.6 Fe17.9 Ni22.4 Cr19.1 Ta8.9 Al6.1,FCC+laves,LPBF,hypereutectic; 18um grain size,hardness,EXP,None,298.0,6619725000.0,460929000.0,Pa,P4,10.1002/advs.202401559
+None,(Fe0.3Co0.5Ni0.2)100,FCC,VAM,None,coercivity,EXP,None,298.0,887.9,None,A/m,T1,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)95 (Al0.333 Si0.666)5,FCC,VAM,None,coercivity,EXP,None,298.0,1158.4,None,A/m,T1,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)90 (Al0.333 Si0.666)10,FCC,VAM,None,coercivity,EXP,None,298.0,1194.3,None,A/m,T1,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)85 (Al0.333 Si0.666)15,FCC+BCC,VAM,None,coercivity,EXP,None,298.0,921.3,None,A/m,T1,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)75 (Al0.333 Si0.666)25,BCC,VAM,None,coercivity,EXP,None,298.0,990.5,None,A/m,T1,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)100,FCC,VAM,None,saturation magnetization,EXP,None,298.0,168.1,None,Am^2/kg,T1,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)95 (Al0.333 Si0.666)5,FCC,VAM,None,saturation magnetization,EXP,None,298.0,153.5,None,Am^2/kg,T1,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)90 (Al0.333 Si0.666)10,FCC,VAM,None,saturation magnetization,EXP,None,298.0,131.0,None,Am^2/kg,T1,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)85 (Al0.333 Si0.666)15,FCC+BCC,VAM,None,saturation magnetization,EXP,None,298.0,117.1,None,Am^2/kg,T1,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)75 (Al0.333 Si0.666)25,BCC,VAM,None,saturation magnetization,EXP,None,298.0,116.5,None,Am^2/kg,T1,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)100,FCC,VAM+LM,None,compressive yield stress,EXP,1e-3 strain rate,298.0,96000000.0,None,Pa,T1,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)95 (Al0.333 Si0.666)5,FCC,VAM+LM,None,compressive yield stress,EXP,1e-3 strain rate,298.0,122000000.0,None,Pa,T1,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)90 (Al0.333 Si0.666)10,FCC,VAM+LM,None,compressive yield stress,EXP,1e-3 strain rate,298.0,116000000.0,None,Pa,T1,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)85 (Al0.333 Si0.666)15,FCC+BCC,VAM+LM,None,compressive yield stress,EXP,1e-3 strain rate,298.0,243000000.0,None,Pa,T1,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)75 (Al0.333 Si0.666)25,BCC,VAM+LM,None,compressive yield stress,EXP,1e-3 strain rate,298.0,1445000000.0,None,Pa,T1,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)100,FCC,VAM+LM,None,minimum UCS,EXP,1e-3 strain rate,298.0,506000000.0,None,Pa,T1,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)95 (Al0.333 Si0.666)5,FCC,VAM+LM,None,minimum UCS,EXP,1e-3 strain rate,298.0,423000000.0,None,Pa,T1,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)90 (Al0.333 Si0.666)10,FCC,VAM+LM,None,minimum UCS,EXP,1e-3 strain rate,298.0,650000000.0,None,Pa,T1,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)85 (Al0.333 Si0.666)15,FCC+BCC,VAM+LM,None,minimum UCS,EXP,1e-3 strain rate,298.0,1248000000.0,None,Pa,T1,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)75 (Al0.333 Si0.666)25,BCC,VAM+LM,None,UCS,EXP,1e-3 strain rate,298.0,2052000000.0,None,Pa,T1,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)100,FCC,VAM+LM,None,minimum compressive ductility,EXP,1e-3 strain rate,298.0,28.5,None,%,T1,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)95 (Al0.333 Si0.666)5,FCC,VAM+LM,None,minimum compressive ductility,EXP,1e-3 strain rate,298.0,20.0,None,%,T1,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)90 (Al0.333 Si0.666)10,FCC,VAM+LM,None,minimum compressive ductility,EXP,1e-3 strain rate,298.0,23.2,None,%,T1,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)85 (Al0.333 Si0.666)15,FCC+BCC,VAM+LM,None,minimum compressive ductility,EXP,1e-3 strain rate,298.0,20.0,None,%,T1,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)75 (Al0.333 Si0.666)25,BCC,VAM+LM,None,compressive ductility,EXP,1e-3 strain rate,298.0,3.9,None,%,T1,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)75 (Al0.333 Si0.666)25,BCC,VAM+LM,None,compressive plastic strain,EXP,1e-3 strain rate,298.0,2.71,None,%,T1,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)95 (Al0.333 Si0.666)5,FCC,VAM+LM,None,electrical resistivity,EXP,None,298.0,6.03e-07,None,Ohm/m,None,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)95 (Al0.333 Si0.666)5,FCC,VAM+LM,VAM and leviatition melting,coercivity,EXP,None,298.0,96.0,None,A/m,T2,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)95 (Al0.333 Si0.666)5,FCC,VAM+LM+CR,VAM and leviatition melting followed by CR with thickness reduction of 83%,coercivity,EXP,None,298.0,510.0,None,A/m,T2,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)95 (Al0.333 Si0.666)5,FCC,VAM+LM+CR+A+WQ,VAM and leviatition melting followed by CR with thickness reduction of 83% annealed at 1273K for 2h and water quenched,coercivity,EXP,None,298.0,130.0,None,A/m,T2,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)95 (Al0.333 Si0.666)5,FCC,VAM+LM+CR+A,VAM and leviatition melting followed by CR with thickness reduction of 83% annealed at 1273K for 2h,coercivity,EXP,None,298.0,165.0,None,A/m,T2,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)95 (Al0.333 Si0.666)5,FCC,VAM+LM,VAM and leviatition melting,saturation magnetization,EXP,None,298.0,146.7698519515,None,Am^2/kg,F10,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)95 (Al0.333 Si0.666)5,FCC,VAM+LM+CR,VAM and leviatition melting followed by CR with thickness reduction of 83%,saturation magnetization,EXP,None,298.0,147.5773889637,None,Am^2/kg,F10,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)95 (Al0.333 Si0.666)5,FCC,VAM+LM+CR+A+WQ,VAM and leviatition melting followed by CR with thickness reduction of 83% annealed at 1273K for 2h and water quenched,saturation magnetization,EXP,None,298.0,136.6756393001,None,Am^2/kg,F10,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)95 (Al0.333 Si0.666)5,FCC,VAM+LM+CR+A,VAM and leviatition melting followed by CR with thickness reduction of 83% annealed at 1273K for 2h,saturation magnetization,EXP,None,298.0,144.7510094213,None,Am^2/kg,F10,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)95 (Al0.333 Si0.666)5,FCC,VAM+LM,VAM and leviatition melting,tensile yield stress,EXP,1e-3 strain rate,298.0,176100000.0,None,Pa,T2,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)95 (Al0.333 Si0.666)5,FCC,VAM+LM+CR,VAM and leviatition melting followed by CR with thickness reduction of 83%,tensile yield stress,EXP,1e-3 strain rate,298.0,779600000.0,None,Pa,T2,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)95 (Al0.333 Si0.666)5,FCC,VAM+LM+CR+A+WQ,VAM and leviatition melting followed by CR with thickness reduction of 83% annealed at 1273K for 2h and water quenched,tensile yield stress,EXP,1e-3 strain rate,298.0,261500000.0,None,Pa,T2,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)95 (Al0.333 Si0.666)5,FCC,VAM+LM+CR+A,VAM and leviatition melting followed by CR with thickness reduction of 83% annealed at 1273K for 2h,tensile yield stress,EXP,1e-3 strain rate,298.0,235500000.0,None,Pa,T2,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)95 (Al0.333 Si0.666)5,FCC,VAM+LM,VAM and leviatition melting,UTS,EXP,1e-3 strain rate,298.0,402400000.0,None,Pa,T2,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)95 (Al0.333 Si0.666)5,FCC,VAM+LM+CR,VAM and leviatition melting followed by CR with thickness reduction of 83%,UTS,EXP,1e-3 strain rate,298.0,917700000.0,None,Pa,T2,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)95 (Al0.333 Si0.666)5,FCC,VAM+LM+CR+A+WQ,VAM and leviatition melting followed by CR with thickness reduction of 83% annealed at 1273K for 2h and water quenched,UTS,EXP,1e-3 strain rate,298.0,558300000.0,None,Pa,T2,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)95 (Al0.333 Si0.666)5,FCC,VAM+LM+CR+A,VAM and leviatition melting followed by CR with thickness reduction of 83% annealed at 1273K for 2h,UTS,EXP,1e-3 strain rate,298.0,572400000.0,None,Pa,T2,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)95 (Al0.333 Si0.666)5,FCC,VAM+LM,VAM and leviatition melting,tensile ductility,EXP,1e-3 strain rate,298.0,26.8,None,%,T2,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)95 (Al0.333 Si0.666)5,FCC,VAM+LM+CR,VAM and leviatition melting followed by CR with thickness reduction of 83%,tensile ductility,EXP,1e-3 strain rate,298.0,1.3,None,%,T2,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)95 (Al0.333 Si0.666)5,FCC,VAM+LM+CR+A+WQ,VAM and leviatition melting followed by CR with thickness reduction of 83% annealed at 1273K for 2h and water quenched,tensile ductility,EXP,1e-3 strain rate,298.0,38.3,None,%,T2,10.3390/met9030382
+None,(Fe0.3Co0.5Ni0.2)95 (Al0.333 Si0.666)5,FCC,VAM+LM+CR+A,VAM and leviatition melting followed by CR with thickness reduction of 83% annealed at 1273K for 2h,tensile ductility,EXP,1e-3 strain rate,298.0,33.2,None,%,T2,10.3390/met9030382
+Nb0,CoCrFeNi,FCC,AAM,None,electrical resistivity,EXP,None,301.0,7.8e-09,None,Ohm/m,T1,10.3390/cryst10090762
+Nb0.25,CoCrFeNiNb0.25,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,electrical resistivity,EXP,None,301.0,1.09e-08,None,Ohm/m,T1,10.3390/cryst10090762
+Nb0.45,CoCrFeNiNb0.45,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; eutectic,electrical resistivity,EXP,None,301.0,1.14e-08,None,Ohm/m,T1,10.3390/cryst10090762
+Nb0,CoCrFeNi,FCC,AAM,None,electrical resistivity,EXP,None,373.0,8.3e-09,None,Ohm/m,T1,10.3390/cryst10090762
+Nb0.25,CoCrFeNiNb0.25,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,electrical resistivity,EXP,None,373.0,1.16e-08,None,Ohm/m,T1,10.3390/cryst10090762
+Nb0.45,CoCrFeNiNb0.45,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; eutectic,electrical resistivity,EXP,None,373.0,1.18e-08,None,Ohm/m,T1,10.3390/cryst10090762
+Nb0,CoCrFeNi,FCC,AAM,None,electrical resistivity,EXP,None,473.0,8.7e-09,None,Ohm/m,T1,10.3390/cryst10090762
+Nb0.25,CoCrFeNiNb0.25,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,electrical resistivity,EXP,None,473.0,1.21e-08,None,Ohm/m,T1,10.3390/cryst10090762
+Nb0.45,CoCrFeNiNb0.45,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; eutectic,electrical resistivity,EXP,None,473.0,1.22e-08,None,Ohm/m,T1,10.3390/cryst10090762
+Nb0,CoCrFeNi,FCC,AAM,None,electrical resistivity,EXP,None,673.0,9.3e-09,None,Ohm/m,T1,10.3390/cryst10090762
+Nb0.25,CoCrFeNiNb0.25,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,electrical resistivity,EXP,None,673.0,1.27e-08,None,Ohm/m,T1,10.3390/cryst10090762
+Nb0.45,CoCrFeNiNb0.45,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; eutectic,electrical resistivity,EXP,None,673.0,1.28e-08,None,Ohm/m,T1,10.3390/cryst10090762
+Nb0,CoCrFeNi,FCC,AAM,None,electrical resistivity,EXP,None,873.0,9.8e-09,None,Ohm/m,T1,10.3390/cryst10090762
+Nb0.25,CoCrFeNiNb0.25,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,electrical resistivity,EXP,None,873.0,1.3e-08,None,Ohm/m,T1,10.3390/cryst10090762
+Nb0.45,CoCrFeNiNb0.45,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; eutectic,electrical resistivity,EXP,None,873.0,1.31e-08,None,Ohm/m,T1,10.3390/cryst10090762
+Nb0,CoCrFeNi,FCC,AAM,None,electrical resistivity,EXP,None,1073.0,1.02e-08,None,Ohm/m,T1,10.3390/cryst10090762
+Nb0.25,CoCrFeNiNb0.25,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,electrical resistivity,EXP,None,1073.0,1.34e-08,None,Ohm/m,T1,10.3390/cryst10090762
+Nb0.45,CoCrFeNiNb0.45,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; eutectic,electrical resistivity,EXP,None,1073.0,1.35e-08,None,Ohm/m,T1,10.3390/cryst10090762
+Nb0,CoCrFeNi,FCC,AAM,None,seebeck coefficient,EXP,None,301.0,-7.093e-07,None,V/K,F3,10.3390/cryst10090762
+Nb0.25,CoCrFeNiNb0.25,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,seebeck coefficient,EXP,None,301.0,2.384e-07,None,V/K,F3,10.3390/cryst10090762
+Nb0.45,CoCrFeNiNb0.45,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; eutectic,seebeck coefficient,EXP,None,301.0,-7.093e-07,None,V/K,F3,10.3390/cryst10090762
+Nb0,CoCrFeNi,FCC,AAM,None,seebeck coefficient,EXP,None,373.0,6.105e-07,None,V/K,F3,10.3390/cryst10090762
+Nb0.25,CoCrFeNiNb0.25,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,seebeck coefficient,EXP,None,373.0,8.953e-07,None,V/K,F3,10.3390/cryst10090762
+Nb0.45,CoCrFeNiNb0.45,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; eutectic,seebeck coefficient,EXP,None,373.0,-3.023e-07,None,V/K,F3,10.3390/cryst10090762
+Nb0,CoCrFeNi,FCC,AAM,None,seebeck coefficient,EXP,None,473.0,-3.605e-07,None,V/K,F3,10.3390/cryst10090762
+Nb0.25,CoCrFeNiNb0.25,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,seebeck coefficient,EXP,None,473.0,3.372e-07,None,V/K,F3,10.3390/cryst10090762
+Nb0.45,CoCrFeNiNb0.45,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; eutectic,seebeck coefficient,EXP,None,473.0,-9.244e-07,None,V/K,F3,10.3390/cryst10090762
+Nb0,CoCrFeNi,FCC,AAM,None,seebeck coefficient,EXP,None,673.0,-4.302e-07,None,V/K,F3,10.3390/cryst10090762
+Nb0.25,CoCrFeNiNb0.25,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,seebeck coefficient,EXP,None,673.0,7.093e-07,None,V/K,F3,10.3390/cryst10090762
+Nb0.45,CoCrFeNiNb0.45,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; eutectic,seebeck coefficient,EXP,None,673.0,-6.221e-07,None,V/K,F3,10.3390/cryst10090762
+Nb0,CoCrFeNi,FCC,AAM,None,seebeck coefficient,EXP,None,873.0,2.093e-07,None,V/K,F3,10.3390/cryst10090762
+Nb0.25,CoCrFeNiNb0.25,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,seebeck coefficient,EXP,None,873.0,5.349e-07,None,V/K,F3,10.3390/cryst10090762
+Nb0.45,CoCrFeNiNb0.45,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; eutectic,seebeck coefficient,EXP,None,873.0,-5.465e-07,None,V/K,F3,10.3390/cryst10090762
+Nb0,CoCrFeNi,FCC,AAM,None,seebeck coefficient,EXP,None,1073.0,6.279e-07,None,V/K,F3,10.3390/cryst10090762
+Nb0.25,CoCrFeNiNb0.25,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,seebeck coefficient,EXP,None,1073.0,1.1919e-06,None,V/K,F3,10.3390/cryst10090762
+Nb0.45,CoCrFeNiNb0.45,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; eutectic,seebeck coefficient,EXP,None,1073.0,-5.233e-07,None,V/K,F3,10.3390/cryst10090762
+Nb0,CoCrFeNi,FCC,AAM,None,thermal conductivity,EXP,None,373.0,21.71875,None,W/(m K),F4,10.3390/cryst10090762
+Nb0.25,CoCrFeNiNb0.25,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,thermal conductivity,EXP,None,373.0,26.71875,None,W/(m K),F4,10.3390/cryst10090762
+Nb0.45,CoCrFeNiNb0.45,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; eutectic,thermal conductivity,EXP,None,373.0,33.4375,None,W/(m K),F4,10.3390/cryst10090762
+Nb0,CoCrFeNi,FCC,AAM,None,thermal conductivity,EXP,None,473.0,35.0,None,W/(m K),F4,10.3390/cryst10090762
+Nb0.25,CoCrFeNiNb0.25,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,thermal conductivity,EXP,None,473.0,37.8125,None,W/(m K),F4,10.3390/cryst10090762
+Nb0.45,CoCrFeNiNb0.45,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; eutectic,thermal conductivity,EXP,None,473.0,39.0625,None,W/(m K),F4,10.3390/cryst10090762
+Nb0,CoCrFeNi,FCC,AAM,None,thermal conductivity,EXP,None,573.0,58.4375,None,W/(m K),F4,10.3390/cryst10090762
+Nb0.25,CoCrFeNiNb0.25,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,thermal conductivity,EXP,None,573.0,60.3125,None,W/(m K),F4,10.3390/cryst10090762
+Nb0.45,CoCrFeNiNb0.45,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; eutectic,thermal conductivity,EXP,None,573.0,49.6875,None,W/(m K),F4,10.3390/cryst10090762
+Nb0,CoCrFeNi,FCC,AAM,None,thermal conductivity,EXP,None,673.0,82.34375,None,W/(m K),F4,10.3390/cryst10090762
+Nb0.25,CoCrFeNiNb0.25,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,thermal conductivity,EXP,None,673.0,74.375,None,W/(m K),F4,10.3390/cryst10090762
+Nb0.45,CoCrFeNiNb0.45,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; eutectic,thermal conductivity,EXP,None,673.0,56.09375,None,W/(m K),F4,10.3390/cryst10090762
+Nb0,CoCrFeNi,FCC,AAM,None,thermal conductivity,EXP,None,773.0,103.59375,None,W/(m K),F4,10.3390/cryst10090762
+Nb0.25,CoCrFeNiNb0.25,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,thermal conductivity,EXP,None,773.0,92.1875,None,W/(m K),F4,10.3390/cryst10090762
+Nb0.45,CoCrFeNiNb0.45,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; eutectic,thermal conductivity,EXP,None,773.0,66.09375,None,W/(m K),F4,10.3390/cryst10090762
+Nb0,CoCrFeNi,FCC,AAM,None,hardness,EXP,None,298.0,1372652006.6889586,None,Pa,F5,10.1016/j.jmst.2016.09.016
+Nb0.25,CoCrFeNiNb0.25,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,hardness,EXP,None,298.0,2986379096.9899654,None,Pa,F5,10.1016/j.jmst.2016.09.016
+Nb0.45,CoCrFeNiNb0.45,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,hardness,EXP,None,298.0,5033057357.85953,None,Pa,F5,10.1016/j.jmst.2016.09.016
+Nb0.5,CoCrFeNiNb0.5,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,hardness,EXP,None,298.0,4993698160.53511,None,Pa,F5,10.1016/j.jmst.2016.09.016
+Nb0.75,CoCrFeNiNb0.75,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,hardness,EXP,None,298.0,5859600501.672235,None,Pa,F5,10.1016/j.jmst.2016.09.016
+Nb1.0,CoCrFeNiNb1,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,hardness,EXP,None,298.0,5879280100.334445,None,Pa,F5,10.1016/j.jmst.2016.09.016
+Nb1.2,CoCrFeNiNb1.2,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,hardness,EXP,None,298.0,8024356354.515041,None,Pa,F5,10.1016/j.jmst.2016.09.016
+Nb0,CoCrFeNi,FCC,AAM,None,compressive yield stress,EXP,1e-3 strain rate,298.0,145000000.0,None,Pa,T3,10.1016/j.jmst.2016.09.016
+Nb0.25,CoCrFeNiNb0.25,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,compressive yield stress,EXP,1e-3 strain rate,298.0,423000000.0,None,Pa,T3,10.1016/j.jmst.2016.09.016
+Nb0.45,CoCrFeNiNb0.45,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,compressive yield stress,EXP,1e-3 strain rate,298.0,1475000000.0,None,Pa,T3,10.1016/j.jmst.2016.09.016
+Nb0.5,CoCrFeNiNb0.5,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,compressive yield stress,EXP,1e-3 strain rate,298.0,1414000000.0,None,Pa,T3,10.1016/j.jmst.2016.09.016
+Nb0,CoCrFeNi,FCC,AAM,None,minimum UCS,EXP,1e-3 strain rate,298.0,1600000000.0,None,Pa,T3,10.1016/j.jmst.2016.09.016
+Nb0.25,CoCrFeNiNb0.25,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,UCS,EXP,1e-3 strain rate,298.0,2016000000.0,None,Pa,T3,10.1016/j.jmst.2016.09.016
+Nb0.45,CoCrFeNiNb0.45,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,UCS,EXP,1e-3 strain rate,298.0,2558000000.0,None,Pa,T3,10.1016/j.jmst.2016.09.016
+Nb0.5,CoCrFeNiNb0.5,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,UCS,EXP,1e-3 strain rate,298.0,2276000000.0,None,Pa,T3,10.1016/j.jmst.2016.09.016
+Nb0.75,CoCrFeNiNb0.75,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,UCS,EXP,1e-3 strain rate,298.0,2078000000.0,None,Pa,T3,10.1016/j.jmst.2016.09.016
+Nb1.0,CoCrFeNiNb1,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,UCS,EXP,1e-3 strain rate,298.0,1198000000.0,None,Pa,T3,10.1016/j.jmst.2016.09.016
+Nb1.2,CoCrFeNiNb1.2,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,UCS,EXP,1e-3 strain rate,298.0,940000000.0,None,Pa,T3,10.1016/j.jmst.2016.09.016
+Nb0,CoCrFeNi,FCC,AAM,None,minimum compressive plastic strain,EXP,1e-3 strain rate,298.0,50.0,None,%,T3,10.1016/j.jmst.2016.09.016
+Nb0.25,CoCrFeNiNb0.25,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,compressive plastic strain,EXP,1e-3 strain rate,298.0,34.8,None,%,T3,10.1016/j.jmst.2016.09.016
+Nb0.45,CoCrFeNiNb0.45,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,compressive plastic strain,EXP,1e-3 strain rate,298.0,21.3,None,%,T3,10.1016/j.jmst.2016.09.016
+Nb0.5,CoCrFeNiNb0.5,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,compressive plastic strain,EXP,1e-3 strain rate,298.0,17.7,None,%,T3,10.1016/j.jmst.2016.09.016
+Nb0,CoCrFeNi,FCC,AAM,None,minimum compressive ductility,EXP,1e-3 strain rate,298.0,50.0,None,%,T3,10.1016/j.jmst.2016.09.016
+Nb0.25,CoCrFeNiNb0.25,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,compressive ductility,EXP,1e-3 strain rate,298.0,39.8,None,%,T3,10.1016/j.jmst.2016.09.016
+Nb0.45,CoCrFeNiNb0.45,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,compressive ductility,EXP,1e-3 strain rate,298.0,27.9,None,%,T3,10.1016/j.jmst.2016.09.016
+Nb0.5,CoCrFeNiNb0.5,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,compressive ductility,EXP,1e-3 strain rate,298.0,24.6,None,%,T3,10.1016/j.jmst.2016.09.016
+Nb0.75,CoCrFeNiNb0.75,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,compressive ductility,EXP,1e-3 strain rate,298.0,13.5,None,%,T3,10.1016/j.jmst.2016.09.016
+Nb1.0,CoCrFeNiNb1,FCC+C15,AAM,C15 is Co2Nb-type Laves phase; hypoeutectic,compressive ductility,EXP,1e-3 strain rate,298.0,6.8,None,%,T3,10.1016/j.jmst.2016.09.016
+HEA,CoCrFeNiCu,FCC+FCC,VIM+H,homogenized at 1373K for 12h,compressive yield stress,EXP,1e-3 strain rate,298.0,239300000.0,None,Pa,P2,10.1016/j.msea.2023.146002
+EHEA,CoCrFeNiCuNb,FCC+FCC+C15,VIM+H,homogenized at 1373K for 12h; C15 is Co2Nb-type Laves phase; eutectic,compressive yield stress,EXP,1e-3 strain rate,298.0,610800000.0,None,Pa,P2,10.1016/j.msea.2023.146002
+HEA,CoCrFeNiCu,FCC+FCC,VIM+H,homogenized at 1373K for 12h,minimum UCS,EXP,1e-3 strain rate,298.0,1600000000.0,None,Pa,F4,10.1016/j.msea.2023.146002
+EHEA,CoCrFeNiCuNb,FCC+FCC+C15,VIM+H,homogenized at 1373K for 12h; C15 is Co2Nb-type Laves phase; eutectic,UCS,EXP,1e-3 strain rate,298.0,1880600000.0,None,Pa,P2,10.1016/j.msea.2023.146002
+HEA,CoCrFeNiCu,FCC+FCC,VIM+H,homogenized at 1373K for 12h,minimum compressive ductility,EXP,1e-3 strain rate,298.0,50.0,None,%,F4,10.1016/j.msea.2023.146002
+EHEA,CoCrFeNiCuNb,FCC+FCC+C15,VIM+H,homogenized at 1373K for 12h; C15 is Co2Nb-type Laves phase; eutectic,compressive ductility,EXP,1e-3 strain rate,298.0,41.2,None,%,P2,10.1016/j.msea.2023.146002
