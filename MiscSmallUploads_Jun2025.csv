@@ -476,12 +476,12 @@ None,(Co0.4Fe0.3Ni0.3)97.5 (Al0.4Mn0.6)2.5,FCC,AAM,None,electrical resistivity,E
 None,(Co0.4Fe0.3Ni0.3)95 (Al0.4Mn0.6)5,FCC,AAM,None,electrical resistivity,EXP,None,298.0,4.699e-07,None,Ohm m,F8,10.1016/j.intermet.2024.108629
 None,(Co0.4Fe0.3Ni0.3)92.5 (Al0.4Mn0.6)7.5,FCC,AAM,None,electrical resistivity,EXP,None,298.0,5.837e-07,None,Ohm m,F8,10.1016/j.intermet.2024.108629
 None,(Co0.4Fe0.3Ni0.3)90 (Al0.4Mn0.6)10,FCC,AAM,None,electrical resistivity,EXP,None,298.0,7.305e-07,None,Ohm m,F8,10.1016/j.intermet.2024.108629
-None,(Co0.4Fe0.3Ni0.3)100,FCC,AAM,None,saturation induction,EXP,None,298.0,1.6100970874,None,T,F6,10.1016/j.intermet.2024.108629
-None,(Co0.4Fe0.3Ni0.3)97.5 (Al0.4Mn0.6)2.5,FCC,AAM,None,saturation induction,EXP,None,298.0,1.5316504854,None,T,F6,10.1016/j.intermet.2024.108629
-None,(Co0.4Fe0.3Ni0.3)95 (Al0.4Mn0.6)5,FCC,AAM,None,saturation induction,EXP,None,298.0,1.44,None,T,F6,10.1016/j.intermet.2024.108629
-None,(Co0.4Fe0.3Ni0.3)92.5 (Al0.4Mn0.6)7.5,FCC,AAM,None,saturation induction,EXP,None,298.0,1.3398058252,None,T,F6,10.1016/j.intermet.2024.108629
-None,(Co0.4Fe0.3Ni0.3)90 (Al0.4Mn0.6)10,FCC,AAM,None,saturation induction,EXP,None,298.0,1.200776699,None,T,F6,10.1016/j.intermet.2024.108629
-None,(Co0.4Fe0.3Ni0.3)95 (Al0.4Mn0.6)5,FCC,AAM+A,annealed in Ar at 1173K for 2h and furnance cooled "to study phase stability",saturation induction,EXP,None,298.0,1.4798657718,None,T,F6,10.1016/j.intermet.2024.108629
-None,(Co0.4Fe0.3Ni0.3)95 (Al0.4Mn0.6)5,FCC,AAM+A,annealed in Ar at 1273K for 2h and furnance cooled "to study phase stability",saturation induction,EXP,None,298.0,1.4899328859,None,T,F6,10.1016/j.intermet.2024.108629
-None,(Co0.4Fe0.3Ni0.3)95 (Al0.4Mn0.6)5,FCC,AAM+A,annealed in Ar at 1373K for 2h and furnance cooled "to study phase stability",saturation induction,EXP,None,298.0,1.5001342282,None,T,F6,10.1016/j.intermet.2024.108629
-None,(Co0.4Fe0.3Ni0.3)95 (Al0.4Mn0.6)5,FCC,AAM+A,annealed in Ar at 1473K for 2h and furnance cooled "to study phase stability",saturation induction,EXP,None,298.0,1.5102013423,None,T,F6,10.1016/j.intermet.2024.108629
+None,(Co0.4Fe0.3Ni0.3)100,FCC,AAM,None,saturation magnetic induction,EXP,None,298.0,1.6100970874,None,T,F6,10.1016/j.intermet.2024.108629
+None,(Co0.4Fe0.3Ni0.3)97.5 (Al0.4Mn0.6)2.5,FCC,AAM,None,saturation magnetic induction,EXP,None,298.0,1.5316504854,None,T,F6,10.1016/j.intermet.2024.108629
+None,(Co0.4Fe0.3Ni0.3)95 (Al0.4Mn0.6)5,FCC,AAM,None,saturation magnetic induction,EXP,None,298.0,1.44,None,T,F6,10.1016/j.intermet.2024.108629
+None,(Co0.4Fe0.3Ni0.3)92.5 (Al0.4Mn0.6)7.5,FCC,AAM,None,saturation magnetic induction,EXP,None,298.0,1.3398058252,None,T,F6,10.1016/j.intermet.2024.108629
+None,(Co0.4Fe0.3Ni0.3)90 (Al0.4Mn0.6)10,FCC,AAM,None,saturation magnetic induction,EXP,None,298.0,1.200776699,None,T,F6,10.1016/j.intermet.2024.108629
+None,(Co0.4Fe0.3Ni0.3)95 (Al0.4Mn0.6)5,FCC,AAM+A,annealed in Ar at 1173K for 2h and furnance cooled "to study phase stability",saturation magnetic induction,EXP,None,298.0,1.4798657718,None,T,F6,10.1016/j.intermet.2024.108629
+None,(Co0.4Fe0.3Ni0.3)95 (Al0.4Mn0.6)5,FCC,AAM+A,annealed in Ar at 1273K for 2h and furnance cooled "to study phase stability",saturation magnetic induction,EXP,None,298.0,1.4899328859,None,T,F6,10.1016/j.intermet.2024.108629
+None,(Co0.4Fe0.3Ni0.3)95 (Al0.4Mn0.6)5,FCC,AAM+A,annealed in Ar at 1373K for 2h and furnance cooled "to study phase stability",saturation magnetic induction,EXP,None,298.0,1.5001342282,None,T,F6,10.1016/j.intermet.2024.108629
+None,(Co0.4Fe0.3Ni0.3)95 (Al0.4Mn0.6)5,FCC,AAM+A,annealed in Ar at 1473K for 2h and furnance cooled "to study phase stability",saturation magnetic induction,EXP,None,298.0,1.5102013423,None,T,F6,10.1016/j.intermet.2024.108629
