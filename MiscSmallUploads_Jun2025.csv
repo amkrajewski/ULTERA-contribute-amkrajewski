@@ -669,8 +669,8 @@ Ti0,Al0.5CrFeMn0.8Ni2.1 ,FCC,AAM,None,minimum compressive ductility,EXP,5e-4 str
 Ti0.5,Al0.5CrFeMn0.8Ni2.1Ti0.5 ,FCC+BCC+BCC,AAM,None,compressive ductility,EXP,5e-4 strain rate,298.0,12.3,None,%,F6b,10.1007/s12540-020-00620-0
 Ti1.0,Al0.5CrFeMn0.8Ni2.1Ti1.0,FCC+BCC+BCC+chi,AAM,chi-phase is Cr13Fe35Ni3Ti7,compressive ductility,EXP,5e-4 strain rate,298.0,8.2,None,%,F6b,10.1007/s12540-020-00620-0
 Ti1.5,Al0.5CrFeMn0.8Ni2.1Ti1.5,BCC+BCC+C14,AAM,C14 is approximately Fe2Ti compound in MgZn2-type laves phase,compressive ductility,EXP,5e-4 strain rate,298.0,0.96,None,%,F6b,10.1007/s12540-020-00620-0
-None,AlCuNiMnAg,FCC,AAM,Rockwell B of 97 converted to Vickers,macrohardness,EXP,Rockwell B,298.0,2226189000.0,None,Pa,T6,10.21203/rs.3.rs-3716509
-None,AlCuNiMnAg,FCC,AAM,average Vickers hardness over 3 regions,microhardness,EXP,None,298.0,3968566000.0,None,Pa,T6,10.21203/rs.3.rs-3716509
+None,AlCuNiMnAg,FCC,AAM,Rockwell B of 97 converted to Vickers,macrohardness,EXP,Rockwell B,298.0,2226189000.0,None,Pa,T6,10.21203/rs.3.rs-3716509/v1
+None,AlCuNiMnAg,FCC,AAM,average Vickers hardness over 3 regions,microhardness,EXP,None,298.0,3968566000.0,None,Pa,T6,10.21203/rs.3.rs-3716509/v1
 None,CoCrFeNiTi0.5,FCC+R+sigma+C15,AIM,bulk sample; liquid maintained at 1550*C for 15min and poured into a preheated ZrO2-coated MgO cruicible; C15 is Co2Ti-type laves; R is hR7; sigma is FeCr-type tP30; hardness converted from HRC of 52,macrohardness,EXP,Rockwell C,298.0,5384043000.0,None,Pa,T5,10.1016/j.intermet.2013.08.016
 None,CoCrFeNiTi0.5,FCC+R+sigma+C15,AIM,bulk sample; liquid maintained at 1550*C for 15min and poured into a preheated ZrO2-coated MgO cruicible; C15 is Co2Ti-type laves; R is hR7; sigma is FeCr-type tP30,microhardness,EXP,None,298.0,6048957600.0,None,Pa,T5,10.1016/j.intermet.2013.08.016
 None,CoCrFeNiTi0.5,FCC+R+sigma,AIM+A,bulk sample; liquid maintained at 1550*C for 15min and poured into a preheated ZrO2-coated MgO cruicible; R is hR7; sigma is FeCr-type tP30; annealed at 1273K for 6h and furnace cooled; hardness converted from HRC of 48.5,macrohardness,EXP,Rockwell C,298.0,4805430000.0,None,Pa,T5,10.1016/j.intermet.2013.08.016
