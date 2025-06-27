@@ -144,26 +144,26 @@ id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Proper
 137,Co20 Cr20 Fe20 Ni20 Mn20 ,None,None,None,hardness,EXP,None,298,1422015000.0,None,Pa,E,10.1002/adma.202004029
 138,Al5 Cr12 Fe35 Ni20 Mn28 ,None,None,None,hardness,EXP,None,298,3520712999.9999995,None,Pa,E,10.1126/sciadv.aaz4748
 139,Al11.11 Cr22.22 Fe33.33 Ni11.11 Mn22.22 ,None,None,None,hardness,EXP,None,298,3883572000.0,None,Pa,E,10.1103/PhysRevLett.87.156401
-140,Al14.5 Co17.1 Cr17.1 Cu17.1 Fe17.1 Ni17.1 ,None,None,None,hardness,EXP,None,298,2657696999.9999995,None,Pa,E,10.1103/PhysRevLett.65.353
-141,Al16.7 Co16.7 Cr16.7 Cu16.7 Fe16.7 Ni16.7 ,None,None,None,hardness,EXP,None,298,3981642000.0,None,Pa,E,10.1103/PhysRevLett.65.353
-142,Al19.4 Co16.12 Cr16.12 Cu16.12 Fe16.12 Ni16.12 ,None,None,None,hardness,EXP,None,298,4717167000.0,None,Pa,E,10.1103/PhysRevLett.65.353
-143,Al35.1 Co12.99 Cr12.99 Cu12.99 Fe12.99 Ni12.99 ,None,None,None,hardness,EXP,None,298,6482426999.999999,None,Pa,E,10.1103/PhysRevLett.65.353
-144,Al11.1 Co22.2 Cr22.2 Fe22.2 Ni22.2 ,None,None,None,hardness,EXP,None,298,2353680000.0,None,Pa,E,10.1103/PhysRevLett.65.353
-145,Al14.9 Co21.3 Cr21.3 Fe21.3 Ni21.3 ,None,None,None,hardness,EXP,None,298,3216696000.0,None,Pa,E,10.1103/PhysRevLett.65.353
-146,Al16.7 Co20.9 Cr20.9 Fe20.9 Ni20.9 ,None,None,None,hardness,EXP,None,298,3716853000.0,None,Pa,E,10.1103/PhysRevLett.65.353
-147,Al23.1 Co19.2 Cr19.2 Fe19.2 Ni19.2 ,None,None,None,hardness,EXP,None,298,4717167000.0,None,Pa,E,10.1103/PhysRevLett.65.353
-148,Al27.3 Co18.2 Cr18.2 Fe18.2 Ni18.2 ,None,None,None,hardness,EXP,None,298,4746588000.0,None,Pa,E,10.1103/PhysRevLett.65.353
-149,Al45.2 Co13.7 Cr13.7 Fe13.7 Ni13.7 ,None,None,None,hardness,EXP,None,298,7257180000.0,None,Pa,E,10.1103/PhysRevLett.65.353
-150,Al5.7 Cr18.7 Cu18.7 Fe18.7 Ni37.4 ,None,None,None,hardness,EXP,None,298,1657383000.0,None,Pa,E,10.1103/PhysRevLett.65.353
-151,Al7.4 Cr18.5 Cu18.5 Fe18.5 Ni37 ,None,None,None,hardness,EXP,None,298,1961400000.0,None,Pa,E,10.1103/PhysRevLett.65.353
-152,Al9.1 Cr18.1 Cu18.1 Fe18.1 Ni36.2 ,None,None,None,hardness,EXP,None,298,2353680000.0,None,Pa,E,10.1103/PhysRevLett.65.353
-153,Al12.3 Cr17.5 Cu17.5 Fe17.5 Ni35 ,None,None,None,hardness,EXP,None,298,2853837000.0,None,Pa,E,10.1103/PhysRevLett.65.353
-154,Al13.8 Cr17.2 Cu17.2 Fe17.2 Ni34.4 ,None,None,None,hardness,EXP,None,298,3157854000.0,None,Pa,E,10.1103/PhysRevLett.65.353
-155,Al15.3 Cr16.9 Cu16.9 Fe16.9 Ni33.8 ,None,None,None,hardness,EXP,None,298,3314766000.0,None,Pa,E,10.1103/PhysRevLett.65.353
-156,Al16.7 Cr16.7 Cu16.7 Fe16.7 Ni33.4 ,None,None,None,hardness,EXP,None,298,3814923000.0,None,Pa,E,10.1103/PhysRevLett.65.353
-157,Al19.4 Cr16.1 Cu16.1 Fe16.1 Ni32.2 ,None,None,None,hardness,EXP,None,298,5119254000.0,None,Pa,E,10.1103/PhysRevLett.65.353
-158,Al28.6 Cr14.3 Cu14.3 Fe14.3 Ni28.6 ,None,None,None,hardness,EXP,None,298,5609604000.0,None,Pa,E,10.1103/PhysRevLett.65.353
-159,Al33.3 Cr13.3 Cu13.3 Fe13.3 Ni26.6 ,None,None,None,hardness,EXP,None,298,5884200000.0,None,Pa,E,10.1103/PhysRevLett.65.353
+140,Al14.5 Co17.1 Cr17.1 Cu17.1 Fe17.1 Ni17.1 ,None,None,None,hardness,EXP,None,298,2657696999.9999995,None,Pa,E,10.1007/s11837-013-0776-z
+141,Al16.7 Co16.7 Cr16.7 Cu16.7 Fe16.7 Ni16.7 ,None,None,None,hardness,EXP,None,298,3981642000.0,None,Pa,E,10.1007/s11837-013-0776-z
+142,Al19.4 Co16.12 Cr16.12 Cu16.12 Fe16.12 Ni16.12 ,None,None,None,hardness,EXP,None,298,4717167000.0,None,Pa,E,10.1007/s11837-013-0776-z
+143,Al35.1 Co12.99 Cr12.99 Cu12.99 Fe12.99 Ni12.99 ,None,None,None,hardness,EXP,None,298,6482426999.999999,None,Pa,E,10.1007/s11837-013-0776-z
+144,Al11.1 Co22.2 Cr22.2 Fe22.2 Ni22.2 ,None,None,None,hardness,EXP,None,298,2353680000.0,None,Pa,E,10.1007/s11837-013-0776-z
+145,Al14.9 Co21.3 Cr21.3 Fe21.3 Ni21.3 ,None,None,None,hardness,EXP,None,298,3216696000.0,None,Pa,E,10.1007/s11837-013-0776-z
+146,Al16.7 Co20.9 Cr20.9 Fe20.9 Ni20.9 ,None,None,None,hardness,EXP,None,298,3716853000.0,None,Pa,E,10.1007/s11837-013-0776-z
+147,Al23.1 Co19.2 Cr19.2 Fe19.2 Ni19.2 ,None,None,None,hardness,EXP,None,298,4717167000.0,None,Pa,E,10.1007/s11837-013-0776-z
+148,Al27.3 Co18.2 Cr18.2 Fe18.2 Ni18.2 ,None,None,None,hardness,EXP,None,298,4746588000.0,None,Pa,E,10.1007/s11837-013-0776-z
+149,Al45.2 Co13.7 Cr13.7 Fe13.7 Ni13.7 ,None,None,None,hardness,EXP,None,298,7257180000.0,None,Pa,E,10.1007/s11837-013-0776-z
+150,Al5.7 Cr18.7 Cu18.7 Fe18.7 Ni37.4 ,None,None,None,hardness,EXP,None,298,1657383000.0,None,Pa,E,10.1007/s11837-013-0776-z
+151,Al7.4 Cr18.5 Cu18.5 Fe18.5 Ni37 ,None,None,None,hardness,EXP,None,298,1961400000.0,None,Pa,E,10.1007/s11837-013-0776-z
+152,Al9.1 Cr18.1 Cu18.1 Fe18.1 Ni36.2 ,None,None,None,hardness,EXP,None,298,2353680000.0,None,Pa,E,10.1007/s11837-013-0776-z
+153,Al12.3 Cr17.5 Cu17.5 Fe17.5 Ni35 ,None,None,None,hardness,EXP,None,298,2853837000.0,None,Pa,E,10.1007/s11837-013-0776-z
+154,Al13.8 Cr17.2 Cu17.2 Fe17.2 Ni34.4 ,None,None,None,hardness,EXP,None,298,3157854000.0,None,Pa,E,10.1007/s11837-013-0776-z
+155,Al15.3 Cr16.9 Cu16.9 Fe16.9 Ni33.8 ,None,None,None,hardness,EXP,None,298,3314766000.0,None,Pa,E,10.1007/s11837-013-0776-z
+156,Al16.7 Cr16.7 Cu16.7 Fe16.7 Ni33.4 ,None,None,None,hardness,EXP,None,298,3814923000.0,None,Pa,E,10.1007/s11837-013-0776-z
+157,Al19.4 Cr16.1 Cu16.1 Fe16.1 Ni32.2 ,None,None,None,hardness,EXP,None,298,5119254000.0,None,Pa,E,10.1007/s11837-013-0776-z
+158,Al28.6 Cr14.3 Cu14.3 Fe14.3 Ni28.6 ,None,None,None,hardness,EXP,None,298,5609604000.0,None,Pa,E,10.1007/s11837-013-0776-z
+159,Al33.3 Cr13.3 Cu13.3 Fe13.3 Ni26.6 ,None,None,None,hardness,EXP,None,298,5884200000.0,None,Pa,E,10.1007/s11837-013-0776-z
 160,Co5 Cr23.75 Fe23.75 Ni23.75 Mn23.75 ,None,None,None,hardness,EXP,None,298,1510278000.0,None,Pa,E,10.1038/s41524-019-0151-x
 161,Al20 Co20 Cr20 Cu20 Ni20 ,None,None,None,hardness,EXP,None,298,4109133000.0,None,Pa,E,10.1103/PhysRevLett.116.105501
 162,Al43 Co6 Cr33 Cu6 Fe6 Ni6 ,None,None,None,hardness,EXP,None,298,7492548000.0,None,Pa,E,10.1038/s41467-018-03846-0
