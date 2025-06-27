@@ -147,3 +147,28 @@ None,FeCoNi,FCC,RFICP,0.5g sample deposited with 1100W RF-ICP torch for 40s and 
 None,FeCoNiCu,FCC+FCC,RFICP,0.5g sample deposited with 1100W RF-ICP torch for 40s and cooled over 15s,None,None,None,None,None,None,None,F3,10.1002/adem.202001116
 None,FeCoNiCuAl,FCC+BCC+FCC,RFICP,0.5g sample deposited with 1100W RF-ICP torch for 40s and cooled over 15s,None,None,None,None,None,None,None,F3,10.1002/adem.202001116
 None,FeCoNiCuTi,FCC+FCC+BCC+laves,RFICP,0.5g sample deposited with 1100W RF-ICP torch for 40s and cooled over 15s,None,None,None,None,None,None,None,F3,10.1002/adem.202001116
+None,Ti22Zr11Nb23Mo16V28,FCC,SD,None,corrosion potential,EXP,None,298.0,0.0817,None,V,T1,10.1016/j.surfcoat.2025.131978
+None,Ti34Zr15Nb24Mo4V23,None,SD,None,corrosion potential,EXP,None,298.0,-0.0026,None,V,T1,10.1016/j.surfcoat.2025.131978
+None,Ti44Zr15Nb28Mo3V10,None,SD,None,corrosion potential,EXP,None,298.0,-0.0224,None,V,T1,10.1016/j.surfcoat.2025.131978
+None,Ti35Zr14Nb28Mo7V16,None,SD,None,corrosion potential,EXP,None,298.0,0.0138,None,V,T1,10.1016/j.surfcoat.2025.131978
+None,Ti22Zr11Nb23Mo16V28,FCC,SD,None,pitting potential,EXP,None,298.0,1.6756,None,V,T1,10.1016/j.surfcoat.2025.131978
+None,Ti34Zr15Nb24Mo4V23,None,SD,None,pitting potential,EXP,None,298.0,1.7216,None,V,T1,10.1016/j.surfcoat.2025.131978
+None,Ti44Zr15Nb28Mo3V10,None,SD,None,pitting potential,EXP,None,298.0,1.6817,None,V,T1,10.1016/j.surfcoat.2025.131978
+None,Ti35Zr14Nb28Mo7V16,None,SD,None,pitting potential,EXP,None,298.0,1.9311,None,V,T1,10.1016/j.surfcoat.2025.131978
+None,Ti22Zr11Nb23Mo16V28,FCC,SD,None,corrosion current density,EXP,None,298.0,0.00106,None,A/m^2,T1,10.1016/j.surfcoat.2025.131978
+0Mn,Fe56 Cr20 Ni20 Si4,FCC,VAM+VIM+H+WQ+CR+RX+WQ,homogenized at 1473K for 4h in Ar followed by water quench then cold-rolled with 80% reduction and recrystallized at 1473K for 2min and quenched again,corrosion potential,EXP,None,298.0,-0.25,0.018,V,F2,10.1016/j.corsci.2025.112978
+10Mn,Fe46 Cr20 Ni20 Si4 Mn10,FCC,VAM+VIM+H+WQ+CR+RX+WQ,homogenized at 1473K for 4h in Ar followed by water quench then cold-rolled with 80% reduction and recrystallized at 1473K for 2min and quenched again,corrosion potential,EXP,None,298.0,-0.247,0.009,V,F2,10.1016/j.corsci.2025.112978
+20Mn,Fe36 Cr20 Ni20 Si4 Mn20,FCC,VAM+VIM+H+WQ+CR+RX+WQ,homogenized at 1473K for 4h in Ar followed by water quench then cold-rolled with 80% reduction and recrystallized at 1473K for 2min and quenched again,corrosion potential,EXP,None,298.0,-0.269,0.012,V,F2,10.1016/j.corsci.2025.112978
+30Mn,Fe26 Cr20 Ni20 Si4 Mn30,FCC+BCC,VAM+VIM+H+WQ+CR+RX+WQ,homogenized at 1473K for 4h in Ar followed by water quench then cold-rolled with 80% reduction and recrystallized at 1473K for 2min and quenched again,corrosion potential,EXP,None,298.0,-0.345,0.011,V,F2,10.1016/j.corsci.2025.112978
+None,Fe16.6 Co19.4 Ni22.8 Cr20.4 Nb20.8,None,VIM,None,corrosion potential,EXP,None,298.0,-0.318,0.007,V,T2,10.1016/j.electacta.2025.146685
+None,Fe21.1 Co15.4 Ni21.6 Cr33.7 Mo8.2,None,VIM,None,corrosion potential,EXP,None,298.0,-0.281,0.016,V,T2,10.1016/j.electacta.2025.146685
+None,Fe16.4 Co16.7 Ni28.4 Cr21.4 Al3.6 Mo0.3 Nb13.2,None,VIM,None,corrosion potential,EXP,None,298.0,-0.315,0.009,V,T2,10.1016/j.electacta.2025.146685
+None,Fe6.4 Co21.2 Ni21.3 Cr29 Al3.8 Nb13.6 V4.7,None,VIM,None,corrosion potential,EXP,None,298.0,-0.34,0.007,V,T2,10.1016/j.electacta.2025.146685
+None,Fe14.1 Co15.5 Ni29.8 Cr21.5 Al3.9 Mo0.3 Nb14.9 ,None,VIM,None,corrosion potential,EXP,None,298.0,-0.305,0.006,V,T2,10.1016/j.electacta.2025.146685
+None,Fe5.7 Co14.8 Ni34.9 Cr26.1 Al4.2 Nb14.3,FCC+laves,VIM,None,corrosion potential,EXP,None,298.0,-0.306,0.004,V,T2,10.1016/j.electacta.2025.146685
+None,Fe16.6 Co19.4 Ni22.8 Cr20.4 Nb20.8,None,VIM,None,pitting potential,EXP,None,298.0,1.129,0.006,V,T2,10.1016/j.electacta.2025.146685
+None,Fe21.1 Co15.4 Ni21.6 Cr33.7 Mo8.2,None,VIM,None,pitting potential,EXP,None,298.0,0.92,0.007,V,T2,10.1016/j.electacta.2025.146685
+None,Fe16.4 Co16.7 Ni28.4 Cr21.4 Al3.6 Mo0.3 Nb13.2,None,VIM,None,pitting potential,EXP,None,298.0,1.145,0.022,V,T2,10.1016/j.electacta.2025.146685
+None,Fe6.4 Co21.2 Ni21.3 Cr29 Al3.8 Nb13.6 V4.7,None,VIM,None,pitting potential,EXP,None,298.0,0.938,0.003,V,T2,10.1016/j.electacta.2025.146685
+None,Fe14.1 Co15.5 Ni29.8 Cr21.5 Al3.9 Mo0.3 Nb14.9 ,None,VIM,None,pitting potential,EXP,None,298.0,1.164,0.002,V,T2,10.1016/j.electacta.2025.146685
+None,Fe5.7 Co14.8 Ni34.9 Cr26.1 Al4.2 Nb14.3,FCC+laves,VIM,None,pitting potential,EXP,None,298.0,1.17,0.005,V,T2,10.1016/j.electacta.2025.146685
