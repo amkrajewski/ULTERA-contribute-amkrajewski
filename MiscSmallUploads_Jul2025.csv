@@ -172,3 +172,41 @@ None,Fe16.4 Co16.7 Ni28.4 Cr21.4 Al3.6 Mo0.3 Nb13.2,None,VIM,None,pitting potent
 None,Fe6.4 Co21.2 Ni21.3 Cr29 Al3.8 Nb13.6 V4.7,None,VIM,None,pitting potential,EXP,None,298.0,0.938,0.003,V,T2,10.1016/j.electacta.2025.146685
 None,Fe14.1 Co15.5 Ni29.8 Cr21.5 Al3.9 Mo0.3 Nb14.9 ,None,VIM,None,pitting potential,EXP,None,298.0,1.164,0.002,V,T2,10.1016/j.electacta.2025.146685
 None,Fe5.7 Co14.8 Ni34.9 Cr26.1 Al4.2 Nb14.3,FCC+laves,VIM,None,pitting potential,EXP,None,298.0,1.17,0.005,V,T2,10.1016/j.electacta.2025.146685
+None,Ti35V35Nb10Mo20,BCC,AAM,None,hardness,EXP,None,298.0,3577593600.0,0.3648,Pa,F5b,10.1016/j.ijrmhm.2025.107349
+None,Ti35V35Nb10Mo20Al5,BCC,AAM,None,hardness,EXP,None,298.0,3942414000.0,0.402,Pa,F5b,10.1016/j.ijrmhm.2025.107349
+None,Ti35V35Nb10Mo20Al10,BCC,AAM,None,hardness,EXP,None,298.0,3750196800.0,0.3824,Pa,F5b,10.1016/j.ijrmhm.2025.107349
+None,Ti35V35Nb10Mo20Al15,BCC,AAM,None,hardness,EXP,None,298.0,3927703500.0,0.4005,Pa,F5b,10.1016/j.ijrmhm.2025.107349
+None,Ti35V35Nb10Mo20,BCC,AAM,None,compressive yield stress,EXP,1e-3 strain rate,298.0,904000000.0,None,Pa,F5a,10.1016/j.ijrmhm.2025.107349
+None,Ti35V35Nb10Mo20Al5,BCC,AAM,None,compressive yield stress,EXP,1e-3 strain rate,298.0,1025000000.0,None,Pa,F5a,10.1016/j.ijrmhm.2025.107349
+None,Ti35V35Nb10Mo20Al10,BCC,AAM,None,compressive yield stress,EXP,1e-3 strain rate,298.0,951000000.0,None,Pa,F5a,10.1016/j.ijrmhm.2025.107349
+None,Ti35V35Nb10Mo20Al15,BCC,AAM,None,compressive yield stress,EXP,1e-3 strain rate,298.0,1069000000.0,None,Pa,F5a,10.1016/j.ijrmhm.2025.107349
+None,Ti35V35Nb10Mo20,BCC,AAM,None,minimum UCS,EXP,1e-3 strain rate,298.0,2324000000.0,None,Pa,F5a,10.1016/j.ijrmhm.2025.107349
+None,Ti35V35Nb10Mo20Al5,BCC,AAM,None,minimum UCS,EXP,1e-3 strain rate,298.0,2194000000.0,None,Pa,F5a,10.1016/j.ijrmhm.2025.107349
+None,Ti35V35Nb10Mo20Al10,BCC,AAM,None,minimum UCS,EXP,1e-3 strain rate,298.0,2040000000.0,None,Pa,F5a,10.1016/j.ijrmhm.2025.107349
+None,Ti35V35Nb10Mo20Al15,BCC,AAM,None,UCS,EXP,1e-3 strain rate,298.0,1444000000.0,None,Pa,F5a,10.1016/j.ijrmhm.2025.107349
+None,Ti35V35Nb10Mo20,BCC,AAM,None,minimum compressive ductility,EXP,1e-3 strain rate,298.0,50.0,None,%,F5a,10.1016/j.ijrmhm.2025.107349
+None,Ti35V35Nb10Mo20Al5,BCC,AAM,None,minimum compressive ductility,EXP,1e-3 strain rate,298.0,50.0,None,%,F5a,10.1016/j.ijrmhm.2025.107349
+None,Ti35V35Nb10Mo20Al10,BCC,AAM,None,minimum compressive ductility,EXP,1e-3 strain rate,298.0,50.0,None,%,F5a,10.1016/j.ijrmhm.2025.107349
+None,Ti35V35Nb10Mo20Al15,BCC,AAM,None,compressive ductility,EXP,1e-3 strain rate,298.0,38.4,None,%,F5a,10.1016/j.ijrmhm.2025.107349
+None,Ti35V35Nb10Mo20,BCC,None,100-atom SQS from ATAT run with PAW-GGA-PBE in VASP,B/G ratio,DFT,None,None,3.62,None,None,T2,10.1016/j.ijrmhm.2025.107349
+None,Ti35V35Nb10Mo20Al5,BCC,None,105-atom SQS from ATAT run with PAW-GGA-PBE in VASP,B/G ratio,DFT,None,None,3.27,None,None,T2,10.1016/j.ijrmhm.2025.107349
+None,Ti35V35Nb10Mo20,BCC,None,100-atom SQS from ATAT run with PAW-GGA-PBE in VASP,reduced elastic modulus,DFT,None,None,123650000000.0,None,Pa,T2,10.1016/j.ijrmhm.2025.107349
+None,Ti35V35Nb10Mo20Al5,BCC,None,105-atom SQS from ATAT run with PAW-GGA-PBE in VASP,reduced elastic modulus,DFT,None,None,133200000000.0,None,Pa,T2,10.1016/j.ijrmhm.2025.107349
+None,Ti35V35Nb10Mo20,BCC,None,100-atom SQS from ATAT run with PAW-GGA-PBE in VASP,poissons ratio,DFT,None,None,0.374,None,None,T2,10.1016/j.ijrmhm.2025.107349
+None,Ti35V35Nb10Mo20Al5,BCC,None,105-atom SQS from ATAT run with PAW-GGA-PBE in VASP,poissons ratio,DFT,None,None,0.361,None,None,T2,10.1016/j.ijrmhm.2025.107349
+None,W Nb V2 Zr2 Cr Mo Ti,BCC+FCC+?+?,AAM,majority BCC with minorify FCC and one or two unidentified phases in XRD,hardness,EXP,None,298.0,7045839150.0,90224400.0,Pa,T2,10.1016/j.intermet.2025.108921
+None,W Nb V2 Zr2 Cr2 Mo Ti,BCC+FCC+?+?,AAM,majority BCC with minorify FCC and one or two unidentified phases in XRD,hardness,EXP,None,298.0,7083203820.0,152989200.0,Pa,T2,10.1016/j.intermet.2025.108921
+None,W Nb V2 Zr2 Cr Mo2 Ti ,BCC+FCC+?+?,AAM,majority BCC with minorify FCC and one or two unidentified phases in XRD,hardness,EXP,None,298.0,7188727140.0,175545300.0,Pa,T3,10.1016/j.intermet.2025.108921
+None,W Nb2 V2 Zr2 Cr2 Mo Ti ,BCC+FCC+?+?,AAM,majority BCC with minorify FCC and one or two unidentified phases in XRD,hardness,EXP,None,298.0,6902166600.0,164757600.0,Pa,T3,10.1016/j.intermet.2025.108921
+None,W Nb V2 Zr2 Cr Mo Ti,BCC+FCC+?+?,AAM,majority BCC with minorify FCC and one or two unidentified phases in XRD,compressive yield stress,EXP,1e-3 strain rate,298.0,1925000000.0,94000000.0,Pa,T2,10.1016/j.intermet.2025.108921
+None,W Nb V2 Zr2 Cr2 Mo Ti,BCC+FCC+?+?,AAM,majority BCC with minorify FCC and one or two unidentified phases in XRD,compressive yield stress,EXP,1e-3 strain rate,298.0,2029000000.0,77000000.0,Pa,T2,10.1016/j.intermet.2025.108921
+None,W Nb V2 Zr2 Cr Mo2 Ti ,BCC+FCC+?+?,AAM,majority BCC with minorify FCC and one or two unidentified phases in XRD,compressive yield stress,EXP,1e-3 strain rate,298.0,2080000000.0,41000000.0,Pa,T3,10.1016/j.intermet.2025.108921
+None,W Nb2 V2 Zr2 Cr2 Mo Ti ,BCC+FCC+?+?,AAM,majority BCC with minorify FCC and one or two unidentified phases in XRD,compressive yield stress,EXP,1e-3 strain rate,298.0,1988000000.0,72000000.0,Pa,T3,10.1016/j.intermet.2025.108921
+None,W Nb V2 Zr2 Cr Mo Ti,BCC+FCC+?+?,AAM,majority BCC with minorify FCC and one or two unidentified phases in XRD,compressive ductility,EXP,1e-3 strain rate,298.0,3.41,None,%,F10,10.1016/j.intermet.2025.108921
+None,W Nb V2 Zr2 Cr2 Mo Ti,BCC+FCC+?+?,AAM,majority BCC with minorify FCC and one or two unidentified phases in XRD,compressive ductility,EXP,1e-3 strain rate,298.0,2.61,None,%,F10,10.1016/j.intermet.2025.108921
+None,W Nb V2 Zr2 Cr Mo2 Ti ,BCC+FCC+?+?,AAM,majority BCC with minorify FCC and one or two unidentified phases in XRD,compressive ductility,EXP,1e-3 strain rate,298.0,3.72,None,%,F10,10.1016/j.intermet.2025.108921
+None,W Nb2 V2 Zr2 Cr2 Mo Ti ,BCC+FCC+?+?,AAM,majority BCC with minorify FCC and one or two unidentified phases in XRD,compressive ductility,EXP,1e-3 strain rate,298.0,3.26,None,%,F10,10.1016/j.intermet.2025.108921
+None,W Nb V2 Zr2 Cr Mo Ti,BCC+FCC+?+?,AAM,majority BCC with minorify FCC and one or two unidentified phases in XRD,UCS,EXP,1e-3 strain rate,298.0,2153000000.0,None,Pa,F10,10.1016/j.intermet.2025.108921
+None,W Nb V2 Zr2 Cr2 Mo Ti,BCC+FCC+?+?,AAM,majority BCC with minorify FCC and one or two unidentified phases in XRD,UCS,EXP,1e-3 strain rate,298.0,2031000000.0,None,Pa,F10,10.1016/j.intermet.2025.108921
+None,W Nb V2 Zr2 Cr Mo2 Ti ,BCC+FCC+?+?,AAM,majority BCC with minorify FCC and one or two unidentified phases in XRD,UCS,EXP,1e-3 strain rate,298.0,2429000000.0,None,Pa,F10,10.1016/j.intermet.2025.108921
+None,W Nb2 V2 Zr2 Cr2 Mo Ti ,BCC+FCC+?+?,AAM,majority BCC with minorify FCC and one or two unidentified phases in XRD,UCS,EXP,1e-3 strain rate,298.0,2087000000.0,None,Pa,F10,10.1016/j.intermet.2025.108921
