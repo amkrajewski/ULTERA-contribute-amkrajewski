@@ -267,3 +267,40 @@ Nb50,Ti33.333 Zr16.667 Nb50,BCC,AAM+CR+A+WQ,cold rolled to 50% reduction and ann
 None,ZrHfNbTaW,BCC+BCC,AAM,None,hardness,EXP,None,300.0,5491920000.0,None,Pa,None,10.1016/j.jallcom.2024.178274
 None,ZrHfNbTaW,BCC,AAM+HPT,cut into 10x0.8mm discs and then high pressure torsioned at RT under 6GPa with angular speed of 1rpm for 50 turns (best results with other reported too); torsion induced temperature raise negligable ,hardness,EXP,None,300.0,8434020000.0,None,Pa,None,10.1016/j.jallcom.2024.178274
 None,ZrHfNbTaW,BCC+BCC,AAM,None,density,EXP,None,300.0,1230.0,None,kg/m^3,None,10.1016/j.jallcom.2024.178274
+None,Hf15 Mo25 Nb20 Ta5 Ti35,BCC,VAM,None,hardness,EXP,None,298.0,4960000000.0,120000000.0,Pa,None,10.1016/j.actamat.2022.118132
+None,Hf15 Mo25 Nb20 Ta5 Ti35,BCC,VAM+H,homogenized ar 1363K for 1h; likely not full homogenization as noted by the authors,hardness,EXP,None,298.0,5320000000.0,380000000.0,Pa,None,10.1016/j.actamat.2022.118132
+None,Hf15 Mo25 Nb20 Ta5 Ti35,BCC,VAM,None,density,EXP,None,298.0,8860.0,None,kg/m^3,None,10.1016/j.actamat.2022.118132
+None,Hf15 Mo25 Nb20 Ta5 Ti35,BCC,VAM,None,minimum melting temperature,EXP,None,None,2273.0,None,K,None,10.1016/j.actamat.2022.118132
+None,ScTiZrHf,HCP,AAM+H,arc melted under flowing helium not argon; homogenized at 973K for 140h,electrical resistivity,EXP,None,5.0,1.095e-06,None,Ohm m,None,10.1016/j.intermet.2020.106802
+None,ScTiZrHf,HCP,AAM+H,arc melted under flowing helium not argon; homogenized at 973K for 140h,electrical resistivity,EXP,None,25.0,1.0971e-06,None,Ohm m,None,10.1016/j.intermet.2020.106802
+None,ScTiZrHf,HCP,AAM+H,arc melted under flowing helium not argon; homogenized at 973K for 140h,electrical resistivity,EXP,None,100.0,1.2207e-06,None,Ohm m,None,10.1016/j.intermet.2020.106802
+None,ScTiZrHf,HCP,AAM+H,arc melted under flowing helium not argon; homogenized at 973K for 140h,electrical resistivity,EXP,None,200.0,1.4118e-06,None,Ohm m,None,10.1016/j.intermet.2020.106802
+None,ScTiZrHf,HCP,AAM+H,arc melted under flowing helium not argon; homogenized at 973K for 140h,thermal conductivity,EXP,None,300.0,1.595e-06,None,Ohm m,None,10.1016/j.intermet.2020.106802
+None,ScTiZrHf,HCP,AAM+H,arc melted under flowing helium not argon; homogenized at 973K for 140h,thermal conductivity,EXP,None,298.0,6.8765008576,None,W / (K m),None,10.1016/j.intermet.2020.106802
+None,ScTiZrHf,HCP,AAM+H,arc melted under flowing helium not argon; homogenized at 973K for 140h,thermal conductivity,EXP,None,373.0,7.8644939966,None,W / (K m),None,10.1016/j.intermet.2020.106802
+None,ScTiZrHf,HCP,AAM+H,arc melted under flowing helium not argon; homogenized at 973K for 140h,thermal conductivity,EXP,None,423.0,8.3927958834,None,W / (K m),None,10.1016/j.intermet.2020.106802
+None,ScTiZrHf,HCP,AAM+H,arc melted under flowing helium not argon; homogenized at 973K for 140h,thermal conductivity,EXP,None,473.0,9.051457976,None,W / (K m),None,10.1016/j.intermet.2020.106802
+None,ScTiZrHf,HCP,AAM+H,arc melted under flowing helium not argon; homogenized at 973K for 140h,thermal conductivity,EXP,None,523.0,9.4013722127,None,W / (K m),None,10.1016/j.intermet.2020.106802
+None,ScTiZrHf,HCP,AAM+H,arc melted under flowing helium not argon; homogenized at 973K for 140h,thermal conductivity,EXP,None,573.0,9.7855917667,None,W / (K m),None,10.1016/j.intermet.2020.106802
+None,ScTiZrHf,HCP,AAM+H,arc melted under flowing helium not argon; homogenized at 973K for 140h,thermal conductivity,EXP,None,623.0,10.4442538593,None,W / (K m),None,10.1016/j.intermet.2020.106802
+None,ScTiZrHf,HCP,AAM+H,arc melted under flowing helium not argon; homogenized at 973K for 140h,thermal conductivity,EXP,None,673.0,10.5814751286,None,W / (K m),None,10.1016/j.intermet.2020.106802
+None,ScTiZrHf,HCP,AAM+H,arc melted under flowing helium not argon; homogenized at 973K for 140h,thermal conductivity,EXP,None,723.0,11.0068610635,None,W / (K m),None,10.1016/j.intermet.2020.106802
+Sc0.2,AlCoCrFeNi2.1 Sc0.2,FCC+B2+Ni2Sc,AAM+SR,stress relief annealing at 473K for 3h,corrosion potential,EXP,3.5% NaCl,298.0,-0.355,None,V,T5,10.1080/02670836.2023.2196473
+Y0.2,AlCoCrFeNi2.1 Y0.2,FCC+B2+HCP+laves,AAM+SR,stress relief annealing at 473K for 3h,corrosion potential,EXP,3.5% NaCl,298.0,-0.247,None,V,T5,10.1080/02670836.2023.2196473
+La0.2,AlCoCrFeNi2.1 La0.2,FCC+BCC+laves,AAM+SR,stress relief annealing at 473K for 3h,corrosion potential,EXP,3.5% NaCl,298.0,-0.386,None,V,T5,10.1080/02670836.2023.2196473
+Sc0.2,AlCoCrFeNi2.1 Sc0.2,FCC+B2+Ni2Sc,AAM+SR,stress relief annealing at 473K for 3h,corrosion current density,EXP,3.5% NaCl,298.0,0.009134,None,A/m^2,T5,10.1080/02670836.2023.2196473
+Y0.2,AlCoCrFeNi2.1 Y0.2,FCC+B2+HCP+laves,AAM+SR,stress relief annealing at 473K for 3h,corrosion current density,EXP,3.5% NaCl,298.0,0.0008223,None,A/m^2,T5,10.1080/02670836.2023.2196473
+La0.2,AlCoCrFeNi2.1 La0.2,FCC+BCC+laves,AAM+SR,stress relief annealing at 473K for 3h,corrosion current density,EXP,3.5% NaCl,298.0,0.02449,None,A/m^2,T5,10.1080/02670836.2023.2196473
+None,AlCoCrFeNi2.1,FCC+B2,AAM+SR,stress relief annealing at 473K for 3h,hardness,EXP,None,298.0,3292209900.0,None,Pa,F8,10.1080/02670836.2023.2196473
+Sc0.2,AlCoCrFeNi2.1 Sc0.2,FCC+B2+Ni2Sc,AAM+SR,stress relief annealing at 473K for 3h,hardness,EXP,None,298.0,3904166700.0,None,Pa,F8,10.1080/02670836.2023.2196473
+Y0.2,AlCoCrFeNi2.1 Y0.2,FCC+B2+HCP+laves,AAM+SR,stress relief annealing at 473K for 3h,hardness,EXP,None,298.0,3956143800.0,None,Pa,F8,10.1080/02670836.2023.2196473
+La0.2,AlCoCrFeNi2.1 La0.2,FCC+BCC+laves,AAM+SR,stress relief annealing at 473K for 3h,hardness,EXP,None,298.0,3676644300.0,None,Pa,F8,10.1080/02670836.2023.2196473
+Sc0.2,AlCoCrFeNi2.1 Sc0.2,FCC+B2+Ni2Sc,AAM+SR,stress relief annealing at 473K for 3h,compressive yield stress,EXP,3e-3 strain rate,298.0,1003000000.0,None,Pa,F8,10.1080/02670836.2023.2196473
+Y0.2,AlCoCrFeNi2.1 Y0.2,FCC+B2+HCP+laves,AAM+SR,stress relief annealing at 473K for 3h,compressive yield stress,EXP,3e-3 strain rate,298.0,940000000.0,None,Pa,F8,10.1080/02670836.2023.2196473
+La0.2,AlCoCrFeNi2.1 La0.2,FCC+BCC+laves,AAM+SR,stress relief annealing at 473K for 3h,compressive yield stress,EXP,3e-3 strain rate,298.0,624000000.0,None,Pa,F8,10.1080/02670836.2023.2196473
+Sc0.2,AlCoCrFeNi2.1 Sc0.2,FCC+B2+Ni2Sc,AAM+SR,stress relief annealing at 473K for 3h,UCS,EXP,3e-3 strain rate,298.0,1902000000.0,None,Pa,F8,10.1080/02670836.2023.2196473
+Y0.2,AlCoCrFeNi2.1 Y0.2,FCC+B2+HCP+laves,AAM+SR,stress relief annealing at 473K for 3h,UCS,EXP,3e-3 strain rate,298.0,1482000000.0,None,Pa,F8,10.1080/02670836.2023.2196473
+La0.2,AlCoCrFeNi2.1 La0.2,FCC+BCC+laves,AAM+SR,stress relief annealing at 473K for 3h,UCS,EXP,3e-3 strain rate,298.0,1387000000.0,None,Pa,F8,10.1080/02670836.2023.2196473
+Sc0.2,AlCoCrFeNi2.1 Sc0.2,FCC+B2+Ni2Sc,AAM+SR,stress relief annealing at 473K for 3h,compressive ductility,EXP,3e-3 strain rate,298.0,27.2,None,%,F8,10.1080/02670836.2023.2196473
+Y0.2,AlCoCrFeNi2.1 Y0.2,FCC+B2+HCP+laves,AAM+SR,stress relief annealing at 473K for 3h,compressive ductility,EXP,3e-3 strain rate,298.0,21.7,None,%,F8,10.1080/02670836.2023.2196473
+La0.2,AlCoCrFeNi2.1 La0.2,FCC+BCC+laves,AAM+SR,stress relief annealing at 473K for 3h,compressive ductility,EXP,3e-3 strain rate,298.0,25.8,None,%,F8,10.1080/02670836.2023.2196473
