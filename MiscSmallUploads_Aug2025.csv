@@ -58,3 +58,57 @@ None,GaInSnBiZn,BCT+B10,VAM,BCT or A5 is beta-Sn phase and B10 is InBi intermeta
 None,SnPbInBiSb,BCT+B3+eta,AIM,molten at 953K for 20min with mechanical agitator inside resistance furnace under argon flow similar to induction melting process; BCT or A5 is beta-Sn and B3 is InSb ordered FCC intermetallic and eta is SnPbBi mixture occupying Pb7Bi3 complex superconducting eta phase,solidus temperature,EXP,None,None,353.1,None,K,F1a,10.1016/j.matlet.2022.132901
 None,SnPbInBiSb,BCT+B3+eta,AIM,molten at 953K for 20min with mechanical agitator inside resistance furnace under argon flow similar to induction melting process; BCT or A5 is beta-Sn and B3 is InSb ordered FCC intermetallic and eta is SnPbBi mixture occupying Pb7Bi3 complex superconducting eta phase,liquidus temperature,EXP,None,None,385.8,None,K,F1a,10.1016/j.matlet.2022.132901
 None,SnPbInBiSb,BCT+B3+eta,AIM,molten at 953K for 20min with mechanical agitator inside resistance furnace under argon flow similar to induction melting process; BCT or A5 is beta-Sn and B3 is InSb ordered FCC intermetallic and eta is SnPbBi mixture occupying Pb7Bi3 complex superconducting eta phase,contact angle on copper,EXP,None,453.0,39.8,None,degrees,F1c,10.1016/j.matlet.2022.132901
+None,DyGdLuTbY,HCP,None,AIMD simulations,liquidus temperature,DFT,None,None,1724.0,None,K,T2,10.1007/s11661-015-3091-1
+None,CoOsReRu,HCP,None,AIMD simulations,liquidus temperature,DFT,None,None,2901.0,None,K,T2,10.1007/s11661-015-3091-1
+None,MoPdRhRu,HCP,None,AIMD simulations,liquidus temperature,DFT,None,None,2168.0,None,K,T2,10.1007/s11661-015-3091-1
+None,CoFeReRu,HCP,AC,None,None,None,None,None,None,None,None,None,10.1007/s11661-015-3091-1
+None,CoReRuV,HCP+?+?,AC,None,None,None,None,None,None,None,None,None,10.1007/s11661-015-3091-1
+None,Ti20Zr20Pd20Cu20Ni20,amorphous,MS,melt spun 20um by 1.2mm ribbons,None,None,None,None,None,None,None,T3,10.2320/matertrans.M2012370
+None,Ti20Zr20Hf20Cu20Ni20,amorphous,MS,melt spun 20um by 1.2mm ribbons,None,None,None,None,None,None,None,T3,10.2320/matertrans.M2012370
+None,Al0.5TiZrPdCuNi,amorphous,MS,melt spun 20um by 1.2mm ribbons,None,None,None,None,None,None,None,T3,10.2320/matertrans.M2012370
+None,Al0.5TiZrHfCuNi,amorphous,MS,melt spun 20um by 1.2mm ribbons,None,None,None,None,None,None,None,T3,10.2320/matertrans.M2012370
+None,Ti20Zr20Pd20Cu20Ni20,FCC+HCP+laves+?,DC,1.5mm diameter rod cast sample,None,None,None,None,None,None,None,T3,10.2320/matertrans.M2012370
+None,Ti20Zr20Hf20Cu20Ni20,amorphous,DC,1.5mm diameter rod cast sample,None,None,None,None,None,None,None,T3,10.2320/matertrans.M2012370
+None,Al0.5TiZrPdCuNi,BCC,DC,1.5mm diameter rod cast sample,None,None,None,None,None,None,None,T3,10.2320/matertrans.M2012370
+None,Al0.5TiZrHfCuNi,FCC+laves,DC,1.5mm diameter rod cast sample,None,None,None,None,None,None,None,T3,10.2320/matertrans.M2012370
+None,Ti20Zr20Pd20Cu30Ni10,HCP+laves+laves+FCC+BCT+?,DC,1.5mm diameter rod cast sample,None,None,None,None,None,None,None,F4,10.2320/matertrans.M2012370
+None,TiZrHfPdCuNi,amorphous+HCP+laves,MS,melt spun 20um by 1.2mm ribbons,None,None,None,None,None,None,None,F1,10.2320/matertrans.M2012370
+None,Ti20Zr20Pd20Cu20Ni20,amorphous,MS,melt spun 20um by 1.2mm ribbons,glass transition temperature,EXP,None,None,755.0,None,K,T2,10.2320/matertrans.M2012370
+None,Cu,FCC,VAM,None,hardness,EXP,None,298.0,410764397.90575814,None,Pa,F6a,10.1016/j.matchemphys.2007.01.003
+None,CuNi,FCC,VAM,None,hardness,EXP,None,298.0,770183246.0732977,None,Pa,F6a,10.1016/j.matchemphys.2007.01.003
+None,CuNiAl,FCC+BCC,VAM,None,hardness,EXP,None,298.0,3737956020.942408,None,Pa,F6a,10.1016/j.matchemphys.2007.01.003
+None,CuNiAlCo,FCC+BCC,VAM,None,hardness,EXP,None,298.0,3429882722.5130796,None,Pa,F6a,10.1016/j.matchemphys.2007.01.003
+None,CuNiAlCoCr,FCC+BCC,VAM,None,hardness,EXP,None,298.0,4107643979.057592,None,Pa,F6a,10.1016/j.matchemphys.2007.01.003
+None,CuNiAlCoCrFe,FCC+BCC,VAM,None,hardness,EXP,None,298.0,4087105759.162297,None,Pa,F6a,10.1016/j.matchemphys.2007.01.003
+None,CuNiAlCoCrFeSi,FCC+BCC,VAM,None,hardness,EXP,None,298.0,5565857591.623028,None,Pa,F6a,10.1016/j.matchemphys.2007.01.003
+B-0,CuCoNiCrAl0.5Fe,FCC,VAM,None,hardness,EXP,None,298.0,2903550471.698112,None,Pa,F5,10.1007/s11661-004-0254-x
+B-0.2,CuCoNiCrAl0.5FeB0.2 ,FCC+boride,VAM,None,hardness,EXP,None,298.0,4144845283.0188656,None,Pa,F5,10.1007/s11661-004-0254-x
+B-0.6,CuCoNiCrAl0.5FeB0.6 ,FCC+boride,VAM,None,hardness,EXP,None,298.0,4938965566.037727,None,Pa,F5,10.1007/s11661-004-0254-x
+B-1.0,CuCoNiCrAl0.5FeB,L12+boride,VAM,None,hardness,EXP,None,298.0,7221097641.509433,None,Pa,F5,10.1007/s11661-004-0254-x
+B-0,CuCoNiCrAl0.5Fe,FCC,VAM,None,compressive yield stress,EXP,1e-3 strain rate,300.0,422421524.663677,None,Pa,F7,10.1007/s11661-004-0254-x
+B-0.2,CuCoNiCrAl0.5FeB0.2 ,FCC+boride,VAM,None,compressive yield stress,EXP,1e-3 strain rate,300.0,630493273.5426,None,Pa,F7,10.1007/s11661-004-0254-x
+B-0.6,CuCoNiCrAl0.5FeB0.6 ,FCC+boride,VAM,None,compressive yield stress,EXP,1e-3 strain rate,300.0,831390134.529148,None,Pa,F7,10.1007/s11661-004-0254-x
+B-1.0,CuCoNiCrAl0.5FeB,L12+boride,VAM,None,compressive yield stress,EXP,1e-3 strain rate,300.0,1168609865.47085,None,Pa,F7,10.1007/s11661-004-0254-x
+B-0,CuCoNiCrAl0.5Fe,FCC,VAM,None,compressive yield stress,EXP,1e-3 strain rate,573.0,413452914.798206,None,Pa,F7,10.1007/s11661-004-0254-x
+B-0.2,CuCoNiCrAl0.5FeB0.2 ,FCC+boride,VAM,None,compressive yield stress,EXP,1e-3 strain rate,573.0,664573991.03139,None,Pa,F7,10.1007/s11661-004-0254-x
+B-0.6,CuCoNiCrAl0.5FeB0.6 ,FCC+boride,VAM,None,compressive yield stress,EXP,1e-3 strain rate,573.0,1168609865.47085,None,Pa,F7,10.1007/s11661-004-0254-x
+B-1.0,CuCoNiCrAl0.5FeB,L12+boride,VAM,None,compressive yield stress,EXP,1e-3 strain rate,573.0,1376681614.34977,None,Pa,F7,10.1007/s11661-004-0254-x
+B-0,CuCoNiCrAl0.5Fe,FCC,VAM,None,compressive yield stress,EXP,1e-3 strain rate,773.0,424215246.636771,None,Pa,F7,10.1007/s11661-004-0254-x
+B-0.2,CuCoNiCrAl0.5FeB0.2 ,FCC+boride,VAM,None,compressive yield stress,EXP,1e-3 strain rate,773.0,716591928.251121,None,Pa,F7,10.1007/s11661-004-0254-x
+B-0.6,CuCoNiCrAl0.5FeB0.6 ,FCC+boride,VAM,None,compressive yield stress,EXP,1e-3 strain rate,773.0,1091479820.6278,None,Pa,F7,10.1007/s11661-004-0254-x
+B-1.0,CuCoNiCrAl0.5FeB,L12+boride,VAM,None,compressive yield stress,EXP,1e-3 strain rate,773.0,1342600896.86098,None,Pa,F7,10.1007/s11661-004-0254-x
+B-0,CuCoNiCrAl0.5Fe,FCC,VAM,None,compressive yield stress,EXP,1e-3 strain rate,973.0,449327354.260089,None,Pa,F7,10.1007/s11661-004-0254-x
+B-0.2,CuCoNiCrAl0.5FeB0.2 ,FCC+boride,VAM,None,compressive yield stress,EXP,1e-3 strain rate,973.0,580269058.295964,None,Pa,F7,10.1007/s11661-004-0254-x
+B-0.6,CuCoNiCrAl0.5FeB0.6 ,FCC+boride,VAM,None,compressive yield stress,EXP,1e-3 strain rate,973.0,817040358.744394,None,Pa,F7,10.1007/s11661-004-0254-x
+B-1.0,CuCoNiCrAl0.5FeB,L12+boride,VAM,None,compressive yield stress,EXP,1e-3 strain rate,973.0,1095067264.57399,None,Pa,F7,10.1007/s11661-004-0254-x
+B-0,CuCoNiCrAl0.5Fe,FCC,VAM,None,compressive yield stress,EXP,1e-3 strain rate,1173.0,233482805.602753,None,Pa,F7,10.1007/s11661-004-0254-x
+B-0.2,CuCoNiCrAl0.5FeB0.2 ,FCC+boride,VAM,None,compressive yield stress,EXP,1e-3 strain rate,1173.0,267563523.091542,None,Pa,F7,10.1007/s11661-004-0254-x
+B-0.6,CuCoNiCrAl0.5FeB0.6 ,FCC+boride,VAM,None,compressive yield stress,EXP,1e-3 strain rate,1173.0,235276527.575847,None,Pa,F7,10.1007/s11661-004-0254-x
+B-1.0,CuCoNiCrAl0.5FeB,L12+boride,VAM,None,compressive yield stress,EXP,1e-3 strain rate,1173.0,276532132.957013,None,Pa,F7,10.1007/s11661-004-0254-x
+B-0,CuCoNiCrAl0.5Fe,FCC,VAM,None,compressive yield stress,EXP,1e-3 strain rate,1373.0,73841549.9973723,None,Pa,F7,10.1007/s11661-004-0254-x
+B-0.2,CuCoNiCrAl0.5FeB0.2 ,FCC+boride,VAM,None,compressive yield stress,EXP,1e-3 strain rate,1373.0,37967110.535489,None,Pa,F7,10.1007/s11661-004-0254-x
+B-0.6,CuCoNiCrAl0.5FeB0.6 ,FCC+boride,VAM,None,compressive yield stress,EXP,1e-3 strain rate,1373.0,68460384.0780899,None,Pa,F7,10.1007/s11661-004-0254-x
+B-1.0,CuCoNiCrAl0.5FeB,L12+boride,VAM,None,compressive yield stress,EXP,1e-3 strain rate,1373.0,27204778.6969239,None,Pa,F7,10.1007/s11661-004-0254-x
+B-0.2,CuCoNiCrAl0.5FeB0.2 ,FCC+boride,VAM,None,compressive yield stress,EXP,1e-3 strain rate,1073.0,441554554.481677,None,Pa,F7,10.1007/s11661-004-0254-x
+B-0.6,CuCoNiCrAl0.5FeB0.6 ,FCC+boride,VAM,None,compressive yield stress,EXP,1e-3 strain rate,1073.0,504334823.539973,None,Pa,F7,10.1007/s11661-004-0254-x
+B-1.0,CuCoNiCrAl0.5FeB,L12+boride,VAM,None,compressive yield stress,EXP,1e-3 strain rate,1073.0,707025406.499614,None,Pa,F7,10.1007/s11661-004-0254-x
