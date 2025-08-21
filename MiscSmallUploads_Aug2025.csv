@@ -161,3 +161,31 @@ None,CoCrFeMnNi,FCC,VIM+HR+H+CW,hot rolled into a slab then homogenized at 1273K
 None,CoCrFeMnNi,FCC,SLM,SLM with 90W laser in Ar atmosphere with 0.6m/s scanning speed hatch distance of 80um and 25um layers for VED of 75 J/mm^3,fatigue limit,EXP,None,298.0,570000000.0,None,Pa,None,10.1016/j.addma.2020.101832
 None,CoCrFeMnNi,FCC,VIM+HR+H,hot rolled into a slab and homogenized at 1273K for 24h in Ar,fatigue limit,EXP,None,298.0,280000000.0,None,Pa,None,10.1016/j.intermet.2019.106486
 None,CoCrFeMnNi,FCC,VIM+HR+H,hot rolled into a slab and homogenized at 1273K for 24h in Ar,density,EXP,None,298.0,7753.0,None,kg/m^3,None,10.1016/j.intermet.2019.106486
+Al5,(Ti0.25Zr0.25Hf0.25Nb0.25)95 Al5,BCC,AAM,large arc melted 100g buttons remelted 10 times,hardness,EXP,None,298.0,2844030000.0,None,Pa,T3,10.1016/j.ijrmhm.2025.107379
+Al10,(Ti0.25Zr0.25Hf0.25Nb0.25)90 Al10,BCC,AAM,large arc melted 100g buttons remelted 10 times,hardness,EXP,None,298.0,3275538000.0,None,Pa,T3,10.1016/j.ijrmhm.2025.107379
+Al15,(Ti0.25Zr0.25Hf0.25Nb0.25)85 Al15,BCC,AAM,large arc melted 100g buttons remelted 10 times,hardness,EXP,None,298.0,3863958000.0,None,Pa,T3,10.1016/j.ijrmhm.2025.107379
+Al20,(Ti0.25Zr0.25Hf0.25Nb0.25)80 Al20,BCC+B2,AAM,large arc melted 100g buttons remelted 10 times,hardness,EXP,None,298.0,4256238000.0,None,Pa,T3,10.1016/j.ijrmhm.2025.107379
+Al5,(Ti0.25Zr0.25Hf0.25Nb0.25)95 Al5,BCC,AAM,large arc melted 100g buttons remelted 10 times,compressive yield stress,EXP,1e-3 strain rate,298.0,1073000000.0,None,Pa,T3,10.1016/j.ijrmhm.2025.107379
+Al10,(Ti0.25Zr0.25Hf0.25Nb0.25)90 Al10,BCC,AAM,large arc melted 100g buttons remelted 10 times,compressive yield stress,EXP,1e-3 strain rate,298.0,1198000000.0,None,Pa,T3,10.1016/j.ijrmhm.2025.107379
+Al15,(Ti0.25Zr0.25Hf0.25Nb0.25)85 Al15,BCC,AAM,large arc melted 100g buttons remelted 10 times,compressive yield stress,EXP,1e-3 strain rate,298.0,1424000000.0,None,Pa,T3,10.1016/j.ijrmhm.2025.107379
+Al20,(Ti0.25Zr0.25Hf0.25Nb0.25)80 Al20,BCC+B2,AAM,large arc melted 100g buttons remelted 10 times,compressive yield stress,EXP,1e-3 strain rate,298.0,1773000000.0,None,Pa,T3,10.1016/j.ijrmhm.2025.107379
+Al5,(Ti0.25Zr0.25Hf0.25Nb0.25)95 Al5,BCC,AAM,large arc melted 100g buttons remelted 10 times,minimum compressive ductility,EXP,1e-3 strain rate,298.0,50.0,None,%,T3,10.1016/j.ijrmhm.2025.107379
+Al10,(Ti0.25Zr0.25Hf0.25Nb0.25)90 Al10,BCC,AAM,large arc melted 100g buttons remelted 10 times,minimum compressive ductility,EXP,1e-3 strain rate,298.0,50.0,None,%,T3,10.1016/j.ijrmhm.2025.107379
+Al15,(Ti0.25Zr0.25Hf0.25Nb0.25)85 Al15,BCC,AAM,large arc melted 100g buttons remelted 10 times,minimum compressive ductility,EXP,1e-3 strain rate,298.0,50.0,None,%,T3,10.1016/j.ijrmhm.2025.107379
+Al20,(Ti0.25Zr0.25Hf0.25Nb0.25)80 Al20,BCC+B2,AAM,large arc melted 100g buttons remelted 10 times,compressive ductility,EXP,1e-3 strain rate,298.0,28.0,None,%,T3,10.1016/j.ijrmhm.2025.107379
+Al5,(Ti0.25Zr0.25Hf0.25Nb0.25)95 Al5,BCC,AAM,large arc melted 100g buttons remelted 10 times,minimum UCS,EXP,1e-3 strain rate,298.0,5900000000.0,None,Pa,T3,10.1016/j.ijrmhm.2025.107379
+Al10,(Ti0.25Zr0.25Hf0.25Nb0.25)90 Al10,BCC,AAM,large arc melted 100g buttons remelted 10 times,minimum UCS,EXP,1e-3 strain rate,298.0,6100000000.0,None,Pa,T3,10.1016/j.ijrmhm.2025.107379
+Al15,(Ti0.25Zr0.25Hf0.25Nb0.25)85 Al15,BCC,AAM,large arc melted 100g buttons remelted 10 times,minimum UCS,EXP,1e-3 strain rate,298.0,6600000000.0,None,Pa,T3,10.1016/j.ijrmhm.2025.107379
+Al20,(Ti0.25Zr0.25Hf0.25Nb0.25)80 Al20,BCC+B2,AAM,large arc melted 100g buttons remelted 10 times,UCS,EXP,1e-3 strain rate,298.0,1881000000.0,None,Pa,T3,10.1016/j.ijrmhm.2025.107379
+Al5,(Ti0.25Zr0.25Hf0.25Nb0.25)95 Al5,BCC,AAM,large arc melted 100g buttons remelted 10 times,compressive yield stress,EXP,None,1273.0,55000000.0,None,Pa,F7,10.1016/j.ijrmhm.2025.107379
+Al10,(Ti0.25Zr0.25Hf0.25Nb0.25)90 Al10,BCC,AAM,large arc melted 100g buttons remelted 10 times,compressive yield stress,EXP,None,1273.0,48000000.0,None,Pa,F7,10.1016/j.ijrmhm.2025.107379
+Al15,(Ti0.25Zr0.25Hf0.25Nb0.25)85 Al15,BCC,AAM,large arc melted 100g buttons remelted 10 times,compressive yield stress,EXP,None,1273.0,44000000.0,None,Pa,F7,10.1016/j.ijrmhm.2025.107379
+Al20,(Ti0.25Zr0.25Hf0.25Nb0.25)80 Al20,BCC+B2,AAM,large arc melted 100g buttons remelted 10 times,compressive yield stress,EXP,None,1273.0,77000000.0,None,Pa,F7,10.1016/j.ijrmhm.2025.107379
+Al5,(Ti0.25Zr0.25Hf0.25Nb0.25)95 Al5,BCC,AAM,large arc melted 100g buttons remelted 10 times,minimum compressive ductility,EXP,None,1273.0,70.0,None,%,F7,10.1016/j.ijrmhm.2025.107379
+Al10,(Ti0.25Zr0.25Hf0.25Nb0.25)90 Al10,BCC,AAM,large arc melted 100g buttons remelted 10 times,minimum compressive ductility,EXP,None,1273.0,70.0,None,%,F7,10.1016/j.ijrmhm.2025.107379
+Al15,(Ti0.25Zr0.25Hf0.25Nb0.25)85 Al15,BCC,AAM,large arc melted 100g buttons remelted 10 times,minimum compressive ductility,EXP,None,1273.0,70.0,None,%,F7,10.1016/j.ijrmhm.2025.107379
+Al20,(Ti0.25Zr0.25Hf0.25Nb0.25)80 Al20,BCC+B2,AAM,large arc melted 100g buttons remelted 10 times,minimum compressive ductility,EXP,None,1273.0,70.0,None,%,F7,10.1016/j.ijrmhm.2025.107379
+Al5,(Ti0.25Zr0.25Hf0.25Nb0.25)95 Al5,BCC,AAM,large arc melted 100g buttons remelted 10 times,UCS,EXP,None,1273.0,58000000.0,None,Pa,T4,10.1016/j.ijrmhm.2025.107379
+Al10,(Ti0.25Zr0.25Hf0.25Nb0.25)90 Al10,BCC,AAM,large arc melted 100g buttons remelted 10 times,UCS,EXP,None,1273.0,50000000.0,None,Pa,T4,10.1016/j.ijrmhm.2025.107379
+Al15,(Ti0.25Zr0.25Hf0.25Nb0.25)85 Al15,BCC,AAM,large arc melted 100g buttons remelted 10 times,UCS,EXP,None,1273.0,46000000.0,None,Pa,T4,10.1016/j.ijrmhm.2025.107379
+Al20,(Ti0.25Zr0.25Hf0.25Nb0.25)80 Al20,BCC+B2,AAM,large arc melted 100g buttons remelted 10 times,UCS,EXP,None,1273.0,80000000.0,None,Pa,T4,10.1016/j.ijrmhm.2025.107379
