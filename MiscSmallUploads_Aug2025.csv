@@ -189,3 +189,92 @@ Al5,(Ti0.25Zr0.25Hf0.25Nb0.25)95 Al5,BCC,AAM,large arc melted 100g buttons remel
 Al10,(Ti0.25Zr0.25Hf0.25Nb0.25)90 Al10,BCC,AAM,large arc melted 100g buttons remelted 10 times,UCS,EXP,None,1273.0,50000000.0,None,Pa,T4,10.1016/j.ijrmhm.2025.107379
 Al15,(Ti0.25Zr0.25Hf0.25Nb0.25)85 Al15,BCC,AAM,large arc melted 100g buttons remelted 10 times,UCS,EXP,None,1273.0,46000000.0,None,Pa,T4,10.1016/j.ijrmhm.2025.107379
 Al20,(Ti0.25Zr0.25Hf0.25Nb0.25)80 Al20,BCC+B2,AAM,large arc melted 100g buttons remelted 10 times,UCS,EXP,None,1273.0,80000000.0,None,Pa,T4,10.1016/j.ijrmhm.2025.107379
+Nb0,Al0.5CoCrFeNi,FCC,BM+LC(DED),ball milled for 5h to mix powders and laser cladded using 1100W laser with 6mm/s scanning speed and 4mm spot diameter feeding 10g/min onto H13 steel preheated to 200*C; hardness average measured over the top 150um of the coating,hardness,EXP,None,298.0,5221817899.761332,270708265.2749255,Pa,F12,10.1016/j.ijrmhm.2022.105992
+Nb0.2,Al0.5CoCrFeNiNb0.2,FCC+laves,BM+LC(DED),ball milled for 5h to mix powders and laser cladded using 1100W laser with 6mm/s scanning speed and 4mm spot diameter feeding 10g/min onto H13 steel preheated to 200*C; hypoeutectic; hardness average measured over the top 150um of the coating,hardness,EXP,None,298.0,5508538066.825774,451155651.30960613,Pa,F12,10.1016/j.ijrmhm.2022.105992
+Nb0.4,Al0.5CoCrFeNiNb0.4,FCC+laves,BM+LC(DED),ball milled for 5h to mix powders and laser cladded using 1100W laser with 6mm/s scanning speed and 4mm spot diameter feeding 10g/min onto H13 steel preheated to 200*C; eutectic; hardness average measured over the top 150um of the coating,hardness,EXP,None,298.0,6587152028.639615,263336110.21933225,Pa,F12,10.1016/j.ijrmhm.2022.105992
+Nb0.6,Al0.5CoCrFeNiNb0.6,FCC+laves,BM+LC(DED),ball milled for 5h to mix powders and laser cladded using 1100W laser with 6mm/s scanning speed and 4mm spot diameter feeding 10g/min onto H13 steel preheated to 200*C; hypereutectic; hardness average measured over the top 150um of the coating,hardness,EXP,None,298.0,6734608114.558469,90236088.42497775,Pa,F12,10.1016/j.ijrmhm.2022.105992
+Nb0.8,Al0.5CoCrFeNiNb0.8,FCC+laves,BM+LC(DED),ball milled for 5h to mix powders and laser cladded using 1100W laser with 6mm/s scanning speed and 4mm spot diameter feeding 10g/min onto H13 steel preheated to 200*C; hypereutectic; hardness average measured over the top 150um of the coating,hardness,EXP,None,298.0,8225552983.2935505,94237731.39511366,Pa,F12,10.1016/j.ijrmhm.2022.105992
+Nb1.0,Al0.5CoCrFeNiNb,FCC+laves,BM+LC(DED),ball milled for 5h to mix powders and laser cladded using 1100W laser with 6mm/s scanning speed and 4mm spot diameter feeding 10g/min onto H13 steel preheated to 200*C; hardness average measured over the top 150um of the coating,hardness,EXP,None,298.0,8515003818.615749,51159053.4119413,Pa,F12,10.1016/j.ijrmhm.2022.105992
+Nb9,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)91 Nb9,FCC+C14,AIM,eutectic,melting temperature,EXP,None,None,1516.0,None,K,F3,10.1007/s40195-020-01072-6
+Nb0,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)100,FCC,AIM,None,compressive yield stress,None,1e-3 strain rate,298.0,199000000.0,None,Pa,T5,10.1007/s40195-020-01072-6
+Nb2,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)98 Nb2,FCC+C14,AIM,hypoeutectic,compressive yield stress,None,1e-3 strain rate,298.0,261700000.0,None,Pa,T5,10.1007/s40195-020-01072-6
+Nb4,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)96 Nb4,FCC+C14,AIM,hypoeutectic,compressive yield stress,None,1e-3 strain rate,298.0,476400000.0,None,Pa,T5,10.1007/s40195-020-01072-6
+Nb6,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)94 Nb6,FCC+C14,AIM,hypoeutectic,compressive yield stress,None,1e-3 strain rate,298.0,883400000.0,None,Pa,T5,10.1007/s40195-020-01072-6
+Nb8,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)92 Nb8,FCC+C14,AIM,hypoeutectic,compressive yield stress,None,1e-3 strain rate,298.0,1118200000.0,None,Pa,T5,10.1007/s40195-020-01072-6
+Nb9,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)91 Nb9,FCC+C14,AIM,eutectic,compressive yield stress,None,1e-3 strain rate,298.0,1449200000.0,None,Pa,T5,10.1007/s40195-020-01072-6
+Nb10,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)90 Nb10,FCC+C14,AIM,hypereutectic; interesting flower morphology of laves C14 phase with 6-lobe morhpology,compressive yield stress,None,1e-3 strain rate,298.0,1469300000.0,None,Pa,T5,10.1007/s40195-020-01072-6
+Nb12,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)88 Nb12,FCC+C14,AIM,hypereutectic; interesting flower morphology of laves C14 phase with 6-lobe morhpology,compressive yield stress,None,1e-3 strain rate,298.0,1310500000.0,None,Pa,T5,10.1007/s40195-020-01072-6
+Nb0,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)100,FCC,AIM,None,minimum UCS,None,1e-3 strain rate,298.0,2250000000.0,None,Pa,T5,10.1007/s40195-020-01072-6
+Nb2,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)98 Nb2,FCC+C14,AIM,hypoeutectic,minimum UCS,None,1e-3 strain rate,298.0,2500000000.0,None,Pa,T5,10.1007/s40195-020-01072-6
+Nb4,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)96 Nb4,FCC+C14,AIM,hypoeutectic,UCS,None,1e-3 strain rate,298.0,2120100000.0,None,Pa,T5,10.1007/s40195-020-01072-6
+Nb6,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)94 Nb6,FCC+C14,AIM,hypoeutectic,UCS,None,1e-3 strain rate,298.0,2049700000.0,None,Pa,T5,10.1007/s40195-020-01072-6
+Nb8,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)92 Nb8,FCC+C14,AIM,hypoeutectic,UCS,None,1e-3 strain rate,298.0,2050800000.0,None,Pa,T5,10.1007/s40195-020-01072-6
+Nb9,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)91 Nb9,FCC+C14,AIM,eutectic,UCS,None,1e-3 strain rate,298.0,2191700000.0,None,Pa,T5,10.1007/s40195-020-01072-6
+Nb10,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)90 Nb10,FCC+C14,AIM,hypereutectic; interesting flower morphology of laves C14 phase with 6-lobe morhpology,UCS,None,1e-3 strain rate,298.0,2433200000.0,None,Pa,T5,10.1007/s40195-020-01072-6
+Nb12,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)88 Nb12,FCC+C14,AIM,hypereutectic; interesting flower morphology of laves C14 phase with 6-lobe morhpology,UCS,None,1e-3 strain rate,298.0,1704200000.0,None,Pa,T5,10.1007/s40195-020-01072-6
+Nb0,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)100,FCC,AIM,None,minimum compressive plastic strain,None,1e-3 strain rate,298.0,60.0,None,%,T5,10.1007/s40195-020-01072-6
+Nb2,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)98 Nb2,FCC+C14,AIM,hypoeutectic,minimum compressive plastic strain,None,1e-3 strain rate,298.0,60.0,None,%,T5,10.1007/s40195-020-01072-6
+Nb4,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)96 Nb4,FCC+C14,AIM,hypoeutectic,compressive plastic strain,None,1e-3 strain rate,298.0,35.3,None,%,T5,10.1007/s40195-020-01072-6
+Nb6,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)94 Nb6,FCC+C14,AIM,hypoeutectic,compressive plastic strain,None,1e-3 strain rate,298.0,23.1,None,%,T5,10.1007/s40195-020-01072-6
+Nb8,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)92 Nb8,FCC+C14,AIM,hypoeutectic,compressive plastic strain,None,1e-3 strain rate,298.0,19.3,None,%,T5,10.1007/s40195-020-01072-6
+Nb9,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)91 Nb9,FCC+C14,AIM,eutectic,compressive plastic strain,None,1e-3 strain rate,298.0,17.4,None,%,T5,10.1007/s40195-020-01072-6
+Nb10,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)90 Nb10,FCC+C14,AIM,hypereutectic; interesting flower morphology of laves C14 phase with 6-lobe morhpology,compressive plastic strain,None,1e-3 strain rate,298.0,19.4,None,%,T5,10.1007/s40195-020-01072-6
+Nb12,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)88 Nb12,FCC+C14,AIM,hypereutectic; interesting flower morphology of laves C14 phase with 6-lobe morhpology,compressive plastic strain,None,1e-3 strain rate,298.0,3.7,None,%,T5,10.1007/s40195-020-01072-6
+Nb0,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)100,FCC,AIM,None,minimum compressive ductility,None,1e-3 strain rate,298.0,60.0,None,%,T5,10.1007/s40195-020-01072-6
+Nb2,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)98 Nb2,FCC+C14,AIM,hypoeutectic,minimum compressive ductility,None,1e-3 strain rate,298.0,60.0,None,%,T5,10.1007/s40195-020-01072-6
+Nb4,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)96 Nb4,FCC+C14,AIM,hypoeutectic,compressive ductility,None,1e-3 strain rate,298.0,45.3,None,%,T5,10.1007/s40195-020-01072-6
+Nb6,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)94 Nb6,FCC+C14,AIM,hypoeutectic,compressive ductility,None,1e-3 strain rate,298.0,32.7,None,%,T5,10.1007/s40195-020-01072-6
+Nb8,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)92 Nb8,FCC+C14,AIM,hypoeutectic,compressive ductility,None,1e-3 strain rate,298.0,28.2,None,%,T5,10.1007/s40195-020-01072-6
+Nb9,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)91 Nb9,FCC+C14,AIM,eutectic,compressive ductility,None,1e-3 strain rate,298.0,26.7,None,%,T5,10.1007/s40195-020-01072-6
+Nb10,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)90 Nb10,FCC+C14,AIM,hypereutectic; interesting flower morphology of laves C14 phase with 6-lobe morhpology,compressive ductility,None,1e-3 strain rate,298.0,27.7,None,%,T5,10.1007/s40195-020-01072-6
+Nb12,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)88 Nb12,FCC+C14,AIM,hypereutectic; interesting flower morphology of laves C14 phase with 6-lobe morhpology,compressive ductility,None,1e-3 strain rate,298.0,10.5,None,%,T5,10.1007/s40195-020-01072-6
+Nb0,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)100,FCC,AIM,None,hardness,None,None,298.0,1447513200.0,None,Pa,T5,10.1007/s40195-020-01072-6
+Nb2,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)98 Nb2,FCC+C14,AIM,hypoeutectic,hardness,None,None,298.0,2124196200.0,None,Pa,T5,10.1007/s40195-020-01072-6
+Nb4,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)96 Nb4,FCC+C14,AIM,hypoeutectic,hardness,None,None,298.0,2653774200.0,None,Pa,T5,10.1007/s40195-020-01072-6
+Nb6,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)94 Nb6,FCC+C14,AIM,hypoeutectic,hardness,None,None,298.0,3360858900.0,None,Pa,T5,10.1007/s40195-020-01072-6
+Nb8,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)92 Nb8,FCC+C14,AIM,hypoeutectic,hardness,None,None,298.0,3859054500.0,None,Pa,T5,10.1007/s40195-020-01072-6
+Nb9,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)91 Nb9,FCC+C14,AIM,eutectic,hardness,None,None,298.0,4921152600.0,None,Pa,T5,10.1007/s40195-020-01072-6
+Nb10,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)90 Nb10,FCC+C14,AIM,hypereutectic; interesting flower morphology of laves C14 phase with 6-lobe morhpology,hardness,None,None,298.0,4669112700.0,None,Pa,T5,10.1007/s40195-020-01072-6
+Nb12,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)88 Nb12,FCC+C14,AIM,hypereutectic; interesting flower morphology of laves C14 phase with 6-lobe morhpology,hardness,None,None,298.0,5147694300.0,None,Pa,T5,10.1007/s40195-020-01072-6
+Nb0,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)100,FCC,AIM,None,corrosion potential,None,3.5 wt% NaCl,298.0,-0.252,None,V,T6,10.1007/s40195-020-01072-6
+Nb2,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)98 Nb2,FCC+C14,AIM,hypoeutectic,corrosion potential,None,3.5 wt% NaCl,298.0,-0.319,None,V,T6,10.1007/s40195-020-01072-6
+Nb4,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)96 Nb4,FCC+C14,AIM,hypoeutectic,corrosion potential,None,3.5 wt% NaCl,298.0,-0.323,None,V,T6,10.1007/s40195-020-01072-6
+Nb6,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)94 Nb6,FCC+C14,AIM,hypoeutectic,corrosion potential,None,3.5 wt% NaCl,298.0,-0.31,None,V,T6,10.1007/s40195-020-01072-6
+Nb8,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)92 Nb8,FCC+C14,AIM,hypoeutectic,corrosion potential,None,3.5 wt% NaCl,298.0,-0.287,None,V,T6,10.1007/s40195-020-01072-6
+Nb9,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)91 Nb9,FCC+C14,AIM,eutectic,corrosion potential,None,3.5 wt% NaCl,298.0,-0.337,None,V,T6,10.1007/s40195-020-01072-6
+Nb10,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)90 Nb10,FCC+C14,AIM,hypereutectic; interesting flower morphology of laves C14 phase with 6-lobe morhpology,corrosion potential,None,3.5 wt% NaCl,298.0,-0.295,None,V,T6,10.1007/s40195-020-01072-6
+Nb12,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)88 Nb12,FCC+C14,AIM,hypereutectic; interesting flower morphology of laves C14 phase with 6-lobe morhpology,corrosion potential,None,3.5 wt% NaCl,298.0,-0.351,None,V,T6,10.1007/s40195-020-01072-6
+Nb0,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)100,FCC,AIM,None,corrosion current density,None,3.5 wt% NaCl,298.0,0.04261,None,A/m^2,T6,10.1007/s40195-020-01072-6
+Nb2,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)98 Nb2,FCC+C14,AIM,hypoeutectic,corrosion current density,None,3.5 wt% NaCl,298.0,0.04096,None,A/m^2,T6,10.1007/s40195-020-01072-6
+Nb4,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)96 Nb4,FCC+C14,AIM,hypoeutectic,corrosion current density,None,3.5 wt% NaCl,298.0,0.03179,None,A/m^2,T6,10.1007/s40195-020-01072-6
+Nb6,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)94 Nb6,FCC+C14,AIM,hypoeutectic,corrosion current density,None,3.5 wt% NaCl,298.0,0.03497,None,A/m^2,T6,10.1007/s40195-020-01072-6
+Nb8,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)92 Nb8,FCC+C14,AIM,hypoeutectic,corrosion current density,None,3.5 wt% NaCl,298.0,0.03281,None,A/m^2,T6,10.1007/s40195-020-01072-6
+Nb9,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)91 Nb9,FCC+C14,AIM,eutectic,corrosion current density,None,3.5 wt% NaCl,298.0,0.04643,None,A/m^2,T6,10.1007/s40195-020-01072-6
+Nb10,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)90 Nb10,FCC+C14,AIM,hypereutectic; interesting flower morphology of laves C14 phase with 6-lobe morhpology,corrosion current density,None,3.5 wt% NaCl,298.0,0.05008,None,A/m^2,T6,10.1007/s40195-020-01072-6
+Nb12,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)88 Nb12,FCC+C14,AIM,hypereutectic; interesting flower morphology of laves C14 phase with 6-lobe morhpology,corrosion current density,None,3.5 wt% NaCl,298.0,0.07129,None,A/m^2,T6,10.1007/s40195-020-01072-6
+Nb0,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)100,FCC,AIM,None,pitting potential,None,3.5 wt% NaCl,298.0,-0.0433,None,V,T6,10.1007/s40195-020-01072-6
+Nb2,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)98 Nb2,FCC+C14,AIM,hypoeutectic,pitting potential,None,3.5 wt% NaCl,298.0,0.0205,None,V,T6,10.1007/s40195-020-01072-6
+Nb4,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)96 Nb4,FCC+C14,AIM,hypoeutectic,pitting potential,None,3.5 wt% NaCl,298.0,0.0792,None,V,T6,10.1007/s40195-020-01072-6
+Nb6,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)94 Nb6,FCC+C14,AIM,hypoeutectic,pitting potential,None,3.5 wt% NaCl,298.0,0.133,None,V,T6,10.1007/s40195-020-01072-6
+Nb8,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)92 Nb8,FCC+C14,AIM,hypoeutectic,pitting potential,None,3.5 wt% NaCl,298.0,0.2,None,V,T6,10.1007/s40195-020-01072-6
+Nb9,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)91 Nb9,FCC+C14,AIM,eutectic,pitting potential,None,3.5 wt% NaCl,298.0,0.196,None,V,T6,10.1007/s40195-020-01072-6
+Nb10,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)90 Nb10,FCC+C14,AIM,hypereutectic; interesting flower morphology of laves C14 phase with 6-lobe morhpology,pitting potential,None,3.5 wt% NaCl,298.0,0.261,None,V,T6,10.1007/s40195-020-01072-6
+Nb12,(Co0.2128 Fe0.4255 Ni0.2128 V0.1064 Mo0.0426)88 Nb12,FCC+C14,AIM,hypereutectic; interesting flower morphology of laves C14 phase with 6-lobe morhpology,pitting potential,None,3.5 wt% NaCl,298.0,0.247,None,V,T6,10.1007/s40195-020-01072-6
+Nb-0,Fe55Cr15Ni30,FCC,AAM,None,compressive yield stress,None,5e-4 strain rate,298.0,317000000.0,None,Pa,T4,10.1016/j.msea.2022.143026
+Nb-3,Fe55Cr15Ni27Nb3,FCC+laves,AAM,None,compressive yield stress,None,5e-4 strain rate,298.0,404000000.0,None,Pa,T4,10.1016/j.msea.2022.143026
+Nb-6,Fe55Cr15Ni24Nb6,FCC+laves,AAM,None,compressive yield stress,None,5e-4 strain rate,298.0,499000000.0,None,Pa,T4,10.1016/j.msea.2022.143026
+Nb-9,Fe55Cr15Ni21Nb9,FCC+laves,AAM,None,compressive yield stress,None,5e-4 strain rate,298.0,749000000.0,None,Pa,T4,10.1016/j.msea.2022.143026
+Nb-12,Fe55Cr15Ni18Nb12,FCC+laves,AAM,None,compressive yield stress,None,5e-4 strain rate,298.0,946000000.0,None,Pa,T4,10.1016/j.msea.2022.143026
+Nb-15,Fe55Cr15Ni15Nb15,FCC+laves,AAM,None,compressive yield stress,None,5e-4 strain rate,298.0,1159000000.0,None,Pa,T4,10.1016/j.msea.2022.143026
+Nb-0,Fe55Cr15Ni30,FCC,AAM,None,minimum UCS,None,5e-4 strain rate,298.0,900000000.0,None,Pa,T4,10.1016/j.msea.2022.143026
+Nb-3,Fe55Cr15Ni27Nb3,FCC+laves,AAM,None,minimum UCS,None,5e-4 strain rate,298.0,870000000.0,None,Pa,T4,10.1016/j.msea.2022.143026
+Nb-6,Fe55Cr15Ni24Nb6,FCC+laves,AAM,None,UCS,None,5e-4 strain rate,298.0,994000000.0,None,Pa,T4,10.1016/j.msea.2022.143026
+Nb-9,Fe55Cr15Ni21Nb9,FCC+laves,AAM,None,UCS,None,5e-4 strain rate,298.0,1216000000.0,None,Pa,T4,10.1016/j.msea.2022.143026
+Nb-12,Fe55Cr15Ni18Nb12,FCC+laves,AAM,None,UCS,None,5e-4 strain rate,298.0,1261000000.0,None,Pa,T4,10.1016/j.msea.2022.143026
+Nb-15,Fe55Cr15Ni15Nb15,FCC+laves,AAM,None,UCS,None,5e-4 strain rate,298.0,1415000000.0,None,Pa,T4,10.1016/j.msea.2022.143026
+Nb-0,Fe55Cr15Ni30,FCC,AAM,None,minimum compressive ductility,None,5e-4 strain rate,298.0,75.0,None,%,F4,10.1016/j.msea.2022.143026
+Nb-3,Fe55Cr15Ni27Nb3,FCC+laves,AAM,None,minimum compressive ductility,None,5e-4 strain rate,298.0,75.0,None,%,F4,10.1016/j.msea.2022.143026
+Nb-6,Fe55Cr15Ni24Nb6,FCC+laves,AAM,None,compressive ductility,None,5e-4 strain rate,298.0,37.1165644172,None,%,F4,10.1016/j.msea.2022.143026
+Nb-9,Fe55Cr15Ni21Nb9,FCC+laves,AAM,None,compressive ductility,None,5e-4 strain rate,298.0,35.4601226994,None,%,F4,10.1016/j.msea.2022.143026
+Nb-12,Fe55Cr15Ni18Nb12,FCC+laves,AAM,None,compressive ductility,None,5e-4 strain rate,298.0,26.9938650307,None,%,F4,10.1016/j.msea.2022.143026
+Nb-15,Fe55Cr15Ni15Nb15,FCC+laves,AAM,None,compressive ductility,None,5e-4 strain rate,298.0,20.245398773,None,%,F4,10.1016/j.msea.2022.143026
