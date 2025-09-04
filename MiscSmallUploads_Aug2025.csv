@@ -278,3 +278,55 @@ Nb-6,Fe55Cr15Ni24Nb6,FCC+laves,AAM,None,compressive ductility,EXP,5e-4 strain ra
 Nb-9,Fe55Cr15Ni21Nb9,FCC+laves,AAM,None,compressive ductility,EXP,5e-4 strain rate,298.0,35.4601226994,None,%,F4,10.1016/j.msea.2022.143026
 Nb-12,Fe55Cr15Ni18Nb12,FCC+laves,AAM,None,compressive ductility,EXP,5e-4 strain rate,298.0,26.9938650307,None,%,F4,10.1016/j.msea.2022.143026
 Nb-15,Fe55Cr15Ni15Nb15,FCC+laves,AAM,None,compressive ductility,EXP,5e-4 strain rate,298.0,20.245398773,None,%,F4,10.1016/j.msea.2022.143026
+None,AlCoCrFeNi2.1,L12+B2,AAM,None,tensile yield stress,EXP,2e-4 strain rate,298.0,510000000.0,15000000.0,Pa,F2,10.1038/s41586-022-04914-8
+None,AlCoCrFeNi2.1,FCC+BCC,LPBF,LPBF of prealloyed gas-atomized powder onto preheated steel plate in Ar using 400W laser and optimized deposition strategy,tensile yield stress,EXP,2e-4 strain rate,298.0,1333000000.0,38000000.0,Pa,F2,10.1038/s41586-022-04914-8
+None,AlCoCrFeNi2.1,FCC+BCC,LPBF+A+WQ,LPBF of prealloyed gas-atomized powder onto preheated steel plate in Ar using 400W laser and optimized deposition strategy; annealed at 873K for 5h in Ar,tensile yield stress,EXP,2e-4 strain rate,298.0,1615000000.0,None,Pa,F2,10.1038/s41586-022-04914-8
+None,AlCoCrFeNi2.1,FCC+BCC,LPBF+A+WQ,LPBF of prealloyed gas-atomized powder onto preheated steel plate in Ar using 400W laser and optimized deposition strategy; annealed at 1073K for 1h in Ar,tensile yield stress,EXP,2e-4 strain rate,298.0,1003000000.0,None,Pa,F2,10.1038/s41586-022-04914-8
+None,AlCoCrFeNi2.1,L12+B2,AAM,None,UTS,EXP,2e-4 strain rate,298.0,1198000000.0,None,Pa,F2,10.1038/s41586-022-04914-8
+None,AlCoCrFeNi2.1,FCC+BCC,LPBF,LPBF of prealloyed gas-atomized powder onto preheated steel plate in Ar using 400W laser and optimized deposition strategy,UTS,EXP,2e-4 strain rate,298.0,1640000000.0,38000000.0,Pa,F2,10.1038/s41586-022-04914-8
+None,AlCoCrFeNi2.1,FCC+BCC,LPBF+A+WQ,LPBF of prealloyed gas-atomized powder onto preheated steel plate in Ar using 400W laser and optimized deposition strategy; annealed at 873K for 5h in Ar,UTS,EXP,2e-4 strain rate,298.0,1907000000.0,None,Pa,F2,10.1038/s41586-022-04914-8
+None,AlCoCrFeNi2.1,FCC+BCC,LPBF+A+WQ,LPBF of prealloyed gas-atomized powder onto preheated steel plate in Ar using 400W laser and optimized deposition strategy; annealed at 1073K for 1h in Ar,UTS,EXP,2e-4 strain rate,298.0,1286000000.0,None,Pa,F2,10.1038/s41586-022-04914-8
+None,AlCoCrFeNi2.1,L12+B2,AAM,None,tensile ductility,EXP,2e-4 strain rate,298.0,13.4384858044,None,%,F2,10.1038/s41586-022-04914-8
+None,AlCoCrFeNi2.1,FCC+BCC,LPBF,LPBF of prealloyed gas-atomized powder onto preheated steel plate in Ar using 400W laser and optimized deposition strategy,tensile ductility,EXP,2e-4 strain rate,298.0,15.730809674,None,%,F2,10.1038/s41586-022-04914-8
+None,AlCoCrFeNi2.1,FCC+BCC,LPBF+A+WQ,LPBF of prealloyed gas-atomized powder onto preheated steel plate in Ar using 400W laser and optimized deposition strategy; annealed at 873K for 5h in Ar,tensile ductility,EXP,2e-4 strain rate,298.0,7.4868559411,None,%,F2,10.1038/s41586-022-04914-8
+None,AlCoCrFeNi2.1,FCC+BCC,LPBF+A+WQ,LPBF of prealloyed gas-atomized powder onto preheated steel plate in Ar using 400W laser and optimized deposition strategy; annealed at 1073K for 1h in Ar,tensile ductility,EXP,2e-4 strain rate,298.0,23.8065194532,None,%,F2,10.1038/s41586-022-04914-8
+None,Ti50Zr30Nb20,BCC,AAM,None,density,EXP,None,298.0,6036.4025695931,None,kg/m^3,F4b,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb17.5 Al2.5,BCC,AAM,None,density,EXP,None,298.0,5842.3982869379,None,kg/m^3,F4b,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb15 Al5,BCC,AAM,None,density,EXP,None,298.0,5749.8929336188,None,kg/m^3,F4b,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb12.5 Al7.5,BCC,AAM,None,density,EXP,None,298.0,5595.7173447537,None,kg/m^3,F4b,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb10 Al10,BCC,AAM,None,density,EXP,None,298.0,5495.5032119914,None,kg/m^3,F4b,10.1016/j.msea.2025.149028
+None,Ti50Zr30Nb20,BCC,AAM+CR+RX,cold rolled to 80% reduction and annealed at 973K for 1h in vacuum to recrystalize ,tensile yield stress,EXP,1e-3 strain rate,298.0,537000000.0,None,Pa,F15a,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb17.5 Al2.5,BCC,AAM+CR+RX,cold rolled to 80% reduction and annealed at 973K for 1h in vacuum to recrystalize ,tensile yield stress,EXP,1e-3 strain rate,298.0,619000000.0,None,Pa,F15a,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb15 Al5,BCC,AAM+CR+RX,cold rolled to 80% reduction and annealed at 973K for 1h in vacuum to recrystalize ,tensile yield stress,EXP,1e-3 strain rate,298.0,655000000.0,None,Pa,F15a,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb12.5 Al7.5,BCC,AAM+CR+RX,cold rolled to 80% reduction and annealed at 973K for 1h in vacuum to recrystalize ,tensile yield stress,EXP,1e-3 strain rate,298.0,724000000.0,None,Pa,F15a,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb10 Al10,BCC,AAM+CR+RX,cold rolled to 80% reduction and annealed at 973K for 1h in vacuum to recrystalize ,tensile yield stress,EXP,1e-3 strain rate,298.0,820000000.0,None,Pa,F15a,10.1016/j.msea.2025.149028
+None,Ti50Zr30Nb20,BCC,AAM+CR+RX,cold rolled to 80% reduction and annealed at 973K for 1h in vacuum to recrystalize ,UTS,EXP,1e-3 strain rate,298.0,627000000.0,None,Pa,F13,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb17.5 Al2.5,BCC,AAM+CR+RX,cold rolled to 80% reduction and annealed at 973K for 1h in vacuum to recrystalize ,UTS,EXP,1e-3 strain rate,298.0,658000000.0,None,Pa,F13,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb15 Al5,BCC,AAM+CR+RX,cold rolled to 80% reduction and annealed at 973K for 1h in vacuum to recrystalize ,UTS,EXP,1e-3 strain rate,298.0,737000000.0,None,Pa,F13,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb12.5 Al7.5,BCC,AAM+CR+RX,cold rolled to 80% reduction and annealed at 973K for 1h in vacuum to recrystalize ,UTS,EXP,1e-3 strain rate,298.0,761000000.0,None,Pa,F13,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb10 Al10,BCC,AAM+CR+RX,cold rolled to 80% reduction and annealed at 973K for 1h in vacuum to recrystalize ,UTS,EXP,1e-3 strain rate,298.0,810000000.0,None,Pa,F13,10.1016/j.msea.2025.149028
+None,Ti50Zr30Nb20,BCC,AAM+CR+RX,cold rolled to 80% reduction and annealed at 973K for 1h in vacuum to recrystalize ,tensile ductility,EXP,1e-3 strain rate,298.0,20.5,None,%,P9,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb17.5 Al2.5,BCC,AAM+CR+RX,cold rolled to 80% reduction and annealed at 973K for 1h in vacuum to recrystalize ,tensile ductility,EXP,1e-3 strain rate,298.0,22.0,None,%,P9,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb15 Al5,BCC,AAM+CR+RX,cold rolled to 80% reduction and annealed at 973K for 1h in vacuum to recrystalize ,tensile ductility,EXP,1e-3 strain rate,298.0,17.0,None,%,P9,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb12.5 Al7.5,BCC,AAM+CR+RX,cold rolled to 80% reduction and annealed at 973K for 1h in vacuum to recrystalize ,tensile ductility,EXP,1e-3 strain rate,298.0,15.5,None,%,P9,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb10 Al10,BCC,AAM+CR+RX,cold rolled to 80% reduction and annealed at 973K for 1h in vacuum to recrystalize ,tensile ductility,EXP,1e-3 strain rate,298.0,14.0,None,%,P9,10.1016/j.msea.2025.149028
+None,Ti50Zr30Nb20,BCC,AAM+CR+RX,cold rolled to 80% reduction and annealed at 973K for 1h in vacuum to recrystalize ,hardness,EXP,1e-3 strain rate,298.0,2132002027.7481291,2171250960.5122676,Pa,F15b,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb17.5 Al2.5,BCC,AAM+CR+RX,cold rolled to 80% reduction and annealed at 973K for 1h in vacuum to recrystalize ,hardness,EXP,1e-3 strain rate,298.0,2228816061.8996763,94197438.63394022,Pa,F15b,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb15 Al5,BCC,AAM+CR+RX,cold rolled to 80% reduction and annealed at 973K for 1h in vacuum to recrystalize ,hardness,EXP,1e-3 strain rate,298.0,2532341141.9423647,334924226.2540049,Pa,F15b,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb12.5 Al7.5,BCC,AAM+CR+RX,cold rolled to 80% reduction and annealed at 973K for 1h in vacuum to recrystalize ,hardness,EXP,1e-3 strain rate,298.0,2757368356.456776,209327641.408748,Pa,F15b,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb10 Al10,BCC,AAM+CR+RX,cold rolled to 80% reduction and annealed at 973K for 1h in vacuum to recrystalize ,hardness,EXP,1e-3 strain rate,298.0,2940530042.6894317,240726787.62006438,Pa,F15b,10.1016/j.msea.2025.149028
+None,Ti50Zr30Nb20,BCC,None,160-atom supercells GGA-PBE in VASP,B/G ratio,DFT,None,None,4.5652173913,None,None,TS4,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb17.5 Al2.5,BCC,None,160-atom supercells GGA-PBE in VASP,B/G ratio,DFT,None,None,4.5652173913,None,None,TS4,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb15 Al5,BCC,None,160-atom supercells GGA-PBE in VASP,B/G ratio,DFT,None,None,5.0,None,None,TS4,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb12.5 Al7.5,BCC,None,160-atom supercells GGA-PBE in VASP,B/G ratio,DFT,None,None,4.6818181818,None,None,TS4,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb10 Al10,BCC,None,160-atom supercells GGA-PBE in VASP,B/G ratio,DFT,None,None,4.2916666667,None,None,TS4,10.1016/j.msea.2025.149028
+None,Ti50Zr30Nb20,BCC,None,160-atom supercells GGA-PBE in VASP,reduced elastic modulus,DFT,None,None,64000000000.0,None,Pa,TS4,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb17.5 Al2.5,BCC,None,160-atom supercells GGA-PBE in VASP,reduced elastic modulus,DFT,None,None,63000000000.0,None,Pa,TS4,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb15 Al5,BCC,None,160-atom supercells GGA-PBE in VASP,reduced elastic modulus,DFT,None,None,59000000000.0,None,Pa,TS4,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb12.5 Al7.5,BCC,None,160-atom supercells GGA-PBE in VASP,reduced elastic modulus,DFT,None,None,60000000.0,None,Pa,TS4,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb10 Al10,BCC,None,160-atom supercells GGA-PBE in VASP,reduced elastic modulus,DFT,None,None,68000000000.0,None,Pa,TS4,10.1016/j.msea.2025.149028
+None,Ti50Zr30Nb20,BCC,None,160-atom supercells GGA-PBE in VASP,poissons ratio,DFT,None,None,0.399,None,None,TS4,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb17.5 Al2.5,BCC,None,160-atom supercells GGA-PBE in VASP,poissons ratio,DFT,None,None,0.399,None,None,TS4,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb15 Al5,BCC,None,160-atom supercells GGA-PBE in VASP,poissons ratio,DFT,None,None,0.406,None,None,TS4,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb12.5 Al7.5,BCC,None,160-atom supercells GGA-PBE in VASP,poissons ratio,DFT,None,None,0.403,None,None,TS4,10.1016/j.msea.2025.149028
+None,Ti50Zr30 Nb10 Al10,BCC,None,160-atom supercells GGA-PBE in VASP,poissons ratio,DFT,None,None,0.389,None,None,TS4,10.1016/j.msea.2025.149028
