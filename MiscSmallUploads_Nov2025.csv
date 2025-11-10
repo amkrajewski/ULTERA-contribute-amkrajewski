@@ -5,46 +5,46 @@ Hand Fetched:,T
 Comment:,None
 
 id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
-None,None,None,None,None,None,None,None,None,None,None,None,None,None
+None,CrFeNi V0.1 Al0.1,FCC+BCC,AAM,None,hardness,EXP,None,298.0,1814295000.0,61784100.0,Pa,T2,10.1016/j.apsusc.2025.164997
+None,CrFeNi V0.1 Al0.5,BCC,AAM,None,hardness,EXP,None,298.0,5148675000.0,32363100.0,Pa,T2,10.1016/j.apsusc.2025.164997
+None,CrFeNi V0.5 Al0.5,BCC,AAM,None,hardness,EXP,None,298.0,5589990000.0,197120700.0,Pa,T2,10.1016/j.apsusc.2025.164997
+None,CrFeNiVAl,BCC+B2,AAM,None,hardness,EXP,None,298.0,6247059000.0,59822700.0,Pa,T2,10.1016/j.apsusc.2025.164997
+None,CrFeNi V0.1 Al0.1,FCC+BCC,AAM,None,corrosion potential,EXP,3.5 wt% NaCl,298.0,-0.1304,-0.0031,V,T3,10.1016/j.apsusc.2025.164997
+None,CrFeNi V0.1 Al0.5,BCC,AAM,None,corrosion potential,EXP,3.5 wt% NaCl,298.0,-0.1955,-0.0287,V,T3,10.1016/j.apsusc.2025.164997
+None,CrFeNi V0.5 Al0.5,BCC,AAM,None,corrosion potential,EXP,3.5 wt% NaCl,298.0,-0.2688,-0.0127,V,T3,10.1016/j.apsusc.2025.164997
+None,CrFeNiVAl,BCC+B2,AAM,None,corrosion potential,EXP,3.5 wt% NaCl,298.0,-0.3706,-0.045,V,T3,10.1016/j.apsusc.2025.164997
+None,CrFeNi V0.1 Al0.1,FCC+BCC,AAM,None,corrosion current density,EXP,3.5 wt% NaCl,298.0,0.00146,0.00015,A/m^2,T3,10.1016/j.apsusc.2025.164997
+None,CrFeNi V0.1 Al0.5,BCC,AAM,None,corrosion current density,EXP,3.5 wt% NaCl,298.0,0.0016,0.0002,A/m^2,T3,10.1016/j.apsusc.2025.164997
+None,CrFeNi V0.5 Al0.5,BCC,AAM,None,corrosion current density,EXP,3.5 wt% NaCl,298.0,0.00288,0.00033,A/m^2,T3,10.1016/j.apsusc.2025.164997
+None,CrFeNiVAl,BCC+B2,AAM,None,corrosion current density,EXP,3.5 wt% NaCl,298.0,0.00289,0.00023,A/m^2,T3,10.1016/j.apsusc.2025.164997
+None,CrFeNi V0.1 Al0.1,FCC+BCC,AAM,None,pitting potential,EXP,3.5 wt% NaCl,298.0,0.976,0.014,V,T3,10.1016/j.apsusc.2025.164997
+None,CrFeNi V0.1 Al0.5,BCC,AAM,None,pitting potential,EXP,3.5 wt% NaCl,298.0,0.976,0.005,V,T3,10.1016/j.apsusc.2025.164997
+None,CrFeNi V0.5 Al0.5,BCC,AAM,None,pitting potential,EXP,3.5 wt% NaCl,298.0,1.0474,0.0239,V,T3,10.1016/j.apsusc.2025.164997
+None,CrFeNiVAl,BCC+B2,AAM,None,pitting potential,EXP,3.5 wt% NaCl,298.0,0.1008,0.047,V,T3,10.1016/j.apsusc.2025.164997
+1.0,Sn7.7 Cu14.3 Al25.3 Mg28.1 Ti14.3 Zn10.4,None,MA+CIP+S,formula converted from neat wt% ratios; resistivity converted from %IACS; ball milled for 40h then pressed under 250MPa and sintered at 453K for 60min,electrical resistivity,EXP,None,298.0,5.27e-08,None,Ohm m,F11,10.1007/s10854-025-15540-1
+2.0,Sn9.9 Cu14.7 Al26.0 Mg28.9 Ti9.8 Zn10.7,None,MA+CIP+S,formula converted from neat wt% ratios; resistivity converted from %IACS; ball milled for 40h then pressed under 250MPa and sintered at 453K for 60min,electrical resistivity,EXP,None,298.0,5.12e-08,None,Ohm m,F11,10.1007/s10854-025-15540-1
+3.0,Sn9.7 Cu10.9 Al25.7 Mg28.5 Ti14.5 Zn10.6,None,MA+CIP+S,formula converted from neat wt% ratios; resistivity converted from %IACS; ball milled for 40h then pressed under 250MPa and sintered at 453K for 60min,electrical resistivity,EXP,None,298.0,5.81e-08,None,Ohm m,F11,10.1007/s10854-025-15540-1
+4.0,Sn9.9 Cu11.1 Al26.0 Mg28.9 Ti9.8 Zn14.3,None,MA+CIP+S,formula converted from neat wt% ratios; resistivity converted from %IACS; ball milled for 40h then pressed under 250MPa and sintered at 453K for 60min,electrical resistivity,EXP,None,298.0,6.01e-08,None,Ohm m,F11,10.1007/s10854-025-15540-1
+5.0,Sn14.3 Cu7.6 Al26.9 Mg29.9 Ti10.1 Zn11.1,None,MA+CIP+S,formula converted from neat wt% ratios; resistivity converted from %IACS; ball milled for 40h then pressed under 250MPa and sintered at 453K for 60min,electrical resistivity,EXP,None,298.0,8.33e-08,None,Ohm m,F11,10.1007/s10854-025-15540-1
+6.0,Sn14.4 Cu6.2 Al27.2 Mg30.2 Ti7.1 Zn14.9,None,MA+CIP+S,formula converted from neat wt% ratios; resistivity converted from %IACS; ball milled for 40h then pressed under 250MPa and sintered at 453K for 60min,electrical resistivity,EXP,None,298.0,8.33e-08,None,Ohm m,F11,10.1007/s10854-025-15540-1
+7.0,Sn9.1 Cu10.2 Al32.0 Mg35.5 Zn13.2,None,MA+CIP+S,formula converted from neat wt% ratios; resistivity converted from %IACS; ball milled for 40h then pressed under 250MPa and sintered at 453K for 60min,electrical resistivity,EXP,None,298.0,5.12e-08,None,Ohm m,F11,10.1007/s10854-025-15540-1
+8.0,Sn11.7 Cu11.0 Al34.4 Mg28.7 Zn14.2,None,MA+CIP+S,formula converted from neat wt% ratios; resistivity converted from %IACS; ball milled for 40h then pressed under 250MPa and sintered at 453K for 60min,electrical resistivity,EXP,None,298.0,5.63e-08,None,Ohm m,F11,10.1007/s10854-025-15540-1
+1.0,Sn7.7 Cu14.3 Al25.3 Mg28.1 Ti14.3 Zn10.4,None,MA+CIP+S,formula converted from neat wt% ratios; resistivity converted from %IACS; ball milled for 40h then pressed under 250MPa and sintered at 453K for 60min,melting temperature,EXP,None,None,627.9307253464,None,K,F14,10.1007/s10854-025-15540-1
+2.0,Sn9.9 Cu14.7 Al26.0 Mg28.9 Ti9.8 Zn10.7,None,MA+CIP+S,formula converted from neat wt% ratios; resistivity converted from %IACS; ball milled for 40h then pressed under 250MPa and sintered at 453K for 60min,melting temperature,EXP,None,None,612.0383048085,None,K,F14,10.1007/s10854-025-15540-1
+3.0,Sn9.7 Cu10.9 Al25.7 Mg28.5 Ti14.5 Zn10.6,None,MA+CIP+S,formula converted from neat wt% ratios; resistivity converted from %IACS; ball milled for 40h then pressed under 250MPa and sintered at 453K for 60min,melting temperature,EXP,None,None,609.5933170334,None,K,F14,10.1007/s10854-025-15540-1
+4.0,Sn9.9 Cu11.1 Al26.0 Mg28.9 Ti9.8 Zn14.3,None,MA+CIP+S,formula converted from neat wt% ratios; resistivity converted from %IACS; ball milled for 40h then pressed under 250MPa and sintered at 453K for 60min,melting temperature,EXP,None,None,598.9983700082,None,K,F14,10.1007/s10854-025-15540-1
+5.0,Sn14.3 Cu7.6 Al26.9 Mg29.9 Ti10.1 Zn11.1,None,MA+CIP+S,formula converted from neat wt% ratios; resistivity converted from %IACS; ball milled for 40h then pressed under 250MPa and sintered at 453K for 60min,melting temperature,EXP,None,None,579.4384678077,None,K,F14,10.1007/s10854-025-15540-1
+6.0,Sn14.4 Cu6.2 Al27.2 Mg30.2 Ti7.1 Zn14.9,None,MA+CIP+S,formula converted from neat wt% ratios; resistivity converted from %IACS; ball milled for 40h then pressed under 250MPa and sintered at 453K for 60min,melting temperature,EXP,None,None,562.3235533822,None,K,F14,10.1007/s10854-025-15540-1
+7.0,Sn9.1 Cu10.2 Al32.0 Mg35.5 Zn13.2,None,MA+CIP+S,formula converted from neat wt% ratios; resistivity converted from %IACS; ball milled for 40h then pressed under 250MPa and sintered at 453K for 60min,melting temperature,EXP,None,None,524.8337408313,None,K,F14,10.1007/s10854-025-15540-1
+8.0,Sn11.7 Cu11.0 Al34.4 Mg28.7 Zn14.2,None,MA+CIP+S,formula converted from neat wt% ratios; resistivity converted from %IACS; ball milled for 40h then pressed under 250MPa and sintered at 453K for 60min,melting temperature,EXP,None,None,510.5713121434,None,K,F14,10.1007/s10854-025-15540-1
+1.0,Sn7.7 Cu14.3 Al25.3 Mg28.1 Ti14.3 Zn10.4,None,MA+CIP+S,formula converted from neat wt% ratios; resistivity converted from %IACS; ball milled for 40h then pressed under 250MPa and sintered at 453K for 60min,youngs modulus,EXP,from ultrasonic velocity,298.0,39368723098.9957,None,Pa,F8,10.1007/s10854-025-15540-1
+2.0,Sn9.9 Cu14.7 Al26.0 Mg28.9 Ti9.8 Zn10.7,None,MA+CIP+S,formula converted from neat wt% ratios; resistivity converted from %IACS; ball milled for 40h then pressed under 250MPa and sintered at 453K for 60min,youngs modulus,EXP,from ultrasonic velocity,298.0,40401721664.2754,None,Pa,F8,10.1007/s10854-025-15540-1
+3.0,Sn9.7 Cu10.9 Al25.7 Mg28.5 Ti14.5 Zn10.6,None,MA+CIP+S,formula converted from neat wt% ratios; resistivity converted from %IACS; ball milled for 40h then pressed under 250MPa and sintered at 453K for 60min,youngs modulus,EXP,from ultrasonic velocity,298.0,33400286944.0459,None,Pa,F8,10.1007/s10854-025-15540-1
+4.0,Sn9.9 Cu11.1 Al26.0 Mg28.9 Ti9.8 Zn14.3,None,MA+CIP+S,formula converted from neat wt% ratios; resistivity converted from %IACS; ball milled for 40h then pressed under 250MPa and sintered at 453K for 60min,youngs modulus,EXP,from ultrasonic velocity,298.0,36384505021.5208,None,Pa,F8,10.1007/s10854-025-15540-1
+5.0,Sn14.3 Cu7.6 Al26.9 Mg29.9 Ti10.1 Zn11.1,None,MA+CIP+S,formula converted from neat wt% ratios; resistivity converted from %IACS; ball milled for 40h then pressed under 250MPa and sintered at 453K for 60min,youngs modulus,EXP,from ultrasonic velocity,298.0,35351506456.241,None,Pa,F8,10.1007/s10854-025-15540-1
+6.0,Sn14.4 Cu6.2 Al27.2 Mg30.2 Ti7.1 Zn14.9,None,MA+CIP+S,formula converted from neat wt% ratios; resistivity converted from %IACS; ball milled for 40h then pressed under 250MPa and sintered at 453K for 60min,youngs modulus,EXP,from ultrasonic velocity,298.0,35351506456.241,None,Pa,F8,10.1007/s10854-025-15540-1
+7.0,Sn9.1 Cu10.2 Al32.0 Mg35.5 Zn13.2,None,MA+CIP+S,formula converted from neat wt% ratios; resistivity converted from %IACS; ball milled for 40h then pressed under 250MPa and sintered at 453K for 60min,youngs modulus,EXP,from ultrasonic velocity,298.0,36384505021.5208,None,Pa,F8,10.1007/s10854-025-15540-1
+8.0,Sn11.7 Cu11.0 Al34.4 Mg28.7 Zn14.2,None,MA+CIP+S,formula converted from neat wt% ratios; resistivity converted from %IACS; ball milled for 40h then pressed under 250MPa and sintered at 453K for 60min,youngs modulus,EXP,from ultrasonic velocity,298.0,34318507890.9612,None,Pa,F8,10.1007/s10854-025-15540-1
 None,None,None,None,None,None,None,None,None,None,None,None,None,None
 None,None,None,None,None,None,None,None,None,None,None,None,None,None
 None,None,None,None,None,None,None,None,None,None,None,None,None,None
