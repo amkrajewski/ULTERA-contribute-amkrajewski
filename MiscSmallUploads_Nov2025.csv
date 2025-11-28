@@ -58,81 +58,87 @@ None,AlAgCuNiSnTi,None,VAM+H,homogenized at 1073K,None,None,None,None,None,None,
 None,HfNbTiZr,None,AAM+CR+HT,cold rolled to 90% reduction and "annealed" at 1050*C for 40s,tensile yield stress,EXP,None,298.0,780000000.0,None,Pa,None,10.1016/j.msea.2025.149514
 None,HfNbTiZr,None,AAM+CR+HT,cold rolled to 90% reduction and "annealed" at 1050*C for 40s,uniform elongation,EXP,None,298.0,4.0,None,%,None,10.1016/j.msea.2025.149514
 None,HfNbTiZr,None,AAM+CR+HT,cold rolled to 90% reduction and "annealed" at 1050*C for 40s,tensile ductility,EXP,None,298.0,33.5,None,%,None,10.1016/j.msea.2025.149514
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in air,compressive yield stress,EXP,1e-4 strain rate,298.0,1230365853.65853,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in air,compressive yield stress,EXP,1e-4 strain rate,298.0,1232361549.4978402,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,473.0,1004852223.81635,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,473.0,1008843615.49497,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,523.0,956955523.672883,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,523.0,966934002.86944,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,573.0,933007173.6011469,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,573.0,919037302.725968,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,623.0,873136298.421807,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,623.0,871140602.5824959,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,673.0,847192252.51076,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,673.0,849187948.350071,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,723.0,805282639.885222,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,723.0,813265423.242467,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,773.0,773351506.456241,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,773.0,775347202.295552,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,873.0,741420373.027259,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,873.0,725454806.312769,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,973.0,729446197.9913911,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,973.0,727450502.15208,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1073.0,729446197.9913911,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1073.0,709489239.598278,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1173.0,729446197.9913911,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1173.0,711484935.437589,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1273.0,717472022.955523,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1273.0,695519368.723099,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1373.0,701506456.241033,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1373.0,669575322.812051,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1473.0,663588235.294117,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1473.0,637644189.3830701,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1523.0,641635581.061693,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1523.0,607708751.7933999,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1573.0,629661406.025825,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1573.0,551829268.292683,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1623.0,597730272.596843,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1623.0,462022955.523673,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1673.0,537859397.417503,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1673.0,400156384.505021,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1723.0,477988522.238163,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1723.0,306358680.057388,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1773.0,378203730.272596,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1773.0,174642754.66283998,None,Pa,F3c,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive ductility,EXP,variable strain rate,473.0,3.45,None,%,F3a,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive ductility,EXP,variable strain rate,473.0,4.15,None,%,F3b,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive ductility,EXP,variable strain rate,673.0,2.875,None,%,F3a,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive ductility,EXP,variable strain rate,673.0,3.625,None,%,F3b,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive ductility,EXP,variable strain rate,873.0,2.625,None,%,F3a,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive ductility,EXP,variable strain rate,873.0,2.825,None,%,F3b,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive ductility,EXP,variable strain rate,1073.0,2.775,None,%,F3a,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive ductility,EXP,variable strain rate,1073.0,2.875,None,%,F3b,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive ductility,EXP,variable strain rate,1273.0,3.025,None,%,F3a,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive ductility,EXP,variable strain rate,1273.0,2.475,None,%,F3b,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive ductility,EXP,variable strain rate,1673.0,2.55,None,%,F3a,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive ductility,EXP,variable strain rate,1673.0,2.375,None,%,F3b,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,UCS,EXP,variable strain rate,473.0,1033250620.3473899,None,Pa,F3a,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,UCS,EXP,variable strain rate,473.0,1033250620.3473899,None,Pa,F3b,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,UCS,EXP,variable strain rate,673.0,839702233.25062,None,Pa,F3a,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,UCS,EXP,variable strain rate,673.0,893300248.138957,None,Pa,F3b,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,UCS,EXP,variable strain rate,873.0,783126550.868486,None,Pa,F3a,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,UCS,EXP,variable strain rate,873.0,783126550.868486,None,Pa,F3b,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,UCS,EXP,variable strain rate,1073.0,765260545.905707,None,Pa,F3a,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,UCS,EXP,variable strain rate,1073.0,738461538.461538,None,Pa,F3b,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,UCS,EXP,variable strain rate,1273.0,753349875.930521,None,Pa,F3a,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,UCS,EXP,variable strain rate,1273.0,723573200.992555,None,Pa,F3b,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,UCS,EXP,variable strain rate,1673.0,571712158.8089321,None,Pa,F3a,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,UCS,EXP,variable strain rate,1673.0,449627791.56327504,None,Pa,F3b,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in air,UTS,EXP,1e-4 strain rate,298.0,85436893.2038835,None,Pa,F4a,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in air,UTS,EXP,1e-4 strain rate,298.0,63800277.3925103,None,Pa,F4a,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,UTS,EXP,1e-4 strain rate,298.0,122607489.59778,None,Pa,F4a,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,UTS,EXP,1e-4 strain rate,298.0,171705963.938973,None,Pa,F4a,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in air,tensile ductility,EXP,1e-4 strain rate,298.0,0.8151515152,None,%,F4a,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in air,tensile ductility,EXP,1e-4 strain rate,298.0,0.6484848485,None,%,F4a,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,tensile ductility,EXP,1e-4 strain rate,298.0,1.196969697,None,%,F4a,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,tensile ductility,EXP,1e-4 strain rate,298.0,1.7454545455,None,%,F4a,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in air,compressive ductility,EXP,1e-4 strain rate,298.0,12.3636363636,None,%,F5a,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in air,compressive ductility,EXP,1e-4 strain rate,298.0,10.5909090909,None,%,F5a,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in air,UCS,EXP,1e-4 strain rate,298.0,1680000000.0,None,Pa,F5a,10.1016/j.msea.2025.149507
-None,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in air,UCS,EXP,1e-4 strain rate,298.0,1599000000.0,None,Pa,F5a,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in air,compressive yield stress,EXP,1e-4 strain rate,298.0,1230365853.65853,None,Pa,F3c,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in air,compressive yield stress,EXP,1e-4 strain rate,298.0,1232361549.4978402,None,Pa,F3c,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,473.0,1004852223.81635,None,Pa,F3c,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,473.0,1008843615.49497,None,Pa,F3c,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,523.0,956955523.672883,None,Pa,F3c,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,523.0,966934002.86944,None,Pa,F3c,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,573.0,933007173.6011469,None,Pa,F3c,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,573.0,919037302.725968,None,Pa,F3c,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,623.0,873136298.421807,None,Pa,F3c,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,623.0,871140602.5824959,None,Pa,F3c,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,673.0,847192252.51076,None,Pa,F3c,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,673.0,849187948.350071,None,Pa,F3c,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,723.0,805282639.885222,None,Pa,F3c,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,723.0,813265423.242467,None,Pa,F3c,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,773.0,773351506.456241,None,Pa,F3c,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,773.0,775347202.295552,None,Pa,F3c,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,873.0,741420373.027259,None,Pa,F3c,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,873.0,725454806.312769,None,Pa,F3c,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,973.0,729446197.9913911,None,Pa,F3c,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,973.0,727450502.15208,None,Pa,F3c,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1073.0,729446197.9913911,None,Pa,F3c,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1073.0,709489239.598278,None,Pa,F3c,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1173.0,729446197.9913911,None,Pa,F3c,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1173.0,711484935.437589,None,Pa,F3c,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1273.0,717472022.955523,None,Pa,F3c,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1273.0,695519368.723099,None,Pa,F3c,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1373.0,701506456.241033,None,Pa,F3c,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1373.0,669575322.812051,None,Pa,F3c,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1473.0,663588235.294117,None,Pa,F3c,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1473.0,637644189.3830701,None,Pa,F3c,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1523.0,641635581.061693,None,Pa,F3c,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1523.0,607708751.7933999,None,Pa,F3c,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1573.0,629661406.025825,None,Pa,F3c,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1573.0,551829268.292683,None,Pa,F3c,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1623.0,597730272.596843,None,Pa,F3c,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1623.0,462022955.523673,None,Pa,F3c,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1673.0,537859397.417503,None,Pa,F3c,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1673.0,400156384.505021,None,Pa,F3c,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1723.0,477988522.238163,None,Pa,F3c,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1723.0,306358680.057388,None,Pa,F3c,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1773.0,378203730.272596,None,Pa,F3c,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive yield stress,EXP,1e-4 strain rate,1773.0,174642754.66283998,None,Pa,F3c,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive ductility,EXP,variable strain rate,473.0,3.45,None,%,F3a,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive ductility,EXP,variable strain rate,473.0,4.15,None,%,F3b,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive ductility,EXP,variable strain rate,673.0,2.875,None,%,F3a,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive ductility,EXP,variable strain rate,673.0,3.625,None,%,F3b,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive ductility,EXP,variable strain rate,873.0,2.625,None,%,F3a,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive ductility,EXP,variable strain rate,873.0,2.825,None,%,F3b,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive ductility,EXP,variable strain rate,1073.0,2.775,None,%,F3a,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive ductility,EXP,variable strain rate,1073.0,2.875,None,%,F3b,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive ductility,EXP,variable strain rate,1273.0,3.025,None,%,F3a,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive ductility,EXP,variable strain rate,1273.0,2.475,None,%,F3b,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,compressive ductility,EXP,variable strain rate,1673.0,2.55,None,%,F3a,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,compressive ductility,EXP,variable strain rate,1673.0,2.375,None,%,F3b,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,UCS,EXP,variable strain rate,473.0,1033250620.3473899,None,Pa,F3a,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,UCS,EXP,variable strain rate,473.0,1033250620.3473899,None,Pa,F3b,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,UCS,EXP,variable strain rate,673.0,839702233.25062,None,Pa,F3a,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,UCS,EXP,variable strain rate,673.0,893300248.138957,None,Pa,F3b,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,UCS,EXP,variable strain rate,873.0,783126550.868486,None,Pa,F3a,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,UCS,EXP,variable strain rate,873.0,783126550.868486,None,Pa,F3b,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,UCS,EXP,variable strain rate,1073.0,765260545.905707,None,Pa,F3a,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,UCS,EXP,variable strain rate,1073.0,738461538.461538,None,Pa,F3b,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,UCS,EXP,variable strain rate,1273.0,753349875.930521,None,Pa,F3a,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,UCS,EXP,variable strain rate,1273.0,723573200.992555,None,Pa,F3b,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,UCS,EXP,variable strain rate,1673.0,571712158.8089321,None,Pa,F3a,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,UCS,EXP,variable strain rate,1673.0,449627791.56327504,None,Pa,F3b,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in air,UTS,EXP,1e-4 strain rate,298.0,85436893.2038835,None,Pa,F4a,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in air,UTS,EXP,1e-4 strain rate,298.0,63800277.3925103,None,Pa,F4a,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,UTS,EXP,1e-4 strain rate,298.0,122607489.59778,None,Pa,F4a,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,UTS,EXP,1e-4 strain rate,298.0,171705963.938973,None,Pa,F4a,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in air,tensile ductility,EXP,1e-4 strain rate,298.0,0.8151515152,None,%,F4a,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in air,tensile ductility,EXP,1e-4 strain rate,298.0,0.6484848485,None,%,F4a,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in vaccuum,tensile ductility,EXP,1e-4 strain rate,298.0,1.196969697,None,%,F4a,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in vaccuum,tensile ductility,EXP,1e-4 strain rate,298.0,1.7454545455,None,%,F4a,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in air,compressive ductility,EXP,1e-4 strain rate,298.0,12.3636363636,None,%,F5a,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in air,compressive ductility,EXP,1e-4 strain rate,298.0,10.5909090909,None,%,F5a,10.1016/j.msea.2025.149507
+dendritic,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,dendritic microstructure; tested in air,UCS,EXP,1e-4 strain rate,298.0,1680000000.0,None,Pa,F5a,10.1016/j.msea.2025.149507
+equiaxial,V5 Nb17 Mo19 Ta34 W25,BCC,AAM,equiaxed microstructure; tested in air,UCS,EXP,1e-4 strain rate,298.0,1599000000.0,None,Pa,F5a,10.1016/j.msea.2025.149507
+None,V14Nb19Mo20Ta24W23,BCC+BCC,AAM,None,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2024.173656
+None,V5Nb17Mo19Ta34W25,BCC,AAM,None,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2024.173656
+None,V22Nb24Mo24Ta24W10,BCC+BCC,AAM,None,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2024.173656
+"equiatomic",V21Nb18Mo18Ta22W21,BCC+BCC,AAM,single BCC with strong segregation or dual BCC with nearly identical lattice constants,None,None,None,None,None,None,None,None,10.1016/j.jallcom.2024.173656
+None,V5Nb17Mo19Ta34W25,BCC,AAM,None,hardness,EXP,None,298.0,4925075400.0,179468100.0,Pa,None,10.1016/j.jallcom.2024.173656
+"equiatomic",V21Nb18Mo18Ta22W21,BCC+BCC,AAM,single BCC with strong segregation or dual BCC with nearly identical lattice constants,hardness,EXP,None,298.0,5866547400.0,240271500.0,Pa,None,10.1016/j.jallcom.2024.173656
