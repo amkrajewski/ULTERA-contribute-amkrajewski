@@ -114,3 +114,27 @@ B6(hs),Ti65.7 Zr8.2 Hf8.2 Al13.2 V4.7,None,AAM+H+WQ,homogenized at 1473K for 2h 
 B6(cs),Ti65.7 Zr8.2 Hf8.2 Al13.2 V4.7,None,AAM+H+WQ+CT,homogenized at 1473K for 2h and water quenched and then cryogenic treated (CT) in liquid nitrogen at 77K for 180s to induce some martensitic transfromation; supposedly BCC+HCP but the XRD appears inconclusive,corrosion current density,EXP,3.5 wt% NaCl,298.0,0.567,None,A/m^2,T4,10.1016/j.jmrt.2025.12.182
 R1(hs),Ti86.2 Al10.2 V3.6,None,AAM+H+WQ,homogenized at 1473K for 2h and water quenched; supposedly BCC+HCP but the XRD appears inconclusive,corrosion current density,EXP,3.5 wt% NaCl,298.0,0.518,None,A/m^2,T4,10.1016/j.jmrt.2025.12.182
 R1(cs),Ti86.2 Al10.2 V3.6,None,AAM+H+WQ+CT,homogenized at 1473K for 2h and water quenched and then cryogenic treated (CT) in liquid nitrogen at 77K for 180s to induce some martensitic transfromation; supposedly BCC+HCP but the XRD appears inconclusive,corrosion current density,EXP,3.5 wt% NaCl,298.0,0.494,None,A/m^2,T4,10.1016/j.jmrt.2025.12.182
+None,Mo7 Nb15 Ta26 V45 W7,BCC,AC,None,compressive yield strength,EXP,None,298.0,1720000000.0,30000000.0,Pa,T2,10.1016/j.jmrt.2026.05.105
+None,Mo7 Nb15 Ta26 V45 W7,BCC,AC,None,compressive ductility,EXP,None,298.0,41.7,2.1,%,T2,10.1016/j.jmrt.2026.05.105
+None,Mo7 Nb15 Ta26 V45 W7,BCC,AC,None,hardness,EXP,None,298.0,5285973000.0,117684000.0,Pa,T2,10.1016/j.jmrt.2026.05.105
+None,MoNiSiTiV,BCC,VAM,None,hardness,EXP,None,298.0,8679195000.0,98070000.0,Pa,None,10.1109/ACCESS.2026.3693781
+Cr0,W0.4 Mo Nb1.3 Ta Ti,BCC,AAM,None,hardness,EXP,None,298.0,4522007700.0,68649000.0,Pa,T5,10.1080/10667857.2026.2674815
+Cr0.25,W0.4 Mo Nb1.3 Ta Ti Cr0.25,BCC+laves,AAM,very minor laves phase content around 2%,hardness,EXP,None,298.0,4954496400.0,107877000.0,Pa,T5,10.1080/10667857.2026.2674815
+Cr0.5,W0.4 Mo Nb1.3 Ta Ti Cr0.5,BCC+laves,AAM,very minor laves phase content around 5%,hardness,EXP,None,298.0,5497804200.0,117684000.0,Pa,T5,10.1080/10667857.2026.2674815
+Cr.075,W0.4 Mo Nb1.3 Ta Ti Cr0.75,BCC+laves,AAM,minor laves phase content around 10%,hardness,EXP,None,298.0,6004826100.0,88263000.0,Pa,T5,10.1080/10667857.2026.2674815
+Cr0,W0.4 Mo Nb1.3 Ta Ti,BCC,AAM,None,compressive yield strength,EXP,None,298.0,1400000000.0,None,Pa,T7,10.1080/10667857.2026.2674815
+Cr0.25,W0.4 Mo Nb1.3 Ta Ti Cr0.25,BCC+laves,AAM,very minor laves phase content around 2%,compressive yield strength,EXP,None,298.0,1460000000.0,None,Pa,T7,10.1080/10667857.2026.2674815
+Cr0.5,W0.4 Mo Nb1.3 Ta Ti Cr0.5,BCC+laves,AAM,very minor laves phase content around 5%,compressive yield strength,EXP,None,298.0,1500000000.0,None,Pa,T7,10.1080/10667857.2026.2674815
+Cr.075,W0.4 Mo Nb1.3 Ta Ti Cr0.75,BCC+laves,AAM,minor laves phase content around 10%,compressive yield strength,EXP,None,298.0,1550000000.0,None,Pa,T7,10.1080/10667857.2026.2674815
+Cr0,W0.4 Mo Nb1.3 Ta Ti,BCC,AAM,None,UCS,EXP,None,298.0,1980000000.0,None,Pa,T7,10.1080/10667857.2026.2674815
+Cr0.25,W0.4 Mo Nb1.3 Ta Ti Cr0.25,BCC+laves,AAM,very minor laves phase content around 2%,UCS,EXP,None,298.0,2070000000.0,None,Pa,T7,10.1080/10667857.2026.2674815
+Cr0.5,W0.4 Mo Nb1.3 Ta Ti Cr0.5,BCC+laves,AAM,very minor laves phase content around 5%,UCS,EXP,None,298.0,2120000000.0,None,Pa,T7,10.1080/10667857.2026.2674815
+Cr.075,W0.4 Mo Nb1.3 Ta Ti Cr0.75,BCC+laves,AAM,minor laves phase content around 10%,UCS,EXP,None,298.0,2200000000.0,None,Pa,T7,10.1080/10667857.2026.2674815
+Cr0,W0.4 Mo Nb1.3 Ta Ti,BCC,AAM,None,compressive ductility,EXP,None,298.0,41.1,None,%,T7,10.1080/10667857.2026.2674815
+Cr0.25,W0.4 Mo Nb1.3 Ta Ti Cr0.25,BCC+laves,AAM,very minor laves phase content around 2%,compressive ductility,EXP,None,298.0,35.4,None,%,T7,10.1080/10667857.2026.2674815
+Cr0.5,W0.4 Mo Nb1.3 Ta Ti Cr0.5,BCC+laves,AAM,very minor laves phase content around 5%,compressive ductility,EXP,None,298.0,28.2,None,%,T7,10.1080/10667857.2026.2674815
+Cr.075,W0.4 Mo Nb1.3 Ta Ti Cr0.75,BCC+laves,AAM,minor laves phase content around 10%,compressive ductility,EXP,None,298.0,10.4,None,%,T7,10.1080/10667857.2026.2674815
+Cr0,W0.4 Mo Nb1.3 Ta Ti,BCC,AAM,None,corrosion potential,EXP,3.5 wt% NaCl,298.0,-0.42249,None,V,F7,10.1080/10667857.2026.2674815
+Cr0.25,W0.4 Mo Nb1.3 Ta Ti Cr0.25,BCC+laves,AAM,very minor laves phase content around 2%,corrosion potential,EXP,3.5 wt% NaCl,298.0,-0.37194,None,V,F7,10.1080/10667857.2026.2674815
+Cr0.5,W0.4 Mo Nb1.3 Ta Ti Cr0.5,BCC+laves,AAM,very minor laves phase content around 5%,corrosion potential,EXP,3.5 wt% NaCl,298.0,-0.3404,None,V,F7,10.1080/10667857.2026.2674815
+Cr.075,W0.4 Mo Nb1.3 Ta Ti Cr0.75,BCC+laves,AAM,minor laves phase content around 10%,corrosion potential,EXP,3.5 wt% NaCl,298.0,-0.30552,None,V,F7,10.1080/10667857.2026.2674815
