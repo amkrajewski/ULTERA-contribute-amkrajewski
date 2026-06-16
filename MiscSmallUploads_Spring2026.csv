@@ -138,3 +138,11 @@ Cr0,W0.4 Mo Nb1.3 Ta Ti,BCC,AAM,None,corrosion potential,EXP,3.5 wt% NaCl,298.0,
 Cr0.25,W0.4 Mo Nb1.3 Ta Ti Cr0.25,BCC+laves,AAM,very minor laves phase content around 2%,corrosion potential,EXP,3.5 wt% NaCl,298.0,-0.37194,None,V,F7,10.1080/10667857.2026.2674815
 Cr0.5,W0.4 Mo Nb1.3 Ta Ti Cr0.5,BCC+laves,AAM,very minor laves phase content around 5%,corrosion potential,EXP,3.5 wt% NaCl,298.0,-0.3404,None,V,F7,10.1080/10667857.2026.2674815
 Cr.075,W0.4 Mo Nb1.3 Ta Ti Cr0.75,BCC+laves,AAM,minor laves phase content around 10%,corrosion potential,EXP,3.5 wt% NaCl,298.0,-0.30552,None,V,F7,10.1080/10667857.2026.2674815
+None,Al39 Mo10 (Nb0.333 Ta0.333 Ti0.333)51,BCC,MA+DED,ball milled for 12h and laser DED with 2mm diameter spot and 500W power; some minor possible sigma observed but not XRD-detected; the compressive nature of the test not stated in text but inferred from the sample geometry,compressive yield strength,EXP,None,298.0,1452000000.0,None,Pa,P6,10.1016/j.ijrmhm.2026.107918
+None,Al39 Mo10 (Nb0.333 Ta0.333 Ti0.333)51,BCC,MA+DED,ball milled for 12h and laser DED with 2mm diameter spot and 500W power; some minor possible sigma observed but not XRD-detected; the compressive nature of the test not stated in text but inferred from the sample geometry,compressive ductility,EXP,None,298.0,7.8,None,%,P6,10.1016/j.ijrmhm.2026.107918
+None,Al39 Mo10 (Nb0.333 Ta0.333 Ti0.333)51,BCC,MA+DED,ball milled for 12h and laser DED with 2mm diameter spot and 500W power; some minor possible sigma observed but not XRD-detected; the compressive nature of the test not stated in text but inferred from the sample geometry,hardness,EXP,None,298.0,6434961120.0,None,Pa,P6,10.1016/j.ijrmhm.2026.107918
+None,Ti30V20Al30Nb10Ta10,BCC,VAM,None,compressive yield strength,EXP,None,298.0,1610000000.0,20000000.0,Pa,T2,10.1016/j.ijrmhm.2026.107917
+None,Ti30V20Al30Nb10Ta10,BCC,VAM,None,UCS,EXP,None,298.0,1788000000.0,43000000.0,Pa,T2,10.1016/j.ijrmhm.2026.107917
+None,Ti30V20Al30Nb10Ta10,BCC,VAM,None,compressive ductility,EXP,None,298.0,16.75,1.25,%,F8,10.1016/j.ijrmhm.2026.107917
+None,Ti30V20Al30Nb10Ta10,BCC,VAM,None,elastic modulus,EXP,None,298.0,145000000000.0,None,Pa,T2,10.1016/j.ijrmhm.2026.107917
+None,Ti30V20Al30Nb10Ta10,BCC,VAM,None,hardness,EXP,None,298.0,5099640000.0,137298000.0,Pa,T2,10.1016/j.ijrmhm.2026.107917
