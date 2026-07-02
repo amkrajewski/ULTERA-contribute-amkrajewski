@@ -146,3 +146,67 @@ None,Ti30V20Al30Nb10Ta10,BCC,VAM,None,UCS,EXP,None,298.0,1788000000.0,43000000.0
 None,Ti30V20Al30Nb10Ta10,BCC,VAM,None,compressive ductility,EXP,None,298.0,16.75,1.25,%,F8,10.1016/j.ijrmhm.2026.107917
 None,Ti30V20Al30Nb10Ta10,BCC,VAM,None,elastic modulus,EXP,None,298.0,145000000000.0,None,Pa,T2,10.1016/j.ijrmhm.2026.107917
 None,Ti30V20Al30Nb10Ta10,BCC,VAM,None,hardness,EXP,None,298.0,5099640000.0,137298000.0,Pa,T2,10.1016/j.ijrmhm.2026.107917
+None,Mo Ti Zr Cr0.5 Nb,BCC+C15,VAM,None,density,EXP,None,298.0,7410.0,57.0,kg/m^3,S2.3,10.1016/j.ijrmhm.2025.107571
+None,Mo Ti Zr Cr0.5 Nb,BCC+C15,VAM+BM+SPS,high energy ball milling with 304 SS balls at 350rpm for 70h and SPS at 1773K under 30MPa for 10min,density,EXP,None,298.0,7100.0,82.0,kg/m^3,S2.3,10.1016/j.ijrmhm.2025.107571
+None,Mo Ti Zr Cr0.5 Nb,BCC+C15,VAM,None,hardness,EXP,None,298.0,5623529940.0,None,Pa,F6,10.1016/j.ijrmhm.2025.107571
+None,Mo Ti Zr Cr0.5 Nb,BCC+C15,VAM+BM+SPS,high energy ball milling with 304 SS balls at 350rpm for 70h and SPS at 1773K under 30MPa for 10min,hardness,EXP,None,298.0,15891753150.0,None,Pa,F6,10.1016/j.ijrmhm.2025.107571
+None,Mo Ti Zr Cr0.5 Nb,BCC+C15,VAM,None,UCS,EXP,1e-3 strain rate,298.0,2310.6,None,Pa,T2,10.1016/j.ijrmhm.2025.107571
+None,Mo Ti Zr Cr0.5 Nb,BCC+C15,VAM+BM+SPS,high energy ball milling with 304 SS balls at 350rpm for 70h and SPS at 1773K under 30MPa for 10min,UCS,EXP,1e-3 strain rate,298.0,1918.3,None,Pa,T2,10.1016/j.ijrmhm.2025.107571
+None,Mo Ti Zr Cr0.5 Nb,BCC+C15,VAM,None,compressive ductility,EXP,1e-3 strain rate,298.0,17.95,None,%,T2,10.1016/j.ijrmhm.2025.107571
+None,Mo Ti Zr Cr0.5 Nb,BCC+C15,VAM+BM+SPS,high energy ball milling with 304 SS balls at 350rpm for 70h and SPS at 1773K under 30MPa for 10min,compressive ductility,EXP,1e-3 strain rate,298.0,10.09,None,%,T2,10.1016/j.ijrmhm.2025.107571
+None,Mo Ti Zr Cr0.5 Nb,BCC+C15,VAM,None,compressive yield strength,EXP,1e-3 strain rate,298.0,2238.0,None,Pa,T2,10.1016/j.ijrmhm.2025.107571
+None,Mo Ti Zr Cr0.5 Nb,BCC+C15,VAM+BM+SPS,high energy ball milling with 304 SS balls at 350rpm for 70h and SPS at 1773K under 30MPa for 10min,compressive yield strength,EXP,1e-3 strain rate,298.0,1918.0,None,Pa,T2,10.1016/j.ijrmhm.2025.107571
+None,(Fe0.2 Co0.2 Ni0.2 Cr0.2 V0.2)97.5 Ta2.5,FCC+C14,VAM+VC,vacuum suction cast into 6mm rod; very minor laves C14 phase not detected with XRD,UTS,EXP,2e-1 strain rate,298.0,498000000.0,None,Pa,F14,10.1016/j.ijrmhm.2024.106572
+None,(Fe0.2 Co0.2 Ni0.2 Cr0.2 V0.2)95 Ta5,FCC+C14,VAM+VC,vacuum suction cast into 6mm rod; minor laves C14 phase at around 10%,UTS,EXP,2e-1 strain rate,298.0,603000000.0,None,Pa,F14,10.1016/j.ijrmhm.2024.106572
+None,(Fe0.2 Co0.2 Ni0.2 Cr0.2 V0.2)92.5 Ta7.5,FCC+C14,VAM+VC,vacuum suction cast into 6mm rod; minor laves C14 phase at around 10%,UTS,EXP,2e-1 strain rate,298.0,793000000.0,None,Pa,F14,10.1016/j.ijrmhm.2024.106572
+None,(Fe0.2 Co0.2 Ni0.2 Cr0.2 V0.2)90 Ta10,FCC+C14,VAM+VC,vacuum suction cast into 6mm rod; major laves C14 phase at over 25%,UTS,EXP,2e-1 strain rate,298.0,1110000000.0,None,Pa,F14,10.1016/j.ijrmhm.2024.106572
+None,(Fe0.2 Co0.2 Ni0.2 Cr0.2 V0.2)97.5 Ta2.5,FCC+C14,VAM+VC,vacuum suction cast into 6mm rod; very minor laves C14 phase not detected with XRD,tensile ductility,EXP,2e-1 strain rate,298.0,53.1,None,%,F14,10.1016/j.ijrmhm.2024.106572
+None,(Fe0.2 Co0.2 Ni0.2 Cr0.2 V0.2)95 Ta5,FCC+C14,VAM+VC,vacuum suction cast into 6mm rod; minor laves C14 phase at around 10%,tensile ductility,EXP,2e-1 strain rate,298.0,45.9,None,%,F14,10.1016/j.ijrmhm.2024.106572
+None,(Fe0.2 Co0.2 Ni0.2 Cr0.2 V0.2)92.5 Ta7.5,FCC+C14,VAM+VC,vacuum suction cast into 6mm rod; minor laves C14 phase at around 10%,tensile ductility,EXP,2e-1 strain rate,298.0,33.0,None,%,F14,10.1016/j.ijrmhm.2024.106572
+None,(Fe0.2 Co0.2 Ni0.2 Cr0.2 V0.2)90 Ta10,FCC+C14,VAM+VC,vacuum suction cast into 6mm rod; major laves C14 phase at over 25%,tensile ductility,EXP,2e-1 strain rate,298.0,31.2,None,%,F14,10.1016/j.ijrmhm.2024.106572
+None,(Fe0.2 Co0.2 Ni0.2 Cr0.2 V0.2)97.5 Ta2.5,FCC+C14,VAM+VC,vacuum suction cast into 6mm rod; very minor laves C14 phase not detected with XRD,hardness,EXP,2e-1 strain rate,298.0,2120273400.0,None,Pa,F15,10.1016/j.ijrmhm.2024.106572
+None,(Fe0.2 Co0.2 Ni0.2 Cr0.2 V0.2)95 Ta5,FCC+C14,VAM+VC,vacuum suction cast into 6mm rod; minor laves C14 phase at around 10%,hardness,EXP,2e-1 strain rate,298.0,2534128800.0,None,Pa,F15,10.1016/j.ijrmhm.2024.106572
+None,(Fe0.2 Co0.2 Ni0.2 Cr0.2 V0.2)92.5 Ta7.5,FCC+C14,VAM+VC,vacuum suction cast into 6mm rod; minor laves C14 phase at around 10%,hardness,EXP,2e-1 strain rate,298.0,3104896200.0,None,Pa,F15,10.1016/j.ijrmhm.2024.106572
+None,(Fe0.2 Co0.2 Ni0.2 Cr0.2 V0.2)90 Ta10,FCC+C14,VAM+VC,vacuum suction cast into 6mm rod; major laves C14 phase at over 25%,hardness,EXP,2e-1 strain rate,298.0,4035580500.0,None,Pa,F15,10.1016/j.ijrmhm.2024.106572
+None,Ti19 Nb29 Hf25 Mo18 Al2 Ni3,BCC+laves,VAM,designed with ML; phase information scattered around the paper so less reliable,compressive yield strength,EXP,None,298.0,1479000000.0,None,Pa,T1,10.1038/s41524-026-02189-5
+None,Ti Ta Nb Hf Ni0.25,BCC,VAM,designed with ML; phase information scattered around the paper so less reliable,compressive yield strength,EXP,None,298.0,1230000000.0,None,Pa,T1,10.1038/s41524-026-02189-5
+None,Ti Ta Nb Hf Ni0.5,BCC,VAM,designed with ML; phase information scattered around the paper so less reliable,compressive yield strength,EXP,None,298.0,1311000000.0,None,Pa,T1,10.1038/s41524-026-02189-5
+None,Ti19 Nb29 Hf25 Mo18 Al2 Ni3,BCC+laves,VAM,designed with ML; phase information scattered around the paper so less reliable,compressive ductility,EXP,None,298.0,20.1,None,%,T1,10.1038/s41524-026-02189-5
+None,Ti Ta Nb Hf Ni0.25,BCC,VAM,designed with ML; phase information scattered around the paper so less reliable,compressive ductility,EXP,None,298.0,47.7,None,%,T1,10.1038/s41524-026-02189-5
+None,Ti Ta Nb Hf Ni0.5,BCC,VAM,designed with ML; phase information scattered around the paper so less reliable,compressive ductility,EXP,None,298.0,21.7,None,%,T1,10.1038/s41524-026-02189-5
+None,Gd36 Dy20 Ni20 Al24,amorphous,MS,melt spun into amorphous state verified with XRD,curie temperature,EXP,None,None,50.0,None,K,T1,10.1016/j.jnoncrysol.2025.123838
+None,Gd36 Ho20 Ni20 Al24,amorphous,MS,melt spun into amorphous state verified with XRD,curie temperature,EXP,None,None,45.0,None,K,T1,10.1016/j.jnoncrysol.2025.123838
+None,Gd36 Er20 Ni20 Al24,amorphous,MS,melt spun into amorphous state verified with XRD,curie temperature,EXP,None,None,40.0,None,K,T1,10.1016/j.jnoncrysol.2025.123838
+None,Gd36 Dy20 Ni20 Al24,amorphous,MS,melt spun into amorphous state verified with XRD,peak magnetic entropy change,EXP,5T,None,7.79,None,J/kgK,T1,10.1016/j.jnoncrysol.2025.123838
+None,Gd36 Ho20 Ni20 Al24,amorphous,MS,melt spun into amorphous state verified with XRD,peak magnetic entropy change,EXP,5T,None,8.75,None,J/kgK,T1,10.1016/j.jnoncrysol.2025.123838
+None,Gd36 Er20 Ni20 Al24,amorphous,MS,melt spun into amorphous state verified with XRD,peak magnetic entropy change,EXP,5T,None,8.55,None,J/kgK,T1,10.1016/j.jnoncrysol.2025.123838
+Ta0,TiZrNbAl0.1Mo,BCC+BCC,AAM,dual BCC phase confirmed with about equal volume fraction; experiments repeated 3 times,compressive yield strength,EXP,1e-3 strain rate,298.0,1219000000.0,37000000.0,Pa,T1,10.1016/j.ijrmhm.2026.107954
+Ta0.3,TiZrNbAl0.1MoTa0.3,BCC+BCC,AAM,dual BCC phase confirmed with about equal volume fraction; experiments repeated 3 times,compressive yield strength,EXP,1e-3 strain rate,298.0,1274000000.0,21000000.0,Pa,T1,10.1016/j.ijrmhm.2026.107954
+Ta0.5,TiZrNbAl0.1MoTa0.5,BCC+BCC,AAM,dual BCC phase confirmed with one dominant; experiments repeated 3 times,compressive yield strength,EXP,1e-3 strain rate,298.0,1358000000.0,34000000.0,Pa,T1,10.1016/j.ijrmhm.2026.107954
+Ta0.7,TiZrNbAl0.1MoTa0.7,BCC+BCC,AAM,dual BCC phase confirmed with one dominant; experiments repeated 3 times,compressive yield strength,EXP,1e-3 strain rate,298.0,1463000000.0,28000000.0,Pa,T1,10.1016/j.ijrmhm.2026.107954
+Ta1.0,TiZrNbAl0.1MoTa1.0,BCC+BCC,AAM,mostly singe BCC phase with minor secondary BCC phase; experiments repeated 3 times,compressive yield strength,EXP,1e-3 strain rate,298.0,1512000000.0,35000000.0,Pa,T1,10.1016/j.ijrmhm.2026.107954
+Ta0,TiZrNbAl0.1Mo,BCC+BCC,AAM,dual BCC phase confirmed with about equal volume fraction; experiments repeated 3 times,compressive ductility,EXP,1e-3 strain rate,298.0,18.5,2.4,%,T1,10.1016/j.ijrmhm.2026.107954
+Ta0.3,TiZrNbAl0.1MoTa0.3,BCC+BCC,AAM,dual BCC phase confirmed with about equal volume fraction; experiments repeated 3 times,compressive ductility,EXP,1e-3 strain rate,298.0,21.2,1.8,%,T1,10.1016/j.ijrmhm.2026.107954
+Ta0.5,TiZrNbAl0.1MoTa0.5,BCC+BCC,AAM,dual BCC phase confirmed with one dominant; experiments repeated 3 times,compressive ductility,EXP,1e-3 strain rate,298.0,19.1,2.6,%,T1,10.1016/j.ijrmhm.2026.107954
+Ta0.7,TiZrNbAl0.1MoTa0.7,BCC+BCC,AAM,dual BCC phase confirmed with one dominant; experiments repeated 3 times,compressive ductility,EXP,1e-3 strain rate,298.0,21.4,1.5,%,T1,10.1016/j.ijrmhm.2026.107954
+Ta1.0,TiZrNbAl0.1MoTa1.0,BCC+BCC,AAM,mostly singe BCC phase with minor secondary BCC phase; experiments repeated 3 times,compressive ductility,EXP,1e-3 strain rate,298.0,15.3,1.1,%,T1,10.1016/j.ijrmhm.2026.107954
+Ta0,TiZrNbAl0.1Mo,BCC+BCC,AAM,dual BCC phase confirmed with about equal volume fraction,minimum compressive ductility,EXP,1e-3 strain rate,1273.0,50.0,None,%,T1,10.1016/j.ijrmhm.2026.107954
+Ta0.3,TiZrNbAl0.1MoTa0.3,BCC+BCC,AAM,dual BCC phase confirmed with about equal volume fraction,minimum compressive ductility,EXP,1e-3 strain rate,1273.0,50.0,None,%,T1,10.1016/j.ijrmhm.2026.107954
+Ta0.5,TiZrNbAl0.1MoTa0.5,BCC+BCC,AAM,dual BCC phase confirmed with one dominant,minimum compressive ductility,EXP,1e-3 strain rate,1273.0,50.0,None,%,T1,10.1016/j.ijrmhm.2026.107954
+Ta0.7,TiZrNbAl0.1MoTa0.7,BCC+BCC,AAM,dual BCC phase confirmed with one dominant,minimum compressive ductility,EXP,1e-3 strain rate,1273.0,50.0,None,%,T1,10.1016/j.ijrmhm.2026.107954
+Ta1.0,TiZrNbAl0.1MoTa1.0,BCC+BCC,AAM,mostly singe BCC phase with minor secondary BCC phase,minimum compressive ductility,EXP,1e-3 strain rate,1273.0,50.0,None,%,T1,10.1016/j.ijrmhm.2026.107954
+Ta0,TiZrNbAl0.1Mo,BCC+BCC,AAM,dual BCC phase confirmed with about equal volume fraction,compressive yield strength,EXP,1e-3 strain rate,1273.0,323000000.0,None,Pa,T1,10.1016/j.ijrmhm.2026.107954
+Ta0.3,TiZrNbAl0.1MoTa0.3,BCC+BCC,AAM,dual BCC phase confirmed with about equal volume fraction,compressive yield strength,EXP,1e-3 strain rate,1273.0,391000000.0,None,Pa,T1,10.1016/j.ijrmhm.2026.107954
+Ta0.5,TiZrNbAl0.1MoTa0.5,BCC+BCC,AAM,dual BCC phase confirmed with one dominant,compressive yield strength,EXP,1e-3 strain rate,1273.0,455000000.0,None,Pa,T1,10.1016/j.ijrmhm.2026.107954
+Ta0.7,TiZrNbAl0.1MoTa0.7,BCC+BCC,AAM,dual BCC phase confirmed with one dominant,compressive yield strength,EXP,1e-3 strain rate,1273.0,527000000.0,None,Pa,T1,10.1016/j.ijrmhm.2026.107954
+Ta1.0,TiZrNbAl0.1MoTa1.0,BCC+BCC,AAM,mostly singe BCC phase with minor secondary BCC phase,compressive yield strength,EXP,1e-3 strain rate,1273.0,583000000.0,None,Pa,T1,10.1016/j.ijrmhm.2026.107954
+Ta0,TiZrNbAl0.1Mo,BCC+BCC,AAM,dual BCC phase confirmed with about equal volume fraction; experiments repeated 3 times,UCS,EXP,1e-3 strain rate,298.0,1625708884.68809,None,Pa,F7,10.1016/j.ijrmhm.2026.107954
+Ta0.3,TiZrNbAl0.1MoTa0.3,BCC+BCC,AAM,dual BCC phase confirmed with about equal volume fraction; experiments repeated 3 times,UCS,EXP,1e-3 strain rate,298.0,2051039697.54253,None,Pa,F7,10.1016/j.ijrmhm.2026.107954
+Ta0.5,TiZrNbAl0.1MoTa0.5,BCC+BCC,AAM,dual BCC phase confirmed with one dominant; experiments repeated 3 times,UCS,EXP,1e-3 strain rate,298.0,1895085066.16257,None,Pa,F7,10.1016/j.ijrmhm.2026.107954
+Ta0.7,TiZrNbAl0.1MoTa0.7,BCC+BCC,AAM,dual BCC phase confirmed with one dominant; experiments repeated 3 times,UCS,EXP,1e-3 strain rate,298.0,2022684310.0189,None,Pa,F7,10.1016/j.ijrmhm.2026.107954
+Ta1.0,TiZrNbAl0.1MoTa1.0,BCC+BCC,AAM,mostly singe BCC phase with minor secondary BCC phase; experiments repeated 3 times,UCS,EXP,1e-3 strain rate,298.0,1913988657.84499,None,Pa,F7,10.1016/j.ijrmhm.2026.107954
+Ta0,TiZrNbAl0.1Mo,BCC+BCC,AAM,dual BCC phase confirmed with about equal volume fraction,UCS,EXP,1e-3 strain rate,1273.0,333766233.766233,None,Pa,F7,10.1016/j.ijrmhm.2026.107954
+Ta0.3,TiZrNbAl0.1MoTa0.3,BCC+BCC,AAM,dual BCC phase confirmed with about equal volume fraction,UCS,EXP,1e-3 strain rate,1273.0,409090909.090909,None,Pa,F7,10.1016/j.ijrmhm.2026.107954
+Ta0.5,TiZrNbAl0.1MoTa0.5,BCC+BCC,AAM,dual BCC phase confirmed with one dominant,UCS,EXP,1e-3 strain rate,1273.0,481818181.818181,None,Pa,F7,10.1016/j.ijrmhm.2026.107954
+Ta0.7,TiZrNbAl0.1MoTa0.7,BCC+BCC,AAM,dual BCC phase confirmed with one dominant,UCS,EXP,1e-3 strain rate,1273.0,551948051.948051,None,Pa,F7,10.1016/j.ijrmhm.2026.107954
+Ta1.0,TiZrNbAl0.1MoTa1.0,BCC+BCC,AAM,mostly singe BCC phase with minor secondary BCC phase,UCS,EXP,1e-3 strain rate,1273.0,611688311.688311,None,Pa,F7,10.1016/j.ijrmhm.2026.107954
