@@ -325,3 +325,4 @@ None,Nb Ta Ti V,BCC,VAM,None,passive current density,EXP,3.5 wt.% NaCl solution,
 None,Cr Nb Ta Ti V,BCC+laves,VAM,minor hexagonal laves phase detected between dendrites,passive current density,EXP,3.5 wt.% NaCl solution,298.0,0.1321,None,A/m^2,None,10.1016/j.jmrt.2023.11.247
 None,Nb Ta Ti V,BCC,VAM,None,pitting potential,EXP,3.5 wt.% NaCl solution,298.0,1.94,None,V,None,10.1016/j.jmrt.2023.11.247
 None,Cr Nb Ta Ti V,BCC+laves,VAM,minor hexagonal laves phase detected between dendrites,pitting potential,EXP,3.5 wt.% NaCl solution,298.0,1.52,None,V,None,10.1016/j.jmrt.2023.11.247
+None,Y Gd Tb Dy Ho,HCP,VAM,excellent hydrogen storage of 2.33wt% resulting in FCC hydride (Y Gd Tb Dy Ho)4.48 H77.62,None,None,None,None,None,None,None,None,10.1007/s12613-024-2933-5
